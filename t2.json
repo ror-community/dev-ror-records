@@ -1,0 +1,54 @@
+{
+        "id": "https://ror.org/02bfwt286",
+        "status": "active",
+        "types": [
+            "Education"
+        ],
+        "acronyms": [],
+        "external_ids": {
+            "Wikidata": {
+                "all": [
+                    "Q598841"
+                ],
+                "preferred": null
+            },
+            "ISNI": {
+                "all": [
+                    "0000 0004 1936 7857"
+                ],
+                "preferred": null
+            },
+            "FundRef": {
+                "all": [
+                    "501100001779",
+                    "501100001144",
+                    "501100007917",
+                    "501100000991",
+                    "501100001198",
+                    "501100006532"
+                ],
+                "preferred": "501100001779"
+            },
+            "OrgRef": {
+                "all": [
+                    "149620"
+                ],
+                "preferred": null
+            },
+            "GRID": {
+                "all": "grid.1002.3",
+                "preferred": "grid.1002.3"
+            }
+        },
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Monash_University",
+        "name": "Monash University",
+        "links": [
+            "http://www.monash.edu/"
+        ],
+        "labels": [],
+        "aliases": [],
+        "country": {
+            "country_code": "AU",
+            "country_name": "Australia"
+        }
+    }
