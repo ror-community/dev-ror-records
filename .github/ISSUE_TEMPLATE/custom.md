@@ -1,4 +1,4 @@
-'''yaml
+```yaml
 blank_issues_enabled: false
 Record: "ADD"
 Name: "Bureau of Justice Statistics"
