@@ -1,3 +1,4 @@
+'''yaml
 blank_issues_enabled: false
 Record: "ADD"
 Name: "Bureau of Justice Statistics"
@@ -13,3 +14,4 @@ Relationships:
     - id: "https://github.com/ror-community/ror-records/blob/test/ror-records-24.json"
     - type: "Related"
     - label: "Centre Hospitalier Universitaire de Rennes"
+```
