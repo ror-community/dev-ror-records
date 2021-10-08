@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "acronyms",
+    "aliases",
+    "links",
+    "name",
+    "types",
+    "labels",
+    "status",
+    "addresses"
+  ],
+  "definitions": {
+    "non-empty-string": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}
