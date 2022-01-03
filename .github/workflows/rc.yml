@@ -1,0 +1,18 @@
+name: Valid files
+on:
+  push:
+    branches:
+      - "v.**-rc"
+jobs:
+  generate-relationships:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Modify value
+        run: |
+          echo 'Add value2' >> testfile.txt
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply changes
