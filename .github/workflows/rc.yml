@@ -9,15 +9,10 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      - name: Modify value # Tried to modify the files based on existing testfile.txt
+      - name: Modify value
         run: |
           echo 'Add value2' >> testfile.txt
-      - name: move to dir # Move the generated files into output folder
-        run: |
-          mkdir -p output
-          yes| cp -rf testfile.txt ./output/
-      - name: Print branch name
-        id: extract_branch
-        run: echo "::set-output name=BRANCH::$(echo ${GITHUB_REF##*/})"
-      - name: Get branch name
-        run: echo ${{ steps.extract_branch.outputs.BRANCH }}
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply changes
