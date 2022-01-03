@@ -20,4 +20,4 @@ jobs:
         id: extract_branch
         run: echo "::set-output name=BRANCH::$(echo ${GITHUB_REF##*/})"
       - name: Get branch name
-        run: echo ${{ steps.extract_branch.outputs.BRANCH }}"
+        run: echo ${{ steps.extract_branch.outputs.BRANCH }}
