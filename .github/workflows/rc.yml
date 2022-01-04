@@ -9,9 +9,10 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
+        run: ls * >> output.txt
       - name: Modify value
         run: |
-          echo 'Add value2' >> testfile.txt
+          echo 'Add value2' >> output.txt
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
