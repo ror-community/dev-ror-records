@@ -1,3 +1,10 @@
 LICENSE
 testfile.txt
 Add value2
+LICENSE
+output.txt
+requirements.txt
+test.py
+test.txt
+testfile.txt
+Add value2
