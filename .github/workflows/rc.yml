@@ -16,16 +16,17 @@ jobs:
       - name: Download requirements
         run: |
           curl https://raw.githubusercontent.com/ror-community/validation-suite/main/requirements.txt -o requirements.txt 
-          curl https://raw.githubusercontent.com/ror-community/ror-records/master/test.py -o test.py
+          curl https://raw.githubusercontent.com/ror-community/ror-records/master/test.py -o hi.py
           python -m pip install --upgrade pip
           pip install -r requirements.txt 
           pip list > test.txt
-          python test.py
+          python hi.py >> test.txt
       - name: Modify value
         run: |
-          ls * >> output.txt
-          echo 'Add value2' >> output.txt
+          ls * >> test.txt
+          echo 'Add value2' >> test.txt
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
+          file_pattern: test.txt
           commit_message: Apply changes
