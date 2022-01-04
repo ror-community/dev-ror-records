@@ -1,0 +1,3 @@
+LICENSE
+testfile.txt
+Add value2
