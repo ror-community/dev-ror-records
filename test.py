@@ -1,1 +1,1 @@
-print("hi")
+print("hi from the script")
