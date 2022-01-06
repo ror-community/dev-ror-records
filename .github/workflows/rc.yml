@@ -18,17 +18,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests==2.23.0
           curl https://raw.githubusercontent.com/ror-community/ror-api/generate_relationships/rorapi/management/commands/generaterelationships.py -o generaterelationships.py
+          python generaterelationships.py relationships.csv
           echo $?
           echo | ls *
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           file_pattern: \*.json
-          message: Apply changes to relationships
-      - name: "Run if changes have been detected"
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        run: echo "Changes!"
-
-      - name: "Run if no changes have been detected"
-        if: steps.auto-commit-action.outputs.changes_detected == 'false'
-        run: echo "No Changes!"
+          commit_message: Apply changes to relationships
