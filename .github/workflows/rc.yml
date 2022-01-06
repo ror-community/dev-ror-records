@@ -21,7 +21,16 @@ jobs:
           curl https://raw.githubusercontent.com/ror-community/ror-api/generate_relationships/rorapi/management/commands/generaterelationships.py -o generaterelationships.py
           python generaterelationships.py relationships.csv
         continue-on-error: true
-      - name: output error file
+      - name: commit error file
         if: ${{ steps.genrelshp.outcome != 'success'}}
         run: |
-          echo "hi"
+          echo "ERRORS found:"
+          cat relationship_errors.log
+      - name: commit changed files 
+        if: ${{ steps.genrelshp.outcome == 'success'}}
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: '*.json'
+          commit_message: Apply relationship changes to files
+      
+      
