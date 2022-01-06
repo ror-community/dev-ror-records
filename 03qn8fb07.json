@@ -190,7 +190,7 @@
     },
     {
       "label": "Agriculture and Food",
-      "type": "Parent",
+      "type": "Child",
       "id": "https://ror.org/03n17ds51"
     }
   ],
