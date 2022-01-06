@@ -1,39 +1,39 @@
 {
-  "id": "https://ror.org/04be65q32",
-  "name": "Daejin University",
+  "id": "https://ror.org/05jmm0651",
+  "name": "Korea Aerospace University",
   "email_address": null,
   "ip_addresses": [],
-  "established": 1992,
+  "established": 1952,
   "types": [
     "Education"
   ],
   "relationships": [
     {
       "label": "a",
-      "type": "Parent",
+      "type": "Related",
       "id": "https://ror.org/05whsd967"
     },
     {
-      "label": "Korea Aerospace University",
+      "label": "Daejin University",
       "type": "Related",
-      "id": "https://ror.org/05jmm0651"
+      "id": "https://ror.org/04be65q32"
     }
   ],
   "addresses": [
     {
-      "lat": 37.86918,
-      "lng": 127.15834,
+      "lat": 37.600709,
+      "lng": 126.864302,
       "state": null,
       "state_code": null,
-      "city": "Seoul",
+      "city": "Goyang-si",
       "geonames_city": {
-        "id": 1835848,
-        "city": "Seoul",
+        "id": 1842485,
+        "city": "Goyang-si",
         "geonames_admin1": {
-          "name": "Seoul",
-          "id": 1835847,
-          "ascii_name": "Seoul",
-          "code": "KR.11"
+          "name": "Gyeonggi-do",
+          "id": 1841610,
+          "ascii_name": "Gyeonggi-do",
+          "code": "KR.13"
         },
         "geonames_admin2": {
           "name": null,
@@ -65,17 +65,19 @@
     }
   ],
   "links": [
-    "http://www.daejin.ac.kr/english/index.html"
+    "http://www.kau.ac.kr/english"
   ],
-  "aliases": [],
+  "aliases": [
+    "Hankuk Aviation University"
+  ],
   "acronyms": [
-    "test"
+    "KAU"
   ],
   "status": "active",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Daejin_University",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Korea_Aerospace_University",
   "labels": [
     {
-      "label": "\ub300\uc9c4\ub300\ud559\uad50",
+      "label": "\ud55c\uad6d\ud56d\uacf5\ub300\ud559\uad50",
       "iso639": "ko"
     }
   ],
@@ -87,30 +89,30 @@
     "ISNI": {
       "preferred": null,
       "all": [
-        "0000 0004 0647 3386"
+        "0000 0000 9881 3149"
       ]
     },
     "FundRef": {
       "preferred": null,
       "all": [
-        "501100002466"
+        "501100002585"
       ]
     },
     "OrgRef": {
       "preferred": null,
       "all": [
-        "1340944"
+        "20303829"
       ]
     },
     "Wikidata": {
       "preferred": null,
       "all": [
-        "Q5208233"
+        "Q6431586"
       ]
     },
     "GRID": {
-      "preferred": "grid.440927.c",
-      "all": "grid.440927.c"
+      "preferred": "grid.440941.c",
+      "all": "grid.440941.c"
     }
   }
 }
