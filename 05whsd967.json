@@ -6,18 +6,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "Daejin University",
-      "type": "Child",
-      "id": "https://ror.org/04be65q32"
-    },
-    {
-      "label": "Korea Aerospace University",
-      "type": "Related",
-      "id": "https://ror.org/05jmm0651"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05whsd967",
   "labels": [],
