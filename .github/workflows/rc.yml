@@ -13,16 +13,15 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.8"
-      - name: Download requirements
+      - name: Generate relationships
+        id: genrelshp
         run: |
           python -m pip install --upgrade pip
           pip install requests==2.23.0
           curl https://raw.githubusercontent.com/ror-community/ror-api/generate_relationships/rorapi/management/commands/generaterelationships.py -o generaterelationships.py
           python generaterelationships.py relationships.csv
-          echo $?
-          echo | ls *
-      - name: commit
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          file_pattern: '*.json'
-          commit_message: Apply changes to relationships
+        continue-on-error: true
+      - name: output error file
+        if: ${{ steps.genrelshp.outcome != 'success'}}
+        run: |
+          echo "hi"

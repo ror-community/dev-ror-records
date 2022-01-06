@@ -1,5 +1,5 @@
 Issue # from Github ,Issue title from Github,Name of org in Record ID,Record ID,Related ID,Name of org in Related ID,Relationship of Record ID to Related ID,Current location of Related ID
-39,issue 1,a,https://ror.org/05whsd967,https://ror.org/04be65q32,Daejin University,Child,Release branch
+39,issue 1,a,https://ror.org/\n05whsd967,https://ror.org/04be65q32,Daejin University,Child,Release branch
 38,issue 2,Daejin University,https://ror.org/04be65q32,https://ror.org/05whsd967,a,Parent,Release branch
 39,issue 1,a,https://ror.org/05whsd967,https://ror.org/05jmm0651,Korea Aerospace University,Related,Production
 1,2,Korea Aerospace University,https://ror.org/05jmm0651,https://ror.org/05whsd967,a,Related,Release branch
