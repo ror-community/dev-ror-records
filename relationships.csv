@@ -3,7 +3,7 @@ Issue # from Github ,Issue title from Github,Name of org in Record ID,Record ID,
 38,issue 2,Daejin University,https://ror.org/04be65q32,https://ror.org/05whsd967,a,Parent,Release branch
 39,issue 1,a,https://ror.org/05whsd967,https://ror.org/05jmm0651,Korea Aerospace University,Related,Production
 1,2,Korea Aerospace University,https://ror.org/05jmm0651,https://ror.org/05whsd967,a,Related,Release branch
-3,4,Daejin University,https://ror.org/04be65q32,https://ror.org/05jmm0651,Korea Aerospace University,Related,Release branch
+3,4,Daejin University,https://ror.org/04be65q32,https://ror.org/05jmm0651,Korea Aerospace University,Parent,Release branch
 5,6,Korea Aerospace University,https://ror.org/05jmm0651,https://ror.org/04be65q32,Daejin University,Related,Production
 7,8,Commonwealth Scientific and Industrial Research Organisation,https://ror.org/03qn8fb07,https://ror.org/03n17ds51,Agriculture and Food,Child,Production
 9,3,Agriculture and Food,https://ror.org/03n17ds51,https://ror.org/03qn8fb07,Commonwealth Scientific and Industrial Research Organisation,Parent,Production
