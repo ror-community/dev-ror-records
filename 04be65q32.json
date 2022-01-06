@@ -7,7 +7,18 @@
   "types": [
     "Education"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "a",
+      "type": "Parent",
+      "id": "https://ror.org/05whsd967"
+    },
+    {
+      "label": "Korea Aerospace University",
+      "type": "Testing",
+      "id": "https://ror.org/05jmm0651"
+    }
+  ],
   "addresses": [
     {
       "lat": 37.86918,
@@ -64,7 +75,7 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Daejin_University",
   "labels": [
     {
-      "label": "대진대학교",
+      "label": "\ub300\uc9c4\ub300\ud559\uad50",
       "iso639": "ko"
     }
   ],

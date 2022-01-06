@@ -10,7 +10,7 @@
   "relationships": [
     {
       "label": "Commonwealth Scientific and Industrial Research Organisation",
-      "type": "Parent",
+      "type": "Child",
       "id": "https://ror.org/03qn8fb07"
     }
   ],
