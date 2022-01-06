@@ -24,5 +24,5 @@ jobs:
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          files: '*.json'
+          file_pattern: '*.json'
           commit_message: Apply changes to relationships
