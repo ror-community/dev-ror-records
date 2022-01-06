@@ -1,0 +1,105 @@
+{
+  "id": "https://ror.org/04be65q32",
+  "name": "Daejin University",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1992,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 37.86918,
+      "lng": 127.15834,
+      "state": null,
+      "state_code": null,
+      "city": "Seoul",
+      "geonames_city": {
+        "id": 1835848,
+        "city": "Seoul",
+        "geonames_admin1": {
+          "name": "Seoul",
+          "id": 1835847,
+          "ascii_name": "Seoul",
+          "code": "KR.11"
+        },
+        "geonames_admin2": {
+          "name": null,
+          "id": null,
+          "ascii_name": null,
+          "code": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1835841
+    }
+  ],
+  "links": [
+    "http://www.daejin.ac.kr/english/index.html"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "test"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Daejin_University",
+  "labels": [
+    {
+      "label": "대진대학교",
+      "iso639": "ko"
+    }
+  ],
+  "country": {
+    "country_name": "South Korea",
+    "country_code": "KR"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 0647 3386"
+      ]
+    },
+    "FundRef": {
+      "preferred": null,
+      "all": [
+        "501100002466"
+      ]
+    },
+    "OrgRef": {
+      "preferred": null,
+      "all": [
+        "1340944"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q5208233"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.440927.c",
+      "all": "grid.440927.c"
+    }
+  }
+}

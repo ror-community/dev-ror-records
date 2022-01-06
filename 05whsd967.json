@@ -1,0 +1,49 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [],
+  "links": [],
+  "wikipedia_url": null,
+  "external_ids": {},
+  "established": null,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/05whsd967",
+  "labels": [],
+  "status": "active",
+  "name": "a",
+  "types": [
+    "Company"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 123,
+        "city": "Gonjeh",
+        "geonames_admin1": {
+          "name": "Khuzestan",
+          "ascii_name": "Khuzestan",
+          "id": 127082,
+          "code": "IR.15"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 32.37401,
+      "lng": 48.27242,
+      "country_geonames_id": 130758,
+      "city": "Gonjeh"
+    }
+  ],
+  "country": {
+    "country_name": "Iran",
+    "country_code": "IR"
+  }
+}
