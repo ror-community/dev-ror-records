@@ -22,7 +22,7 @@ jobs:
           echo $?
           echo | ls *
       - name: commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: github-actions-x/commit@v2.8
         with:
-          file_pattern: \*.json
+          files: '*.json'
           commit_message: Apply changes to relationships
