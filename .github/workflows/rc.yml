@@ -19,8 +19,9 @@ jobs:
           pip install requests==2.23.0
           curl https://raw.githubusercontent.com/ror-community/ror-api/generate_relationships/rorapi/management/commands/generaterelationships.py -o generaterelationships.py
           python generaterelationships.py relationships.csv
-          ls * > output.txt
+          echo | ls *
       - name: commit
         uses: EndBug/add-and-commit@v7
         with:
+          add: '*.json'
           message: Apply changes to relationships
