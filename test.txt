@@ -1,0 +1,30 @@
+Package    Version
+---------- ---------
+attrs      21.4.0
+certifi    2021.10.8
+chardet    3.0.4
+decorator  5.1.0
+idna       2.10
+iniconfig  1.1.1
+jsonschema 3.2.0
+packaging  21.3
+pip        21.3.1
+pluggy     0.13.1
+py         1.11.0
+pycountry  20.7.3
+pyparsing  3.0.6
+pyrsistent 0.18.0
+pytest     6.2.4
+requests   2.23.0
+setuptools 56.0.0
+six        1.16.0
+toml       0.10.2
+urllib3    1.25.11
+validators 0.18.2
+hi
+LICENSE
+hi.py
+requirements.txt
+test.txt
+testfile.txt
+Add value2
