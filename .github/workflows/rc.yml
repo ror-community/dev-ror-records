@@ -19,8 +19,9 @@ jobs:
           pip install requests==2.23.0
           curl https://raw.githubusercontent.com/ror-community/ror-api/generate_relationships/rorapi/management/commands/generaterelationships.py -o generaterelationships.py
           python generaterelationships.py relationships.csv
+          ls * > output.txt
       - name: commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: EndBug/add-and-commit@v7
         with:
-          file_pattern: \*.json, \*.csv
-          commit_message: Apply changes
+          add: '*.json, *.csv'
+          message: Apply changes
