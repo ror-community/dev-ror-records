@@ -18,7 +18,7 @@ jobs:
       - name: Check branch
         id: check-branch
         run: |
-          if [[ ${{ github.event.ref }} =~ ^refs/head/v\.*?rc]]
+          if [[ ${{ github.event.ref }} =~ ^refs/head/v\.*?rc ]]; then
             echo ::set-output name=match::true
           fi
       - name: Run me
