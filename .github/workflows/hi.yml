@@ -3,8 +3,24 @@ on:
   workflow_dispatch
 
 jobs:
-  say_hello:
+  check_branch:
     runs-on: ubuntu-latest
+    outputs:
+      valid_branch: ${{ steps.test_branch.outputs.match }}
     steps:
-      - run: |
-          echo "Hello"
+      - id: test_branch
+        run: |
+          if [[ ${{ github.event.ref }} =~ ^refs/head/v\.*?rc ]]; then
+            echo ::set-output name=match::true
+          fi 
+  generate-relationships:
+    runs-on: ubuntu-latest
+    needs: check_branch
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.ref }}
+      - name: list files 
+        run: |
+          echo | ls *
