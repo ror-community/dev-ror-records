@@ -5,11 +5,11 @@ on:
       name:
         description: 'Person to greet'
         required: true
-        default: 'Mona the Octocat'
+        default: 'Person'
       home:
         description: 'location'
         required: false
-        default: 'The Octoverse'
+        default: 'The Room'
 
 jobs:
   say_hello:
