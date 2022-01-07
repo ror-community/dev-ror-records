@@ -15,6 +15,18 @@ jobs:
   say_hello:
     runs-on: ubuntu-latest
     steps:
-      - run: |
+      - name: Check branch
+        id: check-branch
+        run: |
+          if [[ ${{ github.event.ref }} =~ ^refs/head/v\.*?rc]]
+            echo ::set-output name=match::true
+          fi
+      - name: Run me
+        if: steps.check-tag.outputs.match == 'true'
+        run: |
           echo "Hello ${{ github.event.inputs.name }}!"
           echo "- in ${{ github.event.inputs.home }}!"
+      - name: Error message
+        if: steps.check-tag.outputs.match != 'true'
+        run: |
+          echo "Cannot run on this branch"
