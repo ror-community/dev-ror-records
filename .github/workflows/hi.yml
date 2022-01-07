@@ -1,32 +1,26 @@
 name: Manually triggered workflow
 on:
-  workflow_dispatch:
-    inputs:
-      name:
-        description: 'Person to greet'
-        required: true
-        default: 'Mona the Octocat'
-      home:
-        description: 'location'
-        required: false
-        default: 'The Octoverse'
+  workflow_dispatch
 
 jobs:
-  say_hello:
+  check_branch:
     runs-on: ubuntu-latest
+    outputs:
+      valid_branch: ${{ steps.test_branch.outputs.match }}
     steps:
-      - name: Check branch
-        id: check-branch
+      - id: test_branch
         run: |
           if [[ ${{ github.event.ref }} =~ ^refs/head/v\.*?rc ]]; then
             echo ::set-output name=match::true
-          fi
-      - name: Run me
-        if: steps.check-tag.outputs.match == 'true'
+          fi 
+  generate-relationships:
+    runs-on: ubuntu-latest
+    needs: check_branch
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.ref }}
+      - name: list files 
         run: |
-          echo "Hello ${{ github.event.inputs.name }}!"
-          echo "- in ${{ github.event.inputs.home }}!"
-      - name: Error message
-        if: steps.check-tag.outputs.match != 'true'
-        run: |
-          echo "Cannot run on this branch"
+          echo | ls *
