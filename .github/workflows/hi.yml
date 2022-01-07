@@ -1,4 +1,4 @@
-name: Manually triggered workflow
+name: Create relationships
 on:
   workflow_dispatch
 
