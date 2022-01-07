@@ -9,7 +9,10 @@ jobs:
       - id: test_branch
         run: |
           if [[ ${{ github.event.ref }} =~ ^refs/head/v\.*?rc ]]; then
+            echo ${{ github.event.ref }}
             exit 0
+          else
+            exit 1
           fi 
   generate-relationships:
     runs-on: ubuntu-latest
