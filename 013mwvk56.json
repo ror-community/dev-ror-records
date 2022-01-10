@@ -16,13 +16,7 @@
     }
   },
   "established": 2021,
-  "relationships": [
-    {
-      "label": "Oxford University",
-      "type": "Parent",
-      "id": "https://ror.org/052gg0110"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/013mwvk56",
   "labels": [
