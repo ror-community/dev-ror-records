@@ -1,0 +1,26 @@
+name: Validate files
+on:
+  workflow_dispatch
+
+jobs:
+  validate-files:
+    runs-on: ubuntu-latest
+    if: github.event.ref != 'refs/heads/master'
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.ref }}
+      - name: Set up Python environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
+      - name: Validate files
+        id: validatefiles
+        uses: actions/checkout@v2
+        with:
+          repository: ror-community/validation-suite
+          path: validation-suite
+      - name: See all files
+        run: |
+          echo | ls *
