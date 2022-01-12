@@ -33,6 +33,8 @@ jobs:
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         with:
           channel: '#ror-curation-releases'
           color: 'good'
