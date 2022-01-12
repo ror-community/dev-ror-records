@@ -15,17 +15,23 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.8"
-      - name: Validate files
-        id: validatefiles
+      - name: Checkout validation suite
         uses: actions/checkout@v2
         with:
           repository: ror-community/validation-suite
           path: validation-suite
-      - name: See all files
+      - name: Validate files
+        id: validatefiles
         run: |
           mkdir files 
           cp *.json files/
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          python run_validations.py -i ../files/
+          python run_validations.py -i ../files/013mwvk56.json -p ../files/
+        continue-on-error: true
+      - name: commit error file
+        if: ${{ steps.validatefiles.outcome != 'success'}}
+        run: |
+          echo "ERRORS found:"
+          cat validation-suite/validation_errors.log
