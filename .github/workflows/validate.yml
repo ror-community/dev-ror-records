@@ -39,7 +39,7 @@ jobs:
           channel: '#deployment-updates'
           color: 'good'
           text: 'Validating files for ${env.GITHUB_REF_NAME}'
-          failure_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation failed.'
-          success_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation succeeded'
+          failure_text: 'FAILED: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation.'
+          success_text: 'SUCCESS! Files valid: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER})'
           fields: |
             { "title": "Validation", "value": "${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}"}
