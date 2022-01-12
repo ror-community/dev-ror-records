@@ -33,5 +33,4 @@ jobs:
       - name: commit error file
         if: ${{ steps.validatefiles.outcome != 'success'}}
         run: |
-          echo "ERRORS found:"
-          cat validation-suite/validation_errors.log
+          echo "ERRORS"
