@@ -34,3 +34,7 @@ jobs:
         if: ${{ steps.validatefiles.outcome != 'success'}}
         run: |
           echo "ERRORS"
+      - name: valid files
+        if: ${{ steps.validatefiles.outcome != 'success'}}
+        run: |
+          echo "VALID!"
