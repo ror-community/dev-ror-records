@@ -23,4 +23,7 @@ jobs:
           path: validation-suite
       - name: See all files
         run: |
+          cd validation-suite
+          python -m pip install --upgrade pip
+          echo | pip list
           echo | ls *
