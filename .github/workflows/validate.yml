@@ -36,7 +36,7 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         with:
-          channel: '#ror-curation-releases'
+          channel: '#deployment-updates'
           color: 'good'
           text: 'Validating files for ${env.GITHUB_REF_NAME}'
           failure_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation failed.'
