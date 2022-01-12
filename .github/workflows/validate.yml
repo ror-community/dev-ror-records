@@ -30,11 +30,14 @@ jobs:
           pip install -r requirements.txt
           python run_validations.py -i ../files/013mwvk56.json -p ../files/
         continue-on-error: true
-      - name: commit error file
-        if: ${{ steps.validatefiles.outcome != 'success'}}
-        run: |
-          echo "ERRORS"
-      - name: valid files
-        if: ${{ steps.validatefiles.outcome == 'success'}}
-        run: |
-          echo "VALID!"
+      - name: Notify Slack
+        if: always()
+        uses: edge/simple-slack-notify@master
+        with:
+          channel: '#ror-curation-releases'
+          color: 'good'
+          text: 'Validating files for ${github.event.ref}'
+          failure_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation failed.'
+          success_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation succeeded'
+          fields: |
+            { "title": "Validation", "value": "${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}"}
