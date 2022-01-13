@@ -11,6 +11,7 @@ jobs:
           protected-branches: "main"
           default-branch: "staging"
           repo-token: "${{ secrets.PERSONAL_ACCESS_TOKEN }}"
+          update-branch: true
       - name: Branch name
         run: |
           echo "${{ github.event.pull_request.head.sha }}"
