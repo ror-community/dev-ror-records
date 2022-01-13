@@ -34,3 +34,13 @@ jobs:
         with:
           file_pattern: '*.json'
           commit_message: Apply relationship changes to files
+      - name: Notify Slack
+        if: always()
+        uses: edge/simple-slack-notify@master
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
+          VALIDATION_STATUS: ${{ steps.genrelshp.outcome }}
+        with:
+          channel: '#ror-curation-releases'
+          color: 'good'
+          text: 'Relationship generation status for: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME} is:  ${env.VALIDATION_STATUS}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID} for more details'
