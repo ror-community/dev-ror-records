@@ -3,6 +3,7 @@ on: [pull_request]
   
 jobs:
   check-base-branch:
+    runs-on: ubuntu-latest
     steps:
       - name: check-branch
         uses: a-b-r-o-w-n/check-base-branch-action@v1.1
