@@ -34,9 +34,9 @@ jobs:
         if: always()
         uses: edge/simple-slack-notify@master
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
         with:
-          channel: '#deployment-updates'
+          channel: '#ror-curation-releases'
           color: 'good'
           text: 'Validating files for ${env.GITHUB_REF_NAME}'
           failure_text: 'FAILED: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation.'
