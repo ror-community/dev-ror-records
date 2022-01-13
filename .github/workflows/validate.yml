@@ -35,11 +35,9 @@ jobs:
         uses: edge/simple-slack-notify@master
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
+          VALIDATION_STATUS: ${{ steps.validatefiles.outcome }}
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Validating files for ${env.GITHUB_REF_NAME}. SUCCESS! Files valid: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
-          failure_text: 'FAILED: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation.'
-          success_text: 'SUCCESS! Files valid: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER})'
-          fields: |
-            { "title": "Validation", "value": "${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}"}
+          text: 'Validation status for: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME} is:  ${env.VALIDATION_STATUS}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID} for more details'
+     
