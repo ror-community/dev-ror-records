@@ -36,9 +36,9 @@ jobs:
           commit_message: Apply relationship changes to files
       - name: Set env variable for notification
         run: |
-          if [[ ${{ steps.genrelshp.outcome }} == 'success']]; then
+          if [[ ${{ steps.genrelshp.outcome }} == 'success' ]]; then
             echo "relationship_status=SUCCESS" >> $GITHUB_ENV
-          elif [[ ${{ steps.genrelshp.outcome }} == 'failure']]; then
+          elif [[ ${{ steps.genrelshp.outcome }} == 'failure' ]]; then
             echo "relationship_status=FAILED" >> $GITHUB_ENV
           fi
           echo ${{ env.relationship_status }}
