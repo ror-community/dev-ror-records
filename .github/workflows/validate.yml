@@ -1,7 +1,10 @@
 name: Validate files
 on:
-  workflow_dispatch
-
+  workflow_dispatch:
+    inputs:
+      with-relationship:
+        type: boolean
+        description: Select to validate with relationships
 jobs:
   validate-files:
     runs-on: ubuntu-latest
@@ -28,6 +31,7 @@ jobs:
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          echo ${{ github.event.inputs.with-relationship }}
           python run_validations.py -i ../files/013mwvk56.json -p ../files/
         continue-on-error: true
       - name: Notify Slack
