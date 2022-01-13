@@ -34,12 +34,19 @@ jobs:
         with:
           file_pattern: '*.json'
           commit_message: Apply relationship changes to files
+      - name: Set env variable for notification
+        run: |
+          if [[ ${{ steps.genrelshp.outcome }} == 'success']]; then
+            echo "relationship_status=SUCCESS" >> $GITHUB_ENV
+          elif [[ ${{ steps.genrelshp.outcome }} == 'failure']]; then
+            echo "relationship_status=FAILED" >> $GITHUB_ENV
+          fi
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
-          VALIDATION_STATUS: ${{ steps.genrelshp.outcome }}
+          VALIDATION_STATUS: ${{ env.relationship_status }}
         with:
           channel: '#ror-curation-releases'
           color: 'good'
