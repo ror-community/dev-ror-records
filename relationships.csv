@@ -7,5 +7,5 @@ Issue # from Github ,Issue title from Github,Name of org in Record ID,Record ID,
 5,6,Korea Aerospace University,https://ror.org/05jmm0651,https://ror.org/04be65q32,Daejin University,Related,Production
 7,8,Commonwealth Scientific and Industrial Research Organisation,https://ror.org/03qn8fb07,https://ror.org/03n17ds51,Agriculture and Food,Child,Production
 9,3,Agriculture and Food,https://ror.org/03n17ds51,https://ror.org/03qn8fb07,Commonwealth Scientific and Industrial Research Organisation,Parent,Production
-9,3,test-record,https://ror.org/013mwvk56,https://ror.org/052gg0110,Oxford University,Parent,Production
-9,3,Oxford University,https://ror.org/052gg0110,https://ror.org/013mwvk56,test-record,Child,Release branch
+9,3,test-record,https://ror.org/013mwvk56,https://ror.org/052gg0110,University of Oxford,Parent,Production
+9,3,University of Oxford,https://ror.org/052gg0110,https://ror.org/013mwvk56,test-record,Child,Release branch
