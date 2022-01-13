@@ -41,6 +41,7 @@ jobs:
           elif [[ ${{ steps.genrelshp.outcome }} == 'failure']]; then
             echo "relationship_status=FAILED" >> $GITHUB_ENV
           fi
+          echo ${{ env.relationship_status }}
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
