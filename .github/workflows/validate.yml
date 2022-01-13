@@ -38,7 +38,7 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Validating files for ${env.GITHUB_REF_NAME}'
+          text: 'Validating files for ${env.GITHUB_REF_NAME}. SUCCESS! Files valid: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER})'
           failure_text: 'FAILED: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) validation.'
           success_text: 'SUCCESS! Files valid: ${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER})'
           fields: |
