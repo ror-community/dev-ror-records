@@ -39,17 +39,17 @@ jobs:
         continue-on-error: true
       - name: Set env variable for notification
         run: |
-          if [[ ${{ steps.genrelshp.outcome }} == 'success' ]]; then
-            echo "relationship_status=SUCCESS" >> $GITHUB_ENV
-          elif [[ ${{ steps.genrelshp.outcome }} == 'failure' ]]; then
-            echo "relationship_status=FAILED" >> $GITHUB_ENV
+          if [[ ${{ steps.validatefiles.outcome }} == 'success' ]]; then
+            echo "validation_status=SUCCESS" >> $GITHUB_ENV
+          elif [[ ${{ steps.validatefiles.outcome }} == 'failure' ]]; then
+            echo "validation_status=FAILED" >> $GITHUB_ENV
           fi
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
-          VALIDATION_STATUS: ${{ env.relationship_status }}
+          VALIDATION_STATUS: ${{ env.validation_status }}
         with:
           channel: '#ror-curation-releases'
           color: 'good'
