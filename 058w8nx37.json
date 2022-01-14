@@ -1,0 +1,58 @@
+{
+  "ip_addresses": [],
+  "aliases": [
+    "tomatoes tossers we are"
+  ],
+  "acronyms": [
+    "ttru"
+  ],
+  "links": [
+    "ttru.com"
+  ],
+  "wikipedia_url": "https://tomatoes.com",
+  "external_ids": {},
+  "established": 2022,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/058w8nx37",
+  "labels": [
+    {
+      "label": "pomodore siamo nostre",
+      "iso639": "it"
+    },
+    {
+      "label": "nous somme tomate",
+      "iso639": "fr"
+    }
+  ],
+  "status": "active",
+  "name": "tomato throwers r us",
+  "types": [
+    "Nonprofit"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 789823,
+        "city": "Jegrička Bara",
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 45.38814,
+      "lng": 20.20108,
+      "country_geonames_id": 6290252,
+      "city": "Jegrička Bara"
+    }
+  ],
+  "country": {
+    "country_name": "Serbia",
+    "country_code": "RS"
+  }
+}
