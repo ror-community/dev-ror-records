@@ -12,7 +12,13 @@
   "wikipedia_url": "https://tomatoes.com",
   "external_ids": {},
   "established": 2022,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Okinawa Institute of Technology",
+      "type": "Parent",
+      "id": "https://ror.org/02qg15b79"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/058w8nx37",
   "labels": [
@@ -39,7 +45,7 @@
       "line": null,
       "geonames_city": {
         "id": 789823,
-        "city": "Jegrička Bara",
+        "city": "Jegri\u010dka Bara",
         "license": {
           "attribution": "Data from geonames.org under a CC-BY 3.0 license",
           "license": "http://creativecommons.org/licenses/by/3.0/"
@@ -48,7 +54,7 @@
       "lat": 45.38814,
       "lng": 20.20108,
       "country_geonames_id": 6290252,
-      "city": "Jegrička Bara"
+      "city": "Jegri\u010dka Bara"
     }
   ],
   "country": {

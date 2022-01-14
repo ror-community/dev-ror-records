@@ -7,7 +7,13 @@
   "types": [
     "Education"
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Tomatoes R Us",
+      "type": "Child",
+      "id": "https://ror.org/058w8nx37"
+    }
+  ],
   "addresses": [
     {
       "lat": 26.47595,
@@ -67,7 +73,7 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Okinawa_Institute_of_Science_and_Technology",
   "labels": [
     {
-      "label": "沖縄科学技術大学院大学",
+      "label": "\u6c96\u7e04\u79d1\u5b66\u6280\u8853\u5927\u5b66\u9662\u5927\u5b66",
       "iso639": "ja"
     }
   ],
