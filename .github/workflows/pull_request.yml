@@ -1,8 +1,11 @@
 name: Merge to staging
 on:
   pull_request:
-    branches:    
-      - staging
+    types: [opened, edited, reopened]
+    branches:
+     - 'staging'
+     - '!main'
+     
 jobs:
   check-base-branch:
     runs-on: ubuntu-latest
