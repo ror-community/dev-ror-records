@@ -9,6 +9,7 @@ jobs:
       - name: check-branch
         run: |
           regex="v\..*?-rc"
+          echo ${{ github.event.pull_request.base.ref }}
           if [[ ${{ github.head_ref }} =~ $regex ]]; then 
             echo "merge_allowed=yes" >> $GITHUB_ENV
             echo "passes"
