@@ -4,12 +4,22 @@ on: [pull_request]
 jobs:
   check-base-branch:
     runs-on: ubuntu-latest
-
     steps:
-      - name: check-branch
-        run: |
-          echo ${{ github.event.pull_request.base.ref }}
-          echo ${{ github.head_ref }}
+    - if: ${{ github.event.pull_request.base.ref }} == "staging" 
+    - name: check-branch
+      run: |
+        regex="v\..*?-rc"
+        if [[ ${{ github.head_ref }} =~ $regex ]]; then 
+          echo "merge_allowed=yes" >> $GITHUB_ENV
+          echo ${env.merge_allowed}
+          exit 0
+        else 
+          echo "merge_allowed=no" >> $GITHUB_ENV
+          echo ${env.merge_allowed}
+          exit 1
+        fi
+    
+        
 
       
       
