@@ -1,25 +1,19 @@
 name: Merge to staging
-on: [pull_request]
-  
+on:
+  pull_request:
+    branches:    
+      - staging
 jobs:
   check-base-branch:
     runs-on: ubuntu-latest
-    if: ${{ github.event.pull_request.base.ref }} == "staging" 
+    if: endsWith(github.event.pull_request.base.ref, '-rc')
     steps:
-      - name: check-branch
+      - name: Hi 
         run: |
-          regex="v\..*?-rc"
-          echo ${{ github.event.pull_request.base.ref }}
-          if [[ ${{ github.head_ref }} =~ $regex ]]; then 
-            echo "merge_allowed=yes" >> $GITHUB_ENV
-            echo "passes"
-            exit 0
-          else 
-            echo "merge_allowed=no" >> $GITHUB_ENV
-            echo "not passes"
-            exit 1
-          fi
-    
+          echo "hello"
+
+  
+
         
 
       
