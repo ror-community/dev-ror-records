@@ -1,23 +1,17 @@
-name: Merge to staging
+name: Make sure new PRs are sent to staging
 on:
   pull_request:
     types: [opened, edited, reopened]
     branches:
-     - 'staging'
-     - '!main'
-     
+      - '!main'
+      - '!v.**-rc'
+      - 'staging'
+
+
 jobs:
-  check-base-branch:
+  build:
     runs-on: ubuntu-latest
-    if: endsWith(github.event.pull_request.base.ref, '-rc')
     steps:
       - name: Hi 
-        run: |
-          echo "hello"
-
-  
-
-        
-
-      
-      
+        run : |
+          echo "hi"
