@@ -14,8 +14,7 @@ jobs:
     steps:
       - name: Get PR info
         run: |
-          "::set-output name=EVENT_CONTEXT::${{ toJSON(github.event) }}"
-          echo $EVENT_CONTEXT
+          echo ${{ toJSON(github.event) }}
       - uses: octokit/request-action@v2.x
         id: get_permission
         with:
