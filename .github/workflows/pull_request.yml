@@ -11,11 +11,14 @@ on:
 jobs:
   print_context:
     runs-on: ubuntu-latest
+    outputs:
+      EVENT_CONTEXT: ${{ toJSON(github.event) }}
+  check_permissions:
+    runs-on: ubuntu-latest
+    needs: print_context
     steps:
-      - name: Get PR info
-        run: |
-          echo "EVENT_CONTEXT=${{ toJSON(github.event) }}" >> $GITHUB_ENV
-      - uses: octokit/request-action@v2.x
+      - name: get_permission
+        uses: octokit/request-action@v2.x
         id: get_permission
         with:
           route: GET /repos/ror-community/ror-records/collaborators/${{ secrets.USERNAME }}/permission
@@ -23,4 +26,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
+          echo ${{ needs.print_context.outputs.EVENT_CONTEXT }}
           ${{ toJSON(steps.get_permission.outputs.data).rolename }}
