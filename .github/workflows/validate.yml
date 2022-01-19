@@ -36,22 +36,14 @@ jobs:
           elif [[ ${{ github.event.inputs.with-relationship }} == "false" ]]; then
             python run_validations.py -i ../files
           fi
-        continue-on-error: true
-      - name: Set env variable for notification
-        run: |
-          if [[ ${{ steps.validatefiles.outcome }} == 'success' ]]; then
-            echo "validation_status=SUCCESS" >> $GITHUB_ENV
-          elif [[ ${{ steps.validatefiles.outcome }} == 'failure' ]]; then
-            echo "validation_status=FAILED" >> $GITHUB_ENV
-          fi
+          echo $?
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
-          VALIDATION_STATUS: ${{ env.validation_status }}
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Validation status:  ${env.VALIDATION_STATUS}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'Validation status:  ${job.status}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
      
