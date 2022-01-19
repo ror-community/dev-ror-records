@@ -19,9 +19,9 @@ jobs:
       - uses: octokit/request-action@v2.x
         id: get_permission
         with:
-          route: GET /repos/ror-community/ror-records/collaborators
+          route: GET /repos/ror-community/ror-records/collaborators/${{ secrets.USERNAME }}/permission
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
-          ${{ toJSON(steps.get_permission.outputs.data) }}
+          ${{ toJSON(steps.get_permission.outputs.data).rolename }}
