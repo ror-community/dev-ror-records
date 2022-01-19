@@ -1,13 +1,7 @@
 name: Make sure new PRs are sent to staging
 on:
-  pull_request:
-    types: [opened, edited, reopened]
-    branches:
-      - '!main'
-      - '!v.**-rc'
-      - 'staging'
-
-
+  pull_request
+  
 jobs:
   print_context:
     runs-on: ubuntu-latest
@@ -16,3 +10,4 @@ jobs:
           EVENT_CONTEXT: ${{ toJSON(github.event) }}
         run: |
           echo $EVENT_CONTEXT
+          echo "here"
