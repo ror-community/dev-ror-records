@@ -9,9 +9,10 @@ on:
 
 
 jobs:
-  build:
+  print_context:
     runs-on: ubuntu-latest
     steps:
-      - name: Hi 
-        run : |
-          echo "hi"
+      - env:
+          EVENT_CONTEXT: ${{ toJSON(github.event) }}
+        run: |
+          echo $EVENT_CONTEXT
