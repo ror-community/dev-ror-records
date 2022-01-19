@@ -16,3 +16,16 @@ jobs:
           EVENT_CONTEXT: ${{ toJSON(github.event) }}
         run: |
           echo $EVENT_CONTEXT
+  request:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Make Request
+      id: myRequest
+      env:
+        USERNAME: ${{ secrets.USERNAME }}
+      uses: fjogeleit/http-request-action@master
+      with:
+        url: "https://api.github.com/repos/ror-community/ror-records/collaborators/${env.USERNAME}/permission"
+        bearerToken: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+    - name: Show Response
+      run: echo ${{ steps.myRequest.outputs.response }}
