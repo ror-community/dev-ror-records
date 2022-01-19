@@ -12,9 +12,9 @@ jobs:
   print_context:
     runs-on: ubuntu-latest
     steps:
-      - env:
-          EVENT_CONTEXT: ${{ toJSON(github.event) }}
+      - name: Get PR info
         run: |
+          "::set-output name=EVENT_CONTEXT::${{ toJSON(github.event.pull_request) }}"
           echo $EVENT_CONTEXT
       - uses: octokit/request-action@v2.x
         id: get_permission
