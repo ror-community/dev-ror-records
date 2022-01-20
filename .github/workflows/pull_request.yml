@@ -2,12 +2,7 @@ name: Make sure new PRs are sent to staging
 on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
-    branches:
-      - '!main'
-      - '!v.**-rc'
-      - 'staging'
-
-
+    
 jobs:
   check_permission:
     runs-on: ubuntu-latest
