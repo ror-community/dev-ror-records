@@ -9,19 +9,25 @@ on:
 
 
 jobs:
-  print_context:
+  check_permission:
     runs-on: ubuntu-latest
     steps:
+      - name: Get PR info
       - env:
           USER_CONTEXT: ${{ toJSON(github.event.pull_request.user.login) }}
           EVENT_CONTEXT: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
         run: |
           echo $USER_CONTEXT
           echo $EVENT_CONTEXT
+      - name: Check Permission 
+        env: 
+          USER_INFO: ${{ toJSON(github.event.pull_request.user.login) }}
+          REPO_INFO: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
+          PERMISSIONS_URL: "GET /repos/${{ env.REPO_INFO }}/collaborators/${{ env.USER_INFO }}/permission"
       - uses: octokit/request-action@v2.x
         id: get_permission
         with:
-          route: GET /repos/ror-community/ror-records/collaborators/eshadatta-crossref/permission
+          route: ${env.PERMISSIONS_URL}
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
