@@ -1,7 +1,7 @@
 name: Make sure new PRs are sent to staging
 on:
   pull_request:
-    types: [opened, edited, reopened, synchronize]
+    types: [opened, reopened, synchronize]
     branches:
       - '!main'
       - '!v.**-rc'
@@ -30,4 +30,27 @@ jobs:
           else
             exit 1
           fi
+  check_validation:
+    runs-on: ubuntu-latest
+    needs: check_permission
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - name: Set up Python environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
+      - name: Checkout validation suite
+        uses: actions/checkout@v2
+        with:
+          repository: ror-community/validation-suite
+          path: validation-suite
+      - name: Validate files
+        id: validatefiles
+        run: |
+          ls *
+          mkdir files 
+          cp *.json files/
           
