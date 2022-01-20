@@ -1,7 +1,7 @@
 name: Make sure new PRs are sent to staging
 on:
   pull_request:
-    types: [opened, edited, reopened]
+    types: [opened, edited, reopened, synchronize]
     branches:
       - '!main'
       - '!v.**-rc'
@@ -16,7 +16,9 @@ jobs:
           USER_CONTEXT: ${{ toJSON(github.event.pull_request.user.login) }}
           EVENT_CONTEXT: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
         run: |
-          echo "permissions_url="GET /repos/${{ toJSON(github.event.pull_request.base.repo.full_name) }}/collaborators/${{ toJSON(github.event.pull_request.user.login) }}/permission" >> $GITHUB_ENV
+          export user=`echo $USER_CONTEXT | sed 's/\"//g'`
+          export repo=`echo $EVENT_CONTEXT | sed 's/\"//g'`
+          echo "permissions_url="GET /repos/$repo/collaborators/$user/permission" >> $GITHUB_ENV
           echo $permissions_url
       - name: Get Permission 
         uses: octokit/request-action@v2.x
