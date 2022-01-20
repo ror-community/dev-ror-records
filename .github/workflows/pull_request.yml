@@ -50,8 +50,21 @@ jobs:
       - name: Validate files
         id: validatefiles
         run: |
-          echo "COMMIT: ${{ github.event.pull_request.head.sha }}" 
-          ls *
           mkdir files 
           cp *.json files/
+          cd validation-suite
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python run_validations.py -i ../files -p ../files/
+      - name: Notify Slack
+        if: always()
+        uses: edge/simple-slack-notify@master
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
+        with:
+          channel: '#ror-curation-releases'
+          color: 'good'
+          text: 'Validation status during PR to STAGING:  ${{ steps.validatefiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+     
+
           
