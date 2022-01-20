@@ -24,4 +24,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
-          echo ${{ fromJson(steps.get_permission.outputs.data).permission }} 
+          echo ${{ fromJson(steps.get_permission.outputs.data).role_name }} 
