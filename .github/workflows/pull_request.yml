@@ -14,7 +14,7 @@ jobs:
     steps:
       - env:
           USER_CONTEXT: ${{ toJSON(github.event.pull_request.user.login) }}
-          EVENT_CONTEXT: ${{ toJSON(github.event.pull_request) }}
+          EVENT_CONTEXT: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
         run: |
           echo $USER_CONTEXT
           echo $EVENT_CONTEXT
