@@ -24,6 +24,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
-          echo ${{ toJson(steps.get_permission.outputs.data) }} | \
-          python3 -c "import sys, json; data=json.load(sys.stdin); print([d['id'] for d in data])"
+          echo ${{ fromJson(steps.get_permission.outputs.data) }} | jq '.permission'
           
