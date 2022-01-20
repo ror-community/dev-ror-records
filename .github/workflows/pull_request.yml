@@ -50,6 +50,7 @@ jobs:
       - name: Validate files
         id: validatefiles
         run: |
+          echo "COMMIT: ${{ github.event.pull_request.head.sha }}" 
           ls *
           mkdir files 
           cp *.json files/
