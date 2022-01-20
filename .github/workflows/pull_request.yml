@@ -19,7 +19,7 @@ jobs:
       - uses: octokit/request-action@v2.x
         id: get_permission
         with:
-          route: GET /repos/ror-community/ror-records/collaborators
+          route: GET /repos/ror-community/ror-records/collaborators/eshadatta-crossref
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
