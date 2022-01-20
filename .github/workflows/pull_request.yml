@@ -1,28 +1,28 @@
 name: Make sure new PRs are sent to staging
 on:
   pull_request:
-    types: [opened, edited, synchronize, reopened]
-    
+    types: [opened, edited, reopened]
+    branches:
+      - '!main'
+      - '!v.**-rc'
+      - 'staging'
+
+
 jobs:
-  check_permission:
+  print_context:
     runs-on: ubuntu-latest
     steps:
-      - name: Get PR info
       - env:
           USER_CONTEXT: ${{ toJSON(github.event.pull_request.user.login) }}
           EVENT_CONTEXT: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
         run: |
-          echo $USER_CONTEXT
-          echo $EVENT_CONTEXT
-      - name: Check Permission 
-        env: 
-          USER_INFO: ${{ toJSON(github.event.pull_request.user.login) }}
-          REPO_INFO: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
-          PERMISSIONS_URL: "GET /repos/${{ env.REPO_INFO }}/collaborators/${{ env.USER_INFO }}/permission"
-      - uses: octokit/request-action@v2.x
+          echo "permissions_url="GET /repos/${{ toJSON(github.event.pull_request.base.repo.full_name) }}/collaborators/${{ toJSON(github.event.pull_request.user.login) }}/permission" >> $GITHUB_ENV
+          echo $permissions_url
+      - name: Get Permission 
+        uses: octokit/request-action@v2.x
         id: get_permission
         with:
-          route: ${env.PERMISSIONS_URL}
+          route: ${env.permissions_url}
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
