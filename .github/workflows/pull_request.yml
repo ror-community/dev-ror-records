@@ -16,9 +16,7 @@ jobs:
         uses: octokit/request-action@v2.1.0
         id: get_permission
         with:
-          route: GET /repos/{owner}/{repo}/releases/latest
-          owner: ror-community
-          repo: ror-api
+          route: GET /repos/ror-community/ror-api/releases/latest
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
