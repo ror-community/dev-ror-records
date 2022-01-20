@@ -7,25 +7,19 @@ on:
       - '!v.**-rc'
       - 'staging'
 
+env:
+  USER_INFO: ${{ github.event.pull_request.user.login }}
+  REPO_INFO: ${{ github.event.pull_request.base.repo.full_name }}
 
 jobs:
-  print_context:
+  check_permission:
     runs-on: ubuntu-latest
     steps:
-      - env:
-          USER_CONTEXT: ${{ github.event.pull_request.user.login }}
-          EVENT_CONTEXT: ${{ github.event.pull_request.base.repo.full_name }}
-        run: |
-          echo ${{ github.event.pull_request.user.login }}
-          export user=$(echo $USER_CONTEXT | tr -d \")
-          export repo=$(echo $EVENT_CONTEXT | tr -d \")
-          echo "permissions_url='GET /repos/${repo}/collaborators/${user}/permission'" >> $GITHUB_ENV
-          echo $permissions_url
       - name: Get Permission 
         uses: octokit/request-action@v2.x
         id: get_permission
         with:
-          route: ${env.permissions_url}
+          route: GET /repos/${{ env.REPO_INFO }}/collaborators/${{ env.USER_INFO }}/permission
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
