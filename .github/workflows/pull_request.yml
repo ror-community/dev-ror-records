@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: get_permission
-        uses: octokit/request-action@v2.x
+        uses: octokit/request-action@v2.1.0
         id: get_permission
         with:
           route: GET /repos/{owner}/{repo}/releases/latest
-          owner: octokit
-          repo: request-action
+          owner: ror-community
+          repo: ror-api
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
