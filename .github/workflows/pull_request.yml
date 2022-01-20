@@ -14,6 +14,8 @@ env:
 jobs:
   check_permission:
     runs-on: ubuntu-latest
+    outputs:
+      valid:  ${{ steps.get_permission.outputs.valid }}
     steps:
       - name: Get Permission 
         uses: octokit/request-action@v2.x
@@ -24,5 +26,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
-          echo ${{ toJson(github.event.pull_request) }}
-          echo ${{ fromJson(steps.get_permission.outputs.data).role_name }} 
+          export role_name=${{ fromJson(steps.get_permission.outputs.data).role_name }}
+          if [[ ${role_name} == 'maintain'  || ${role_name} == 'admin']]; then
+            exit 0
+          else
+            exit 1
+          
