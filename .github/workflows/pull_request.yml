@@ -16,9 +16,7 @@ jobs:
           USER_CONTEXT: ${{ toJSON(github.event.pull_request.user.login) }}
           EVENT_CONTEXT: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
         run: |
-          export user=$(echo $USER_CONTEXT | tr -d \")
-          export repo=$(echo $EVENT_CONTEXT | tr -d \")
-          echo "permissions_url="GET /repos/$repo/collaborators/$user/permission" >> $GITHUB_ENV
+          echo "permissions_url="GET /repos/$EVENT_CONTEXT/collaborators/$USER_CONTEXT/permission" >> $GITHUB_ENV
           echo $permissions_url
       - name: Get Permission 
         uses: octokit/request-action@v2.x
