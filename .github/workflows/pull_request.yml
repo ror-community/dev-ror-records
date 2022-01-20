@@ -16,8 +16,8 @@ jobs:
           USER_CONTEXT: ${{ toJSON(github.event.pull_request.user.login) }}
           EVENT_CONTEXT: ${{ toJSON(github.event.pull_request.base.repo.full_name) }}
         run: |
-          export user=`echo $USER_CONTEXT | sed 's/\"//g'`
-          export repo=`echo $EVENT_CONTEXT | sed 's/\"//g'`
+          export user=$(echo $USER_CONTEXT | sed "s/\"//g'")
+          export repo=$(echo $EVENT_CONTEXT | sed "s/\"//g'")
           echo "permissions_url="GET /repos/$repo/collaborators/$user/permission" >> $GITHUB_ENV
           echo $permissions_url
       - name: Get Permission 
