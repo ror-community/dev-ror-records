@@ -1,0 +1,68 @@
+name: Merge to Staging
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+    branches:
+      - '!main'
+      - '!v.**-rc'
+      - 'staging'
+
+env:
+  USER_INFO: ${{ github.event.pull_request.user.login }}
+  REPO_INFO: ${{ github.event.pull_request.base.repo.full_name }}
+
+jobs:
+  check_permission:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Permission 
+        uses: octokit/request-action@v2.x
+        id: get_permission
+        with:
+          route: GET /repos/${{ env.REPO_INFO }}/collaborators/${{ env.USER_INFO }}/permission
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - name: output
+        run:  |
+          export role_name=${{ fromJson(steps.get_permission.outputs.data).role_name }}
+          if [[ "$role_name" == "maintain"  || "$role_name" == "admin" ]]; then
+            exit 0
+          else
+            exit 1
+          fi
+  check_validation:
+    runs-on: ubuntu-latest
+    needs: check_permission
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - name: Set up Python environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
+      - name: Checkout validation suite
+        uses: actions/checkout@v2
+        with:
+          repository: ror-community/validation-suite
+          path: validation-suite
+      - name: Validate files
+        id: validatefiles
+        run: |
+          mkdir files 
+          cp *.json files/
+          cd validation-suite
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python run_validations.py -i ../files -p ../files/
+      - name: Notify Slack
+        if: always()
+        uses: edge/simple-slack-notify@master
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
+        with:
+          channel: '#ror-curation-releases'
+          color: 'good'
+          text: 'Validation status during PR to STAGING:  ${{ steps.validatefiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+     
