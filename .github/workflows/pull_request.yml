@@ -24,7 +24,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
-          ${{ toJson(github.event.pull_request) }}
           export role_name=${{ fromJson(steps.get_permission.outputs.data).role_name }}
           if [[ "$role_name" == "maintain"  || "$role_name" == "admin" ]]; then
             exit 0
