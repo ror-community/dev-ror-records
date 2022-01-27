@@ -22,9 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Get release candidate branch name
         run:  |
-           export data=${{ fromJson(steps.get_merge_pr.outputs.data) }}
-           export url=${data}[0].pull_requests.url
-           export branch_name=$(curl ${url} | jq .head.ref)
-           echo $branch_name
+           export data=${{ fromJson(steps.get_merge_pr.outputs.data)[0].pull_requests.url }}
+           echo "URL: ${data}"
 
           
