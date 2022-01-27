@@ -23,8 +23,9 @@ jobs:
       - name: Get branch name
         run: |
           export url=${{ fromJson(steps.get_merge_pr.outputs.data).items[0].pull_request.url }}
-          export branch=$(curl ${url} | jq .head.ref)
-          echo "BRANCH: ${branch}"
+          echo "release_branch=$(curl ${url} | jq .head.ref)" >> $GITHUB_ENV
+      - name: Copy files 
+        run: echo ${{ env.release_branch }}
 
 
 
