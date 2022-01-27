@@ -20,9 +20,12 @@ jobs:
           q: 'repo:${{ github.event.repository.full_name }}+is:pr+is:closed+merge_sha_commit:${{ github.event.after }}'
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      - name: Get release candidate branch name
-        run:  |
-           export data=${{ fromJson(steps.get_merge_pr.outputs.data).items[0].pull_request.url }}
-           echo "URL: ${data}"
+      - name: Get branch name
+        run: |
+          export url=${{ fromJson(steps.get_merge_pr.outputs.data).items[0].pull_request.url }}
+          export branch=$(curl ${url} | jq .head.ref)
+          echo "BRANCH: ${branch}"
+
+
 
           
