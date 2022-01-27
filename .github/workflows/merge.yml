@@ -3,10 +3,28 @@ on:
   push:
     branches:
       - 'staging'
+env:
+  MERGE_SHA: ${{ github.event.after }}
+  REPO_INFO: ${{ github.event.repository.full_name }}
+  BEFORE_MERGE: ${{ github.event.before  }}
 
 jobs:
   copy-files:
     runs-on: ubuntu-latest
     steps:
-      - name: Do something
-        run: ${{ toJson(github.event) }}
+      - name: GET INFO
+        run: |
+          ${{ github.event.after }}
+          ${{ github.event.repository.full_name }}
+      - name: Get Merge PR
+        uses: octokit/request-action@v2.x
+        id: get_merge_pr
+        with:
+          route: GET search/issues
+          q: 'repo:${{ github.event.repository.full_name }}+is:pr+is:closed+merge_sha_commit:${{ github.event.after }}'
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - name: output
+        run:  |
+          ${{ fromJson(steps.get_merge_pr.outputs.data) }}
+          
