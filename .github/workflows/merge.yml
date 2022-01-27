@@ -16,12 +16,12 @@ jobs:
         uses: octokit/request-action@v2.x
         id: get_merge_pr
         with:
-          route: GET search/issues
+          route: GET /search/issues
           q: 'repo:${{ github.event.repository.full_name }}+is:pr+is:closed+merge_sha_commit:${{ github.event.after }}'
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
           echo ${{ steps.get_merge_pr.outputs.data }}
-          
+
           
