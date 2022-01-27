@@ -3,10 +3,15 @@ on:
   push:
     branches:
       - 'staging'
+env:
+  MERGE_SHA: ${{ github.event.after }}
+  REPO_INFO: ${{ github.event.repository.full_name }}
 
 jobs:
   copy-files:
     runs-on: ubuntu-latest
     steps:
       - name: Do something
-        run: ${{ toJson(github.event) }}
+        run: |
+          ${{ github.event.after }}
+          ${{ github.event.repository.full_name }}
