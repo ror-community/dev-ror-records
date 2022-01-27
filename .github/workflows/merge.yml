@@ -12,10 +12,6 @@ jobs:
   copy-files:
     runs-on: ubuntu-latest
     steps:
-      - name: GET INFO
-        run: |
-          ${{ github.event.after }}
-          ${{ github.event.repository.full_name }}
       - name: Get Merge PR
         uses: octokit/request-action@v2.x
         id: get_merge_pr
@@ -26,5 +22,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: output
         run:  |
-          ${{ fromJson(steps.get_merge_pr.outputs.data) }}
+          echo ${{ steps.get_merge_pr.outputs.data }}
+          
           
