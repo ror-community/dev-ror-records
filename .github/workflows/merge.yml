@@ -43,5 +43,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Copy status to S3 Bucket:  ${{ steps.validatefiles.outcome }}. Files are now on: ${{ env.ROR_DATA_S3_BUCKET_DEV }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'Copy status to dev S3 Bucket:  ${{ steps.validatefiles.outcome }}.  On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 
