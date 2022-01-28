@@ -32,8 +32,8 @@ jobs:
         id: install-aws-cli
         uses: unfor19/install-aws-cli-action@v1.0.2
       - name: Zip and copy files 
-      - run: |
+        run: |
           zip files.zip *.json
           ls 
-          aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ env.release_branch }}/files.zip
+          aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/wip/${{ env.release_branch }}/files.zip
 
