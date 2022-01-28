@@ -24,8 +24,13 @@ jobs:
         run: |
           export url=${{ fromJson(steps.get_merge_pr.outputs.data).items[0].pull_request.url }}
           echo "release_branch=$(curl ${url} | jq .head.ref)" >> $GITHUB_ENV
-      - name: Copy files 
-        run: echo ${{ env.release_branch }}
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Zip files 
+        run: |
+          zip files.zip *.json
+          ls *
+
 
 
 
