@@ -34,7 +34,6 @@ jobs:
       - name: Zip and copy files 
         run: |
           zip files.zip *.json
-          ls 
           aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/wip/${{ env.release_branch }}/files.zip
       - name: Notify Slack
         if: always()
