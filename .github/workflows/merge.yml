@@ -26,10 +26,21 @@ jobs:
           echo "release_branch=$(curl ${url} | jq .head.ref)" >> $GITHUB_ENV
       - name: checkout
         uses: actions/checkout@v2
-      - name: Zip files 
+      - name: Zip files and copy to S3
         run: |
           zip files.zip *.json
-          ls *
+          export s3bucket_name=${{ secrets.ROR_DATA_S3_BUCKET_DEV }}
+          set -e
+
+          mkdir -p ~/.aws
+          touch ~/.aws/credentials
+
+          echo "[default]
+          aws_access_key_id=${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key=${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          region=${{ secrets.AWS_REGION }}" > ~/.aws/credentials
+
+          docker run --rm -it  -v ~/.aws:/root/.aws amazon/aws-cli:2.4.14 s3 ls s3://${s3bucket_name}
 
 
 
