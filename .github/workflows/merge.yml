@@ -6,7 +6,9 @@ on:
 env:
   MERGE_SHA: ${{ github.event.after }}
   REPO_INFO: ${{ github.event.repository.full_name }}
-  BEFORE_MERGE: ${{ github.event.before  }}
+  AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+  AWS_DEFAULT_REGION: ${{ secrets.AWS_REGION }}
 
 jobs:
   copy-files:
@@ -27,20 +29,12 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: Zip files and copy to S3
-        run: |
+        id: install-aws-cli
+        uses: unfor19/install-aws-cli-action@v1.0.2
+      - run: |
           zip files.zip *.json
-          export s3bucket_name=${{ secrets.ROR_DATA_S3_BUCKET_DEV }}
-          set -e
-
-          mkdir -p ~/.aws
-          touch ~/.aws/credentials
-
-          echo "[default]
-          aws_access_key_id=${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws_secret_access_key=${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          region=${{ secrets.AWS_REGION }}" > ~/.aws/credentials
-
-          docker run --rm -it  -v ~/.aws:/root/.aws amazon/aws-cli:2.4.14 s3 ls s3://${s3bucket_name}
+          ls 
+          echo aws --version
 
 
 
