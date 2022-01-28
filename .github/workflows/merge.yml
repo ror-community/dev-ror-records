@@ -34,9 +34,5 @@ jobs:
       - run: |
           zip files.zip *.json
           ls 
-          echo aws --version
+          aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/
 
-
-
-
-          
