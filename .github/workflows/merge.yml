@@ -28,11 +28,12 @@ jobs:
           echo "release_branch=$(curl ${url} | jq .head.ref)" >> $GITHUB_ENV
       - name: checkout
         uses: actions/checkout@v2
-      - name: Zip files and copy to S3
+      - name: Install aws cli
         id: install-aws-cli
         uses: unfor19/install-aws-cli-action@v1.0.2
+      - name: Zip and copy files 
       - run: |
           zip files.zip *.json
           ls 
-          aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/
+          aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ env.release_branch }}/files.zip
 
