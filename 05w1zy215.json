@@ -12,12 +12,18 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "North Carolina Department of Environment and Natural Resources",
+      "type": "Parent",
+      "id": "https://ror.org/01ftg8r37"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/05w1zy215",
   "labels": [],
   "status": "active",
-  "name": "North Carolina Geological Survey",
+  "name": "North\u00a0Carolina\u00a0Geological\u00a0Survey",
   "types": [
     "Government"
   ],

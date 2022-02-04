@@ -8,7 +8,13 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "United States Geological Survey",
+      "type": "Parent",
+      "id": "https://ror.org/035a68863"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/004yq4446",
   "labels": [],

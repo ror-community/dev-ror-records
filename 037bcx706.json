@@ -17,7 +17,13 @@
     }
   },
   "established": 1987,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Ministry of Health",
+      "type": "Parent",
+      "id": "https://ror.org/04gq6mn61"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/037bcx706",
   "labels": [
@@ -27,7 +33,7 @@
     }
   ],
   "status": "active",
-  "name": "Instituto Nacional de Oftalmología \"Dr. Francisco Contreras Campos\"",
+  "name": "Instituto Nacional de Oftalmolog\u00eda \"Dr. Francisco Contreras Campos\"",
   "types": [
     "Healthcare"
   ],

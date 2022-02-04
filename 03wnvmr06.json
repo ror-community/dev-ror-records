@@ -1,7 +1,7 @@
 {
   "ip_addresses": [],
   "aliases": [
-    "Jorge L. Araúz Research Center",
+    "Jorge L. Ara\u00faz Research Center",
     "Fortuna Station",
     "Green House",
     "Vivero"
@@ -13,7 +13,18 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 1976,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Smithsonian Institution",
+      "type": "Related",
+      "id": "https://ror.org/01pp8nd67"
+    },
+    {
+      "label": "Smithsonian Tropical Research Institute",
+      "type": "Related",
+      "id": "https://ror.org/035jbxr46"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/03wnvmr06",
   "labels": [],
@@ -31,10 +42,10 @@
       "line": null,
       "geonames_city": {
         "id": 3712410,
-        "city": "Provincia de Chiriquí",
+        "city": "Provincia de Chiriqu\u00ed",
         "geonames_admin1": {
-          "name": "Chiriquí",
-          "ascii_name": "Chiriquí",
+          "name": "Chiriqu\u00ed",
+          "ascii_name": "Chiriqu\u00ed",
           "id": 3712410,
           "code": "PA.02"
         },
@@ -46,7 +57,7 @@
       "lat": 8.5,
       "lng": -82.41667,
       "country_geonames_id": 3703430,
-      "city": "Provincia de Chiriquí"
+      "city": "Provincia de Chiriqu\u00ed"
     }
   ],
   "country": {

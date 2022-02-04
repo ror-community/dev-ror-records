@@ -27,12 +27,18 @@
     }
   },
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Bremen",
+      "type": "Parent",
+      "id": "https://ror.org/04ers2y35"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/028t94a80",
   "labels": [
     {
-      "label": "MARUM - Zentrum für Marine Umweltwissenschaften",
+      "label": "MARUM - Zentrum f\u00fcr Marine Umweltwissenschaften",
       "iso639": "de"
     }
   ],

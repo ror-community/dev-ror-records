@@ -23,7 +23,13 @@
     }
   },
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Michigan\u2013Ann Arbor",
+      "type": "Parent",
+      "id": "https://ror.org/00jmfr291"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/01q8qs980",
   "labels": [],

@@ -11,7 +11,18 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 1964,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Smithsonian Institution",
+      "type": "Related",
+      "id": "https://ror.org/01pp8nd67"
+    },
+    {
+      "label": "Smithsonian Tropical Research Institute",
+      "type": "Related",
+      "id": "https://ror.org/035jbxr46"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/02q7rxk38",
   "labels": [],
@@ -31,14 +42,14 @@
         "id": 3709416,
         "city": "Punta Galeta",
         "geonames_admin1": {
-          "name": "Colón",
-          "ascii_name": "Colón",
+          "name": "Col\u00f3n",
+          "ascii_name": "Col\u00f3n",
           "id": 3712073,
           "code": "PA.04"
         },
         "geonames_admin2": {
-          "name": "Colón District",
-          "ascii_name": "Colón District",
+          "name": "Col\u00f3n District",
+          "ascii_name": "Col\u00f3n District",
           "id": 3712075,
           "code": "PA.04.0301"
         },

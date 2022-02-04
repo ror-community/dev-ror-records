@@ -23,7 +23,13 @@
     }
   },
   "established": 1966,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Sociedade Brasileira de Psicologia",
+      "type": "Related",
+      "id": "https://ror.org/03w7hce19"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/03j0rz106",
   "labels": [
@@ -33,7 +39,7 @@
     }
   ],
   "status": "active",
-  "name": "Associação Brasileira de Psiquiatria",
+  "name": "Associa\u00e7\u00e3o Brasileira de Psiquiatria",
   "types": [
     "Nonprofit"
   ],

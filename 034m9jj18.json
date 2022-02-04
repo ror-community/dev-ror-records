@@ -23,7 +23,13 @@
     }
   },
   "established": 1999,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Tampere University",
+      "type": "Related",
+      "id": "https://ror.org/033003e23"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/034m9jj18",
   "labels": [
@@ -32,7 +38,7 @@
       "iso639": "fi"
     },
     {
-      "label": "Finlands Samhällsvetenskapliga Dataarkiv",
+      "label": "Finlands Samh\u00e4llsvetenskapliga Dataarkiv",
       "iso639": "sv"
     }
   ],

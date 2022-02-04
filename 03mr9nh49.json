@@ -8,7 +8,18 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 1964,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Smithsonian Institution",
+      "type": "Related",
+      "id": "https://ror.org/01pp8nd67"
+    },
+    {
+      "label": "Smithsonian Tropical Research Institute",
+      "type": "Related",
+      "id": "https://ror.org/035jbxr46"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/03mr9nh49",
   "labels": [],
@@ -28,8 +39,8 @@
         "id": 3711718,
         "city": "Punta de Palmira",
         "geonames_admin1": {
-          "name": "Colón",
-          "ascii_name": "Colón",
+          "name": "Col\u00f3n",
+          "ascii_name": "Col\u00f3n",
           "id": 3712073,
           "code": "PA.04"
         },

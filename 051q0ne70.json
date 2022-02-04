@@ -23,12 +23,18 @@
     }
   },
   "established": 1923,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "V\u00e4stra G\u00f6taland Regional Council",
+      "type": "Parent",
+      "id": "https://ror.org/00a4x6777"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/051q0ne70",
   "labels": [
     {
-      "label": "Göteborgs Botaniska Trädgård",
+      "label": "G\u00f6teborgs Botaniska Tr\u00e4dg\u00e5rd",
       "iso639": "sv"
     }
   ],
@@ -48,8 +54,8 @@
         "id": 2711537,
         "city": "Gothenburg",
         "geonames_admin1": {
-          "name": "Västra Götaland",
-          "ascii_name": "Västra Götaland",
+          "name": "V\u00e4stra G\u00f6taland",
+          "ascii_name": "V\u00e4stra G\u00f6taland",
           "id": 3337386,
           "code": "SE.28"
         },

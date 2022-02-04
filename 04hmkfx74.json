@@ -25,12 +25,18 @@
     }
   },
   "established": 1987,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/04hmkfx74",
   "labels": [],
   "status": "active",
-  "name": "UMR Géographie-cités",
+  "name": "UMR G\u00e9ographie-cit\u00e9s",
   "types": [
     "Facility"
   ],
@@ -45,8 +51,8 @@
         "id": 3036386,
         "city": "Aubervilliers",
         "geonames_admin1": {
-          "name": "Île-de-France",
-          "ascii_name": "Île-de-France",
+          "name": "\u00cele-de-France",
+          "ascii_name": "\u00cele-de-France",
           "id": 3012874,
           "code": "FR.11"
         },

@@ -2,7 +2,7 @@
   "ip_addresses": [],
   "aliases": [],
   "acronyms": [
-    "УкрІНТЕІ"
+    "\u0423\u043a\u0440\u0406\u041d\u0422\u0415\u0406"
   ],
   "links": [
     "http://www.ukrintei.ua/"
@@ -23,12 +23,18 @@
     }
   },
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Ministry of Education and Science",
+      "type": "Parent",
+      "id": "https://ror.org/03bra4w96"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/05dkgcy93",
   "labels": [
     {
-      "label": "Державна наукова установа «Український інститут науково-технічної експертизи та інформації»",
+      "label": "\u0414\u0435\u0440\u0436\u0430\u0432\u043d\u0430 \u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0430 \u00ab\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u0456\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u043d\u0430\u0443\u043a\u043e\u0432\u043e-\u0442\u0435\u0445\u043d\u0456\u0447\u043d\u043e\u0457 \u0435\u043a\u0441\u043f\u0435\u0440\u0442\u0438\u0437\u0438 \u0442\u0430 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457\u00bb",
       "iso639": "uk"
     }
   ],

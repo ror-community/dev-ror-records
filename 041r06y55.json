@@ -10,12 +10,18 @@
   "wikipedia_url": "https://doesnotexist.butIhavetofillthisfield",
   "external_ids": {},
   "established": 2009,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Bundesamt f\u00c3\u00bcr Bauwesen und Raumordnung",
+      "type": "Parent",
+      "id": "https://ror.org/04hqtn844"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/041r06y55",
   "labels": [],
   "status": "active",
-  "name": "Bundesinstitut für Bau-, Stadt- und Raumforschung",
+  "name": "Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung",
   "types": [
     "Government"
   ],

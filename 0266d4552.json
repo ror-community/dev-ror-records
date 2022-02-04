@@ -17,12 +17,28 @@
     }
   },
   "established": 2015,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Trinity College Dublin",
+      "type": "Related",
+      "id": "https://ror.org/02tyrky19"
+    },
+    {
+      "label": "National University of Ireland, Maynooth",
+      "type": "Related",
+      "id": "https://ror.org/048nfjm95"
+    },
+    {
+      "label": "Royal Irish Academy",
+      "type": "Related",
+      "id": "https://ror.org/019tbdj08"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/0266d4552",
   "labels": [
     {
-      "label": "Taisclann Dhigiteach na hÉireann",
+      "label": "Taisclann Dhigiteach na h\u00c9ireann",
       "iso639": "ga"
     }
   ],

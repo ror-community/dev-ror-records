@@ -1,7 +1,7 @@
 {
   "ip_addresses": [],
   "aliases": [
-    "Cartográfica de Canariasz, S. A."
+    "Cartogr\u00e1fica de Canariasz, S. A."
   ],
   "acronyms": [
     "GRAFCAN"
@@ -12,12 +12,18 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Gobierno de Canarias",
+      "type": "Parent",
+      "id": "https://ror.org/0172fj584"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/04a174v46",
   "labels": [],
   "status": "active",
-  "name": "Cartográfica de Canarias",
+  "name": "Cartogr\u00e1fica de Canarias",
   "types": [
     "Government"
   ],

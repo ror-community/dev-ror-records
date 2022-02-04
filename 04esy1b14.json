@@ -11,7 +11,18 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 1963,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Smithsonian Institution",
+      "type": "Related",
+      "id": "https://ror.org/01pp8nd67"
+    },
+    {
+      "label": "Smithsonian Tropical Research Institute",
+      "type": "Related",
+      "id": "https://ror.org/035jbxr46"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/04esy1b14",
   "labels": [
@@ -36,8 +47,8 @@
         "id": 3703983,
         "city": "Isla Naos",
         "geonames_admin1": {
-          "name": "Panamá",
-          "ascii_name": "Panamá",
+          "name": "Panam\u00e1",
+          "ascii_name": "Panam\u00e1",
           "id": 3703433,
           "code": "PA.08"
         },
