@@ -1,0 +1,54 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [],
+  "links": [],
+  "wikipedia_url": null,
+  "external_ids": {},
+  "established": 1994,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/03ykk2f03",
+  "labels": [
+    {
+      "label": "test",
+      "iso639": "ty"
+    }
+  ],
+  "status": "active",
+  "name": "st",
+  "types": [
+    "Education"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 341234,
+        "city": "Caho",
+        "geonames_admin1": {
+          "name": "Amhara",
+          "ascii_name": "Amhara",
+          "id": 444180,
+          "code": "ET.46"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 9.51667,
+      "lng": 39.35,
+      "country_geonames_id": 337996,
+      "city": "Caho"
+    }
+  ],
+  "country": {
+    "country_name": "Ethiopia",
+    "country_code": "ET"
+  }
+}
