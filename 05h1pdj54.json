@@ -1,0 +1,91 @@
+{
+  "id": "https://ror.org/05h1pdj54",
+  "name": "National Academy of Educational Sciences of Ukraine",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1992,
+  "types": [
+    "Nonprofit"
+  ],
+  "relationships": [
+    {
+      "label": "Institute of Information Technologies and Learning Tools of the NAES of Ukraine",
+      "type": "Child",
+      "id": "https://ror.org/022dfay12"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 50.45466,
+      "lng": 30.5238,
+      "state": null,
+      "state_code": null,
+      "city": "Kyiv",
+      "geonames_city": {
+        "id": 703448,
+        "city": "Kyiv",
+        "geonames_admin1": {
+          "name": "Kyiv City",
+          "id": 703447,
+          "ascii_name": "Kyiv City",
+          "code": "UA.12"
+        },
+        "geonames_admin2": {
+          "name": null,
+          "id": null,
+          "ascii_name": null,
+          "code": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 690791
+    }
+  ],
+  "links": [
+    "http://naps.gov.ua/en/"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/National_Academy_of_Educational_Sciences_of_Ukraine",
+  "labels": [
+    {
+      "label": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u0430\u043a\u0430\u0434\u0435\u043c\u0456\u044f \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0456\u0447\u043d\u0438\u0445 \u043d\u0430\u0443\u043a \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+      "iso639": "uk"
+    }
+  ],
+  "country": {
+    "country_name": "Ukraine",
+    "country_code": "UA"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q3734241"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.501346.5",
+      "all": "grid.501346.5"
+    }
+  }
+}

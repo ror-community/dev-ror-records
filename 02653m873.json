@@ -1,0 +1,65 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [
+    "NDRIO",
+    "NOIRN"
+  ],
+  "links": [
+    "https://engagedri.ca/"
+  ],
+  "wikipedia_url": null,
+  "external_ids": {},
+  "established": null,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/02653m873",
+  "labels": [
+    {
+      "label": "Nouvelle organisation d’infrastructure de recherche numérique",
+      "iso639": "fr"
+    }
+  ],
+  "status": "active",
+  "name": "New Digital Research Infrastructure Organization",
+  "types": [
+    "Archive"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 6094817,
+        "city": "Ottawa",
+        "geonames_admin1": {
+          "name": "Ontario",
+          "ascii_name": "Ontario",
+          "id": 6093943,
+          "code": "CA.08"
+        },
+        "geonames_admin2": {
+          "name": "Ottawa",
+          "ascii_name": "Ottawa",
+          "id": 8581623,
+          "code": "CA.08.3506"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 45.41117,
+      "lng": -75.69812,
+      "country_geonames_id": 6251999,
+      "city": "Ottawa"
+    }
+  ],
+  "country": {
+    "country_name": "Canada",
+    "country_code": "CA"
+  }
+}

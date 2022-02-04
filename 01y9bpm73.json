@@ -1,0 +1,144 @@
+{
+  "id": "https://ror.org/01y9bpm73",
+  "name": "University of G\u00f6ttingen",
+  "email_address": "",
+  "ip_addresses": [],
+  "established": 1734,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Institut f\u00fcr Zuckerr\u00fcbenforschung",
+      "type": "Related",
+      "id": "https://ror.org/05831r008"
+    },
+    {
+      "label": "Marienkrankenhaus Kassel",
+      "type": "Related",
+      "id": "https://ror.org/01ddazc14"
+    },
+    {
+      "label": "Universit\u00e4tsmedizin G\u00f6ttingen",
+      "type": "Related",
+      "id": "https://ror.org/021ft0n22"
+    },
+    {
+      "label": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung mbH G\u00f6ttingen",
+      "type": "Child",
+      "id": "https://ror.org/00cd95c65"
+    },
+    {
+      "label": "Institute for Small Business Economics",
+      "type": "Child",
+      "id": "https://ror.org/031q2en94"
+    },
+    {
+      "label": "Leibniz ScienceCampus Primate Cognition",
+      "type": "Child",
+      "id": "https://ror.org/05ehdmg18"
+    },
+    {
+      "label": "Multiscale Bioimaging",
+      "type": "Child",
+      "id": "https://ror.org/0543vy336"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 51.53443,
+      "lng": 9.93228,
+      "state": null,
+      "state_code": null,
+      "city": "G\u00f6ttingen",
+      "geonames_city": {
+        "id": 2918632,
+        "city": "G\u00f6ttingen",
+        "geonames_admin1": {
+          "name": "Lower Saxony",
+          "id": 2862926,
+          "ascii_name": "Lower Saxony",
+          "code": "DE.06"
+        },
+        "geonames_admin2": {
+          "name": null,
+          "id": null,
+          "ascii_name": null,
+          "code": "DE.06.00"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": "NIEDERSACHSEN",
+          "code": "DE9"
+        },
+        "nuts_level2": {
+          "name": "Braunschweig",
+          "code": "DE91"
+        },
+        "nuts_level3": {
+          "name": "G\u00f6ttingen",
+          "code": "DE915"
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 2921044
+    }
+  ],
+  "links": [
+    "http://www.uni-goettingen.de/en/1.html"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "GAU"
+  ],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen",
+  "labels": [
+    {
+      "label": "Georg-August-Universit\u00e4t G\u00f6ttingen",
+      "iso639": "de"
+    }
+  ],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0001 2364 4210"
+      ]
+    },
+    "FundRef": {
+      "preferred": "501100003385",
+      "all": [
+        "501100003385",
+        "501100003383",
+        "501100004939"
+      ]
+    },
+    "OrgRef": {
+      "preferred": "180763",
+      "all": [
+        "180763",
+        "47002223"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q152838"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.7450.6",
+      "all": "grid.7450.6"
+    }
+  }
+}
