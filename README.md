@@ -1,14 +1,24 @@
 # ror-records
 Test repository for developing deployment process for ROR record updates.
 
-## Deployment steps
+# ROR Data release creation & deployment steps
 
-### Create JSON files for new and updated ROR records
+1. [Create JSON files for new and updated ROR records](#create-json-files-for-new-and-updated-ror-records)
+2. [Create new release candidate (rc) branch](#create-new-release-candidate-rc-branch)
+3. [Push new/updated ROR JSON files to rc branch](#push-newupdated-ror-json-files-to-rc-branch)
+4. [Generate relationships](#generate-relationships)
+5. [Validate files](#validate-files)
+6. [Deploy to Staging](#deploy-to-staging)
+7. [Test Staging release](#test-staging-release)
+8. [Deploy to Production](#deploy-to-production)
+9. [Test and announce production release](#test-and-announce-production-release)
+
+# Create JSON files for new and updated ROR records
 TODO: Write doc here or link to docs elsewhere?
 
-### Create new rc (release candidate) branch
+# Create new release candidate (rc) branch
 
-#### Github UI
+## Github UI
 1. Go to [ror-community/ror-records](https://github.com/ror-community/ror-records)
 2. Click the branches dropdown in the upper left (should say 'main' by default)
 3. Click dummy-rc to switch to the dummy-rc branch
@@ -16,32 +26,32 @@ TODO: Write doc here or link to docs elsewhere?
 5. Enter the name of your new rc branch in the "Find or create branch" field. Names for new release candidate branches should follow the convention v[MAJOR VERSION].[MINOR VERSION].[PATCH VERSION IF APPLICABLE]-rc, ex: v1.3-rc.
 6. Click Create branch: [NEW BRANCH NAME] from 'dummy-rc'
 
-#### Git CLI
+## Git CLI
 These steps assume that you have already [installed and configured git](https://git-scm.com/downloads) on your computer, and that you have cloned the [ror-records](https://github.com/ror-community/ror-records) repository locally.
 
 1. In the ror-records checkout the dummy-rc branch
 
-    git checkout dummy-rc
+        git checkout dummy-rc
 
 2. Make sure your local dummy-rc branch matches the remote branch (make sure to git stash any local changes before doing this!)
 
-    git fetch origin
-    git reset --hard origin/dummy-rc
+        git fetch origin
+        git reset --hard origin/dummy-rc
 
 3. Checkout a rc branch based on dummy-rc. Names for new release candidate branches should follow the convention v[MAJOR VERSION].[MINOR VERSION].[PATCH VERSION IF APPLICABLE]-rc, ex: v1.3-rc.
 
-   git checkout -b v1.3-rc
+        git checkout -b v1.3-rc
 
-### Push new/updated ROR JSON files to rc branch
+# Push new/updated ROR JSON files to rc branch
 
-#### Github UI
+## Github UI
 1. In the ror-records repository, click the Branches dropdown at left and choose the vX.X-rc branch that you created in the previous steps.
 2. Click the Add file button at right and choose Upload files
 3. Add JSON files for new and updated ROR records as prompted
 4. Under Commit changes, type a commit message in the first text box, leave the radio button set to "Commit directly to the vX.X-rc branch" and click Commit changes.
 5. Repeat steps 1-4 if additional files need to be added to the release candidate.
 
-#### Git CLI
+## Git CLI
 1. Place the JSON files for new and updated records in your local copy of the ror-records repository.
 2. Add and commit the files
 
@@ -54,7 +64,7 @@ These steps assume that you have already [installed and configured git](https://
 
 4. Repeat steps 1-3 if additional files need to be added to the release candidate.
 
-### Generate relationships
+# Generate relationships
 Relationships are not included in the intitial ROR record JSON files. Relationships are generated using a script [generaterelationships.py](https://github.com/ror-community/ror-api/blob/dev/rorapi/management/commands/generaterelationships.py) triggered by a Github action [Create relationships](https://github.com/ror-community/ror-records/blob/dummy-rc/.github/workflows/generate_relationships.yml), which should be run after all new and updated JSON records to be included in the release are uploaded to the vX.X-rc branch.
 
 1. Create relationships list as a CSV and name the file relationships.csv (TODO: directions about CSV formatting). **IMPORTANT! File must be named relationships.csv**
@@ -69,7 +79,7 @@ Relationships are not included in the intitial ROR record JSON files. Relationsh
 5. It will take a few minutes for the workflow to run. If sucessful, the workflow will update ROR record JSON files in the vX.X-rc branch that you specified, a green checkbox will be shown on the workflow runs list in Github, and a success messages will be posted to the #ror-curation-releases Slack channel. If the workflow run is unsuccessful, an red X will be shown on the workflow runs list in Github and an error message will be posted to Slack. To see the error details, click the generate-relationships box on the workflow run page in Github.
 6. If this workflow fails, there's likely a mistake in the relationships.csv or one or more of the ROR record JSON files that needs to be corrected. In that case, make the needed corrections, commit and push the files to the vX.X-rc branch and repeat steps 3-5 to re-run the Create relationships workflow.
 
-### Validate files
+# Validate files
 Before finalizing a release candidate, JSON files for new and updated ROR records should be validated to check that they comply with the ROR schema and contained properly formatted JSON. Validation is performed by a script [run_validations.py](https://github.com/ror-community/validation-suite/blob/main/run_validations.py) triggered by a Github action [Validate files](https://github.com/ror-community/ror-records/blob/demo-rc/.github/workflows/validate.yml
 ), which should be run after all new and updated JSON records to be included in the release are uploaded to the vX.X-rc branch.
 
@@ -80,7 +90,7 @@ Before finalizing a release candidate, JSON files for new and updated ROR record
 
 **IMPORTANT! Validate files workflow must succeed before proceeding to deployment**
 
-### Deploy to Staging
+# Deploy to Staging
 Deploying to staging.ror.org/search and api.staging.ror.org requires making a Github pull request and merging it. This trigggers an automated deployment process. Note that only specific Github users are allowed to open and merge pull requests.
 
 1. Go to https://github.com/ror-community/ror-records/pulls (Pull requests tab in ror-records repository)
@@ -93,10 +103,10 @@ Deploying to staging.ror.org/search and api.staging.ror.org requires making a Gi
 8. Once the Staging pull request workflow has completed successfully, click Merge pull request
 9. A Github action [Deploy to staging](https://github.com/ror-community/ror-records/blob/dummy-rc/.github/workflows/merge.yml) will be triggered, which pushes the new and updated JSON files to AWS S3 and indexes the data into the ROR Elasticsearch instance. If sucessful, a green checkbox will be shown in the pull request details, and a success messages will be posted to the #ror-curation-releases Slack channel. The new data should now be available in https://staging.ror.org/search and https://api.staging.ror.org
 
-### Test Staging release
+# Test Staging release
 TODO: develop a list of standard queries to run in the API and UI
 
-### Deploy to Production
+# Deploy to Production
 Deploying to ror.org/search and api.ror.org requires making a Github pull request and merging it, then tagging and publishing a new release. This trigggers an automated deployment process. Note that only specific Github users are allowed to open/merge pull requests and create releases.
 
 1. Go to https://github.com/ror-community/ror-records/pulls (Pull requests tab in ror-records repository)
@@ -115,7 +125,7 @@ Deploying to ror.org/search and api.ror.org requires making a Github pull reques
 14. Click Publish release
 9. A Github action Deploy to production will be triggered, which pushes the new and updated JSON files to AWS S3, indexes the data into the production ROR Elasticsearch instance and generates  a new data dump file in TBD. If sucessful, a green checkbox will be shown in the pull request details, and a success messages will be posted to the #ror-curation-releases Slack channel. The new data should now be available in https://ror.org/search and https://api.ror.org
 
-### Test and announce production release
+# Test and announce production release
 TODO: develop a list of standard queries to run in the API and UI
 TODO: develop standard text and  list of channels that we announce new release to
 TODO: process for notifying requestors that their curation request has been completed
