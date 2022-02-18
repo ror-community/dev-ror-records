@@ -104,7 +104,13 @@ Before finalizing a release candidate, JSON files for new and updated ROR record
 **IMPORTANT! Validate files workflow must succeed before proceeding to deployment**
 
 # Deploy to Staging
-Deploying to staging.ror.org/search and api.staging.ror.org requires making a Github pull request and merging it. This trigggers an automated deployment process. Note that only specific Github users are allowed to open and merge pull requests.
+Deploying to staging.ror.org/search and api.staging.ror.org requires making a Github pull request and merging it. Each of these actions triggers different automated workflows:
+
+- **Open pull request against Staging branch:** Check user permissions and validate files
+- **Merge pull request to Staging branch:**  Check user permissions, deploy release candidate to Staging API
+
+*Note that only specific Github users (ROR staff) are allowed to open/merge pull requests and create releases.*
+
 
 1. Go to https://github.com/ror-community/ror-records/pulls (Pull requests tab in ror-records repository)
 2. Click New pull request at right
@@ -181,8 +187,8 @@ Choose several updated records from Production and, for each record:
 # Deploy to Production
 Deploying to ror.org/search and api.ror.org requires making a Github pull request and merging it, then tagging and publishing a new release. Each of these actions triggers different automated workflows:
 
-- **Open pull request:** Check user permissions and validate files
-- **Merge pull request:**  Check user permissions and push individual JSON records included in the release to a new directory with the release tag as the directory name in [ror-updates](https://github.com/ror-community/ror-updates). This is for curator convenience; this copy of the release records is not used elsewhere in the deployment process.
+- **Open pull request against Main branch:** Check user permissions and validate files(?)
+- **Merge pull request to Main branch:**  Check user permissions and push individual JSON records included in the release to a new directory with the release tag as the directory name in [ror-updates](https://github.com/ror-community/ror-updates). This is for curator convenience; this copy of the release records is not used elsewhere in the deployment process.
 - **Publish release:** Check user permissions, deploy release to production API, create new data dump zip file and place in ror-data repository.
 
 *Note that only specific Github users (ROR staff) are allowed to open/merge pull requests and create releases.*
@@ -226,7 +232,7 @@ Choose several new, updated and unchanged records and, for each record:
 # Publish data dump to Zenodo
 1. Download the vX.X.zip file from ror-data to your computer
 2. Log into [Zenodo](https://zenodo.org/) using the info@ror.org account
-3. Create a new upload in the ROR Data community (see past example https://doi.org/10.5281/zenodo.4929693). Make sure to include Related Identifiers metadata referencing previous releases.
+3. Create a new upload in the [ROR Data community](https://zenodo.org/communities/ror-data) (see past example https://doi.org/10.5281/zenodo.4929693). Make sure to include Related Identifiers metadata referencing previous releases.
 
 # Announce production release
 TODO: develop standard text and  list of channels that we announce new release to
