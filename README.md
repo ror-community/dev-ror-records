@@ -11,7 +11,7 @@ Test repository for developing deployment process for ROR record updates.
 6. [Deploy to Staging](#deploy-to-staging)
 7. [Test Staging release](#test-staging-release)
 8. [Deploy to Production](#deploy-to-production)
-9. [Test roduction release](#test-production-release)
+9. [Test production release](#test-production-release)
 10. [Publish data dump to Zenodo](#publish-data-dump-to-zenodo)
 11. [Announce production release](#announce-production-release)
 
