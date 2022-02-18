@@ -11,7 +11,9 @@ Test repository for developing deployment process for ROR record updates.
 6. [Deploy to Staging](#deploy-to-staging)
 7. [Test Staging release](#test-staging-release)
 8. [Deploy to Production](#deploy-to-production)
-9. [Test and announce production release](#test-and-announce-production-release)
+9. [Test roduction release](#test-production-release)
+10. [Publish data dump to Zenodo](#publish-data-dump-to-zenodo)
+11. [Announce production release](#announce-production-release)
 
 # Create JSON files for new and updated ROR records
 JSON files for new and updated ROR records are created by the ROR metadata curation lead and curation advisory board as part of the process managed in [ror-updates](https://github.com/ror-community/ror-updates). **Only changes requested and approved through this curation process are included in ROR data releases.**
