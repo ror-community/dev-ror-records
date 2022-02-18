@@ -127,6 +127,7 @@ If records needed to be added or changed after an initial Staging release, add t
 
 - Do not remove records from the rc branch that have already been deployed to Staging. Overwrite any records already deployed to Staging that require changes and leave the rest as they are. When ready to deploy to poduction, the rc branch should contain all new/updated records to be included in the production release.
 - Include all relationships for all records in the Staging rc branch in relationships.csv (not just the current deployment)
+- Deleting record files from the rc branch after they have been deployed to Staging will not remove them from the Staging index. At the moment, this will need to be done manually by a developer; in the future, we will add a mechanism to remove records from the Staging index that have been deleted from an rc branch. This does not affect production, as the production index is completely separate.
 
 # Test Staging release
 
