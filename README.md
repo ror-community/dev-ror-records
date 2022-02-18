@@ -14,7 +14,9 @@ Test repository for developing deployment process for ROR record updates.
 9. [Test and announce production release](#test-and-announce-production-release)
 
 # Create JSON files for new and updated ROR records
-TODO: Write doc here or link to docs elsewhere?
+JSON files for new and updated ROR records are created by the ROR metadata curation lead and curation advisory board as part of the process managed in [ror-updates](https://github.com/ror-community/ror-updates). **Only changes requested and approved through this curation process are included in ROR data releases.**
+
+Schema-valid ROR record JSON can be generated using the [Leo form app](https://leo.dev.ror.org/). Note that relationships should not be included in record files; these are created in the [Generate relationships](#generate-relationships) step of the deployment process.
 
 # Create new release candidate (rc) branch
 
@@ -65,9 +67,18 @@ These steps assume that you have already [installed and configured git](https://
 4. Repeat steps 1-3 if additional files need to be added to the release candidate.
 
 # Generate relationships
-Relationships are not included in the intitial ROR record JSON files. Relationships are generated using a script [generaterelationships.py](https://github.com/ror-community/ror-api/blob/dev/rorapi/management/commands/generaterelationships.py) triggered by a Github action [Create relationships](https://github.com/ror-community/ror-records/blob/dummy-rc/.github/workflows/generate_relationships.yml), which should be run after all new and updated JSON records to be included in the release are uploaded to the vX.X-rc branch.
+Relationships are not included in the intitial ROR record JSON files. Relationships are generated using a script [generaterelationships.py](https://github.com/ror-community/ror-api/blob/dev/rorapi/management/commands/generaterelationships.py) triggered by a Github action [Create relationships](https://github.com/ror-community/ror-records/blob/dummy-rc/.github/workflows/generate_relationships.yml), which should be run AFTER all new and updated JSON records to be included in the release are uploaded to the vX.X-rc branch.
 
-1. Create relationships list as a CSV and name the file relationships.csv (TODO: directions about CSV formatting). **IMPORTANT! File must be named relationships.csv**
+1. Create relationships list as a CSV file using the template [[TEMPLATE] relationships.csv](https://docs.google.com/spreadsheets/d/17rA549Q6Vc-YyH8WUtXUOvsAROwCDmt1vy4Rjce-ELs) and name the file relationships.csv. **IMPORTANT! File must be named relationships.csv and fields used by the script must be formatted correctly**. Template fields used by the script are:
+
+| **Field name**                          | **Description**                                                                             | **Example value**                               |
+|-----------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Record ID                               | ROR ID of record being added/updated, in URL form                                           | https://ror.org/015m7w34                        |
+| Related ID                              | ROR ID of the related record, in URL form                                                   | https://ror.org/02baj6743                       |
+| Relationship of Related ID to Record ID | One the following values: Parent, Child, Related                                            | Parent                                          |
+| Name of org in Related ID               | Name of the related organization, as it appears in the name field of the related ROR record | Indiana University – Purdue University Columbus |
+| Current location of Related ID          | Production or Release branch                                                                | Production                                      |
+
 2. Commit and push the relationships.csv file to the current rc branch
 
         git add relationships.csv
@@ -84,7 +95,7 @@ Before finalizing a release candidate, JSON files for new and updated ROR record
 ), which should be run after all new and updated JSON records to be included in the release are uploaded to the vX.X-rc branch.
 
 1. Go to https://github.com/ror-community/ror-records/actions/workflows/validate.yml (Actions > Create relationships in the ror-records repository)
-2. Click Run workflow at right, choose the current vX.X-rc branch and click the green Run workflow button.
+2. Click Run workflow at right, choose the current vX.X-rc branch, tick "Check box to validate relationshpis",  and click the green Run workflow button.
 3. It will take a few minutes for the workflow to run. If sucessful, a green checkbox will be shown on the workflow runs list in Github, and a success messages will be posted to the #ror-curation-releases Slack channel. If the workflow run is unsuccessful, an red X will be shown on the workflow runs list in Github and an error message will be posted to Slack. To see the error details, click the validate-filtes box on the workflow run page in Github.
 4. If this workflow fails, there's an issue with the data in one of more ROR record JSON files that needs to be corrected. In that case, check the error details, make the needed corrections, commit and push the files to the vX.X-rc branch and repeat steps 1-3 to re-run the Validate files workflow.
 
@@ -97,14 +108,73 @@ Deploying to staging.ror.org/search and api.staging.ror.org requires making a Gi
 2. Click New pull request at right
 3. Click the Base dropdown at left and choose Staging. Important! Do not make a pull request against the default Main branch.
 4. Click the Compare dropdown and choose the vX.X.-rc branch that you have been working with in the previous steps.
-5. Click Create pull request TO DO: What should our standard PR message be?
+5. Click Create pull request and enter ```Merge vX.X-rc to staging``` in the Title field. Leave the Comments field blank.
 6. Double-check that the Base dropdown is set to Staging and that the list of updated files appears to be correct, then click Create pull request
 7. A Github action [Staging pull request](https://github.com/ror-community/ror-records/blob/dummy-rc/.github/workflows/staging_pull_request.yml) will be triggered which (1) verifies that the user is allowed to perform a release to staging and (2) runs the file validation script again. If sucessful, a green checkbox will be shown in the pull request details, and a success messages will be posted to the #ror-curation-releases Slack channel.
 8. Once the Staging pull request workflow has completed successfully, click Merge pull request
 9. A Github action [Deploy to staging](https://github.com/ror-community/ror-records/blob/dummy-rc/.github/workflows/merge.yml) will be triggered, which pushes the new and updated JSON files to AWS S3 and indexes the data into the ROR Elasticsearch instance. If sucessful, a green checkbox will be shown in the pull request details, and a success messages will be posted to the #ror-curation-releases Slack channel. The new data should now be available in https://staging.ror.org/search and https://api.staging.ror.org
 
+### Multiple staging releases
+If records needed to be added or changed after an initial Staging release, add the new/updated records to the existing rc branch per [Push new/updated ROR JSON files to rc branch](#push-newupdated-ror-json-files-to-rc-branch) and repeat the steps to [Generate relationships](#generate-relationships), [Validate files](#validate-files) and [Deploy to Staging](#deploy-to-staging). A few points to note with multiple Staging releases:
+
+- Do not remove records that have already been deployed to Staging (unless you have actually decided not to include a given record in the release). Overwrite any records already deployed to Staging that require changes and leave the rest as they are. The Staging rc branch should contain all new/updated records that should be included in the production release.
+- Include all relationships for all records in the Staging rc branch in relationships.csv (not just the current deployment)
+
 # Test Staging release
-TODO: develop a list of standard queries to run in the API and UI
+
+## New records
+Choose several new records from the Staging rc and, for each record:
+1. Check that the record can be retrieved from the Staging API
+
+        curl https://api.staging.ror.org/organizations/[RORID]
+
+2. Check that the record can be retrieved from the Staging UI
+
+        https://staging.ror.org/[RORID]
+
+3. Check that the record can be searched by name in the Staging API (make sure to [escape spaces and reserved characters](https://ror.readme.io/docs/rest-api#reserved-characters))
+
+          curl https://api.staging.ror.org/organizations?query=[STAGING%20RECORD%20NAME]
+
+4. Check that the record can be searched by name in the Staging UI
+
+        https://staging.ror.org/search > Enter name in search box
+
+## Updated records
+Choose several updated records from the Staging rc and, for each record:
+1. Check that the record can be retrieved from the Staging API
+
+        curl https://api.staging.ror.org/organizations/[RORID]
+
+2. Check that the record can be retrieved from the Staging UI
+
+        https://staging.ror.org/[RORID]
+
+3. Check that the record can be searched by name in the Staging API (make sure to [escape spaces and reserved characters](https://ror.readme.io/docs/rest-api#reserved-characters))
+
+          curl https://api.staging.ror.org/organizations?query=[RECORD%20NAME]
+
+4. Check that the record can be searched by name in the Staging UI
+
+        https://staging.ror.org/search > Enter name in search box
+
+5. Retrieve the record from the Staging API and the Production API and compare changes to verify that the expected changes where made.
+
+        curl https://api.staging.ror.org/organizations/[ROR ID] > staging_[RORID].json
+        curl https://api.ror.org/organizations/[ROR ID] > prod_[RORID].json
+        diff staging_[RORID].json prod_[RORID].json
+
+
+## Unchanged records
+Choose several updated records from Production and, for each record:
+
+1. Retrieve the record from the Staging API and the Production API and compare changes to verify that the records are identical.
+
+        curl https://api.staging.ror.org/organizations/[ROR ID] > staging_[RORID].json
+        curl https://api.ror.org/organizations/[ROR ID] > prod_[RORID].json
+        diff staging_[RORID].json prod_[RORID].json
+
+```diff``` result should be nothing (no response).
 
 # Deploy to Production
 Deploying to ror.org/search and api.ror.org requires making a Github pull request and merging it, then tagging and publishing a new release. This trigggers an automated deployment process. Note that only specific Github users are allowed to open/merge pull requests and create releases.
@@ -113,20 +183,42 @@ Deploying to ror.org/search and api.ror.org requires making a Github pull reques
 2. Click New pull request at right
 3. Click the Base dropdown at left and choose Main.
 4. Click the Compare dropdown and choose Staging.
-5. Click Create pull request TO DO: What should our standard PR message be?
+5. Click Create pull request, enter ```Merge vX.X-rc to production``` in the Title field. Leave the Comments field blank.
 6. Double-check that the Base dropdown is set to Main and that the list of updated files appears to be correct, then click Create pull request
 7. A Github action Production pull request will be triggered, which does TBD. If sucessful, a green checkbox will be shown in the pull request details, and a success messages will be posted to the #ror-curation-releases Slack channel.
 8. Once the Production pull request workflow has completed successfully, click Merge pull request.
 9. Go to https://github.com/ror-community/ror-records/releases (Release tab in ror-records repository)
 10. Click Draft new release at right
 11. Click the Choose a tag dropdown and enter the version number for the release, ex v1.3. This should be the same number as the release candidate branch, without the  "-rc". Click Create new tag X.X on publish.
-12. In the Release name field, enter "ROR release X.X" (replace X.X with the release tag number)
-13. TO DO: What release notes should we enter here?
+12. In the Release name field, enter ```vX.X``` (replace X.X with the release tag number)
+13. In the Dsecribe this release field, enter ```Includes updates listed in https://github.com/ror-community/ror-records/milestone/X``` (link to correct milestone for this release)
 14. Click Publish release
 9. A Github action Deploy to production will be triggered, which pushes the new and updated JSON files to AWS S3, indexes the data into the production ROR Elasticsearch instance and generates  a new data dump file in TBD. If sucessful, a green checkbox will be shown in the pull request details, and a success messages will be posted to the #ror-curation-releases Slack channel. The new data should now be available in https://ror.org/search and https://api.ror.org
 
-# Test and announce production release
-TODO: develop a list of standard queries to run in the API and UI
+# Test production release
+
+Choose several new, updated and unchanged records and, for each record:
+
+1. Check that the record can be retrieved from the Production API and the results are as expected.
+
+        curl https://api.ror.org/organizations/[RORID]
+
+2. Check that the record can be retrieved from the Production API and the results are as expected.
+
+        https://ror.org/[RORID]
+
+3. Check that the record can be searched by name in the Production API (make sure to [escape spaces and reserved characters](https://ror.readme.io/docs/rest-api#reserved-characters)) and the results are as expected.
+
+          curl https://api.ror.org/organizations?query=[STAGING%20RECORD%20NAME]
+
+4. Check that the record can be searched by name in the Production UI and the results are as expected.
+
+        https://ror.org/search > Enter name in search box
+
+# Publish data dump to Zenodo
+TODO
+
+# Announce production release
 TODO: develop standard text and  list of channels that we announce new release to
 TODO: process for notifying requestors that their curation request has been completed
 
