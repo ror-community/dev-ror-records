@@ -50,7 +50,7 @@ jobs:
         id: indexdata
         uses: fjogeleit/http-request-action@master
         with:
-          url: '${{ secrets.MICROSERVICE_INDEX_URL  }}/${{ env.release_branch }}'
+          url: '${{ secrets.MICROSERVICE_INDEX_URL  }}'
           method: 'GET'
           customHeaders: '{"X-Token": "${{ secrets.MICROSERVICE_TOKEN }}" }'
       - name: Show Response
