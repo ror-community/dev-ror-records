@@ -25,7 +25,7 @@ jobs:
       - name: Get branch name
         run: |
           export url=${{ fromJson(steps.get_merge_pr.outputs.data).items[0].pull_request.url }}
-          echo "release_branch=$(curl ${url} | jq .head.ref)" >> $GITHUB_ENV
+          echo "release_branch=$(curl ${url} | jq -r .head.ref)" >> $GITHUB_ENV
       - name: checkout
         uses: actions/checkout@v2
       - name: Install aws cli
@@ -46,13 +46,15 @@ jobs:
           channel: '#ror-curation-releases'
           color: 'good'
           text: 'Copy status to dev S3 Bucket:  ${{ steps.copyfiles.outcome }}.  On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
-      - name: Index file - need ror api url
+      - name: Index file
         id: indexdata
         uses: fjogeleit/http-request-action@master
         with:
           url: '${{ secrets.MICROSERVICE_INDEX_URL  }}/${{ env.release_branch }}'
           method: 'GET'
           customHeaders: '{"X-Token": "${{ secrets.MICROSERVICE_TOKEN }}" }'
+      - name: Show Response
+        run: echo ${{ steps.indexdata.outputs.response }}
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
