@@ -48,6 +48,11 @@ jobs:
           text: 'Copy status to dev S3 Bucket:  ${{ steps.copyfiles.outcome }}.  On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
       - name: Index file - need ror api url
         id: indexdata
+        uses: fjogeleit/http-request-action@master
+        with:
+          url: '${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ env.release_branch }}'
+          method: 'GET'
+          customHeaders: '{"X_Token": ${{ secrets.MICROSERVICE_TOKEN  }}'
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -56,5 +61,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Index status'
+          text: 'Index status: ${{ steps.copyfiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 
