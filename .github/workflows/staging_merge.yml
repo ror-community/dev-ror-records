@@ -52,7 +52,7 @@ jobs:
         with:
           url: '${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ env.release_branch }}'
           method: 'GET'
-          customHeaders: '{"X-Token": ${{ secrets.MICROSERVICE_TOKEN  }}'
+          customHeaders: '{"X-Token": "t"'
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
