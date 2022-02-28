@@ -52,7 +52,7 @@ jobs:
         with:
           url: '${{ secrets.MICROSERVICE_INDEX_URL  }}/${{ env.release_branch }}'
           method: 'GET'
-          customHeaders: '{"X-Token": ${{ secrets.MICROSERVICE_TOKEN }} }'
+          customHeaders: '{"X-Token": "${{ secrets.MICROSERVICE_TOKEN }}" }'
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
