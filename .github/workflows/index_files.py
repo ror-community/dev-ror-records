@@ -8,6 +8,7 @@ def set_args():
     parser = argparse.ArgumentParser(
                     description="Send request to index files")
     parser.add_argument('-u', '--url', help='URL to index files', required=True)
+    parser.add_argument('-d', '--dir', help='directory in S3 bucket that is to be indexed', required=True)
     parser.add_argument('-he', '--headers', help='key:value json string; headers to authenticate request', required=True, type=json.loads)
     args = parser.parse_args()
     return args
@@ -22,6 +23,7 @@ def send_request(url, headers):
 def main():
     args = set_args()
     url = args.url
+    dir = args.dir
     headers = args.headers
     full_url = os.path.join(url, dir)
     response = send_request(full_url, headers)
