@@ -24,6 +24,7 @@ def main():
     args = set_args()
     url = args.url
     dir = args.dir
+    print(dir)
     headers = args.headers
     full_url = os.path.join(url, dir)
     response = send_request(full_url, headers)
