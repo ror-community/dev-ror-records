@@ -1,0 +1,87 @@
+{
+  "ip_addresses": [],
+  "aliases": [
+    "MSH Mondes"
+  ],
+  "acronyms": [],
+  "links": [
+    "https://www.mshmondes.cnrs.fr/"
+  ],
+  "wikipedia_url": "https://fr.wikipedia.org/wiki/Maison_des_Sciences_de_l%E2%80%99homme_Mondes",
+  "external_ids": {
+    "Wikidata": {
+      "preferred": "Q3278957",
+      "all": [
+        "Q3278957"
+      ]
+    }
+  },
+  "established": null,
+  "relationships": [
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "Related",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "Paris West University Nanterre La D\u00e9fense",
+      "type": "Related",
+      "id": "https://ror.org/013bkhk48"
+    },
+    {
+      "label": "Pantheon-Sorbonne University",
+      "type": "Related",
+      "id": "https://ror.org/002t25c44"
+    }
+  ],
+  "email_address": null,
+  "id": "https://ror.org/04aha2t37",
+  "labels": [
+    {
+      "label": "Maison Arch\u00e9ologie & Ethnologie",
+      "iso639": "fr"
+    }
+  ],
+  "status": "active",
+  "name": "Maison des Sciences de l'Homme Mondes",
+  "types": [
+    "Facility"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 2990970,
+        "city": "Nanterre",
+        "geonames_admin1": {
+          "name": "\u00cele-de-France",
+          "ascii_name": "\u00cele-de-France",
+          "id": 3012874,
+          "code": "FR.11"
+        },
+        "geonames_admin2": {
+          "name": "Hauts-de-Seine",
+          "ascii_name": "Hauts-de-Seine",
+          "id": 3013657,
+          "code": "FR.11.92"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 48.89198,
+      "lng": 2.20675,
+      "country_geonames_id": 3017382,
+      "city": "Nanterre"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  }
+}
