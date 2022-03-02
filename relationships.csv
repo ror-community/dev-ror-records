@@ -1,0 +1,5 @@
+﻿Issue # from Github,Issue URL,Issue title from Github,Name of org in Record ID,Record ID,Related ID,Name of org in Related ID,Relationship of Related ID to Record ID,Current location of Related ID
+9,https://github.com/ror-community/ror-updates/issues/9,Add record: Flathead National Forest,Flathead National Forest,https://ror.org/03r232j30,https://ror.org/03zmjc935,US Forest Service,parent,Production
+9,https://github.com/ror-community/ror-updates/issues/9,Add record: Flathead National Forest,US Forest Service,https://ror.org/03zmjc935,https://ror.org/03r232j30,Flathead National Forest,child,Release
+8,https://github.com/ror-community/ror-updates/issues/8,Add record: Arnold Arboretum,Arnold Arboretum,https://ror.org/054qpqd46,https://ror.org/03vek6s52,Harvard University,parent,Production
+8,https://github.com/ror-community/ror-updates/issues/8,Add record: Arnold Arboretum,Harvard University,https://ror.org/03vek6s52,https://ror.org/054qpqd46,Arnold Arboretum,child,Release
