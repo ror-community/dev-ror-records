@@ -71,6 +71,8 @@ These steps assume that you have already [installed and configured git](https://
 # Generate relationships
 Relationships are not included in the intitial ROR record JSON files. Relationships are generated using a script [generaterelationships.py](https://github.com/ror-community/ror-api/blob/dev/rorapi/management/commands/generaterelationships.py) triggered by a Github action [Create relationships](https://github.com/ror-community/ror-records/blob/dummy-rc/.github/workflows/generate_relationships.yml), which should be run AFTER all new and updated JSON records to be included in the release are uploaded to the vX.X-rc branch.
 
+*Note: Currently relationships can only be added using this process, not removed. Removing relationships from an existing record requires manually downloading and editing the record, and adding it to the rc branch.*
+
 1. Create relationships list as a CSV file using the template [[TEMPLATE] relationships.csv](https://docs.google.com/spreadsheets/d/17rA549Q6Vc-YyH8WUtXUOvsAROwCDmt1vy4Rjce-ELs) and name the file relationships.csv. **IMPORTANT! File must be named relationships.csv and fields used by the script must be formatted correctly**. Template fields used by the script are:
 
 | **Field name**                          | **Description**                                                                             | **Example value**                               |
