@@ -18,7 +18,7 @@
   "relationships": [
     {
       "label": "US Forest Service",
-      "type": "parent",
+      "type": "Parent",
       "id": "https://ror.org/03zmjc935"
     }
   ],
