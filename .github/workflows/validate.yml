@@ -31,7 +31,7 @@ jobs:
         run: |
           echo "${{ github.event.inputs.release-directory }}"
           mkdir files
-          cp *.json files/
+          cp ./${{ github.event.inputs.release-directory }}/*.json files/
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
