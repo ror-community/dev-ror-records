@@ -30,11 +30,9 @@ jobs:
         id: extract_branch
       - name: Validate files
         id: validatefiles
-        working-directory: ${{ steps.extract_branch.outputs.branch }}
         run: |
-          echo ${{ steps.extract_branch.outputs.branch }}
           mkdir files
-          cp *.json files/
+          cp ./${{ steps.extract_branch.outputs.branch }}/*.json files/
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
