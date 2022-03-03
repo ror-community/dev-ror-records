@@ -1,6 +1,10 @@
 name: Create relationships
 on:
-  workflow_dispatch
+  workflow_dispatch:
+    inputs:
+      release-directory:
+        type: string
+        desrciption: Name of the directory that the files for the current release are located in
 
 jobs:
   generate-relationships:
@@ -18,6 +22,7 @@ jobs:
       - name: Generate relationships
         id: genrelshp
         run: |
+          cd ./${{ github.event.inputs.release-directory }}
           python -m pip install --upgrade pip
           pip install requests==2.23.0
           pip install git+https://github.com/ror-community/update_address.git
@@ -29,7 +34,7 @@ jobs:
         run: |
           echo "ERRORS found:"
           cat relationship_errors.log
-      - name: commit changed files 
+      - name: commit changed files
         if: ${{ steps.genrelshp.outcome == 'success'}}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
