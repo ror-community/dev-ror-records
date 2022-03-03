@@ -1,0 +1,100 @@
+{
+  "id": "https://ror.org/00a4x6777",
+  "name": "V\u00e4stra G\u00f6taland Regional Council",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1998,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Gothenburg Botanic Garden",
+      "type": "Child",
+      "id": "https://ror.org/051q0ne70"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 58.38075,
+      "lng": 12.3234,
+      "state": null,
+      "state_code": null,
+      "city": "V\u00e4nersborg",
+      "geonames_city": {
+        "id": 2665171,
+        "city": "V\u00e4nersborg",
+        "geonames_admin1": {
+          "name": "V\u00e4stra G\u00f6taland",
+          "id": 3337386,
+          "ascii_name": "V\u00e4stra G\u00f6taland",
+          "code": "SE.28"
+        },
+        "geonames_admin2": {
+          "name": "V\u00e4nersborgs Kommun",
+          "id": 2665170,
+          "ascii_name": "V\u00e4nersborgs Kommun",
+          "code": "SE.28.1487"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": "S\u00d6DRA SVERIGE",
+          "code": "SE2"
+        },
+        "nuts_level2": {
+          "name": "V\u00e4stsverige",
+          "code": "SE23"
+        },
+        "nuts_level3": {
+          "name": "V\u00e4stra G\u00f6talands l\u00e4n",
+          "code": "SE232"
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 2661886
+    }
+  ],
+  "links": [
+    "http://www.vgregion.se/en/Vastra-Gotalandsregionen/Home/"
+  ],
+  "aliases": [
+    "V\u00e4stra G\u00f6talandsregionen"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%A4stra_G%C3%B6taland_Regional_Council",
+  "labels": [],
+  "country": {
+    "country_name": "Sweden",
+    "country_code": "SE"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 0405 8808"
+      ]
+    },
+    "FundRef": {
+      "preferred": null,
+      "all": [
+        "100007212"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q3233447"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.452005.6",
+      "all": "grid.452005.6"
+    }
+  }
+}
