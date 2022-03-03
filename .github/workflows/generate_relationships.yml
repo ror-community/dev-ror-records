@@ -15,8 +15,13 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.8"
+      - name: Extract branch name
+        id: extract_branch
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
       - name: Generate relationships
         id: genrelshp
+        working-directory: ${{ steps.extract_branch.outputs.branch }}
         run: |
           python -m pip install --upgrade pip
           pip install requests==2.23.0
@@ -29,11 +34,11 @@ jobs:
         run: |
           echo "ERRORS found:"
           cat relationship_errors.log
-      - name: commit changed files 
+      - name: commit changed files
         if: ${{ steps.genrelshp.outcome == 'success'}}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: '*.json'
+          file_pattern: ${{ steps.extract_branch.outputs.branch }}/*.json
           commit_message: Apply relationship changes to files
       - name: Set env variable for notification
         run: |
@@ -51,4 +56,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Relationship generation status: ${env.VALIDATION_STATUS}. Branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID} for more details'
+          text: 'Relationship generation status: ${env.VALIDATION_STATUS}. Branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Directory: ${{ steps.extract_branch.outputs.branch }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID} for more details'

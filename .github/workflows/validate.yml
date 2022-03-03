@@ -5,6 +5,7 @@ on:
       with-relationship:
         type: boolean
         description: Check box to validate with relationships
+
 jobs:
   validate-files:
     runs-on: ubuntu-latest
@@ -23,17 +24,21 @@ jobs:
         with:
           repository: ror-community/validation-suite
           path: validation-suite
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
       - name: Validate files
         id: validatefiles
         run: |
-          mkdir files 
-          cp *.json files/
+          mkdir files
+          cp ./${{ steps.extract_branch.outputs.branch }}/*.json files/
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           if [[ ${{ github.event.inputs.with-relationship }} == "true" ]]; then
-            if [[ -f "../relationships.csv" ]]; then
-              python run_validations.py -i ../files -f ../relationships.csv -p ../files/
+            if [[ -f "../${{ steps.extract_branch.outputs.branch }}/relationships.csv" ]]; then
+              python run_validations.py -i ../files -f ../${{ steps.extract_branch.outputs.branch }}/relationships.csv -p ../files/
             else
               python run_validations.py -i ../files -p ../files/
             fi
@@ -48,4 +53,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Validation status:  ${{ steps.validatefiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'Validation status:  ${{ steps.validatefiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME} in directory ${{ steps.extract_branch.outputs.branch }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
