@@ -24,11 +24,14 @@ jobs:
         with:
           repository: ror-community/validation-suite
           path: validation-suite
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
       - name: Validate files
         id: validatefiles
-        working-directory: ${GITHUB_REF##*/}
+        working-directory: ${{ steps.extract_branch.outputs.branch }}
         run: |
-          echo ${GITHUB_REF##*/}
           mkdir files
           cp /*.json files/
           cd validation-suite
