@@ -26,8 +26,9 @@ jobs:
           path: validation-suite
       - name: Validate files
         id: validatefiles
-        working-directory: ${env.GITHUB_REF_NAME}
+        working-directory: ${GITHUB_REF##*/}
         run: |
+          echo ${GITHUB_REF##*/}
           mkdir files
           cp /*.json files/
           cd validation-suite
