@@ -5,6 +5,9 @@ on:
       with-relationship:
         type: boolean
         description: Check box to validate with relationships
+      release-directory:
+        type: string
+        desrciption: Name of the directory that the files for the current release are located in (ex: v1.0)
 jobs:
   validate-files:
     runs-on: ubuntu-latest
@@ -26,8 +29,8 @@ jobs:
       - name: Validate files
         id: validatefiles
         run: |
-          mkdir files 
-          cp *.json files/
+          mkdir files
+          cp ${{ github.event.inputs.release-directory }}/*.json files/
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
