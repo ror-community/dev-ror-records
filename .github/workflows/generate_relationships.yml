@@ -38,7 +38,7 @@ jobs:
         if: ${{ steps.genrelshp.outcome == 'success'}}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: '*.json'
+          file_pattern: ${{ steps.extract_branch.outputs.branch }}/*.json
           commit_message: Apply relationship changes to files
       - name: Set env variable for notification
         run: |
