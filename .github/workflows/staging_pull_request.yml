@@ -15,7 +15,7 @@ jobs:
   check_permission:
     runs-on: ubuntu-latest
     steps:
-      - name: Get Permission 
+      - name: Get Permission
         uses: octokit/request-action@v2.x
         id: get_permission
         with:
@@ -47,10 +47,16 @@ jobs:
         with:
           repository: ror-community/validation-suite
           path: validation-suite
+      # extract branch name on pull request
+      - name: Extract branch name
+        run: echo "::set-env name=BRANCH_NAME::$(echo ${GITHUB_HEAD_REF})"
+      # print branch name
+      - name: Get branch name
+        run: echo 'The branch name is' $BRANCH_NAME
       - name: Validate files
         id: validatefiles
         run: |
-          mkdir files 
+          mkdir files
           cp *.json files/
           cd validation-suite
           python -m pip install --upgrade pip
@@ -69,4 +75,4 @@ jobs:
           channel: '#ror-curation-releases'
           color: 'good'
           text: 'Validation status during PR to STAGING:  ${{ steps.validatefiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
-     
+
