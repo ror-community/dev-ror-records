@@ -29,6 +29,7 @@ jobs:
       - name: Validate files
         id: validatefiles
         run: |
+          echo "${{ github.event.inputs.release-directory }}"
           mkdir files
           cp *.json files/
           cd validation-suite
