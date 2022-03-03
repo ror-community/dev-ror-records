@@ -34,7 +34,7 @@ jobs:
       - name: Zip and copy files
         id: copyfiles
         run: |
-          zip files.zip *.json
+          zip files.zip ./${{ env.release_branch }}/*.json
           aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ env.release_branch }}/files.zip
           aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ env.release_branch }}/files.zip
       - name: Notify Slack
@@ -61,5 +61,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Index status: ${{ steps.indexdata.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'Index status: ${{ steps.indexdata.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Directory: ${{ env.release_branch }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 
