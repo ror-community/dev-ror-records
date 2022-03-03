@@ -1,10 +1,6 @@
 name: Create relationships
 on:
-  workflow_dispatch:
-    inputs:
-      release-directory:
-        type: string
-        desrciption: Name of the directory that the files for the current release are located in
+  workflow_dispatch
 
 jobs:
   generate-relationships:
@@ -21,8 +17,8 @@ jobs:
           python-version: "3.8"
       - name: Generate relationships
         id: genrelshp
+        working-directory: ${env.GITHUB_REF_NAME}
         run: |
-          cd ./${{ github.event.inputs.release-directory }}
           python -m pip install --upgrade pip
           pip install requests==2.23.0
           pip install git+https://github.com/ror-community/update_address.git
@@ -56,4 +52,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Relationship generation status: ${env.VALIDATION_STATUS}. Branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID} for more details'
+          text: 'Relationship generation status: ${env.VALIDATION_STATUS}. Branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME}. Directory: ${{ github.event.inputs.release-directory }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID} for more details'
