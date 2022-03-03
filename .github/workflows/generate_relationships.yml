@@ -16,9 +16,9 @@ jobs:
         with:
           python-version: "3.8"
       - name: Extract branch name
+        id: extract_branch
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-        id: extract_branch
       - name: Generate relationships
         id: genrelshp
         working-directory: ${{ steps.extract_branch.outputs.branch }}
@@ -37,7 +37,6 @@ jobs:
       - name: commit changed files
         if: ${{ steps.genrelshp.outcome == 'success'}}
         uses: stefanzweifel/git-auto-commit-action@v4
-        working-directory: ${{ steps.extract_branch.outputs.branch }}
         with:
           file_pattern: '*.json'
           commit_message: Apply relationship changes to files
