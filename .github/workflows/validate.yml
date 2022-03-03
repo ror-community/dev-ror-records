@@ -30,6 +30,7 @@ jobs:
         id: extract_branch
       - name: Validate files
         id: validatefiles
+        working-directory: ${{ steps.extract_branch.outputs.branch }}
         run: |
           echo ${{ steps.extract_branch.outputs.branch }}
           mkdir files
