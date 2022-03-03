@@ -51,12 +51,12 @@ jobs:
         id: validatefiles
         run: |
           mkdir files
-          cp ./${{env.GITHUB_REF_NAME}}/*.json files/
+          cp ./${env.GITHUB_REF_NAME}/*.json files/
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          if [[ -f "../${{env.GITHUB_REF_NAME}}/relationships.csv" ]]; then
-              python run_validations.py -i ../files -f ../${{env.GITHUB_REF_NAME}}/relationships.csv -p ../files/
+          if [[ -f "../${env.GITHUB_REF_NAME}/relationships.csv" ]]; then
+              python run_validations.py -i ../files -f ../${env.GITHUB_REF_NAME}/relationships.csv -p ../files/
             else
               python run_validations.py -i ../files -p ../files/
             fi
