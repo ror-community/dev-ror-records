@@ -7,7 +7,7 @@ on:
         description: Check box to validate with relationships
       release-directory:
         type: string
-        desrciption: Name of the directory that the files for the current release are located in (ex: v1.0)
+        desrciption: Name of the directory that the files for the current release are located in
 jobs:
   validate-files:
     runs-on: ubuntu-latest
