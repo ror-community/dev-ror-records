@@ -1,0 +1,23 @@
+﻿Issue # from Github,Issue URL,Issue title from Github,Name of org in Record ID,Record ID,Related ID,Name of org in Related ID,Relationship of Related ID to Record ID,Current location of Related ID
+9,https://github.com/ror-community/ror-updates/issues/9,Add record: Flathead National Forest,Flathead National Forest,https://ror.org/01xcd2w79,https://ror.org/03zmjc935,US Forest Service,Parent,Release
+9,https://github.com/ror-community/ror-updates/issues/9,Add record: Flathead National Forest,US Forest Service,https://ror.org/03zmjc935,https://ror.org/01xcd2w79,Flathead National Forest,Child,Release
+8,https://github.com/ror-community/ror-updates/issues/8,Add record: Arnold Arboretum,Arnold Arboretum,https://ror.org/05xsxgs79,https://ror.org/03vek6s52,Harvard University,Parent,Production
+8,https://github.com/ror-community/ror-updates/issues/8,Add record: Arnold Arboretum,Harvard University,https://ror.org/03vek6s52,https://ror.org/05xsxgs79,Arnold Arboretum,Child,Release
+411,https://github.com/ror-community/ror-updates/issues/411,"Add a new organization to ROR: 
+ 
+Station de Radioastronomie de Nançay",Nançay Radio Observatory,https://ror.org/01vqrde47,https://ror.org/029nkcm90,Paris Observatory,Parent,Production
+411,https://github.com/ror-community/ror-updates/issues/411,"Add a new organization to ROR: 
+ 
+Station de Radioastronomie de Nançay",Paris Observatory,https://ror.org/029nkcm90,https://ror.org/01vqrde47,Nançay Radio Observatory,Child,Release
+411,https://github.com/ror-community/ror-updates/issues/411,"Add a new organization to ROR: 
+ 
+Station de Radioastronomie de Nançay",Nançay Radio Observatory,https://ror.org/01vqrde47,https://ror.org/02feahw73,French National Centre for Scientific Research,Parent,Release
+411,https://github.com/ror-community/ror-updates/issues/411,"Add a new organization to ROR: 
+ 
+Station de Radioastronomie de Nançay",French National Centre for Scientific Research,https://ror.org/02feahw73,https://ror.org/01vqrde47,Nançay Radio Observatory,Child,Release
+411,https://github.com/ror-community/ror-updates/issues/411,"Add a new organization to ROR: 
+ 
+Station de Radioastronomie de Nançay",Nançay Radio Observatory,https://ror.org/01vqrde47,https://ror.org/014zrew76,University of Orléans,Parent,Production
+411,https://github.com/ror-community/ror-updates/issues/411,"Add a new organization to ROR: 
+ 
+Station de Radioastronomie de Nançay",University of Orléans,https://ror.org/014zrew76,https://ror.org/01vqrde47,Nançay Radio Observatory,Child,Release
