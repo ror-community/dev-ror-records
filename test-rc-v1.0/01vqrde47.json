@@ -7,7 +7,7 @@
   "links": [
     "https://www.obs-nancay.fr"
   ],
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Nançay_Radio_Observatory",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nan\u00e7ay_Radio_Observatory",
   "external_ids": {
     "ISNI": {
       "preferred": "0000 0004 0471 7041",
@@ -23,21 +23,37 @@
     }
   },
   "established": 1956,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Paris Observatory",
+      "type": "Parent",
+      "id": "https://ror.org/029nkcm90"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "University of Orl\u00e9ans",
+      "type": "Parent",
+      "id": "https://ror.org/014zrew76"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/01vqrde47",
   "labels": [
     {
-      "label": "Station de Radioastronomie de Nançay",
+      "label": "Station de Radioastronomie de Nan\u00e7ay",
       "iso639": "fr"
     },
     {
-      "label": "Unité Scientifique de Nançay",
+      "label": "Unit\u00e9 Scientifique de Nan\u00e7ay",
       "iso639": "fr"
     }
   ],
   "status": "active",
-  "name": "Nançay Radio Observatory",
+  "name": "Nan\u00e7ay Radio Observatory",
   "types": [
     "Facility"
   ],
@@ -50,7 +66,7 @@
       "line": null,
       "geonames_city": {
         "id": 2991013,
-        "city": "Nançay",
+        "city": "Nan\u00e7ay",
         "geonames_admin1": {
           "name": "Centre-Val de Loire",
           "ascii_name": "Centre-Val de Loire",
@@ -71,7 +87,7 @@
       "lat": 47.3501,
       "lng": 2.19286,
       "country_geonames_id": 3017382,
-      "city": "Nançay"
+      "city": "Nan\u00e7ay"
     }
   ],
   "country": {
