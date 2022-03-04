@@ -1,0 +1,160 @@
+{
+  "id": "https://ror.org/014zrew76",
+  "name": "University of Orl\u00e9ans",
+  "email_address": "",
+  "ip_addresses": [],
+  "established": 1960,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Conditions Extr\u00eames et Mat\u00e9riaux Haute Temp\u00e9rature et Irradiation",
+      "type": "Child",
+      "id": "https://ror.org/02zs48f23"
+    },
+    {
+      "label": "Groupe de Recherches sur l'Energ\u00e9tique des Milieux Ionis\u00e9s",
+      "type": "Child",
+      "id": "https://ror.org/042ds2135"
+    },
+    {
+      "label": "Institut de Linguistique Fran\u00e7aise",
+      "type": "Child",
+      "id": "https://ror.org/04vekey51"
+    },
+    {
+      "label": "Institut de Recherche sur les Arch\u00e9oMAT\u00e9riaux",
+      "type": "Child",
+      "id": "https://ror.org/01cw28e72"
+    },
+    {
+      "label": "Institute of Organic and Analytical Chemistry",
+      "type": "Child",
+      "id": "https://ror.org/03ywn7d79"
+    },
+    {
+      "label": "Interfaces, Confinement, Mat\u00e9riaux et Nanostructures",
+      "type": "Child",
+      "id": "https://ror.org/008h1f725"
+    },
+    {
+      "label": "Laboratoire Complexit\u00e9, Innovation et Activit\u00e9s Motrices et Sportives",
+      "type": "Child",
+      "id": "https://ror.org/00k3ph542"
+    },
+    {
+      "label": "Laboratoire Pluridisciplinaire de Recherche en Ing\u00e9nierie des Syst\u00e8mes, M\u00e9canique et Energ\u00e9tique",
+      "type": "Child",
+      "id": "https://ror.org/00sbth994"
+    },
+    {
+      "label": "Laboratoire de Math\u00e9matiques Analyse, Probabilit\u00e9s, Mod\u00e9lisation Orl\u00e9ans",
+      "type": "Child",
+      "id": "https://ror.org/03d6rdf69"
+    },
+    {
+      "label": "Laboratoire d\u2019\u00c9conomie d\u2019Orl\u00e9ans",
+      "type": "Child",
+      "id": "https://ror.org/03hp7bq97"
+    },
+    {
+      "label": "Nan\u00e7ay Radio Observatory",
+      "type": "Child",
+      "id": "https://ror.org/01vqrde47"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 47.90289,
+      "lng": 1.90389,
+      "state": null,
+      "state_code": null,
+      "city": "Orl\u00e9ans",
+      "geonames_city": {
+        "id": 2989317,
+        "city": "Orl\u00e9ans",
+        "geonames_admin1": {
+          "name": "Centre-Val de Loire",
+          "id": 3027939,
+          "ascii_name": "Centre-Val de Loire",
+          "code": "FR.24"
+        },
+        "geonames_admin2": {
+          "name": "Loiret",
+          "id": 2997857,
+          "ascii_name": "Loiret",
+          "code": "FR.24.45"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 3017382
+    }
+  ],
+  "links": [
+    "http://www.univ-orleans.fr/"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Orl%C3%A9ans",
+  "labels": [
+    {
+      "label": "Universit\u00e9 d'Orl\u00e9ans",
+      "iso639": "fr"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0001 0217 6921"
+      ]
+    },
+    "FundRef": {
+      "preferred": "501100005696",
+      "all": [
+        "501100005696",
+        "501100005697"
+      ]
+    },
+    "OrgRef": {
+      "preferred": null,
+      "all": [
+        "6605415"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q13334"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.112485.b",
+      "all": "grid.112485.b"
+    }
+  }
+}
