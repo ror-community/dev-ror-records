@@ -5,10 +5,6 @@ on:
       directory-name:
         type: string
         description: Name of the directory you would like to deploy
-    branches:
-      - '!main'
-      - '!v.**'
-      - 'staging'
 env:
   MERGE_SHA: ${{ github.event.after }}
   REPO_INFO: ${{ github.event.repository.full_name }}
