@@ -4,6 +4,7 @@ on:
     inputs:
       directory-name:
         type: string
+        required: true
         description: Name of the directory you would like to deploy
 env:
   MERGE_SHA: ${{ github.event.after }}
