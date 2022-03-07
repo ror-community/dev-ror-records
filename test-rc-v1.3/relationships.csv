@@ -1,0 +1,27 @@
+﻿Issue # from Github,Issue URL,Issue title from Github,Name of org in Record ID,Record ID,Related ID,Name of org in Related ID,Relationship of Related ID to Record ID,Current location of Related ID
+200,https://github.com/ror-community/ror-updates/issues/200,"Add a new organization to ROR: 
+ 
+Multiscale Bioimaging",Multiscale Bioimaging,https://ror.org/05xy1nn52,https://ror.org/01y9bpm73,University of Göttingen,Parent,Production
+200,https://github.com/ror-community/ror-updates/issues/200,"Add a new organization to ROR: 
+ 
+Multiscale Bioimaging",University of Göttingen,https://ror.org/01y9bpm73,https://ror.org/05xy1nn52,Multiscale Bioimaging,Child,Release
+179,https://github.com/ror-community/ror-updates/issues/179,Add a new organization to ROR: Institute of Information Technologies and Learning Tools of the NAES of Ukraine,Institute of Information Technologies and Learning Tools of the NAES of Ukraine,https://ror.org/02qqjk369,https://ror.org/05h1pdj54,National Academy of Educational Sciences of Ukraine,Parent,Production
+179,https://github.com/ror-community/ror-updates/issues/179,Add a new organization to ROR: Institute of Information Technologies and Learning Tools of the NAES of Ukraine,National Academy of Educational Sciences of Ukraine,https://ror.org/05h1pdj54,https://ror.org/02qqjk369,Institute of Information Technologies and Learning Tools of the NAES of Ukraine,Child,Release
+203,https://github.com/ror-community/ror-updates/issues/203,"Add a new organization to ROR: 
+ 
+Asociación Panameña para el Avance de la Ciencia",Panamanian Association for the Advancement of Science,https://ror.org/05mhn0t19,https://ror.org/03gat5t60,"Secretaría Nacional de Ciencia, Tecnología e Innovación",Related,Production
+203,https://github.com/ror-community/ror-updates/issues/203,"Add a new organization to ROR: 
+ 
+Asociación Panameña para el Avance de la Ciencia","Secretaría Nacional de Ciencia, Tecnología e Innovación",https://ror.org/03gat5t60,https://ror.org/05mhn0t19,Panamanian Association for the Advancement of Science,Related,Release
+203,https://github.com/ror-community/ror-updates/issues/203,"Add a new organization to ROR: 
+ 
+Asociación Panameña para el Avance de la Ciencia",Panamanian Association for the Advancement of Science,https://ror.org/05mhn0t19,https://ror.org/04ngphv84,Instituto de Investigaciones Científicas y Servicios de Alta Tecnología,Related,Production
+203,https://github.com/ror-community/ror-updates/issues/203,"Add a new organization to ROR: 
+ 
+Asociación Panameña para el Avance de la Ciencia",Instituto de Investigaciones Científicas y Servicios de Alta Tecnología,https://ror.org/04ngphv84,https://ror.org/05mhn0t19,Panamanian Association for the Advancement of Science,Related,Release
+203,https://github.com/ror-community/ror-updates/issues/203,"Add a new organization to ROR: 
+ 
+Asociación Panameña para el Avance de la Ciencia",Panamanian Association for the Advancement of Science,https://ror.org/05mhn0t19,https://ror.org/019ev8b82,Instituto Conmemorativo Gorgas de Estudios de la Salud,Related,Production
+203,https://github.com/ror-community/ror-updates/issues/203,"Add a new organization to ROR: 
+ 
+Asociación Panameña para el Avance de la Ciencia",Instituto Conmemorativo Gorgas de Estudios de la Salud,https://ror.org/019ev8b82,https://ror.org/05mhn0t19,Panamanian Association for the Advancement of Science,Related,Release
