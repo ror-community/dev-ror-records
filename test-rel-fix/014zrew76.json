@@ -1,6 +1,6 @@
 {
   "id": "https://ror.org/014zrew76",
-  "name": "University of Orl\u00e9ans",
+  "name": "University of Orléans",
   "email_address": "",
   "ip_addresses": [],
   "established": 1960,
@@ -9,22 +9,22 @@
   ],
   "relationships": [
     {
-      "label": "Conditions Extr\u00eames et Mat\u00e9riaux Haute Temp\u00e9rature et Irradiation",
+      "label": "Conditions Extrêmes et Matériaux Haute Température et Irradiation",
       "type": "Child",
       "id": "https://ror.org/02zs48f23"
     },
     {
-      "label": "Groupe de Recherches sur l'Energ\u00e9tique des Milieux Ionis\u00e9s",
+      "label": "Groupe de Recherches sur l'Energétique des Milieux Ionisés",
       "type": "Child",
       "id": "https://ror.org/042ds2135"
     },
     {
-      "label": "Institut de Linguistique Fran\u00e7aise",
+      "label": "Institut de Linguistique Française",
       "type": "Child",
       "id": "https://ror.org/04vekey51"
     },
     {
-      "label": "Institut de Recherche sur les Arch\u00e9oMAT\u00e9riaux",
+      "label": "Institut de Recherche sur les ArchéoMATériaux",
       "type": "Child",
       "id": "https://ror.org/01cw28e72"
     },
@@ -34,32 +34,32 @@
       "id": "https://ror.org/03ywn7d79"
     },
     {
-      "label": "Interfaces, Confinement, Mat\u00e9riaux et Nanostructures",
+      "label": "Interfaces, Confinement, Matériaux et Nanostructures",
       "type": "Child",
       "id": "https://ror.org/008h1f725"
     },
     {
-      "label": "Laboratoire Complexit\u00e9, Innovation et Activit\u00e9s Motrices et Sportives",
+      "label": "Laboratoire Complexité, Innovation et Activités Motrices et Sportives",
       "type": "Child",
       "id": "https://ror.org/00k3ph542"
     },
     {
-      "label": "Laboratoire Pluridisciplinaire de Recherche en Ing\u00e9nierie des Syst\u00e8mes, M\u00e9canique et Energ\u00e9tique",
+      "label": "Laboratoire Pluridisciplinaire de Recherche en Ingénierie des Systèmes, Mécanique et Energétique",
       "type": "Child",
       "id": "https://ror.org/00sbth994"
     },
     {
-      "label": "Laboratoire de Math\u00e9matiques Analyse, Probabilit\u00e9s, Mod\u00e9lisation Orl\u00e9ans",
+      "label": "Laboratoire de Mathématiques Analyse, Probabilités, Modélisation Orléans",
       "type": "Child",
       "id": "https://ror.org/03d6rdf69"
     },
     {
-      "label": "Laboratoire d\u2019\u00c9conomie d\u2019Orl\u00e9ans",
+      "label": "Laboratoire d’Économie d’Orléans",
       "type": "Child",
       "id": "https://ror.org/03hp7bq97"
     },
     {
-      "label": "Nan\u00e7ay Radio Observatory",
+      "label": "Nançay Radio Observatory",
       "type": "Child",
       "id": "https://ror.org/01vqrde47"
     }
@@ -70,10 +70,10 @@
       "lng": 1.90389,
       "state": null,
       "state_code": null,
-      "city": "Orl\u00e9ans",
+      "city": "Orléans",
       "geonames_city": {
         "id": 2989317,
-        "city": "Orl\u00e9ans",
+        "city": "Orléans",
         "geonames_admin1": {
           "name": "Centre-Val de Loire",
           "id": 3027939,
@@ -118,7 +118,7 @@
   "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Orl%C3%A9ans",
   "labels": [
     {
-      "label": "Universit\u00e9 d'Orl\u00e9ans",
+      "label": "Université d'Orléans",
       "iso639": "fr"
     }
   ],
