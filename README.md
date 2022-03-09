@@ -183,7 +183,7 @@ Choose several updated records from the Staging release and, for each record:
 
 
 ## Unchanged records
-Choose several updated records from Production and, for each record:
+Choose several updated records from Production that were not included in the release and for each record:
 
 1. Retrieve the record from the Staging API and the Production API and compare changes to verify that the records are identical.
 
