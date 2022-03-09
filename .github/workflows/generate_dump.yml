@@ -5,11 +5,9 @@ on:
       new-release:
         type: string
         description: Name of the directory that the new release is located in
-        id: new_release
       prev-release:
         type: string
         description: Name of the existing release zip file to base this data dump from
-        id: prev_release
 
 jobs:
   generate-dump:
