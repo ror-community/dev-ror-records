@@ -31,6 +31,7 @@ jobs:
         continue-on-error: true
       - name: commit error file
         if: ${{ steps.genrelshp.outcome != 'success'}}
+        working-directory: ${{ steps.extract_branch.outputs.branch }}
         run: |
           echo "ERRORS found:"
           cat relationship_errors.log
