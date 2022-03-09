@@ -1,4 +1,4 @@
-name: Manually triggered workflow
+name: Create data dump
 on:
   workflow_dispatch
 
