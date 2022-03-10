@@ -183,7 +183,7 @@ Choose several updated records from the Staging release and, for each record:
 
 
 ## Unchanged records
-Choose several updated records from Production that were not included in the release and for each record:
+Choose several records from Production that were not included in the release and for each record:
 
 1. Retrieve the record from the Staging API and the Production API and compare changes to verify that the records are identical.
 
@@ -239,7 +239,7 @@ Choose several new, updated and unchanged records and, for each record:
         https://ror.org/search > Enter name in search box
 
 # Publish data dump to Zenodo
-1. Download the vX.X.zip file from ror-data to your computer
+1. Download the vX.X-YYYY-MM-DD-ror-data.zip file from ror-data to your computer
 2. Log into [Zenodo](https://zenodo.org/) using the info@ror.org account
 3. Create a new upload in the [ROR Data community](https://zenodo.org/communities/ror-data) (see past example https://doi.org/10.5281/zenodo.4929693). Make sure to include Related Identifiers metadata referencing previous releases.
 
