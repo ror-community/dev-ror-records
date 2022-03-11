@@ -1,0 +1,17 @@
+name: Staging manual index
+on:
+  workflow_dispatch
+
+jobs:
+  generate-relationships:
+    runs-on: ubuntu-latest
+    if: github.event.ref != 'refs/heads/master'
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.ref }}
+      - name: list files
+        run: |
+          echo | ls *
+
