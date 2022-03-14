@@ -6,9 +6,6 @@ on:
       - '!v**'
       - 'main'
       - '!staging'
-    paths-ignore:
-      - '**/README.md'
-      - '.github/*'
 
 env:
   USER_INFO: ${{ github.event.pull_request.user.login }}
