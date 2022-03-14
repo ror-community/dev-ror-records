@@ -60,24 +60,20 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Copy status to dev S3 Bucket:  ${{ steps.copyfiles.outcome }}.  From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
-  index_data:
-    runs-on: ubuntu-latest
-    needs: copy_files
-    steps:
-    - name: Index data
-      id: indexdata
-      run: |
-        cd .github/workflows
-        python -m pip install --upgrade pip
-        pip install requests==2.23.0
-        python index_files.py -u ${{ secrets.INDEX_DEV_API_URL }} -d ${{ github.event.release.tag_name }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
-    - name: Notify Slack
-      if: always()
-      uses: edge/simple-slack-notify@master
-      env:
-        SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
-      with:
-        channel: '#ror-curation-releases'
-        color: 'good'
-        text: 'PROD index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'Copy status to PROD S3 Bucket:  ${{ steps.copyfiles.outcome }}.  From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+      - name: Index data
+        id: indexdata
+        run: |
+          cd .github/workflows
+          python -m pip install --upgrade pip
+          pip install requests==2.23.0
+          python index_files.py -u ${{ secrets.INDEX_DEV_API_URL }} -d ${{ github.event.release.tag_name }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
+      - name: Notify Slack
+        if: always()
+        uses: edge/simple-slack-notify@master
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.CURATOR_SLACK_WEBHOOK_URL }}
+        with:
+          channel: '#ror-curation-releases'
+          color: 'good'
+          text: 'PROD index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
