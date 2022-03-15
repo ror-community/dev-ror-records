@@ -5,7 +5,7 @@ on:
       directory-name:
         type: string
         required: true
-        description: Name of the directory you would like to deploy
+        description: Name of the directory you would like to deploy to STAGING
 env:
   AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
