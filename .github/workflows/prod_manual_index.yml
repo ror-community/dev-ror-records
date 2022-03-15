@@ -5,7 +5,7 @@ on:
       release-tag:
         type: string
         required: true
-        description: Name of the release tag that you would like to deploy to PROD
+        description: Name of the release tag that you would like to deploy
  env:
   AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
