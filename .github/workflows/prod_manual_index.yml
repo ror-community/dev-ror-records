@@ -48,8 +48,8 @@ jobs:
         run: |
           cd ./${{ github.event.inputs.release-tag }}
           zip files.zip *.json
-          aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_STAGING }}/${{ github.event.inputs.release-tag }}/files.zip
-          aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_STAGING }}/${{ github.event.inputs.release-tag }}/files.zip
+          aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.release-tag }}/files.zip
+          aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.release-tag }}/files.zip
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -65,7 +65,7 @@ jobs:
           cd .github/workflows
           python -m pip install --upgrade pip
           pip install requests==2.23.0
-          python index_files.py -u ${{ secrets.INDEX_STAGING_API_URL }} -d ${{ github.event.inputs.release-tag }} -he ${{ secrets.INDEX_STAGING_API_HEADERS }}
+          python index_files.py -u ${{ secrets.INDEX_DEV_API_URL }} -d ${{ github.event.inputs.release-tag }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -74,5 +74,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Staging index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.inputs.release-tag }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.inputs.release-tag }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 
