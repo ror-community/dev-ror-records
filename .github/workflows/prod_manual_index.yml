@@ -39,7 +39,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
         with:
-          ref: refs/tags/${{ github.event.ref }}
+          ref: refs/tags/${{ github.event.inputs.release-tag }}
       - name: Install aws cli
         id: install-aws-cli
         uses: unfor19/install-aws-cli-action@v1.0.2
