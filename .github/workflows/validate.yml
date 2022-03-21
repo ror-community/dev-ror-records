@@ -53,4 +53,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Validation status:  ${{ steps.validatefiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME} in directory ${{ steps.extract_branch.outputs.branch }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV Validation status:  ${{ steps.validatefiles.outcome }}. On branch: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/tree/${env.GITHUB_REF_NAME} in directory ${{ steps.extract_branch.outputs.branch }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'

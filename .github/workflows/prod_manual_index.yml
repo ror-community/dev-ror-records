@@ -5,7 +5,7 @@ on:
       release-tag:
         type: string
         required: true
-        description: Name of the release tag that you would like to deploy to PROD
+        description: Name of the release tag that you would like to deploy to DEV
 env:
   AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -74,5 +74,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'PROD index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.inputs.release-tag }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.inputs.release-tag }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 

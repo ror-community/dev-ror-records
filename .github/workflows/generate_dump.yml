@@ -19,7 +19,7 @@ jobs:
       - name: checkout ror records repo
         uses: actions/checkout@v2
         with:
-          path: ./ror-records
+          path: ./ror-records-test
       - name: checkout ror data repo
         uses: actions/checkout@v2
         with:
@@ -29,7 +29,7 @@ jobs:
       - name: copy previous data dump file
         id: copyprevdump
         run: |
-          cp -R ./ror-data-test/${{github.event.inputs.prev-release}}.zip ./ror-records
+          cp -R ./ror-data-test/${{github.event.inputs.prev-release}}.zip ./ror-records-test
       - name: Set up Python environment
         uses: actions/setup-python@v2
         with:
@@ -37,8 +37,8 @@ jobs:
       - name: execute script
         id: gendumpscript
         run: |
-          cd ./ror-records
-          curl https://raw.githubusercontent.com/ror-community/ror-api/staging/rorapi/management/commands/generate_dump.py -o generate_dump.py
+          cd ./ror-records-test
+          curl https://raw.githubusercontent.com/ror-community/ror-api/dev/rorapi/management/commands/generate_dump.py -o generate_dump.py
           python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}}
       - name: cat error file
         if: ${{ steps.gendumpscript.outcome != 'success'}}
@@ -48,7 +48,7 @@ jobs:
       - name: copy new data dump file
         id: copynewdump
         run: |
-          yes | cp -rf ./ror-records/${{github.event.inputs.new-release}}*.zip ./ror-data-test
+          yes | cp -rf ./ror-records-test/${{github.event.inputs.new-release}}*.zip ./ror-data-test
       - name: commit dump file
         id: commitdumpfile
         if: ${{ steps.copynewdump.outcome == 'success'}}
@@ -67,4 +67,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Data dump ${{github.event.inputs.new-release}} generation status:  ${{ steps.commitdumpfile.outcome }} Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV Data dump ${{github.event.inputs.new-release}} generation status:  ${{ steps.commitdumpfile.outcome }} Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'

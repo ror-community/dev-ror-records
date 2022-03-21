@@ -1,4 +1,4 @@
-name: PR to main
+name: PR to Main
 on:
   pull_request:
     types: [opened, reopened, synchronize]

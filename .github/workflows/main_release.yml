@@ -60,7 +60,7 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Copy status to PROD S3 Bucket:  ${{ steps.copyfiles.outcome }}.  From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'Copy status to DEV S3 Bucket:  ${{ steps.copyfiles.outcome }}.  From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
       - name: Index data
         id: indexdata
         run: |
@@ -76,4 +76,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'PROD index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.release.tag_name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
