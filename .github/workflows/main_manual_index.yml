@@ -1,4 +1,4 @@
-name: Manual deploy to Prod
+name: DEV manual deploy from Main branch
 on:
   workflow_dispatch:
     inputs:
