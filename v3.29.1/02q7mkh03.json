@@ -23,13 +23,7 @@
     }
   },
   "established": 1962,
-  "relationships": [
-    {
-      "label": "University of Michigan–Ann Arbor",
-      "type": "Parent",
-      "id": "https://ror.org/00jmfr291"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02q7mkh03",
   "labels": [],

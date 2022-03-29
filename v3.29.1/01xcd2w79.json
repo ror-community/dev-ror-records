@@ -15,13 +15,7 @@
     }
   },
   "established": 1897,
-  "relationships": [
-    {
-      "label": "US Forest Service",
-      "type": "Parent",
-      "id": "https://ror.org/03zmjc935"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01xcd2w79",
   "labels": [],

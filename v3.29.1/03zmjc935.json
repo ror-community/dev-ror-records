@@ -7,53 +7,7 @@
   "types": [
     "Government"
   ],
-  "relationships": [
-    {
-      "label": "United States Department of Agriculture",
-      "type": "Parent",
-      "id": "https://ror.org/01na82s61"
-    },
-    {
-      "label": "Forest Products Laboratory",
-      "type": "Child",
-      "id": "https://ror.org/031sp1p50"
-    },
-    {
-      "label": "International Institute of Tropical Forestry",
-      "type": "Child",
-      "id": "https://ror.org/042re3x97"
-    },
-    {
-      "label": "Northern Research Station",
-      "type": "Child",
-      "id": "https://ror.org/019jdc178"
-    },
-    {
-      "label": "Pacific Northwest Research Station",
-      "type": "Child",
-      "id": "https://ror.org/02s42ys89"
-    },
-    {
-      "label": "Pacific Southwest Research Station",
-      "type": "Child",
-      "id": "https://ror.org/036a0fn15"
-    },
-    {
-      "label": "Rocky Mountain Research Station",
-      "type": "Child",
-      "id": "https://ror.org/04347cr60"
-    },
-    {
-      "label": "Southern Research Station",
-      "type": "Child",
-      "id": "https://ror.org/022ethc91"
-    },
-    {
-      "label": "Flathead National Forest",
-      "type": "Child",
-      "id": "https://ror.org/01xcd2w79"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 38.89511,
