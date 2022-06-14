@@ -7,7 +7,7 @@ on:
         description: Name of parent directory containing records to generate relationships for. Needed only if different from branch name.
 
 jobs:
-  generate-relationships:
+  update-labels:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -26,12 +26,12 @@ jobs:
         run: echo "WORKING_DIR=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
       - name: Update labels in related records
         id: updatelabels
-        if: ${{ steps.genrelshp.outcome == 'success'}}
         working-directory: ${{ env.WORKING_DIR }}
         run: |
           python -m pip install --upgrade pip
-          pip install requests==2.23.0
-          curl https://raw.githubusercontent.com/ror-community/ror-api/dev/rorapi/management/commands/update_related.py
+          curl https://raw.githubusercontent.com/ror-community/curation_ops/main/update_related_records/requirements.txt -o requirements.txt
+          pip install -r requirements.txt
+          curl https://raw.githubusercontent.com/ror-community/curation_ops/main/update_related_records/update_related.py -o update_related.py
           python update_related.py
       - name: commit changed files
         if: ${{ steps.updatelabels.outcome == 'success'}}
