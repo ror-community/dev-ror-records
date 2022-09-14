@@ -65,7 +65,13 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": null,
+      "type": "Successor",
+      "id": "https://ror.org/00jmfr291"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/03ybaf311",
   "labels": [],
