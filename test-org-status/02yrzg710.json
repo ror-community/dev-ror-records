@@ -63,13 +63,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "DataCite",
-      "type": "Predecessor",
-      "id": "https://ror.org/04wxnsj81"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02yrzg710",
   "labels": [],
