@@ -1,0 +1,15 @@
+name: Remove relationships to inactive records
+on:
+  workflow_dispatch:
+    inputs:
+      directory-name:
+        type: string
+        description: Name of parent directory containing new/updated records with inactive statuses. Needed only if different from branch name.
+
+
+jobs:
+  test-job:
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo "Test job"
