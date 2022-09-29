@@ -1,4 +1,3 @@
 Name of org in Record ID,Record ID,Related ID,Name of org in Related ID,Relationship of Related ID to Record ID,Current location of Related ID
 Test new record inactive with successor,https://ror.org/03ybaf311,https://ror.org/00jmfr291,University of Michigan–Ann Arbor,Successor,Production
 DataCite,https://ror.org/04wxnsj81,https://ror.org/02yrzg710,Test record active,Successor,Release
-Test record active,https://ror.org/02yrzg710,https://ror.org/04wxnsj81,DataCite,Predecessor,Release
