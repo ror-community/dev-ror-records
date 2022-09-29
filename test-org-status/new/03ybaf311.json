@@ -65,13 +65,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "University of Michigan–Ann Arbor",
-      "type": "Successor",
-      "id": "https://ror.org/00jmfr291"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03ybaf311",
   "labels": [],
