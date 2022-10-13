@@ -22,6 +22,11 @@
       "label": "National School for Water and Environmental Engineering",
       "type": "Parent",
       "id": "https://ror.org/02jhjzd11"
+    },
+    {
+      "label": "Laboratory of Hydrology and Geochemistry",
+      "type": "Predecessor",
+      "id": "https://ror.org/03y81da23"
     }
   ],
   "addresses": [
