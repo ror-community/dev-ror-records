@@ -1,40 +1,45 @@
 {
-  "id": "https://ror.org/05s7dz794",
-  "name": "International Union Against Tuberculosis and Lung Disease",
+  "id": "https://ror.org/03t0t6y08",
+  "name": "University of California Division of Agriculture and Natural Resources",
   "email_address": null,
   "ip_addresses": [],
-  "established": 1867,
+  "established": 1913,
   "types": [
-    "Nonprofit"
+    "Education"
   ],
   "relationships": [
     {
-      "label": "International Union Against Tuberculosis and Lung Disease",
-      "type": "Successor",
-      "id": "https://ror.org/037x4qk98"
+      "label": "University of California System",
+      "type": "Parent",
+      "id": "https://ror.org/00pjdza24"
+    },
+    {
+      "label": "Kearney Agricultural Research and Extension Center",
+      "type": "Child",
+      "id": "https://ror.org/04kjrxx07"
     }
   ],
   "addresses": [
     {
-      "lat": 40.71427,
-      "lng": -74.00597,
+      "lat": 37.80437,
+      "lng": -122.2708,
       "state": null,
       "state_code": null,
-      "city": "New York",
+      "city": "Oakland",
       "geonames_city": {
-        "id": 5128581,
-        "city": "New York",
+        "id": 5378538,
+        "city": "Oakland",
         "geonames_admin1": {
-          "name": "New York",
-          "id": 5128638,
-          "ascii_name": "New York",
-          "code": "US.NY"
+          "name": "California",
+          "id": 5332921,
+          "ascii_name": "California",
+          "code": "US.CA"
         },
         "geonames_admin2": {
-          "name": null,
-          "id": null,
-          "ascii_name": null,
-          "code": null
+          "name": "Alameda",
+          "id": 5322745,
+          "ascii_name": "Alameda",
+          "code": "US.CA.001"
         },
         "license": {
           "attribution": "Data from geonames.org under a CC-BY 3.0 license",
@@ -60,37 +65,35 @@
     }
   ],
   "links": [
-    "http://www.theunion.org/"
+    "http://ucanr.edu/"
   ],
-  "aliases": [
-    "The Union"
-  ],
+  "aliases": [],
   "acronyms": [
-    "UATLD"
+    "ANR"
   ],
-  "status": "inactive",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/International_Union_Against_Tuberculosis_and_Lung_Disease",
+  "status": "active",
+  "wikipedia_url": "",
   "labels": [],
   "country": {
     "country_name": "United States",
     "country_code": "US"
   },
   "external_ids": {
-    "FundRef": {
-      "preferred": "501100005850",
-      "all": [
-        "501100005850"
-      ]
-    },
-    "Wikidata": {
+    "ISNI": {
       "preferred": null,
       "all": [
-        "Q30268057"
+        "0000 0001 2166 8120"
+      ]
+    },
+    "FundRef": {
+      "preferred": null,
+      "all": [
+        "100006488"
       ]
     },
     "GRID": {
-      "preferred": "grid.475288.4",
-      "all": "grid.475288.4"
+      "preferred": "grid.300433.7",
+      "all": "grid.300433.7"
     }
   }
 }
