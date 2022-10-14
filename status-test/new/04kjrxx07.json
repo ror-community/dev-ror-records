@@ -26,13 +26,7 @@
     }
   },
   "established": 1965,
-  "relationships": [
-    {
-      "label": "University of California Division of Agriculture and Natural Resources",
-      "type": "Parent",
-      "id": "https://ror.org/03t0t6y08"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04kjrxx07",
   "labels": [],
