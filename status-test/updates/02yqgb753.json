@@ -1,34 +1,39 @@
 {
-  "id": "https://ror.org/05s7dz794",
-  "name": "International Union Against Tuberculosis and Lung Disease",
+  "id": "https://ror.org/02yqgb753",
+  "name": "Life Sciences International Postgraduate Educational Center",
   "email_address": null,
   "ip_addresses": [],
-  "established": 1867,
+  "established": 1977,
   "types": [
-    "Nonprofit"
+    "Facility"
   ],
   "relationships": [
     {
-      "label": "International Union Against Tuberculosis and Lung Disease",
-      "type": "Successor",
-      "id": "https://ror.org/037x4qk98"
+      "label": "United Nations Educational, Scientific and Cultural Organization",
+      "type": "Parent",
+      "id": "https://ror.org/04h4z8k05"
+    },
+    {
+      "label": "Biophysics Center of Armenian",
+      "type": "Predecessor",
+      "id": "https://ror.org/01br3aa17"
     }
   ],
   "addresses": [
     {
-      "lat": 40.71427,
-      "lng": -74.00597,
+      "lat": 40.18111,
+      "lng": 44.51361,
       "state": null,
       "state_code": null,
-      "city": "New York",
+      "city": "Yerevan",
       "geonames_city": {
-        "id": 5128581,
-        "city": "New York",
+        "id": 616052,
+        "city": "Yerevan",
         "geonames_admin1": {
-          "name": "New York",
-          "id": 5128638,
-          "ascii_name": "New York",
-          "code": "US.NY"
+          "name": "Yerevan",
+          "id": 616051,
+          "ascii_name": "Yerevan",
+          "code": "AM.11"
         },
         "geonames_admin2": {
           "name": null,
@@ -56,41 +61,31 @@
       "postcode": null,
       "primary": false,
       "line": null,
-      "country_geonames_id": 6252001
+      "country_geonames_id": 174982
     }
   ],
   "links": [
-    "http://www.theunion.org/"
+    "http://www.biophys.am/"
   ],
-  "aliases": [
-    "The Union"
-  ],
-  "acronyms": [
-    "UATLD"
-  ],
-  "status": "inactive",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/International_Union_Against_Tuberculosis_and_Lung_Disease",
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "",
   "labels": [],
   "country": {
-    "country_name": "United States",
-    "country_code": "US"
+    "country_name": "Armenia",
+    "country_code": "AM"
   },
   "external_ids": {
-    "FundRef": {
-      "preferred": "501100005850",
-      "all": [
-        "501100005850"
-      ]
-    },
     "Wikidata": {
       "preferred": null,
       "all": [
-        "Q30268057"
+        "Q77077134"
       ]
     },
     "GRID": {
-      "preferred": "grid.475288.4",
-      "all": "grid.475288.4"
+      "preferred": "grid.506497.9",
+      "all": "grid.506497.9"
     }
   }
 }
