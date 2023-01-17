@@ -8,6 +8,7 @@ on:
         description: Release version (ex v1.17)
       zenodo-env:
         required: true
+        description: Zenodo environment
         default: 'sandbox'
         type: choice
         options:
@@ -20,7 +21,7 @@ on:
         default: '1098376'
 env:
   ZENODO_TOKEN_SANDBOX: ${{ secrets.ZENODO_TOKEN_SANDBOX }}
-  ZENODO_TOKEN_PROD: ${{ secrets.ZENODO_TOKEN_SANDBOX }}
+  ZENODO_TOKEN_PROD: ${{ secrets.ZENODO_TOKEN_PROD }}
 
 jobs:
   publish-dump:
@@ -44,9 +45,9 @@ jobs:
         run: |
           cd ./ror-data
           python -m pip install --upgrade pip
-          curl https://raw.githubusercontent.com/ror-community/curation_ops/zenodo-upload/upload_dump_zenodo/requirements.txt -o requirements.txt
+          curl https://raw.githubusercontent.com/ror-community/curation_ops/main/upload_dump_zenodo/requirements.txt -o requirements.txt
           pip install -r requirements.txt
-          curl https://raw.githubusercontent.com/ror-community/curation_ops/zenodo-upload/upload_dump_zenodo/upload_dump_zenodo.py -o upload_dump_zenodo.py
+          curl https://raw.githubusercontent.com/ror-community/curation_ops/main/upload_dump_zenodo/upload_dump_zenodo.py -o upload_dump_zenodo.py
           python upload_dump_zenodo.py -r ${{github.event.inputs.release}} -p ${{github.event.inputs.record-id}} -e ${{github.event.inputs.zenodo-env}}
       - name: Notify Slack
         if: always()
