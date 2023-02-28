@@ -30,6 +30,13 @@ jobs:
         id: copyprevdump
         run: |
           cp -R ./ror-data-test/${{github.event.inputs.prev-release}}.zip ./ror-records-test
+      - name: checkout ror curation ops repo
+        uses: actions/checkout@v2
+        with:
+          repository: ror-community/curation_ops
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          ref: dump-csv
+          path: ./curation_ops
       - name: Set up Python environment
         uses: actions/setup-python@v2
         with:
@@ -37,9 +44,8 @@ jobs:
       - name: execute script
         id: gendumpscript
         run: |
-          cd ./ror-records-test
-          curl https://raw.githubusercontent.com/ror-community/ror-api/dev/rorapi/management/commands/generate_dump.py -o generate_dump.py
-          python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}}
+          cd ./curation_ops/generate_dump/
+          python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}} -i '../../ror-records-test' -o '../../ror-records-test'
       - name: cat error file
         if: ${{ steps.gendumpscript.outcome != 'success'}}
         run: |
