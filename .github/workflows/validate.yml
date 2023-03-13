@@ -55,6 +55,7 @@ jobs:
               fi
             elif [[ ${{ github.event.inputs.with-relationship }} == false ]]; then
               python run_validations.py -i ../files --no-geonames
+            fi
           else
             if [[ ${{ github.event.inputs.with-relationship }} == true ]]; then
               if [[ -f "../${{ env.WORKING_DIR }}/relationships.csv" ]]; then
@@ -64,6 +65,7 @@ jobs:
               fi
             elif [[ ${{ github.event.inputs.with-relationship }} == false ]]; then
               python run_validations.py -i ../files
+            fi
           fi
       - name: Notify Slack
         if: always()
