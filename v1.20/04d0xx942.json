@@ -42,6 +42,11 @@
       "label": "Fundo Nacional de Desenvolvimento da Educação",
       "type": "Child",
       "id": "https://ror.org/03w24fg09"
+    },
+    {
+      "label": "Federal Government of Brazil",
+      "type": "Parent",
+      "id": "https://ror.org/00n0s9w57"
     }
   ],
   "addresses": [
