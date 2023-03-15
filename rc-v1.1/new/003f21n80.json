@@ -49,10 +49,10 @@
           "code": "AL.50"
         },
         "geonames_admin2": {
-          "name": "Tirana District",
-          "id": 3183879,
-          "ascii_name": "Tirana District",
-          "code": "AL.50.28"
+          "name": "Bashkia Tiranë",
+          "id": 10944420,
+          "ascii_name": "Bashkia Tiranë",
+          "code": "AL.50.10944420"
         },
         "nuts_level1": {
           "name": null,
