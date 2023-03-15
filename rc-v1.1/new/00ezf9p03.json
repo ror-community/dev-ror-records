@@ -49,8 +49,8 @@
         "id": 710791,
         "city": "Cherkasy",
         "geonames_admin1": {
-          "name": "Cherkasy Oblast",
-          "ascii_name": "Cherkasy Oblast",
+          "name": "Cherkasy",
+          "ascii_name": "Cherkasy",
           "id": 710802,
           "code": "UA.01"
         },
@@ -58,7 +58,7 @@
           "name": "Cherkasy Raion",
           "id": 710795,
           "ascii_name": "Cherkasy Raion",
-          "code": "UA.01.710795"
+          "code": "UA.01.7108"
         },
         "nuts_level1": {
           "name": null,

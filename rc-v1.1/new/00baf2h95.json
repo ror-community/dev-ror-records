@@ -51,10 +51,10 @@
           "code": "ID.30"
         },
         "geonames_admin2": {
-          "name": null,
-          "id": null,
-          "ascii_name": null,
-          "code": null
+          "name": "Kota Bandung",
+          "id": 6559695,
+          "ascii_name": "Kota Bandung",
+          "code": "ID.30.3273"
         },
         "nuts_level1": {
           "name": null,
