@@ -1,49 +1,34 @@
 {
-  "id": "https://ror.org/00x9ewr78",
-  "name": "National Council for Scientific Research",
+  "id": "https://ror.org/05pr37258",
+  "name": "Health Sciences Centre",
   "email_address": null,
   "ip_addresses": [],
-  "established": 1962,
+  "established": 1973,
   "types": [
-    "Government"
+    "Healthcare"
   ],
   "relationships": [
     {
-      "label": "Institut Carnot PolyNat",
-      "type": "Child",
-      "id": "https://ror.org/047p7mf25"
-    },
-    {
-      "label": "Centre de Recherche en Économie et Management",
-      "type": "Child",
-      "id": "https://ror.org/0047rmf80"
-    },
-    {
-      "label": "AAU - Ambiances, Architectures, Urbanités",
-      "type": "Related",
-      "id": "https://ror.org/05hz99a17"
-    },
-    {
-      "label": "Centre de Recherche et de Documentation sur l'Océanie (CREDO)",
-      "type": "Child",
-      "id": "https://ror.org/00jj62164"
+      "label": "Winnipeg Regional Health Authority",
+      "type": "Parent",
+      "id": "https://ror.org/01a61tf67"
     }
   ],
   "addresses": [
     {
-      "lat": 33.89332,
-      "lng": 35.50157,
+      "lat": 49.8844,
+      "lng": -97.14704,
       "state": null,
       "state_code": null,
-      "city": "Beirut",
+      "city": "Winnipeg",
       "geonames_city": {
-        "id": 276781,
-        "city": "Beirut",
+        "id": 6183235,
+        "city": "Winnipeg",
         "geonames_admin1": {
-          "name": "Beyrouth",
-          "id": 276780,
-          "ascii_name": "Beyrouth",
-          "code": "LB.04"
+          "name": "Manitoba",
+          "id": 6065171,
+          "ascii_name": "Manitoba",
+          "code": "CA.03"
         },
         "geonames_admin2": {
           "name": null,
@@ -71,39 +56,46 @@
       "postcode": null,
       "primary": false,
       "line": null,
-      "country_geonames_id": 272103
+      "country_geonames_id": 6251999
     }
   ],
   "links": [
-    "http://www.cnrs.edu.lb/"
+    "http://www.hsc.mb.ca/"
   ],
   "aliases": [],
   "acronyms": [
-    "CNRS"
+    "HSC"
   ],
   "status": "active",
-  "wikipedia_url": "",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Health_Sciences_Centre_(Winnipeg)",
   "labels": [],
   "country": {
-    "country_name": "Lebanon",
-    "country_code": "LB"
+    "country_name": "Canada",
+    "country_code": "CA"
   },
   "external_ids": {
     "ISNI": {
       "preferred": null,
       "all": [
-        "0000 0001 2322 3037"
+        "0000 0004 0633 2743"
       ]
     },
     "FundRef": {
       "preferred": null,
       "all": [
-        "501100007175"
+        "100008251",
+        "100008252"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q14875035"
       ]
     },
     "GRID": {
-      "preferred": "grid.423603.0",
-      "all": "grid.423603.0"
+      "preferred": "grid.413899.e",
+      "all": "grid.413899.e"
     }
   }
 }
