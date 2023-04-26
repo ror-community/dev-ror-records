@@ -113,7 +113,7 @@ jobs:
           cd .github/workflows
           python -m pip install --upgrade pip
           pip install requests==2.23.0
-          python index_files.py -u ${{ secrets.INDEX_DEV_API_URL }} -d ${{ github.event.inputs.directory-name }} -es -d ${{ github.event.inputs.es-version }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
+          python index_files.py -u ${{ secrets.INDEX_DEV_API_URL }} -d ${{ github.event.inputs.directory-name }} -es ${{ github.event.inputs.es-version }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -122,5 +122,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'DEV index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.inputs.directory-name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV index status to ES ${{ github.event.inputs.es-version }}: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.inputs.directory-name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 
