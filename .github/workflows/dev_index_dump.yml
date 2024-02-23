@@ -57,7 +57,6 @@ jobs:
         uses: actions/checkout@v2
       - name: Index dump file
         id: indexdatadump
-        needs: checkout
         run: |
           cd .github/workflows
           python -m pip install --upgrade pip
