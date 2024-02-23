@@ -1,4 +1,4 @@
-name: DEV manual deploy from dev branch
+name: DEV index full data dump
 on:
   workflow_dispatch:
     inputs:
