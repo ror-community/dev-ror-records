@@ -53,9 +53,11 @@ jobs:
     if: github.event.ref == 'refs/heads/dev'
     needs: check_permission
     steps:
-      - name: Index dump file
+      - name: checkout
         uses: actions/checkout@v2
+      - name: Index dump file
         id: indexdatadump
+        needs: checkout
         run: |
           cd .github/workflows
           python -m pip install --upgrade pip
@@ -65,7 +67,6 @@ jobs:
           else
             python index_dump.py -u ${{ secrets.INDEX_DUMP_DEV_API_URL_V2 }} -f ${{ github.event.inputs.release-dump }} -e  ${{ github.event.inputs.data-env }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
           fi
-
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
