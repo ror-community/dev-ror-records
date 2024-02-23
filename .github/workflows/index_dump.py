@@ -28,6 +28,7 @@ def main():
     dataenv = args.dataenv
     headers = args.headers
     full_url = os.path.join(url, filename, dataenv)
+    print(full_url)
     response = send_request(full_url, headers)
     if not(response.ok):
         print(response.text)
