@@ -54,6 +54,7 @@ jobs:
     needs: check_permission
     steps:
       - name: Index dump file
+        uses: actions/checkout@v2
         id: indexdatadump
         run: |
           cd .github/workflows
