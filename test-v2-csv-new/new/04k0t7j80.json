@@ -1,0 +1,106 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "Q60197321"
+      ],
+      "preferred": "Q60197321",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/04k0t7j80",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/gmeg"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 37.41352,
+        "lng": -122.05404,
+        "name": "Moffett Federal Airfield"
+      },
+      "geonames_id": 8096494
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "GMEG"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "USGS GMEG"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "GMEGSC"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "USGS GMEGSC"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS Geology, Minerals, Energy, and Geophysics Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey Geology, Minerals, Energy, and Geophysics Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey Geology, Minerals, Energy, and Geophysics Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Geology, Minerals, Energy, and Geophysics Science Center"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

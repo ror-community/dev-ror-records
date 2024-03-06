@@ -1,0 +1,69 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/04fx2f042",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://ir.bas.bg"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "BG",
+        "country_name": "Bulgaria",
+        "lat": 42.69751,
+        "lng": 23.32415,
+        "name": "Sofia"
+      },
+      "geonames_id": 727011
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "IR-BAS"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Bulgarian Academy of Sciences Institute of Robotics"
+    },
+    {
+      "lang": "bg",
+      "types": [
+        "label"
+      ],
+      "value": "Институт по роботика"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Institute of Robotics"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

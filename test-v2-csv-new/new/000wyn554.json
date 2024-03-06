@@ -1,0 +1,63 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "Q52607172"
+      ],
+      "preferred": "Q52607172",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/000wyn554",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://lpcn.unicaen.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.18585,
+        "lng": -0.35912,
+        "name": "Caen"
+      },
+      "geonames_id": 3029241
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "LPCN"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Laboratoire de psychologie Caen Normandie"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

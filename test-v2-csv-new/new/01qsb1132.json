@@ -1,0 +1,62 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1991,
+  "external_ids": [],
+  "id": "https://ror.org/01qsb1132",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://unak.org.tr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "TR",
+        "country_name": "Türkiye",
+        "lat": 39.91987,
+        "lng": 32.85427,
+        "name": "Ankara"
+      },
+      "geonames_id": 323786
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "ÜNAK"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "University and Research Librarians Association"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Üniversite ve Araştırma Kütüphanecileri Derneği"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ]
+}

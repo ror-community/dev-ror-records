@@ -1,0 +1,83 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2015,
+  "external_ids": [],
+  "id": "https://ror.org/03fgm5482",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://culinarymedicine.de"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 52.05,
+        "lng": 7.46667,
+        "name": "Altenberge"
+      },
+      "geonames_id": 2957829
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "CMD"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Culinary Medicine Deutschland"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Culinary Medicine Germany"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "CookUOS e.V."
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "CookUOS"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Culinary Medicine Deutschland e.V."
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ]
+}

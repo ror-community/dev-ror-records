@@ -1,0 +1,76 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/00dhrvn59",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://jkfenner.com"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "IN",
+        "country_name": "India",
+        "lat": 9.919,
+        "lng": 78.11953,
+        "name": "Madurai"
+      },
+      "geonames_id": 1264521
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "JKFE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "JK Fenner"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "JK Fenner India Limited"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "JK Fenner India Ltd."
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "JK Fenner (India)"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ]
+}

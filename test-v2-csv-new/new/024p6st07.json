@@ -1,0 +1,88 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1770,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0001 2181 7384"
+      ],
+      "preferred": "0000 0001 2181 7384",
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q2901379"
+      ],
+      "preferred": "Q2901379",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/024p6st07",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.bis-sorbonne.fr/biu/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_de_la_Sorbonne"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.85341,
+        "lng": 2.3488,
+        "name": "Paris"
+      },
+      "geonames_id": 2988507
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "BIS"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Bibliothèque interuniversitaire de la Sorbonne Paris"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Sorbonne Interuniversity Library"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Bibliothèque interuniversitaire de la Sorbonne"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "archive"
+  ]
+}

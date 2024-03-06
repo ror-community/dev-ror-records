@@ -1,0 +1,88 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1969,
+  "external_ids": [
+    {
+      "all": [
+        "Q6863631"
+      ],
+      "preferred": "Q6863631",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/02bkmej83",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://msutawi-tawi.edu.ph"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Mindanao_State_University%E2%80%93Tawi-Tawi_College_of_Technology_and_Oceanography"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "PH",
+        "country_name": "Philippines",
+        "lat": 5.02917,
+        "lng": 119.77306,
+        "name": "Bongao"
+      },
+      "geonames_id": 1724088
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "MSU TCTO"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Mindanao State University - Tawi-Tawi Campus"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "MSU-Tawi-Tawi College"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "MSU-Tawi-Tawi"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Mindanao State University - Tawi-Tawi College of Technology and Oceanography"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ]
+}

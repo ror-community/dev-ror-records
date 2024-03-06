@@ -1,0 +1,63 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1996,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0001 2159 0773"
+      ],
+      "preferred": "0000 0001 2159 0773",
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q51785495"
+      ],
+      "preferred": "Q51785495",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/034k0hz24",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://identite-subjectivite.unicaen.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.18585,
+        "lng": -0.35912,
+        "name": "Caen"
+      },
+      "geonames_id": 3029241
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Identité et subjectivité"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "Q51785383"
+      ],
+      "preferred": "Q51785383",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/01csye757",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://ensa-normandie.fr/recherche/le-laboratoire/"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.44533,
+        "lng": 1.15144,
+        "name": "Darnétal"
+      },
+      "geonames_id": 3021717
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "ATE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Laboratoire ATE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "ATE Normandie"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Architecture, Territoire, Environnement"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

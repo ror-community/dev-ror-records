@@ -1,0 +1,62 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/0358ddj57",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://itesa.ac.id"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "ID",
+        "country_name": "Indonesia",
+        "lat": -6.99306,
+        "lng": 110.42083,
+        "name": "Semarang"
+      },
+      "geonames_id": 1627896
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "ITESA"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "ITESA Semarang"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ]
+}

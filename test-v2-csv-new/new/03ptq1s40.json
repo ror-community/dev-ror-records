@@ -1,0 +1,76 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1926,
+  "external_ids": [],
+  "id": "https://ror.org/03ptq1s40",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://nivs.rs"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "RS",
+        "country_name": "Serbia",
+        "lat": 44.80401,
+        "lng": 20.46513,
+        "name": "Belgrade"
+      },
+      "geonames_id": 792680
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "NIVS"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Scientific Veterinary Institute of Serbia"
+    },
+    {
+      "lang": "sr",
+      "types": [
+        "label"
+      ],
+      "value": "Naučni institut za veterinarstvo Srbije"
+    },
+    {
+      "lang": "sr",
+      "types": [
+        "label"
+      ],
+      "value": "Научни институт за ветеринарство Србије"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Scientific Institute for Veterinary Medicine of Serbia"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/03f9rbg93",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://main.icmr.nic.in/institutes/icmr-nireh-bhopal"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "IN",
+        "country_name": "India",
+        "lat": 23.25469,
+        "lng": 77.40289,
+        "name": "Bhopal"
+      },
+      "geonames_id": 1275841
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "NIREH"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "ICMR NIREH"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Indian Council of Medical Research National Institute for Research in Environmental Health"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "ICMR-National Institute for Research in Environmental Health"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "ICMR-National Institute for Research in Environmental Health (NIREH)"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "National Institute for Research in Environmental Health (NIREH)"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "National Institute for Research in Environmental Health"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "ICMR National Institute for Research in Environmental Health"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/01q1f4t53",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://cestri.chnenergy.com.cn/kxjsyjyww/gjjyfpt/202107/faa343f050bc4c0f914c716b639a4483.shtml"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 32.06167,
+        "lng": 118.77778,
+        "name": "Nanjing"
+      },
+      "geonames_id": 1799962
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "State Key Lab of Clean and Efficient Coal-Fired Power Generation and Pollution Control"
+    },
+    {
+      "lang": "zh",
+      "types": [
+        "label"
+      ],
+      "value": "清洁高效燃煤发电与污染控制国家重点实验室"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "State Key Laboratory of Clean and Efficient Coal-Fired Power Generation and Pollution Control"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

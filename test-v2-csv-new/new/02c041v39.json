@@ -1,0 +1,56 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/02c041v39",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://sthjt.fujian.gov.cn"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 26.06139,
+        "lng": 119.30611,
+        "name": "Fuzhou"
+      },
+      "geonames_id": 1810821
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Fujian Provincial Department of Ecology and Environment"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias",
+        "label"
+      ],
+      "value": "福建省生态环境厅"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ]
+}
