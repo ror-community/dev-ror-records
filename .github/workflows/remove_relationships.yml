@@ -39,10 +39,10 @@ jobs:
           pip install requests==2.23.0
           curl https://raw.githubusercontent.com/ror-community/curation_ops/v2-crosswalk/remove_relationships/remove_relationships.py -o remove_relationships.py
           if [[ ${{ github.event.inputs.schema-version }} == 'v1' ]]; then
-            python remove_relationships.py relationships.csv -v 1
+            python remove_relationships.py -v 1
           fi
           if [[ ${{ github.event.inputs.schema-version }} == 'v2' ]]; then
-            python remove_relationships.py relationships.csv -v 2
+            python remove_relationships.py -v 2
           fi
       - name: commit error file
         if: ${{ steps.remrelshp.outcome != 'success'}}
