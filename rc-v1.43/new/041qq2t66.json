@@ -80,7 +80,13 @@
     }
   },
   "established": null,
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "London International Development Centre",
+      "type": "Parent",
+      "id": "https://ror.org/053xt2a19"
+    }
+  ],
   "email_address": null,
   "id": "https://ror.org/041qq2t66",
   "labels": [],
