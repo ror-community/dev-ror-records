@@ -1,0 +1,108 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1976,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 0461 6320"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "501100005042",
+        "501100006587"
+      ],
+      "preferred": "501100005042",
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q2979314"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.48769.34"
+      ],
+      "preferred": "grid.48769.34",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/03s4khd80",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.saintluc.be/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/Cliniques_Universitaires_Saint-Luc"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "lat": 50.852056,
+        "lng": 4.452361,
+        "name": "Brussels"
+      },
+      "geonames_id": 2800866
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Cliniques Universitaires Saint-Luc"
+    },
+    {
+      "lang": "nl",
+      "types": [
+        "label"
+      ],
+      "value": "Universitair ziekenhuis Sint-Lambrechts-Woluwe"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Université Catholique de Louvain",
+      "type": "related",
+      "id": "https://ror.org/02495e989"
+    },
+    {
+      "label": {
+        "value": "Fondation Saint-Luc",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Child",
+      "id": "https://ror.org/021354321"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}

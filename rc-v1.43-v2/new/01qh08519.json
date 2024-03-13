@@ -1,89 +1,102 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3117735,
-            "geonames_details": {
-                "country_code": "ES",
-                "country_name": "Spain",
-                "lat": 40.4165,
-                "lng": -3.70256,
-                "name": "Madrid"
-            }
-        }
-    ],
-    "established": 2023,
-    "external_ids": [
-        {
-            "type": "wikidata",
-            "all": [
-                "Q123492521"
-            ],
-            "preferred": "Q123492521"
-        }
-    ],
-    "id": "https://ror.org/01qh08519",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://portal.mineco.gob.es"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://es.wikipedia.org/wiki/Ministerio_de_Transformaci%C3%B3n_Digital"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ministerio para la Transformaci\u00f3n Digital y de la Funci\u00f3n P\u00fablica",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministerio para la Transformaci\u00f3n Digital y de la Funci\u00f3n P\u00fablica de Espa\u00f1a",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Spanish Ministry of Digital Transformation",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Digital Transformation, Spain",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MTDFP",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3117735,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 40.4165,
+        "lng": -3.70256,
+        "name": "Madrid"
+      }
     }
+  ],
+  "established": 2023,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q123492521"
+      ],
+      "preferred": "Q123492521"
+    }
+  ],
+  "id": "https://ror.org/01qh08519",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://portal.mineco.gob.es"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://es.wikipedia.org/wiki/Ministerio_de_Transformaci%C3%B3n_Digital"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministerio para la Transformación Digital y de la Función Pública",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministerio para la Transformación Digital y de la Función Pública de España",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Spanish Ministry of Digital Transformation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Digital Transformation, Spain",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MTDFP",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "value": "Ministerio de Asuntos Económicos y Transformación Digital",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Predecessor",
+      "id": "https://ror.org/03sv46s19"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

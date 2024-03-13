@@ -1,0 +1,112 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2022-06-16",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1988,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0000 8642 5392"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q5211467"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.469945.3"
+      ],
+      "preferred": "grid.469945.3",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/013355g38",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.idsia.ch/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Dalle_Molle_Institute_for_Artificial_Intelligence_Research"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "CH",
+        "country_name": "Switzerland",
+        "lat": 46.01008,
+        "lng": 8.96004,
+        "name": "Lugano"
+      },
+      "geonames_id": 2659836
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Dalle Molle Institute for Artificial Intelligence Research"
+    },
+    {
+      "lang": "it",
+      "types": [
+        "label"
+      ],
+      "value": "Istituto Dalle Molle di Studi sull'Intelligenza Artificiale"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "IDSIA"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Università della Svizzera italiana",
+      "type": "parent",
+      "id": "https://ror.org/03c4atk17"
+    },
+    {
+      "label": "University of Applied Sciences and Arts of Southern Switzerland",
+      "type": "parent",
+      "id": "https://ror.org/05ep8g269"
+    },
+    {
+      "label": {
+        "value": "Università della Svizzera italiana",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Parent",
+      "id": "https://ror.org/03c4atk17"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

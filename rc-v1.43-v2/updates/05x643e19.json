@@ -1,93 +1,105 @@
 {
-    "locations": [
-        {
-            "geonames_id": 4994358,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 42.96336,
-                "lng": -85.66809,
-                "name": "Grand Rapids"
-            }
-        }
-    ],
-    "established": 1875,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0450 5989"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q5003039"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.413153.1"
-            ],
-            "preferred": "grid.413153.1"
-        }
-    ],
-    "id": "https://ror.org/05x643e19",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.spectrumhealth.org/butterworth"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Butterworth_Hospital_(Michigan)"
-        }
-    ],
-    "names": [
-        {
-            "value": "Corewell Health Butterworth Hospital",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Butterworth Hospital",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Michigan State University",
-            "type": "related",
-            "id": "https://ror.org/05hs6h993"
-        },
-        {
-            "label": "Spectrum Health",
-            "type": "parent",
-            "id": "https://ror.org/02ahxdd04"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 4994358,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.96336,
+        "lng": -85.66809,
+        "name": "Grand Rapids"
+      }
     }
+  ],
+  "established": 1875,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0450 5989"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q5003039"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.413153.1"
+      ],
+      "preferred": "grid.413153.1"
+    }
+  ],
+  "id": "https://ror.org/05x643e19",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.spectrumhealth.org/butterworth"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Butterworth_Hospital_(Michigan)"
+    }
+  ],
+  "names": [
+    {
+      "value": "Corewell Health Butterworth Hospital",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Butterworth Hospital",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Michigan State University",
+      "type": "related",
+      "id": "https://ror.org/05hs6h993"
+    },
+    {
+      "label": "Spectrum Health",
+      "type": "parent",
+      "id": "https://ror.org/02ahxdd04"
+    },
+    {
+      "label": {
+        "value": "Corewell Health",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Parent",
+      "id": "https://ror.org/02hb5yj49"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

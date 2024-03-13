@@ -1,68 +1,93 @@
 {
-    "locations": [
-        {
-            "geonames_id": 6325521,
-            "geonames_details": {
-                "country_code": "CA",
-                "country_name": "Canada",
-                "lat": 46.80326,
-                "lng": -71.17793,
-                "name": "L\u00e9vis"
-            }
-        }
-    ],
-    "established": 1990,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0000 9606 3209"
-            ],
-            "preferred": "0000 0000 9606 3209"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q3009983"
-            ],
-            "preferred": "Q3009983"
-        }
-    ],
-    "id": "https://ror.org/05sz3st37",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://cegepba.qc.ca"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://fr.wikipedia.org/wiki/C%C3%A9gep_Beauce-Appalaches"
-        }
-    ],
-    "names": [
-        {
-            "value": "C\u00e9gep Beauce-Appalaches",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 6325521,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 46.80326,
+        "lng": -71.17793,
+        "name": "Lévis"
+      }
     }
+  ],
+  "established": 1990,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0000 9606 3209"
+      ],
+      "preferred": "0000 0000 9606 3209"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q3009983"
+      ],
+      "preferred": "Q3009983"
+    }
+  ],
+  "id": "https://ror.org/05sz3st37",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://cegepba.qc.ca"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://fr.wikipedia.org/wiki/C%C3%A9gep_Beauce-Appalaches"
+    }
+  ],
+  "names": [
+    {
+      "value": "Cégep Beauce-Appalaches",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Hôpital d'Youville de Sherbrooke"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/02805zw73"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Hôpital d'Youville de Sherbrooke"
+      },
+      "type": "Child",
+      "id": "https://ror.org/02805zw73"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

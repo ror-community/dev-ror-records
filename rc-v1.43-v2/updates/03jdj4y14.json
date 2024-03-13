@@ -1,0 +1,107 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1993,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 0458 4453"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "100007065"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q182477"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.451133.1"
+      ],
+      "preferred": "grid.451133.1",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/03jdj4y14",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.nvidia.com/page/home.html"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Nvidia"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 37.372978,
+        "lng": -121.962251,
+        "name": "Santa Clara"
+      },
+      "geonames_id": 5393015
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Nvidia (United States)"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "NVIDIA Corporation"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Nvidia (United Kingdom)",
+      "type": "child",
+      "id": "https://ror.org/02kr42612"
+    },
+    {
+      "label": {
+        "value": "NVIDIA (Italy)",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Child",
+      "id": "https://ror.org/04z2hsy54"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "company"
+  ]
+}

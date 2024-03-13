@@ -1,0 +1,129 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-02-13",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1866,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 1937 1389"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "501100006476"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q901677",
+        "Q10302891",
+        "Q26690209",
+        "Q39418041"
+      ],
+      "preferred": "Q901677",
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.418333.e"
+      ],
+      "preferred": "grid.418333.e",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/0561n6946",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.academiaromana.ro/def2002eng.htm"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Romanian_Academy"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "RO",
+        "country_name": "Romania",
+        "lat": 44.43225,
+        "lng": 26.10626,
+        "name": "Bucharest"
+      },
+      "geonames_id": 683506
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Romanian Academy"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Academia Română"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Societatea Literară Română"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Societatea Academică Romînă"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Institutul National de Cercetari Economice \"Costin C. Kiritescu\"",
+      "type": "child",
+      "id": "https://ror.org/04kddtt70"
+    },
+    {
+      "label": "Institutul de Chimie Macromoleculară Petru Poni",
+      "type": "child",
+      "id": "https://ror.org/0340mea86"
+    },
+    {
+      "label": {
+        "value": "Institutul de Studii Sud-Est Europene",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Child",
+      "id": "https://ror.org/007bytg49"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "archive"
+  ]
+}

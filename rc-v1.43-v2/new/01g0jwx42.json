@@ -1,91 +1,104 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3456166,
-            "geonames_details": {
-                "country_code": "BR",
-                "country_name": "Brazil",
-                "lat": -22.28194,
-                "lng": -42.53111,
-                "name": "Nova Friburgo"
-            }
-        }
-    ],
-    "established": 1989,
-    "external_ids": [],
-    "id": "https://ror.org/01g0jwx42",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.iprj.uerj.br"
-        }
-    ],
-    "names": [
-        {
-            "value": "Instituto Polit\u00e9cnico do Rio de Janeiro",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Instituto Polit\u00e9cnico da Universidade do Estado do Rio de Janeiro",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "UERJ - Instituto Polit\u00e9cnico",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Polytechnic Institute of Rio de Janeiro",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Polytechnic Institute of the State University of Rio de Janeiro",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "IPRJ",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        },
-        {
-            "value": "UERJ",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3456166,
+      "geonames_details": {
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "lat": -22.28194,
+        "lng": -42.53111,
+        "name": "Nova Friburgo"
+      }
     }
+  ],
+  "established": 1989,
+  "external_ids": [],
+  "id": "https://ror.org/01g0jwx42",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.iprj.uerj.br"
+    }
+  ],
+  "names": [
+    {
+      "value": "Instituto Politécnico do Rio de Janeiro",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Instituto Politécnico da Universidade do Estado do Rio de Janeiro",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "UERJ - Instituto Politécnico",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Polytechnic Institute of Rio de Janeiro",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Polytechnic Institute of the State University of Rio de Janeiro",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "IPRJ",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "UERJ",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Rio de Janeiro State University"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/0198v2949"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

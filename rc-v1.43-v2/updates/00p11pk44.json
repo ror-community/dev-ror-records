@@ -1,0 +1,102 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1832,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0000 9886 0607"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "100008352"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q7958639"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.267959.6"
+      ],
+      "preferred": "grid.267959.6",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/00p11pk44",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.wabash.edu/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Wabash_College"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 40.038056,
+        "lng": -86.905,
+        "name": "Crawfordsville"
+      },
+      "geonames_id": 4919381
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Wabash College"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "The Wabash Teachers Seminary and Manual Labor College"
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "value": "Private Academic Library Network of Indiana, Inc. (PALNI)",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Related",
+      "id": "https://ror.org/05dch6316"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ]
+}
