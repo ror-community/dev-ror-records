@@ -1,0 +1,69 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2017,
+  "external_ids": [],
+  "id": "https://ror.org/00kr50z52",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://ises-europe.org"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "NL",
+        "country_name": "The Netherlands",
+        "lat": 51.8425,
+        "lng": 5.85278,
+        "name": "Nijmegen"
+      },
+      "geonames_id": 2750053
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "ISES Europe"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "International Society of Exposure Science – Europe Chapter"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "ISES Europe Board."
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Europe Regional Chapter of the International Society of Exposure Science"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ]
+}
