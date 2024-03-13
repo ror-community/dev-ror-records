@@ -47,6 +47,7 @@ jobs:
       - name: Validate files
         id: validatefiles
         run: |
+          echo ${{ github.event.inputs.schema-version}}
           mkdir files
           cp ./${{ env.WORKING_DIR }}/*.json files/
           cd validation-suite
