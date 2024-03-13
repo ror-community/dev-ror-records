@@ -4,7 +4,7 @@ on:
     inputs:
       schema-version:
         required: true
-        description: Schema version to index
+        description: Schema version
         type: choice
         options:
         - v1
@@ -56,6 +56,7 @@ jobs:
           curl https://raw.githubusercontent.com/ror-community/ror-schema/schema-v2/ror_schema_v2_0.json -o ror_schema_v2_0.json
           ls ../files/
           if [[ ${{ github.event.inputs.schema-version == 'v1' }} ]]; then
+            echo "validating v1"
             if [[ ${{ github.event.inputs.skip-geonames }} == true ]]; then
               if [[ ${{ github.event.inputs.with-relationship }} == true ]]; then
                 if [[ -f "../${{ env.WORKING_DIR }}/relationships.csv" ]]; then
@@ -79,6 +80,7 @@ jobs:
             fi
           fi
           if [[ ${{ github.event.inputs.schema-version == 'v2' }} ]]; then
+            echo "validating v2"
             if [[ ${{ github.event.inputs.skip-geonames }} == true ]]; then
               if [[ ${{ github.event.inputs.with-relationship }} == true ]]; then
                 if [[ -f "../${{ env.WORKING_DIR }}/relationships.csv" ]]; then
