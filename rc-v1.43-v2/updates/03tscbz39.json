@@ -1,0 +1,113 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2973783,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.58392,
+                "lng": 7.74553,
+                "name": "Strasbourg"
+            }
+        }
+    ],
+    "established": 2007,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "100009120"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.423766.2"
+            ],
+            "preferred": "grid.423766.2"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q30284524"
+            ],
+            "preferred": "Q30284524"
+        }
+    ],
+    "id": "https://ror.org/03tscbz39",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://fondation-lehn.fr"
+        }
+    ],
+    "names": [
+        {
+            "value": "Fondation Jean-Marie Lehn",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "International Center for Frontier Research in Chemistry",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Jean-Marie Lehn Foundation",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Centre international de recherche aux fronti\u00e8res de la chimie",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Strasbourg Center for Frontier Research in Chemistry",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Le Centre International de Recherche aux Fronti\u00e8res de la Chimie",
+            "types": [
+                "label"
+            ],
+            "lang": "fr"
+        },
+        {
+            "value": "ICRFC",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "other"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

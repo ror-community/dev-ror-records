@@ -1,0 +1,85 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2185018,
+            "geonames_details": {
+                "country_code": "NZ",
+                "country_name": "New Zealand",
+                "lat": -40.35636,
+                "lng": 175.61113,
+                "name": "Palmerston North"
+            }
+        }
+    ],
+    "established": 1992,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 7863 9787"
+            ],
+            "preferred": "0000 0004 7863 9787"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q116185757"
+            ],
+            "preferred": "Q116185757"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100009482"
+            ],
+            "preferred": "501100009482"
+        }
+    ],
+    "id": "https://ror.org/05jge5x64",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.nzagrc.org.nz"
+        }
+    ],
+    "names": [
+        {
+            "value": "New Zealand Agricultural Greenhouse Gas Research Centre",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "NZ Agricultural Greenhouse Gas Research Centre",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "NZAGRC",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

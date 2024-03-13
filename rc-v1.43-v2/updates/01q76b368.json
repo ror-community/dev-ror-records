@@ -1,0 +1,341 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2988507,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.85341,
+                "lng": 2.3488,
+                "name": "Paris"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 0253 7563"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100017216"
+            ],
+            "preferred": "501100017216"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q24935880"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.457013.4"
+            ],
+            "preferred": "grid.457013.4"
+        }
+    ],
+    "id": "https://ror.org/01q76b368",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.cnrs.fr/inee/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Institut \u00c9cologie et Environnement",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "INEE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "French National Centre for Scientific Research",
+            "type": "parent",
+            "id": "https://ror.org/02feahw73"
+        },
+        {
+            "label": "Adaptation and Diversity in the Marine Environment",
+            "type": "child",
+            "id": "https://ror.org/0293jn610"
+        },
+        {
+            "label": "Adaptative Mechanisms & Evolution",
+            "type": "child",
+            "id": "https://ror.org/041tgdz97"
+        },
+        {
+            "label": "Arch\u00e9ozoologie et Arch\u00e9obotanique",
+            "type": "child",
+            "id": "https://ror.org/03j82q602"
+        },
+        {
+            "label": "Laboratoire d'Ecog\u00e9ochimie des Environnements Benthiques",
+            "type": "child",
+            "id": "https://ror.org/049xh5y45"
+        },
+        {
+            "label": "Biog\u00e9osciences",
+            "type": "child",
+            "id": "https://ror.org/04mzqjs78"
+        },
+        {
+            "label": "Biologie des Organismes et \u00c9cosyst\u00e8mes Aquatiques",
+            "type": "child",
+            "id": "https://ror.org/01tp1c480"
+        },
+        {
+            "label": "Biometry and Evolutionary Biology Laboratory",
+            "type": "child",
+            "id": "https://ror.org/03skt0t88"
+        },
+        {
+            "label": "Centre d'Etudes Biologiques de Chiz\u00e9",
+            "type": "child",
+            "id": "https://ror.org/00s8hq550"
+        },
+        {
+            "label": "Centre d'\u00c9cologie Fonctionnelle et \u00c9volutive",
+            "type": "child",
+            "id": "https://ror.org/008rywf59"
+        },
+        {
+            "label": "Centre de Recherches Insulaires et Observatoire de l'Environnement",
+            "type": "child",
+            "id": "https://ror.org/02tp7mm44"
+        },
+        {
+            "label": "Centre d'\u00c9cologie et des Sciences de la Conservation",
+            "type": "child",
+            "id": "https://ror.org/00sad8321"
+        },
+        {
+            "label": "Cereep Ecotron \u00cele-de-France",
+            "type": "child",
+            "id": "https://ror.org/05j6qf006"
+        },
+        {
+            "label": "Chrono-Environment Laboratory",
+            "type": "child",
+            "id": "https://ror.org/028cef883"
+        },
+        {
+            "label": "Communication Molecules and Adapation of Micro-organisms",
+            "type": "child",
+            "id": "https://ror.org/04xfycm61"
+        },
+        {
+            "label": "Cultures et Environnements. Pr\u00e9histoire, Antiquit\u00e9, Moyen \u00c2ge",
+            "type": "child",
+            "id": "https://ror.org/04n9van71"
+        },
+        {
+            "label": "De la Pr\u00e9histoire \u00e0 l'Actuel : Culture, Environnement et Anthropologie",
+            "type": "child",
+            "id": "https://ror.org/027mnq498"
+        },
+        {
+            "label": "Ecology and Dynamics of Human Influenced Systems",
+            "type": "child",
+            "id": "https://ror.org/02bhp7a56"
+        },
+        {
+            "label": "Ecosyst\u00e8mes, Biodiversit\u00e9, Evolution",
+            "type": "child",
+            "id": "https://ror.org/005fjj927"
+        },
+        {
+            "label": "Environment, City, Society",
+            "type": "child",
+            "id": "https://ror.org/0256r1e04"
+        },
+        {
+            "label": "Biologie \u00e9volutive et \u00e9cologie des algues",
+            "type": "child",
+            "id": "https://ror.org/051k70002"
+        },
+        {
+            "label": "Histoire Naturelle de l\u2019Homme Pr\u00e9historique",
+            "type": "child",
+            "id": "https://ror.org/00c3ta789"
+        },
+        {
+            "label": "Institut de Syst\u00e9matique, \u00c9volution, Biodiversit\u00e9",
+            "type": "child",
+            "id": "https://ror.org/01dadvw90"
+        },
+        {
+            "label": "Institut des Sciences de l'Evolution de Montpellier",
+            "type": "child",
+            "id": "https://ror.org/01cah1n37"
+        },
+        {
+            "label": "Institut d'\u00e9cologie et des sciences de l'environnement de Paris",
+            "type": "child",
+            "id": "https://ror.org/02s56xp85"
+        },
+        {
+            "label": "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments",
+            "type": "child",
+            "id": "https://ror.org/0325zb480"
+        },
+        {
+            "label": "Interdisciplinary Laboratory for Continental Environments",
+            "type": "child",
+            "id": "https://ror.org/05je79696"
+        },
+        {
+            "label": "LIttoral, ENvironment and Societies",
+            "type": "child",
+            "id": "https://ror.org/00r8amq78"
+        },
+        {
+            "label": "Laboratoire Image, Ville, Environnement",
+            "type": "child",
+            "id": "https://ror.org/03x8fem72"
+        },
+        {
+            "label": "Laboratoire Microorganismes G\u00e9nome et Environnement",
+            "type": "child",
+            "id": "https://ror.org/020ahr442"
+        },
+        {
+            "label": "Laboratoire M\u00e9diterran\u00e9en de Pr\u00e9histoire Europe Afrique",
+            "type": "child",
+            "id": "https://ror.org/011gea244"
+        },
+        {
+            "label": "Laboratoire d'\u00c9cologie Alpine",
+            "type": "child",
+            "id": "https://ror.org/03x1z2w73"
+        },
+        {
+            "label": "Laboratoire de Biodiversit\u00e9 et Biotechnologies Microbiennes",
+            "type": "child",
+            "id": "https://ror.org/039p01270"
+        },
+        {
+            "label": "Laboratoire de G\u00e9n\u00e9tique & Evolution des Populations V\u00e9g\u00e9tales",
+            "type": "child",
+            "id": "https://ror.org/01h0a3k64"
+        },
+        {
+            "label": "Laboratoire de G\u00e9ographie Physique",
+            "type": "child",
+            "id": "https://ror.org/054v0s666"
+        },
+        {
+            "label": "Laboratoire de G\u00e9ographie Physique et Environnementale",
+            "type": "child",
+            "id": "https://ror.org/00e4pqm50"
+        },
+        {
+            "label": "Laboratoire des Sciences de l'Environnement Marin",
+            "type": "child",
+            "id": "https://ror.org/05h929866"
+        },
+        {
+            "label": "Laboratoire \u00c9cologie Fonctionnelle et Environnement",
+            "type": "child",
+            "id": "https://ror.org/027rbaq21"
+        },
+        {
+            "label": "Laboratory Evolution and Biological Diversity",
+            "type": "child",
+            "id": "https://ror.org/02xh23b55"
+        },
+        {
+            "label": "Laboratory of Molecular Anthropology and Image Synthesis",
+            "type": "child",
+            "id": "https://ror.org/05w482q29"
+        },
+        {
+            "label": "Maladies Infectieuses et Vecteurs: \u00c9cologie, G\u00e9n\u00e9tique, \u00c9volution et Contr\u00f4le",
+            "type": "child",
+            "id": "https://ror.org/00357kh21"
+        },
+        {
+            "label": "Mediterranean Institute of Marine and Terrestrial Biodiversity and Ecology",
+            "type": "child",
+            "id": "https://ror.org/0409c3995"
+        },
+        {
+            "label": "Microbial Ecology",
+            "type": "child",
+            "id": "https://ror.org/053vv7851"
+        },
+        {
+            "label": "Milieux environnementaux, transferts et interactions dans les hydrosyst\u00e8mes et les sols",
+            "type": "child",
+            "id": "https://ror.org/0229z0679"
+        },
+        {
+            "label": "Processus Infectieux en Milieu Insulaire Tropical",
+            "type": "child",
+            "id": "https://ror.org/05fnxds15"
+        },
+        {
+            "label": "Station Biologique de Roscoff",
+            "type": "child",
+            "id": "https://ror.org/03s0pzj56"
+        },
+        {
+            "label": "Station d\u2019\u00c9cologie Th\u00e9orique et Exp\u00e9rimentale",
+            "type": "child",
+            "id": "https://ror.org/05d6wfd23"
+        },
+        {
+            "label": "Travaux et Recherches Arch\u00e9ologiques sur les Cultures, les Espaces et les Soci\u00e9t\u00e9s",
+            "type": "child",
+            "id": "https://ror.org/04pfm5x27"
+        },
+        {
+            "label": "\u00c9co-Anthropologie",
+            "type": "child",
+            "id": "https://ror.org/03x0yny97"
+        },
+        {
+            "label": "\u00c9cologie Marine Tropicale des Oc\u00e9ans Pacifique et Indien",
+            "type": "child",
+            "id": "https://ror.org/05kxt4539"
+        },
+        {
+            "label": "\u00c9cologie et Biologie des Interactions",
+            "type": "child",
+            "id": "https://ror.org/051f3f740"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

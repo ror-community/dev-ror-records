@@ -1,0 +1,63 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1797929,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 36.06488,
+                "lng": 120.38042,
+                "name": "Qingdao"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/01ar0xf40",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://rise.sinopec.com/rise/"
+        }
+    ],
+    "names": [
+        {
+            "value": "SINOPEC Research Institute of Safety Engineering Co., Ltd.",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "SINOPEC Research Institute of Safety Engineering Co.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u4e2d\u77f3\u5316\u5b89\u5168\u5de5\u7a0b\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

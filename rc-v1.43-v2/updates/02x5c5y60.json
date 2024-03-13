@@ -1,0 +1,93 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3123921,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 43.30544,
+                "lng": -2.88116,
+                "name": "Derio"
+            }
+        }
+    ],
+    "established": 2002,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0639 2420",
+                "0000 0004 0435 4789"
+            ],
+            "preferred": "0000 0004 0639 2420"
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.420175.5"
+            ],
+            "preferred": "grid.420175.5"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q30282406"
+            ],
+            "preferred": "Q30282406"
+        }
+    ],
+    "id": "https://ror.org/02x5c5y60",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.cicbiogune.es/"
+        }
+    ],
+    "names": [
+        {
+            "value": "CIC bioGUNE",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Centro de Investigaci\u00f3n Cooperativa en Biociencias",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Center for Cooperative Research in Biosciences",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "Asociacion Centro De Investigacion Cooperativa En Biociencias",
+            "types": [
+                "label"
+            ],
+            "lang": "pt"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

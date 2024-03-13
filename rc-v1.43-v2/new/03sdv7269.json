@@ -1,0 +1,70 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2640729,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 51.75222,
+                "lng": -1.25596,
+                "name": "Oxford"
+            }
+        }
+    ],
+    "established": 2018,
+    "external_ids": [],
+    "id": "https://ror.org/03sdv7269",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://pqshield.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "PQShield (United Kingdom)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "PQShield",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "PQShield, SAS",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "PQShield, Inc.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

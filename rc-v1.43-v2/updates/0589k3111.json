@@ -1,0 +1,97 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2988507,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.85341,
+                "lng": 2.3488,
+                "name": "Paris"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "wikidata",
+            "all": [
+                "Q30299499"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.457369.a"
+            ],
+            "preferred": "grid.457369.a"
+        }
+    ],
+    "id": "https://ror.org/0589k3111",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.idf.inserm.fr/rubriques/l-inserm-en-ile-de-france/delegation-paris-11"
+        }
+    ],
+    "names": [
+        {
+            "value": "D\u00e9l\u00e9gation Paris 11",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "DR PARIS 11",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Inserm",
+            "type": "parent",
+            "id": "https://ror.org/02vjkv261"
+        },
+        {
+            "label": "Centre d'\u00c9pid\u00e9miologie sur les Causes M\u00e9dicales de D\u00e9c\u00e8s",
+            "type": "child",
+            "id": "https://ror.org/02bn1dj67"
+        },
+        {
+            "label": "H\u00e9mostase et Dynamique Cellulaire Vasculaire",
+            "type": "child",
+            "id": "https://ror.org/05dsek450"
+        },
+        {
+            "label": "Institute of Psychiatry and Neuroscience of Paris",
+            "type": "child",
+            "id": "https://ror.org/02g40zn06"
+        },
+        {
+            "label": "Laboratory Signaling and Cardiovascular Pathophysiology",
+            "type": "child",
+            "id": "https://ror.org/04bkzce69"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1816670,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 39.9075,
+                "lng": 116.39723,
+                "name": "Beijing"
+            }
+        }
+    ],
+    "established": 2017,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 9291 8328"
+            ],
+            "preferred": "0000 0004 9291 8328"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q38180956"
+            ],
+            "preferred": "Q38180956"
+        }
+    ],
+    "id": "https://ror.org/01z6fgx85",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.ceic.com/gjnyjtwwEn/"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/China_Energy_Investment"
+        }
+    ],
+    "names": [
+        {
+            "value": "CHN Energy (China)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CHN Energy",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CHN ENERGY Investment Group Co., Ltd.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CHN ENERGY Investment Group Co.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CHN ENERGY Investment Group",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u56fd\u5bb6\u80fd\u6e90\u6295\u8d44\u96c6\u56e2",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

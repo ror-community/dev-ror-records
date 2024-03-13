@@ -1,0 +1,92 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3096880,
+            "geonames_details": {
+                "country_code": "PL",
+                "country_name": "Poland",
+                "lat": 51.76109,
+                "lng": 18.09102,
+                "name": "Kalisz"
+            }
+        }
+    ],
+    "established": 1999,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 0054 1382"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.467042.3"
+            ],
+            "preferred": "grid.467042.3"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q11815238"
+            ],
+            "preferred": "Q11815238"
+        }
+    ],
+    "id": "https://ror.org/05he0t313",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://uniwersytetkaliski.edu.pl"
+        }
+    ],
+    "names": [
+        {
+            "value": "Uniwersytet Kaliski im. Prezydenta Stanis\u0142awa Wojciechowskiego",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Uniwersytet Kaliski",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Pa\u0144stwowa Wy\u017csza Szko\u0142a Zawodowa w Kaliszu",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "PWSZ",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

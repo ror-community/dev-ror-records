@@ -1,0 +1,63 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2874545,
+            "geonames_details": {
+                "country_code": "DE",
+                "country_name": "Germany",
+                "lat": 52.12773,
+                "lng": 11.62916,
+                "name": "Magdeburg"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/019mh5c80",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://mwu.sachsen-anhalt.de"
+        }
+    ],
+    "names": [
+        {
+            "value": "Ministerium f\u00fcr Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Ministry for Science, Energy, Climate Protection and the Environment of the State of Saxony-Anhalt",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "MWU",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3646738,
+            "geonames_details": {
+                "country_code": "VE",
+                "country_name": "Venezuela",
+                "lat": 10.48801,
+                "lng": -66.87919,
+                "name": "Caracas"
+            }
+        }
+    ],
+    "established": 1987,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 5901 7747"
+            ],
+            "preferred": "0000 0004 5901 7747"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100004246"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.469370.f"
+            ],
+            "preferred": "grid.469370.f"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q29052472"
+            ],
+            "preferred": "Q29052472"
+        }
+    ],
+    "id": "https://ror.org/023kaz366",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.provita.org.ve"
+        }
+    ],
+    "names": [
+        {
+            "value": "Provita",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

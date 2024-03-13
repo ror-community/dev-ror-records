@@ -1,0 +1,74 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2953436,
+            "geonames_details": {
+                "country_code": "DE",
+                "country_name": "Germany",
+                "lat": 50.22683,
+                "lng": 8.61816,
+                "name": "Bad Homburg"
+            }
+        }
+    ],
+    "established": 1996,
+    "external_ids": [
+        {
+            "type": "wikidata",
+            "all": [
+                "Q650259"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.415062.4"
+            ],
+            "preferred": "grid.415062.4"
+        }
+    ],
+    "id": "https://ror.org/04sk0bj73",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.freseniusmedicalcare.us/en/home/"
+        },
+        {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Fresenius_Medical_Care"
+        }
+    ],
+    "names": [
+        {
+            "value": "Fresenius Medical Care (Germany)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Fresenius Medical Care North America (United States)",
+            "type": "child",
+            "id": "https://ror.org/05rs7tq63"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

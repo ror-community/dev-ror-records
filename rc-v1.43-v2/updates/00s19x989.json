@@ -1,0 +1,502 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2988507,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.85341,
+                "lng": 2.3488,
+                "name": "Paris"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "501100017214"
+            ],
+            "preferred": "501100017214"
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.457016.1"
+            ],
+            "preferred": "grid.457016.1"
+        }
+    ],
+    "id": "https://ror.org/00s19x989",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.cnrs.fr/insis/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Institut des Sciences de l'Ing\u00e9nierie et des Syst\u00e8mes",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "INSIS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "French National Centre for Scientific Research",
+            "type": "parent",
+            "id": "https://ror.org/02feahw73"
+        },
+        {
+            "label": "Andrology Gerontechnology Inflammation Modelisation",
+            "type": "child",
+            "id": "https://ror.org/030p0rb34"
+        },
+        {
+            "label": "Astrophysique Relativiste, Th\u00e9ories, Exp\u00e9riences, M\u00e9trologie, Instrumentation, Signaux",
+            "type": "child",
+            "id": "https://ror.org/031ah7413"
+        },
+        {
+            "label": "Automation and Process Engineering Laboratory",
+            "type": "child",
+            "id": "https://ror.org/03kfjwy31"
+        },
+        {
+            "label": "Biom\u00e9canique et Bioing\u00e9nierie",
+            "type": "child",
+            "id": "https://ror.org/03yaydt41"
+        },
+        {
+            "label": "Center for Magnetic Resonance in Biology and Medicine",
+            "type": "child",
+            "id": "https://ror.org/04ceg1205"
+        },
+        {
+            "label": "Centre R\u00e9gional d\u2019Innovation et de Transferts Technologiques des Industries du Bois",
+            "type": "child",
+            "id": "https://ror.org/016crzw98"
+        },
+        {
+            "label": "Centre de Recherche en Acquisition et Traitement de l'Image pour la Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/03smk3872"
+        },
+        {
+            "label": "Centre des Mat\u00e9riaux",
+            "type": "child",
+            "id": "https://ror.org/01q5ge486"
+        },
+        {
+            "label": "Centre for Energy and Thermal Sciences of Lyon",
+            "type": "child",
+            "id": "https://ror.org/01k383v05"
+        },
+        {
+            "label": "Centre for Material Forming",
+            "type": "child",
+            "id": "https://ror.org/00qm1ye08"
+        },
+        {
+            "label": "Complexe de Recherche Interprofessionnel en A\u00e9rothermochimie",
+            "type": "child",
+            "id": "https://ror.org/01k1ngp50"
+        },
+        {
+            "label": "Contact and Structure Mechanics Laboratory",
+            "type": "child",
+            "id": "https://ror.org/05s608j53"
+        },
+        {
+            "label": "Fonctions Optiques pour les Technologies de l\u2019information",
+            "type": "child",
+            "id": "https://ror.org/03yn94905"
+        },
+        {
+            "label": "Franche-Comt\u00e9 \u00c9lectronique M\u00e9canique Thermique et Optique - Sciences et Technologies",
+            "type": "child",
+            "id": "https://ror.org/004fmxv66"
+        },
+        {
+            "label": "F\u00e9d\u00e9ration de Recherche FCLAB",
+            "type": "child",
+            "id": "https://ror.org/01kvxx237"
+        },
+        {
+            "label": "F\u00e9d\u00e9ration de Recherche PhotoVolta\u00efque",
+            "type": "child",
+            "id": "https://ror.org/059fn5f50"
+        },
+        {
+            "label": "Georges Friedel Laboratory",
+            "type": "child",
+            "id": "https://ror.org/01prxdf57"
+        },
+        {
+            "label": "Georgia Tech-CNRS Laboratory",
+            "type": "child",
+            "id": "https://ror.org/00avmbz91"
+        },
+        {
+            "label": "Groupe de Recherches sur l'Energ\u00e9tique des Milieux Ionis\u00e9s",
+            "type": "child",
+            "id": "https://ror.org/042ds2135"
+        },
+        {
+            "label": "Ing\u00e9nierie Mol\u00e9culaire et Physiopathologie Articulaire",
+            "type": "child",
+            "id": "https://ror.org/04yc2e502"
+        },
+        {
+            "label": "Institut Fresnel",
+            "type": "child",
+            "id": "https://ror.org/03br1wy20"
+        },
+        {
+            "label": "Institut Jean Le Rond d'Alembert",
+            "type": "child",
+            "id": "https://ror.org/043we9s22"
+        },
+        {
+            "label": "Institut Pascal",
+            "type": "child",
+            "id": "https://ror.org/03vgfxd91"
+        },
+        {
+            "label": "Institut Pprime",
+            "type": "child",
+            "id": "https://ror.org/05vjdsn22"
+        },
+        {
+            "label": "Institut Universitaire des Syst\u00e8mes Thermiques Industriels",
+            "type": "child",
+            "id": "https://ror.org/04bgbbh33"
+        },
+        {
+            "label": "Institut d'\u00c9lectronique et des Syst\u00e8mes",
+            "type": "child",
+            "id": "https://ror.org/0431hh004"
+        },
+        {
+            "label": "Institut de Combustion A\u00e9rothermique R\u00e9activit\u00e9 et Environnement",
+            "type": "child",
+            "id": "https://ror.org/03txr3336"
+        },
+        {
+            "label": "Institut de Micro\u00e9lectronique, Electromagn\u00e9tisme et Photonique",
+            "type": "child",
+            "id": "https://ror.org/03taa9n66"
+        },
+        {
+            "label": "Institut de Recherche en G\u00e9nie Civil et M\u00e9canique",
+            "type": "child",
+            "id": "https://ror.org/03x30hb31"
+        },
+        {
+            "label": "Institut de Recherche sur les Ph\u00e9nom\u00e8nes Hors \u00c9quilibre",
+            "type": "child",
+            "id": "https://ror.org/03zq0xc17"
+        },
+        {
+            "label": "Institut des Nanotechnologies de Lyon",
+            "type": "child",
+            "id": "https://ror.org/04jsk0b74"
+        },
+        {
+            "label": "Institut d'\u00c9lectronique et des Technologies du num\u00e9Rique",
+            "type": "child",
+            "id": "https://ror.org/013q33h79"
+        },
+        {
+            "label": "Institute of Electronics, Microelectronics and Nanotechnology",
+            "type": "child",
+            "id": "https://ror.org/02q4res37"
+        },
+        {
+            "label": "Institute of Fluid Mechanics of Toulouse",
+            "type": "child",
+            "id": "https://ror.org/025nmxp11"
+        },
+        {
+            "label": "Institute of Mechanics and Engineering",
+            "type": "child",
+            "id": "https://ror.org/00wrnm709"
+        },
+        {
+            "label": "Laboratoire Amp\u00e8re",
+            "type": "child",
+            "id": "https://ror.org/04xbczw40"
+        },
+        {
+            "label": "Laboratoire Hubert Curien",
+            "type": "child",
+            "id": "https://ror.org/0028p8r67"
+        },
+        {
+            "label": "Laboratoire Mati\u00e8re et Syst\u00e8mes Complexes",
+            "type": "child",
+            "id": "https://ror.org/032w6q449"
+        },
+        {
+            "label": "Laboratoire Mod\u00e9lisation et Simulation Multi-Echelle",
+            "type": "child",
+            "id": "https://ror.org/04rrzfd14"
+        },
+        {
+            "label": "Laboratoire Optimisation de la Conception et Ing\u00e9nierie de l'Environnement",
+            "type": "child",
+            "id": "https://ror.org/015gaxx73"
+        },
+        {
+            "label": "Laboratoire Proc\u00e9d\u00e9s, Mat\u00e9riaux et Energie Solaire",
+            "type": "child",
+            "id": "https://ror.org/05thdk431"
+        },
+        {
+            "label": "Laboratoire Rh\u00e9ologie et Proc\u00e9d\u00e9s",
+            "type": "child",
+            "id": "https://ror.org/044ggyg50"
+        },
+        {
+            "label": "Laboratoire Roberval",
+            "type": "child",
+            "id": "https://ror.org/023ffhx15"
+        },
+        {
+            "label": "Laboratoire R\u00e9actions et G\u00e9nie des Proc\u00e9d\u00e9s",
+            "type": "child",
+            "id": "https://ror.org/00p6sn362"
+        },
+        {
+            "label": "Laboratoire d'Energ\u00e9tique et de M\u00e9canique Th\u00e9orique et Appliqu\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/01pfter31"
+        },
+        {
+            "label": "Laboratoire d'Hydrodynamique",
+            "type": "child",
+            "id": "https://ror.org/018b0x874"
+        },
+        {
+            "label": "Laboratoire d'Ing\u00e9nierie des Syst\u00e8mes Biologiques et des Proc\u00e9d\u00e9s",
+            "type": "child",
+            "id": "https://ror.org/01yypjb30"
+        },
+        {
+            "label": "Laboratoire d'\u00c9lectronique, Antennes et T\u00e9l\u00e9communications",
+            "type": "child",
+            "id": "https://ror.org/00ah32k04"
+        },
+        {
+            "label": "Laboratoire d'\u00c9nerg\u00e9tique Mol\u00e9culaire et Macroscopique, Combustion",
+            "type": "child",
+            "id": "https://ror.org/02wy3s959"
+        },
+        {
+            "label": "Laboratoire de G\u00e9nie Chimique",
+            "type": "child",
+            "id": "https://ror.org/003jnac13"
+        },
+        {
+            "label": "Laboratoire de G\u00e9nie \u00c9lectrique de Grenoble",
+            "type": "child",
+            "id": "https://ror.org/05hyx5a17"
+        },
+        {
+            "label": "Laboratoire de M\u00e9canique des Fluides et d'Acoustique",
+            "type": "child",
+            "id": "https://ror.org/04dxeze48"
+        },
+        {
+            "label": "Laboratoire de M\u00e9canique et G\u00e9nie Civil",
+            "type": "child",
+            "id": "https://ror.org/02fke9256"
+        },
+        {
+            "label": "Laboratoire de M\u00e9canique, Mod\u00e9lisation & Proc\u00e9d\u00e9s Propres",
+            "type": "child",
+            "id": "https://ror.org/01vrxpt40"
+        },
+        {
+            "label": "Laboratoire de Physique des Plasmas",
+            "type": "child",
+            "id": "https://ror.org/05c95bg36"
+        },
+        {
+            "label": "Laboratoire de Recherche Hydrodynamique, Energ\u00e9tique et Environnement Atmosph\u00e9rique",
+            "type": "child",
+            "id": "https://ror.org/057axh226"
+        },
+        {
+            "label": "Laboratoire de Tribologie et Dynamique des Syst\u00e8mes",
+            "type": "child",
+            "id": "https://ror.org/015vtcw98"
+        },
+        {
+            "label": "Laboratoire de l'Int\u00e9gration du Mat\u00e9riau au Syst\u00e8me",
+            "type": "child",
+            "id": "https://ror.org/04nabhy78"
+        },
+        {
+            "label": "Laboratoire des Sciences de l'Ing\u00e9nieur pour l'Environnement",
+            "type": "child",
+            "id": "https://ror.org/01b2epx09"
+        },
+        {
+            "label": "Laboratoire des Sciences de l'Ing\u00e9nieur, de l'Informatique et de l'Imagerie",
+            "type": "child",
+            "id": "https://ror.org/00k4e5n71"
+        },
+        {
+            "label": "Laboratoire des Sciences des Proc\u00e9d\u00e9s et des Mat\u00e9riaux",
+            "type": "child",
+            "id": "https://ror.org/01yr0r787"
+        },
+        {
+            "label": "Laboratoire des Technologies de la Micro\u00e9lectronique",
+            "type": "child",
+            "id": "https://ror.org/036zswm25"
+        },
+        {
+            "label": "Laboratoire des \u00c9coulements G\u00e9ophysiques et Industriels",
+            "type": "child",
+            "id": "https://ror.org/043pfpy19"
+        },
+        {
+            "label": "Laboratory for Analysis and Architecture of Systems",
+            "type": "child",
+            "id": "https://ror.org/03vcm6439"
+        },
+        {
+            "label": "Laboratory for Integrated Micro-Mechatronic Systems",
+            "type": "child",
+            "id": "https://ror.org/0059vr703"
+        },
+        {
+            "label": "Laboratory of Mechanics and Acoustics",
+            "type": "child",
+            "id": "https://ror.org/03787ar02"
+        },
+        {
+            "label": "Laboratory of Microstructure Studies and Mechanics of Materials",
+            "type": "child",
+            "id": "https://ror.org/01nyrrx14"
+        },
+        {
+            "label": "Laboratory of Physics of Interfaces and Thin Films",
+            "type": "child",
+            "id": "https://ror.org/023f9y602"
+        },
+        {
+            "label": "Laboratory of Pulp and Paper Science and Graphic Arts",
+            "type": "child",
+            "id": "https://ror.org/02z8yps18"
+        },
+        {
+            "label": "Laboratory of Quantum and Molecular Photonics",
+            "type": "child",
+            "id": "https://ror.org/01bn5c048"
+        },
+        {
+            "label": "Laboratory of Subatomic Physics and Cosmology",
+            "type": "child",
+            "id": "https://ror.org/03f0apy98"
+        },
+        {
+            "label": "Laboratoire de Thermique et Energie de Nantes",
+            "type": "child",
+            "id": "https://ror.org/021fdyt09"
+        },
+        {
+            "label": "Laboratory on Plasma and Conversion of Energy",
+            "type": "child",
+            "id": "https://ror.org/02w5mvk98"
+        },
+        {
+            "label": "Mat\u00e9riaux Ing\u00e9nierie et Science",
+            "type": "child",
+            "id": "https://ror.org/01rnfhz46"
+        },
+        {
+            "label": "Laboratoire de Biologie, Bioing\u00e9ni\u00e9rie et Bioimagerie ost\u00e9oarticulaire",
+            "type": "child",
+            "id": "https://ror.org/03q7r5x87"
+        },
+        {
+            "label": "PhysicoChimie des Processus de Combustion et de l'Atmosph\u00e8re",
+            "type": "child",
+            "id": "https://ror.org/03k9wer31"
+        },
+        {
+            "label": "Physics of Ionic and Molecular Interactions",
+            "type": "child",
+            "id": "https://ror.org/04kgf6p94"
+        },
+        {
+            "label": "Physique et M\u00e9canique des Milieux H\u00e9t\u00e9rog\u00e8nes",
+            "type": "child",
+            "id": "https://ror.org/03kr50w79"
+        },
+        {
+            "label": "Process Engineering for Environment and Food",
+            "type": "child",
+            "id": "https://ror.org/05ngxmx20"
+        },
+        {
+            "label": "Processes and Engineering in Mechanics and Materials",
+            "type": "child",
+            "id": "https://ror.org/017jp7t31"
+        },
+        {
+            "label": "Solids Mechanic Laboratory",
+            "type": "child",
+            "id": "https://ror.org/00xd1ek73"
+        },
+        {
+            "label": "Sols, Solides, Structures, Risques",
+            "type": "child",
+            "id": "https://ror.org/03bcdsr62"
+        },
+        {
+            "label": "Techniques for Biomedical Engineering and Complexity Management\u2013Informatics, Mathematics and Applications Grenoble",
+            "type": "child",
+            "id": "https://ror.org/03985kf35"
+        },
+        {
+            "label": "Wave Propagation Mathematical Study and Simulation",
+            "type": "child",
+            "id": "https://ror.org/03gvm2667"
+        },
+        {
+            "label": "XLIM",
+            "type": "child",
+            "id": "https://ror.org/00f7srh09"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

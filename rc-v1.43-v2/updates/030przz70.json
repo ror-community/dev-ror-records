@@ -1,0 +1,105 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2973783,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.58392,
+                "lng": 7.74553,
+                "name": "Strasbourg"
+            }
+        }
+    ],
+    "established": 1980,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0369 3260"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.464078.9"
+            ],
+            "preferred": "grid.464078.9"
+        }
+    ],
+    "id": "https://ror.org/030przz70",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://ibmc.cnrs.fr/laboratoire/m3i/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Mod\u00e8les Insectes de l'Immunit\u00e9 Inn\u00e9e",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Immune Response and Development in Insects",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "R\u00e9ponse Immunitaire et D\u00e9veloppement chez les Insectes",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Insect Models of Innate Immunity",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "RIDI",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        },
+        {
+            "value": "M3I",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "University of Strasbourg",
+            "type": "parent",
+            "id": "https://ror.org/00pg6eq24"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

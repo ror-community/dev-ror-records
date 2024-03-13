@@ -1,0 +1,99 @@
+{
+    "locations": [
+        {
+            "geonames_id": 4932869,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 42.59981,
+                "lng": -71.36728,
+                "name": "Chelmsford"
+            }
+        }
+    ],
+    "established": 1980,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0413 2799"
+            ],
+            "preferred": "0000 0004 0413 2799"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q118075142"
+            ],
+            "preferred": "Q118075142"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100015345"
+            ],
+            "preferred": "100015345"
+        }
+    ],
+    "id": "https://ror.org/036wkjd70",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.zoll.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "ZOLL Medical Corporation (United States)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ZOLL",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ZOLL Medical",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ZOLL Medical Corporation",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "ZMC",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

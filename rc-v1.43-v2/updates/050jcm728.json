@@ -1,0 +1,231 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2988507,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.85341,
+                "lng": 2.3488,
+                "name": "Paris"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0387 052X"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100017213"
+            ],
+            "preferred": "501100017213"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q24935942"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.457017.0"
+            ],
+            "preferred": "grid.457017.0"
+        }
+    ],
+    "id": "https://ror.org/050jcm728",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.cnrs.fr/insmi/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Institut National des Sciences Math\u00e9matiques et de leurs Interactions",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "INSMI",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "French National Centre for Scientific Research",
+            "type": "parent",
+            "id": "https://ror.org/02feahw73"
+        },
+        {
+            "label": "Analyse, G\u00e9om\u00e9trie et Mod\u00e9lisation",
+            "type": "child",
+            "id": "https://ror.org/03qgt2624"
+        },
+        {
+            "label": "Centre de Math\u00e9matiques Appliqu\u00e9es",
+            "type": "child",
+            "id": "https://ror.org/012e1xn46"
+        },
+        {
+            "label": "Centre de Recherche en Math\u00e9matiques de la D\u00e9cision",
+            "type": "child",
+            "id": "https://ror.org/03s0gj002"
+        },
+        {
+            "label": "Institut Henri Poincar\u00e9",
+            "type": "child",
+            "id": "https://ror.org/05dfxeg46"
+        },
+        {
+            "label": "Institut Fourier",
+            "type": "child",
+            "id": "https://ror.org/05rwrfh97"
+        },
+        {
+            "label": "Institut de Math\u00e9matique et de Mod\u00e9lisation de Montpellier",
+            "type": "child",
+            "id": "https://ror.org/044kxby82"
+        },
+        {
+            "label": "Institut de Math\u00e9matiques de Bordeaux",
+            "type": "child",
+            "id": "https://ror.org/05m3r1b84"
+        },
+        {
+            "label": "Institut de Math\u00e9matiques de Jussieu-Paris Rive Gauche",
+            "type": "child",
+            "id": "https://ror.org/03fk87k11"
+        },
+        {
+            "label": "Institut de Recherche Math\u00e9matique Avanc\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/02hwgty18"
+        },
+        {
+            "label": "Institut \u00c9lie Cartan de Lorraine",
+            "type": "child",
+            "id": "https://ror.org/04rvw8791"
+        },
+        {
+            "label": "Laboratoire Ami\u00e9nois de Math\u00e9matique Fondamentale et Appliqu\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/04smxbm79"
+        },
+        {
+            "label": "Laboratoire Analyse, G\u00e9om\u00e9trie et Applications",
+            "type": "child",
+            "id": "https://ror.org/018nzqy79"
+        },
+        {
+            "label": "Laboratoire Angevin de Recherche en Math\u00e9matiques",
+            "type": "child",
+            "id": "https://ror.org/036j0y719"
+        },
+        {
+            "label": "Laboratoire Jacques-Louis Lions",
+            "type": "child",
+            "id": "https://ror.org/04xmteb38"
+        },
+        {
+            "label": "Laboratoire Jean Kuntzmann",
+            "type": "child",
+            "id": "https://ror.org/04ett5b41"
+        },
+        {
+            "label": "Laboratoire Jean-Alexandre Dieudonn\u00e9",
+            "type": "child",
+            "id": "https://ror.org/0274zdr66"
+        },
+        {
+            "label": "Laboratoire Paul Painlev\u00e9",
+            "type": "child",
+            "id": "https://ror.org/043n4fm24"
+        },
+        {
+            "label": "Laboratoire de Math\u00e9matiques",
+            "type": "child",
+            "id": "https://ror.org/05sd5r855"
+        },
+        {
+            "label": "Laboratoire de Math\u00e9matiques Jean Leray",
+            "type": "child",
+            "id": "https://ror.org/04g1hjn96"
+        },
+        {
+            "label": "Laboratoire de Math\u00e9matiques Rapha\u00ebl Salem",
+            "type": "child",
+            "id": "https://ror.org/01k1v7590"
+        },
+        {
+            "label": "Laboratoire de Math\u00e9matiques de Bretagne Atlantique",
+            "type": "child",
+            "id": "https://ror.org/02ght4n58"
+        },
+        {
+            "label": "Laboratoire d\u2019Analyse et de Math\u00e9matiques Appliqu\u00e9es",
+            "type": "child",
+            "id": "https://ror.org/0581g8849"
+        },
+        {
+            "label": "Laboratory of Mathematics and their Applications",
+            "type": "child",
+            "id": "https://ror.org/00g669j87"
+        },
+        {
+            "label": "Laurent Schwartz Center for Mathematics",
+            "type": "child",
+            "id": "https://ror.org/00b7djk73"
+        },
+        {
+            "label": "Institut de recherche math\u00e9matique de Rennes",
+            "type": "child",
+            "id": "https://ror.org/05y76vp22"
+        },
+        {
+            "label": "Toulouse Mathematics Institute",
+            "type": "child",
+            "id": "https://ror.org/014vp6c30"
+        },
+        {
+            "label": "Unit of Mathematics, Pure and Applied",
+            "type": "child",
+            "id": "https://ror.org/05n21n105"
+        },
+        {
+            "label": "Institut de Math\u00e9matiques de Marseille",
+            "type": "child",
+            "id": "https://ror.org/042h2y225"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

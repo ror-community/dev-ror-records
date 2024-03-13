@@ -1,0 +1,103 @@
+{
+    "locations": [
+        {
+            "geonames_id": 320392,
+            "geonames_details": {
+                "country_code": "TR",
+                "country_name": "T\u00fcrkiye",
+                "lat": 37.72028,
+                "lng": 30.29083,
+                "name": "Burdur"
+            }
+        }
+    ],
+    "established": 2006,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0386 420X"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100016210"
+            ],
+            "preferred": "501100016210"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q924465"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.411761.4"
+            ],
+            "preferred": "grid.411761.4"
+        }
+    ],
+    "id": "https://ror.org/04xk0dc21",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.mehmetakif.edu.tr"
+        },
+        {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/Mehmet_Akif_Ersoy_University"
+        }
+    ],
+    "names": [
+        {
+            "value": "Burdur Mehmet Akif Ersoy \u00dcniversitesi",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Mehmet Akif Ersoy \u00dcniversitesi",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Mehmet Akif Ersoy University",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Burdur Mehmet Akif Ersoy University",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

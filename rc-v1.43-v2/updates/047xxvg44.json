@@ -1,0 +1,85 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2740637,
+            "geonames_details": {
+                "country_code": "PT",
+                "country_name": "Portugal",
+                "lat": 40.20564,
+                "lng": -8.41955,
+                "name": "Coimbra"
+            }
+        }
+    ],
+    "established": 1927,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0631 0608"
+            ],
+            "preferred": "0000 0004 0631 0608"
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.435541.2"
+            ],
+            "preferred": "grid.435541.2"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q107279716"
+            ],
+            "preferred": "Q107279716"
+        }
+    ],
+    "id": "https://ror.org/047xxvg44",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.ipocoimbra.min-saude.pt"
+        }
+    ],
+    "names": [
+        {
+            "value": "Instituto Portugu\u00eas de Oncologia de Coimbra Francisco Gentil",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Francisco Gentil Portuguese Institute for Oncology",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "IPOCFG",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

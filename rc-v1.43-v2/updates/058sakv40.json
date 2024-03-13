@@ -1,0 +1,84 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5012521,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 42.13949,
+                "lng": -83.17826,
+                "name": "Trenton"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0458 375X"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.416679.b"
+            ],
+            "preferred": "grid.416679.b"
+        }
+    ],
+    "id": "https://ror.org/058sakv40",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.beaumont.org/locations/beaumont-hospital-trenton"
+        }
+    ],
+    "names": [
+        {
+            "value": "Corewell Health William Beaumont University Hospital",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Oakwood Southshore Medical Center",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Beaumont Hospital, Trenton",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Beaumont Health",
+            "type": "parent",
+            "id": "https://ror.org/05g2hd893"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "healthcare"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

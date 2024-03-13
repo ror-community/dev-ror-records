@@ -1,0 +1,79 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1816670,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 39.9075,
+                "lng": 116.39723,
+                "name": "Beijing"
+            }
+        }
+    ],
+    "established": 2020,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0005 1087 9968"
+            ],
+            "preferred": "0000 0005 1087 9968"
+        }
+    ],
+    "id": "https://ror.org/02kw1ws04",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.bigai.ai"
+        }
+    ],
+    "names": [
+        {
+            "value": "Beijing Institute for General Artificial Intelligence",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Beijing Institute for General Artificial Intelligence (BIGAI)",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u5317\u4eac\u901a\u7528\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u9662",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        },
+        {
+            "value": "BIGAI",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility",
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2989204,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.69572,
+                "lng": 2.18727,
+                "name": "Orsay"
+            }
+        }
+    ],
+    "established": 2002,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0445 9548"
+            ],
+            "preferred": "0000 0004 0445 9548"
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.463962.c"
+            ],
+            "preferred": "grid.463962.c"
+        }
+    ],
+    "id": "https://ror.org/00kk89y84",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.ese.universite-paris-saclay.fr"
+        }
+    ],
+    "names": [
+        {
+            "value": "\u00c9cologie, Syst\u00e9matique et \u00c9volution",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ESE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "AgroParisTech",
+            "type": "parent",
+            "id": "https://ror.org/02kbmgc12"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

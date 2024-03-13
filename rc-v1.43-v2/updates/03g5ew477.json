@@ -1,0 +1,126 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3128760,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 41.38879,
+                "lng": 2.15899,
+                "name": "Barcelona"
+            }
+        }
+    ],
+    "established": 2002,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 1757 1854"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100017170"
+            ],
+            "preferred": "100017170"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q3775506"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.5853.b"
+            ],
+            "preferred": "grid.5853.b"
+        }
+    ],
+    "id": "https://ror.org/03g5ew477",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.icfo.eu"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/ICFO_%E2%80%93_The_Institute_of_Photonic_Sciences"
+        }
+    ],
+    "names": [
+        {
+            "value": "Institute of Photonic Sciences",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Instituto de Ciencias Fot\u00f3nicas",
+            "types": [
+                "label"
+            ],
+            "lang": "es"
+        },
+        {
+            "value": "Institut de Ci\u00e8ncies Fot\u00f2niques",
+            "types": [
+                "label"
+            ],
+            "lang": "ca"
+        },
+        {
+            "value": "ICFO",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ICFO-CERCA",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Barcelona Institute for Science and Technology",
+            "type": "parent",
+            "id": "https://ror.org/03kpps236"
+        },
+        {
+            "label": "CERCA Institution",
+            "type": "parent",
+            "id": "https://ror.org/01bkbaq61"
+        },
+        {
+            "label": "Universitat Polit\u00e8cnica de Catalunya",
+            "type": "parent",
+            "id": "https://ror.org/03mb6wj31"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

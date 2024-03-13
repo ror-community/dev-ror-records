@@ -1,0 +1,135 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5007804,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 42.48948,
+                "lng": -83.14465,
+                "name": "Royal Oak"
+            }
+        }
+    ],
+    "established": 1955,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0460 1081"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100007740"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q970220"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.461921.9"
+            ],
+            "preferred": "grid.461921.9"
+        }
+    ],
+    "id": "https://ror.org/05g2hd893",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.beaumont.org/"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Beaumont_Health"
+        }
+    ],
+    "names": [
+        {
+            "value": "Beaumont Health",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "William Beaumont Health System",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Michigan State University",
+            "type": "related",
+            "id": "https://ror.org/05hs6h993"
+        },
+        {
+            "label": "Oakland University",
+            "type": "related",
+            "id": "https://ror.org/01ythxj32"
+        },
+        {
+            "label": "University of Michigan\u2013Ann Arbor",
+            "type": "related",
+            "id": "https://ror.org/00jmfr291"
+        },
+        {
+            "label": "Wayne State University",
+            "type": "related",
+            "id": "https://ror.org/01070mq45"
+        },
+        {
+            "label": "Beaumont Children's Hospital",
+            "type": "child",
+            "id": "https://ror.org/03nr10290"
+        },
+        {
+            "label": "Oakwood Hospital",
+            "type": "child",
+            "id": "https://ror.org/03x4pp342"
+        },
+        {
+            "label": "Oakwood Southshore Medical Center",
+            "type": "child",
+            "id": "https://ror.org/058sakv40"
+        },
+        {
+            "label": "Beaumont Hospital, Royal Oak",
+            "type": "child",
+            "id": "https://ror.org/03artm726"
+        },
+        {
+            "label": "Beaumont Hospital, Troy",
+            "type": "child",
+            "id": "https://ror.org/05x9ffc66"
+        }
+    ],
+    "status": "inactive",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

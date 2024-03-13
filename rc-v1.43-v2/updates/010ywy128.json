@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3696183,
+            "geonames_details": {
+                "country_code": "PE",
+                "country_name": "Peru",
+                "lat": -3.74912,
+                "lng": -73.25383,
+                "name": "Iquitos"
+            }
+        }
+    ],
+    "established": 1981,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2177 4732"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.493484.6"
+            ],
+            "preferred": "grid.493484.6"
+        }
+    ],
+    "id": "https://ror.org/010ywy128",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.gob.pe/iiap"
+        }
+    ],
+    "names": [
+        {
+            "value": "Instituto de Investigaciones de la Amazon\u00eda Peruana",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "IIAP",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

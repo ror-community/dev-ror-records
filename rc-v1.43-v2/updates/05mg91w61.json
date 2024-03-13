@@ -1,0 +1,100 @@
+{
+    "locations": [
+        {
+            "geonames_id": 4140963,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 38.89511,
+                "lng": -77.03637,
+                "name": "Washington"
+            }
+        }
+    ],
+    "established": 1977,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 5897 3091"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100006151",
+                "100017535",
+                "100013055"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q30296525"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.452988.a"
+            ],
+            "preferred": "grid.452988.a"
+        }
+    ],
+    "id": "https://ror.org/05mg91w61",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://science.osti.gov/bes"
+        }
+    ],
+    "names": [
+        {
+            "value": "Office of Basic Energy Sciences",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "BES",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        },
+        {
+            "value": "DOE BES",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Office of Science",
+            "type": "parent",
+            "id": "https://ror.org/00mmn6b08"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

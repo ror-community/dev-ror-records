@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2966685,
+            "geonames_details": {
+                "country_code": "IE",
+                "country_name": "Ireland",
+                "lat": 53.33082,
+                "lng": -6.23643,
+                "name": "Ballsbridge"
+            }
+        }
+    ],
+    "established": 2004,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 7784 8691"
+            ],
+            "preferred": "0000 0004 7784 8691"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q122978876"
+            ],
+            "preferred": "Q122978876"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100014251"
+            ],
+            "preferred": "100014251"
+        }
+    ],
+    "id": "https://ror.org/034a0rc87",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://heranet.info"
+        }
+    ],
+    "names": [
+        {
+            "value": "Humanities in the European Research Area",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "HERA",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "other"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

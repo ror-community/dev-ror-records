@@ -1,0 +1,75 @@
+{
+    "locations": [
+        {
+            "geonames_id": 6088132,
+            "geonames_details": {
+                "country_code": "CA",
+                "country_name": "Canada",
+                "lat": 46.23085,
+                "lng": -72.61292,
+                "name": "Nicolet"
+            }
+        }
+    ],
+    "established": 1969,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0000 9471 627X"
+            ],
+            "preferred": "0000 0000 9471 627X"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q3578131"
+            ],
+            "preferred": "Q3578131"
+        }
+    ],
+    "id": "https://ror.org/02x9gn510",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.enpq.qc.ca"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://fr.wikipedia.org/wiki/%C3%89cole_nationale_de_police_du_Qu%C3%A9bec"
+        }
+    ],
+    "names": [
+        {
+            "value": "\u00c9cole nationale de police du Qu\u00e9bec",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ENPQ",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

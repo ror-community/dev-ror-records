@@ -1,0 +1,72 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1786657,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 38.46806,
+                "lng": 106.27306,
+                "name": "Yinchuan"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/002c90p59",
+    "domains": [],
+    "links": [],
+    "names": [
+        {
+            "value": "Ningxia Forestry Research Institute Co., Ltd. (China)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Ningxia Forestry Research Institute Co.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Ningxia Forestry Research Institute",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Ningxia Forestry Research Institute Company Limited",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u5b81\u590f\u6797\u4e1a\u7814\u7a76\u9662\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

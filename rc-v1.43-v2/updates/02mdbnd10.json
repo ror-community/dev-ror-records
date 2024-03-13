@@ -1,0 +1,89 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2751792,
+            "geonames_details": {
+                "country_code": "NL",
+                "country_name": "The Netherlands",
+                "lat": 53.20139,
+                "lng": 5.80859,
+                "name": "Leeuwarden"
+            }
+        }
+    ],
+    "established": 2003,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 1793 4571"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q3920759"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.450080.9"
+            ],
+            "preferred": "grid.450080.9"
+        }
+    ],
+    "id": "https://ror.org/02mdbnd10",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.hvhl.nl"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Van_Hall_Larenstein"
+        }
+    ],
+    "names": [
+        {
+            "value": "Van Hall Larenstein University of Applied Sciences",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Van Hall Larenstein",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Hogeschool Van Hall Larenstein",
+            "types": [
+                "label"
+            ],
+            "lang": "nl"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

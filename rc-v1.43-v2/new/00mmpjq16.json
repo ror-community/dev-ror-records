@@ -1,0 +1,70 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1886760,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 31.30408,
+                "lng": 120.59538,
+                "name": "Suzhou"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/00mmpjq16",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.szydyy.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "Suzhou Yongding Hospital",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Hygeia Suzhou Yongding Hospital",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u82cf\u5dde\u6c38\u9f0e\u533b\u9662",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u6d77\u5409\u4e9a\u82cf\u5dde\u6c38\u9f0e\u533b\u9662",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "healthcare"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3128760,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 41.38879,
+                "lng": 2.15899,
+                "name": "Barcelona"
+            }
+        }
+    ],
+    "established": 1986,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0000 9238 6887"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.428313.f"
+            ],
+            "preferred": "grid.428313.f"
+        }
+    ],
+    "id": "https://ror.org/02pg81z63",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.tauli.cat"
+        }
+    ],
+    "names": [
+        {
+            "value": "Corporaci\u00f3 Sanit\u00e0ria Parc Taul\u00ed",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Consorci Corporaci\u00f3 Sanit\u00e0ria Parc Taul\u00ed",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Parc Taul\u00ed Sabadell Hospital Universitari",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Parc Taul\u00ed Hospital Universitari de Sabadell",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Hospital de Sabadell\u2013Parc Taul\u00ed",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Parc Taul\u00ed Hospital Universitari",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Corporaci\u00f3n Sanitaria y Universitaria Parc Taul\u00ed",
+            "types": [
+                "label"
+            ],
+            "lang": "es"
+        },
+        {
+            "value": "CSPT",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "other"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

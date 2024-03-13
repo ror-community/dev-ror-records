@@ -1,0 +1,85 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2643743,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 51.50853,
+                "lng": -0.12574,
+                "name": "London"
+            }
+        }
+    ],
+    "established": 1907,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 1009 6390"
+            ],
+            "preferred": "0000 0001 1009 6390"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q120043481"
+            ],
+            "preferred": "Q120043481"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100015902"
+            ],
+            "preferred": "100015902"
+        }
+    ],
+    "id": "https://ror.org/00fp4q488",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://eoseurope.org"
+        }
+    ],
+    "names": [
+        {
+            "value": "European Orthodontic Society",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Europ\u00e4ische Gesellschaft f\u00fcr Orthodontie",
+            "types": [
+                "label"
+            ],
+            "lang": "de"
+        },
+        {
+            "value": "EOS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

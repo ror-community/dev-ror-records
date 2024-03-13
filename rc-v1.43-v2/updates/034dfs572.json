@@ -1,0 +1,68 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3128760,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 41.38879,
+                "lng": 2.15899,
+                "name": "Barcelona"
+            }
+        }
+    ],
+    "established": 2012,
+    "external_ids": [
+        {
+            "type": "grid",
+            "all": [
+                "grid.512209.d"
+            ],
+            "preferred": "grid.512209.d"
+        }
+    ],
+    "id": "https://ror.org/034dfs572",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://ecopathinternational.org/"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Ecopath"
+        }
+    ],
+    "names": [
+        {
+            "value": "Ecopath International Initiative",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "EII",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

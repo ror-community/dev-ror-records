@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3118594,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 40.32718,
+                "lng": -3.7635,
+                "name": "Legan\u00e9s"
+            }
+        }
+    ],
+    "established": 1996,
+    "external_ids": [
+        {
+            "type": "grid",
+            "all": [
+                "grid.423614.6"
+            ],
+            "preferred": "grid.423614.6"
+        }
+    ],
+    "id": "https://ror.org/032mthd30",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.aitemin.es/index_e.php"
+        }
+    ],
+    "names": [
+        {
+            "value": "Association for Research and Industrial Development of Natural Resources",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Asociaci\u00f3n para Investigaci\u00f3n y el Desarrollo Industrial de los Recursos Naturales",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "AITEMIN",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "inactive",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

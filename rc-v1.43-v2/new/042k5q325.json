@@ -1,0 +1,64 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2945024,
+            "geonames_details": {
+                "country_code": "DE",
+                "country_name": "Germany",
+                "lat": 52.26594,
+                "lng": 10.52673,
+                "name": "Braunschweig"
+            }
+        }
+    ],
+    "established": 2014,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "100014132"
+            ],
+            "preferred": "100014132"
+        }
+    ],
+    "id": "https://ror.org/042k5q325",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.euramet.org/research-innovation/research-empir"
+        }
+    ],
+    "names": [
+        {
+            "value": "European Metrology Programme for Innovation and Research",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "EMPIR",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

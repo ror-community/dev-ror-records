@@ -1,0 +1,120 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2988507,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.85341,
+                "lng": 2.3488,
+                "name": "Paris"
+            }
+        }
+    ],
+    "established": 1990,
+    "external_ids": [
+        {
+            "type": "grid",
+            "all": [
+                "grid.457095.a"
+            ],
+            "preferred": "grid.457095.a"
+        }
+    ],
+    "id": "https://ror.org/008kn4z11",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.iledefrance-villejuif.cnrs.fr/"
+        }
+    ],
+    "names": [
+        {
+            "value": "D\u00e9l\u00e9gation Ile-de-France Villejuif",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "DR01",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Direction G\u00e9n\u00e9rale D\u00e9l\u00e9gu\u00e9e aux Ressources",
+            "type": "parent",
+            "id": "https://ror.org/03yz3tz18"
+        },
+        {
+            "label": "Architecture Urbanisme Soci\u00e9t\u00e9 : Savoirs, Enseignement, Recherche",
+            "type": "child",
+            "id": "https://ror.org/0157t2j08"
+        },
+        {
+            "label": "Centre de Recherche de l'Institut de D\u00e9mographie de l'Universit\u00e9 Paris 1",
+            "type": "child",
+            "id": "https://ror.org/02rv1bf67"
+        },
+        {
+            "label": "Centre de Sociologie Europ\u00e9enne",
+            "type": "child",
+            "id": "https://ror.org/05qn0z879"
+        },
+        {
+            "label": "Genetic Stability and Oncogenesis",
+            "type": "child",
+            "id": "https://ror.org/055s8hs34"
+        },
+        {
+            "label": "Institut Carnot ARTS",
+            "type": "child",
+            "id": "https://ror.org/04zr5ey71"
+        },
+        {
+            "label": "International College of Territorial Sciences",
+            "type": "child",
+            "id": "https://ror.org/002t9r032"
+        },
+        {
+            "label": "Laboratoire d'\u00c9conomie Math\u00e9matique et de Micro\u00e9conomie Appliqu\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/003ckn545"
+        },
+        {
+            "label": "Population and Development Center",
+            "type": "child",
+            "id": "https://ror.org/002yg6s88"
+        },
+        {
+            "label": "Research Institute on the Foundations of Computer Science",
+            "type": "child",
+            "id": "https://ror.org/02krdtz55"
+        },
+        {
+            "label": "\u00c9quipe de Recherche sur l\u2019Utilisation des Donn\u00e9es Individuelles en Lien avec la Th\u00e9orie \u00c9conomique",
+            "type": "child",
+            "id": "https://ror.org/047egvh76"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 9972834,
+            "geonames_details": {
+                "country_code": "AU",
+                "country_name": "Australia",
+                "lat": -33.83488,
+                "lng": 151.05703,
+                "name": "Newington"
+            }
+        }
+    ],
+    "established": 1926,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0000 8855 3435"
+            ],
+            "preferred": "0000 0000 8855 3435"
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.489063.0"
+            ],
+            "preferred": "grid.489063.0"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q7279568"
+            ],
+            "preferred": "Q7279568"
+        }
+    ],
+    "id": "https://ror.org/02y0cs367",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.fpnsw.org.au/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Family Planning NSW",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Family Planning Australia",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

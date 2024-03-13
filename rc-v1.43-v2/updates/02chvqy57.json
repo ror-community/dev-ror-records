@@ -1,0 +1,101 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2972315,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 43.60426,
+                "lng": 1.44367,
+                "name": "Toulouse"
+            }
+        }
+    ],
+    "established": 1995,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0384 4620"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q51782431"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.503277.4"
+            ],
+            "preferred": "grid.503277.4"
+        }
+    ],
+    "id": "https://ror.org/02chvqy57",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.legos.omp.eu"
+        }
+    ],
+    "names": [
+        {
+            "value": "Laboratoire d\u2019\u00c9tudes en G\u00e9ophysique et Oc\u00e9anographie Spatiales",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Laboratory of Space Geophysical and Oceanographic Studies",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "LEGOS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Centre National d'\u00c9tudes Spatiales",
+            "type": "parent",
+            "id": "https://ror.org/04h1h0y33"
+        },
+        {
+            "label": "Institut de Recherche pour le D\u00e9veloppement",
+            "type": "parent",
+            "id": "https://ror.org/05q3vnk25"
+        },
+        {
+            "label": "Universit\u00e9 Toulouse III - Paul Sabatier",
+            "type": "parent",
+            "id": "https://ror.org/02v6kpv12"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

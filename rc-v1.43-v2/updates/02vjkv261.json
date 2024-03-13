@@ -1,0 +1,1304 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2988507,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.85341,
+                "lng": 2.3488,
+                "name": "Paris"
+            }
+        }
+    ],
+    "established": 1964,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2186 6389"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100001677"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q1474517"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.7429.8"
+            ],
+            "preferred": "grid.7429.8"
+        }
+    ],
+    "id": "https://ror.org/02vjkv261",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.inserm.fr"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Inserm"
+        }
+    ],
+    "names": [
+        {
+            "value": "Inserm",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "French Institute of Health and Medical Research",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale",
+            "types": [
+                "label"
+            ],
+            "lang": "fr"
+        },
+        {
+            "value": "INSERM",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Adaptateurs de Signalisation en H\u00e9matologie",
+            "type": "child",
+            "id": "https://ror.org/03837fc46"
+        },
+        {
+            "label": "Adhesion and Inflammation Lab",
+            "type": "child",
+            "id": "https://ror.org/055ymkj32"
+        },
+        {
+            "label": "Laboratoire d\u2019Imagerie Biom\u00e9dicale",
+            "type": "child",
+            "id": "https://ror.org/02b9znm90"
+        },
+        {
+            "label": "Cancer Research Center of Lyon",
+            "type": "child",
+            "id": "https://ror.org/02mgw3155"
+        },
+        {
+            "label": "Cancer Research Center of Toulouse",
+            "type": "child",
+            "id": "https://ror.org/003412r28"
+        },
+        {
+            "label": "Cancer Thematics Institute",
+            "type": "child",
+            "id": "https://ror.org/04zdwr798"
+        },
+        {
+            "label": "Cell Biology, Development and Evolution",
+            "type": "child",
+            "id": "https://ror.org/024k3xe80"
+        },
+        {
+            "label": "Center for Interdisciplinary Research in Biology",
+            "type": "child",
+            "id": "https://ror.org/01mvzn566"
+        },
+        {
+            "label": "Center for Research and Interdisciplinarity",
+            "type": "child",
+            "id": "https://ror.org/00zbj9525"
+        },
+        {
+            "label": "Center for Research in Medicine, Science, Health, Mental Health and Society",
+            "type": "child",
+            "id": "https://ror.org/02v2jyq75"
+        },
+        {
+            "label": "Center for Research on Inflammation",
+            "type": "child",
+            "id": "https://ror.org/02gn50d10"
+        },
+        {
+            "label": "Centre Me\u0301diterrane\u0301en de Me\u0301decine Mole\u0301culaire",
+            "type": "child",
+            "id": "https://ror.org/029rfe283"
+        },
+        {
+            "label": "Centre d'Immunologie et des Maladies Infectieuses",
+            "type": "child",
+            "id": "https://ror.org/0375b8f90"
+        },
+        {
+            "label": "Centre de Biochimie Structurale",
+            "type": "child",
+            "id": "https://ror.org/0189yvq06"
+        },
+        {
+            "label": "Centre de Recherche des Cordeliers",
+            "type": "child",
+            "id": "https://ror.org/00dmms154"
+        },
+        {
+            "label": "Centre de Recherche en Acquisition et Traitement de l'Image pour la Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/03smk3872"
+        },
+        {
+            "label": "Centre de Recherche en Canc\u00e9rologie et Immunologie Int\u00e9gr\u00e9e Nantes Angers",
+            "type": "child",
+            "id": "https://ror.org/003g1aw90"
+        },
+        {
+            "label": "Centre de Recherche en Canc\u00e9rologie de Marseille",
+            "type": "child",
+            "id": "https://ror.org/0494jpz02"
+        },
+        {
+            "label": "Centre de R\u00e9f\u00e9rence D\u00e9ficits Immunitaires H\u00e9r\u00e9ditaires",
+            "type": "child",
+            "id": "https://ror.org/009p5nb11"
+        },
+        {
+            "label": "Centre d\u2019Immunologie de Marseille-Luminy",
+            "type": "child",
+            "id": "https://ror.org/03vyjkj45"
+        },
+        {
+            "label": "Cognition, Action, and Sensorimotor Plasticity",
+            "type": "child",
+            "id": "https://ror.org/03xe54902"
+        },
+        {
+            "label": "Cognitive Neuroimaging Lab",
+            "type": "child",
+            "id": "https://ror.org/056wdpc91"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation Paris 11",
+            "type": "child",
+            "id": "https://ror.org/0589k3111"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation Paris 12",
+            "type": "child",
+            "id": "https://ror.org/00sbttv49"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation Paris 5",
+            "type": "child",
+            "id": "https://ror.org/02e0y6e06"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation Paris 6",
+            "type": "child",
+            "id": "https://ror.org/03rt48n94"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation Paris 7",
+            "type": "child",
+            "id": "https://ror.org/00bw5n526"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Auvergne-Rh\u00f4ne-Alpes",
+            "type": "child",
+            "id": "https://ror.org/0530j9m17"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Est",
+            "type": "child",
+            "id": "https://ror.org/04kv7c795"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Grand Ouest",
+            "type": "child",
+            "id": "https://ror.org/01qa4rf46"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Nord Ouest",
+            "type": "child",
+            "id": "https://ror.org/00jmxvy70"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Nouvelle-Aquitaine",
+            "type": "child",
+            "id": "https://ror.org/044rb3f07"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Occitanie M\u00e9diterran\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/01ddr6d46"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Occitanie Pyr\u00e9n\u00e9es",
+            "type": "child",
+            "id": "https://ror.org/03xssrp53"
+        },
+        {
+            "label": "D\u00e9l\u00e9gation R\u00e9gionale Provence-Alpes-C\u00f4te d\u2019Azur et Corse",
+            "type": "child",
+            "id": "https://ror.org/01s8rwd67"
+        },
+        {
+            "label": "Electrophysiology and Heart Modeling Institute",
+            "type": "child",
+            "id": "https://ror.org/00jsv7j98"
+        },
+        {
+            "label": "Equipe Soutenue par la R\u00e9gion et par l'Inserm",
+            "type": "child",
+            "id": "https://ror.org/03e801006"
+        },
+        {
+            "label": "Genetics, Genomics and Bioinformatics",
+            "type": "child",
+            "id": "https://ror.org/01rfstj90"
+        },
+        {
+            "label": "Genetique Reproduction and Developpement",
+            "type": "child",
+            "id": "https://ror.org/052d1cv78"
+        },
+        {
+            "label": "Grenoble Institute of Neurosciences",
+            "type": "child",
+            "id": "https://ror.org/04as3rk94"
+        },
+        {
+            "label": "Hemostase Inflammation Thrombosis",
+            "type": "child",
+            "id": "https://ror.org/03ka94606"
+        },
+        {
+            "label": "Imagine Institute for Genetic Diseases",
+            "type": "child",
+            "id": "https://ror.org/05rq3rb55"
+        },
+        {
+            "label": "Imaging and Brain",
+            "type": "child",
+            "id": "https://ror.org/01eem7c55"
+        },
+        {
+            "label": "Immunity and Cancer",
+            "type": "child",
+            "id": "https://ror.org/01zefvs55"
+        },
+        {
+            "label": "Immunology, Inflammation, Infectiology and Microbiology",
+            "type": "child",
+            "id": "https://ror.org/00r454w59"
+        },
+        {
+            "label": "Inserm Transfert",
+            "type": "child",
+            "id": "https://ror.org/01wftfc57"
+        },
+        {
+            "label": "Institute for Advanced Biosciences",
+            "type": "child",
+            "id": "https://ror.org/05kwbf598"
+        },
+        {
+            "label": "Institut Cochin",
+            "type": "child",
+            "id": "https://ror.org/051sk4035"
+        },
+        {
+            "label": "Institut Europ\u00e9en de Chimie et Biologie",
+            "type": "child",
+            "id": "https://ror.org/04agqs597"
+        },
+        {
+            "label": "Institut Jacques Monod",
+            "type": "child",
+            "id": "https://ror.org/02c5gc203"
+        },
+        {
+            "label": "Institut Necker Enfants Malades",
+            "type": "child",
+            "id": "https://ror.org/000nhq538"
+        },
+        {
+            "label": "Institut NeuroMyoG\u00e8ne",
+            "type": "child",
+            "id": "https://ror.org/0322sf130"
+        },
+        {
+            "label": "Institut d'\u00c9conomie Publique",
+            "type": "child",
+            "id": "https://ror.org/014ycqe77"
+        },
+        {
+            "label": "Institut de Biologie Paris-Seine",
+            "type": "child",
+            "id": "https://ror.org/01c2cjg59"
+        },
+        {
+            "label": "Institut de Biologie de Lille",
+            "type": "child",
+            "id": "https://ror.org/05gd4yq49"
+        },
+        {
+            "label": "Institut de Biologie de l'\u00c9cole Normale Sup\u00e9rieure",
+            "type": "child",
+            "id": "https://ror.org/03mxktp47"
+        },
+        {
+            "label": "Institut de G\u00e9nomique Fonctionnelle",
+            "type": "child",
+            "id": "https://ror.org/043wmc583"
+        },
+        {
+            "label": "Institut de Neurobiologie de la M\u00e9diterran\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/02jthx987"
+        },
+        {
+            "label": "Institut de Neurosciences des Syst\u00e8mes",
+            "type": "child",
+            "id": "https://ror.org/019kqby73"
+        },
+        {
+            "label": "Institut de Recherche Interdisciplinaire sur les Enjeux Sociaux",
+            "type": "child",
+            "id": "https://ror.org/03xg8m734"
+        },
+        {
+            "label": "Institut de Recherche en Sant\u00e9, Environnement et Travail",
+            "type": "child",
+            "id": "https://ror.org/01p178v10"
+        },
+        {
+            "label": "Institut du Cerveau",
+            "type": "child",
+            "id": "https://ror.org/050gn5214"
+        },
+        {
+            "label": "Institut du Fer \u00e0 Moulin",
+            "type": "child",
+            "id": "https://ror.org/03x9frp33"
+        },
+        {
+            "label": "Institut du Thorax",
+            "type": "child",
+            "id": "https://ror.org/049kkt456"
+        },
+        {
+            "label": "Institut Syst\u00e8mes Intelligents et de Robotique",
+            "type": "child",
+            "id": "https://ror.org/05neq8668"
+        },
+        {
+            "label": "Institute for Regenerative Medicine & Biotherapy",
+            "type": "child",
+            "id": "https://ror.org/00b8mh310"
+        },
+        {
+            "label": "Institute of Biology Valrose",
+            "type": "child",
+            "id": "https://ror.org/03bnma344"
+        },
+        {
+            "label": "Institute of Genetics and Molecular and Cellular Biology",
+            "type": "child",
+            "id": "https://ror.org/0015ws592"
+        },
+        {
+            "label": "Institut de Myologie",
+            "type": "child",
+            "id": "https://ror.org/0270xt841"
+        },
+        {
+            "label": "Institute of Research on Cancer and Aging in Nice",
+            "type": "child",
+            "id": "https://ror.org/01td3kv81"
+        },
+        {
+            "label": "International Center for Infectiology Research",
+            "type": "child",
+            "id": "https://ror.org/059sz6q14"
+        },
+        {
+            "label": "Laboratoire CarMeN",
+            "type": "child",
+            "id": "https://ror.org/03bbjky47"
+        },
+        {
+            "label": "Laboratoire de Biologie du D\u00e9veloppement",
+            "type": "child",
+            "id": "https://ror.org/024hnwe62"
+        },
+        {
+            "label": "Laboratoire des Biomol\u00e9cules",
+            "type": "child",
+            "id": "https://ror.org/05vd6h165"
+        },
+        {
+            "label": "Laboratory for Optics & Biosciences",
+            "type": "child",
+            "id": "https://ror.org/000p29f53"
+        },
+        {
+            "label": "Laboratory for Vascular Translational Science",
+            "type": "child",
+            "id": "https://ror.org/032q95r88"
+        },
+        {
+            "label": "Laboratoire d\u2019immunologie int\u00e9grative du cancer",
+            "type": "child",
+            "id": "https://ror.org/03cqwn895"
+        },
+        {
+            "label": "Institut Langevin",
+            "type": "child",
+            "id": "https://ror.org/00kr24y60"
+        },
+        {
+            "label": "Lipides, Nutrition, Cancer",
+            "type": "child",
+            "id": "https://ror.org/04d70nb60"
+        },
+        {
+            "label": "Lyon Neuroscience Research Center",
+            "type": "child",
+            "id": "https://ror.org/00pdd0432"
+        },
+        {
+            "label": "Metabolism and Renal Physiology",
+            "type": "child",
+            "id": "https://ror.org/0366b1491"
+        },
+        {
+            "label": "Molecular and Structural Basis of Life Sciences",
+            "type": "child",
+            "id": "https://ror.org/00j5dj575"
+        },
+        {
+            "label": "Mondor Institute of Biomedical Research",
+            "type": "child",
+            "id": "https://ror.org/04qe59j94"
+        },
+        {
+            "label": "Neurosciences, Cognitive Sciences, Neurology and Psychiatry",
+            "type": "child",
+            "id": "https://ror.org/05e7p5n27"
+        },
+        {
+            "label": "Nutrition Obesity & Risk of Thrombosis",
+            "type": "child",
+            "id": "https://ror.org/05hqfh882"
+        },
+        {
+            "label": "Oncogenesis Stress Signaling",
+            "type": "child",
+            "id": "https://ror.org/00bf6bf92"
+        },
+        {
+            "label": "Paris Cardiovascular Research Center",
+            "type": "child",
+            "id": "https://ror.org/03gvnh520"
+        },
+        {
+            "label": "Pathologie et Virologie Mol\u00e9culaire",
+            "type": "child",
+            "id": "https://ror.org/002fxfq97"
+        },
+        {
+            "label": "Pathophysiology and Novel Therapies",
+            "type": "child",
+            "id": "https://ror.org/01et6g203"
+        },
+        {
+            "label": "Physiopathologie et Epid\u00e9miologie des Maladies Respiratoires",
+            "type": "child",
+            "id": "https://ror.org/04n8sc212"
+        },
+        {
+            "label": "Physiopathology, metabolism and nutrition",
+            "type": "child",
+            "id": "https://ror.org/00cmmh940"
+        },
+        {
+            "label": "Processus Infectieux en Milieu Insulaire Tropical",
+            "type": "child",
+            "id": "https://ror.org/05fnxds15"
+        },
+        {
+            "label": "Public Health",
+            "type": "child",
+            "id": "https://ror.org/04wbsq162"
+        },
+        {
+            "label": "R\u00e9cepteurs Nucl\u00e9aires, Maladies Cardiovasculaires et Diab\u00e8te",
+            "type": "child",
+            "id": "https://ror.org/05xanhp90"
+        },
+        {
+            "label": "Signalisation, Neurobiologie et Cancer",
+            "type": "child",
+            "id": "https://ror.org/01cmdpn82"
+        },
+        {
+            "label": "Skin Research Center",
+            "type": "child",
+            "id": "https://ror.org/0579jh693"
+        },
+        {
+            "label": "Stem-Cell and Brain Research Institute",
+            "type": "child",
+            "id": "https://ror.org/03m0zs870"
+        },
+        {
+            "label": "Structure F\u00e9d\u00e9rative de Recherche en Biologie et Sant\u00e9 de Rennes",
+            "type": "child",
+            "id": "https://ror.org/05cx7ek10"
+        },
+        {
+            "label": "Structure et Instabilit\u00e9 des G\u00e9nomes",
+            "type": "child",
+            "id": "https://ror.org/05pchb838"
+        },
+        {
+            "label": "Theories and Approaches of Genomic Complexity",
+            "type": "child",
+            "id": "https://ror.org/025sfbe73"
+        },
+        {
+            "label": "Unit of Functional and Adaptive Biology",
+            "type": "child",
+            "id": "https://ror.org/02z0jq636"
+        },
+        {
+            "label": "Unit\u00e9 de Technologies Chimiques et Biologiques pour la Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/03k1e4r14"
+        },
+        {
+            "label": "Syst\u00e8mes avanc\u00e9s de d\u00e9livrance de principes actifs",
+            "type": "child",
+            "id": "https://ror.org/053ppfe96"
+        },
+        {
+            "label": "CANTHER - H\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9, Plasticit\u00e9 et R\u00e9sistance aux Th\u00e9rapies des Cancers",
+            "type": "child",
+            "id": "https://ror.org/05x9zmx47"
+        },
+        {
+            "label": "Centre d'Investigation Clinique - Innovation Technologique de Lille",
+            "type": "child",
+            "id": "https://ror.org/04p4jgt68"
+        },
+        {
+            "label": "(Epi)g\u00e9nomique fonctionnelle m\u00e9tabolique et des dysfonctions dans le diab\u00e8te de type 2 et des maladies associ\u00e9es",
+            "type": "child",
+            "id": "https://ror.org/04k5h2q42"
+        },
+        {
+            "label": "IMPact de l'Environnement Chimique sur la Sant\u00e9 humaine",
+            "type": "child",
+            "id": "https://ror.org/0455vgw31"
+        },
+        {
+            "label": "Institute for Translational Research in Inflammation",
+            "type": "child",
+            "id": "https://ror.org/03qy9z186"
+        },
+        {
+            "label": "Lille Neurosciences & Cognition",
+            "type": "child",
+            "id": "https://ror.org/04p94ax69"
+        },
+        {
+            "label": "M\u00e9dicaments et Mol\u00e9cules pour Agir sur les Syst\u00e8mes Vivants",
+            "type": "child",
+            "id": "https://ror.org/0086epd30"
+        },
+        {
+            "label": "OncoThAI",
+            "type": "child",
+            "id": "https://ror.org/04q29nn62"
+        },
+        {
+            "label": "Laboratoire de Physiologie Cellulaire",
+            "type": "child",
+            "id": "https://ror.org/05fjffm04"
+        },
+        {
+            "label": "Plateformes Lilloises en Biologie et Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/056hav897"
+        },
+        {
+            "label": "Recherche translationnelle sur le diab\u00e8te",
+            "type": "child",
+            "id": "https://ror.org/03pbmtd68"
+        },
+        {
+            "label": "Laboratoire Traitement du Signal et de l'Image",
+            "type": "child",
+            "id": "https://ror.org/01f1amm71"
+        },
+        {
+            "label": "Bacterial Regulatory RNAs & Medicine",
+            "type": "child",
+            "id": "https://ror.org/031y0x195"
+        },
+        {
+            "label": "Microenvironment and B-cells: Immunopathology, Cell, Differentiation and Cancer",
+            "type": "child",
+            "id": "https://ror.org/05p7fmf80"
+        },
+        {
+            "label": "Nutrition, m\u00e9tabolismes et cancer",
+            "type": "child",
+            "id": "https://ror.org/03zb6nw87"
+        },
+        {
+            "label": "Fondation pour l'Innovation en Cardiom\u00e9tabolisme et Nutrition",
+            "type": "child",
+            "id": "https://ror.org/0045xgt95"
+        },
+        {
+            "label": "Centre d\u2019Investigation Clinique 1436",
+            "type": "child",
+            "id": "https://ror.org/033z83z59"
+        },
+        {
+            "label": "Hypoxie et Poumon",
+            "type": "child",
+            "id": "https://ror.org/02mtpz628"
+        },
+        {
+            "label": "Centre d'Investigation Clinique - Epid\u00e9miologie Clinique Saint-Etienne",
+            "type": "child",
+            "id": "https://ror.org/044dp1584"
+        },
+        {
+            "label": "NeuroDiderot",
+            "type": "child",
+            "id": "https://ror.org/014ndnr76"
+        },
+        {
+            "label": "Centre d'Investigation Clinique de Besan\u00e7on",
+            "type": "child",
+            "id": "https://ror.org/04nk3ny21"
+        },
+        {
+            "label": "Empenn",
+            "type": "child",
+            "id": "https://ror.org/02hp31992"
+        },
+        {
+            "label": "Centre d'Investigation Clinique de Vaccinologie Cochin-Pasteur",
+            "type": "child",
+            "id": "https://ror.org/01c1p7750"
+        },
+        {
+            "label": "Centre d'investigation clinique Quinze-Vingts",
+            "type": "child",
+            "id": "https://ror.org/01exas502"
+        },
+        {
+            "label": "Institut de Recherche sur les Maladies Virales et H\u00e9patiques",
+            "type": "child",
+            "id": "https://ror.org/00jvqbw52"
+        },
+        {
+            "label": "Physiologie et Physiopathlogie Endocriniennes",
+            "type": "child",
+            "id": "https://ror.org/05kz79f96"
+        },
+        {
+            "label": "Immunologie int\u00e9grative des tumeurs et immunoth\u00e9rapie du cancer",
+            "type": "child",
+            "id": "https://ror.org/0266c5p67"
+        },
+        {
+            "label": "Innovations Th\u00e9rapeutiques en H\u00e9mostase",
+            "type": "child",
+            "id": "https://ror.org/02jp0cd74"
+        },
+        {
+            "label": "Physiopathologie, cibles et th\u00e9rapies de la polyarthrite rhumato\u00efde",
+            "type": "child",
+            "id": "https://ror.org/05vqkgf08"
+        },
+        {
+            "label": "M\u00e9canismes mol\u00e9culaires dans les d\u00e9mences neurod\u00e9g\u00e9n\u00e9ratives",
+            "type": "child",
+            "id": "https://ror.org/008qs6838"
+        },
+        {
+            "label": "Biologie des maladies cardiovasculaires",
+            "type": "child",
+            "id": "https://ror.org/0463z7496"
+        },
+        {
+            "label": "Nutrition, Diab\u00e8te et Cerveau",
+            "type": "child",
+            "id": "https://ror.org/052yj6c27"
+        },
+        {
+            "label": "Pharmacologie et Transplantation",
+            "type": "child",
+            "id": "https://ror.org/013dngs07"
+        },
+        {
+            "label": "Pathologies Pulmonaires et Plasticit\u00e9 Cellulaire",
+            "type": "child",
+            "id": "https://ror.org/02w7ezv91"
+        },
+        {
+            "label": "Physiopathologie, autoimmunit\u00e9, maladies neuromusculaire et th\u00e9rapie r\u00e9g\u00e9n\u00e9ratrice",
+            "type": "child",
+            "id": "https://ror.org/034feyf26"
+        },
+        {
+            "label": "Marseille Medical Genetics",
+            "type": "child",
+            "id": "https://ror.org/01e4wd589"
+        },
+        {
+            "label": "Cancer et g\u00e9nome: Bioinformatique, biostatistiques et \u00e9pid\u00e9miologie des syst\u00e8mes complexes",
+            "type": "child",
+            "id": "https://ror.org/0095dt357"
+        },
+        {
+            "label": "Centre d'Investigation Clinique Antilles Guyane",
+            "type": "child",
+            "id": "https://ror.org/029hdt144"
+        },
+        {
+            "label": "Immunologie - Immunopathologie - Immunoth\u00e9rapie",
+            "type": "child",
+            "id": "https://ror.org/05dbe0t82"
+        },
+        {
+            "label": "Cancer, H\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9, Instabilit\u00e9 et Plasticit\u00e9",
+            "type": "child",
+            "id": "https://ror.org/03t4pc386"
+        },
+        {
+            "label": "G\u00e9n\u00e9tique et biologie du d\u00e9veloppement",
+            "type": "child",
+            "id": "https://ror.org/01vrz7264"
+        },
+        {
+            "label": "HIPI - Human Immunology, Pathophysiology and Immunotherapy",
+            "type": "child",
+            "id": "https://ror.org/008e1sp22"
+        },
+        {
+            "label": "Laboratoire de Neurosciences Cognitives et Computationnelles",
+            "type": "child",
+            "id": "https://ror.org/01e8w0016"
+        },
+        {
+            "label": "Institut Droit et Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/01ddqfh11"
+        },
+        {
+            "label": "Inflammation, Microbiome and Immunosurveillance",
+            "type": "child",
+            "id": "https://ror.org/048qk7477"
+        },
+        {
+            "label": "Pr\u00e9dicteurs mol\u00e9culaires et nouvelles cibles en oncologie",
+            "type": "child",
+            "id": "https://ror.org/01earvv39"
+        },
+        {
+            "label": "Etude longitudinale fran\u00e7aise depuis l'enfance",
+            "type": "child",
+            "id": "https://ror.org/03cxgcr75"
+        },
+        {
+            "label": "Biologie des interactions h\u00f4te-parasite",
+            "type": "child",
+            "id": "https://ror.org/05akjb009"
+        },
+        {
+            "label": "Laboratory for the Bioengineering of Tissues",
+            "type": "child",
+            "id": "https://ror.org/012zmcc30"
+        },
+        {
+            "label": "Bacterial Virulence and Chronic Infections",
+            "type": "child",
+            "id": "https://ror.org/044jxv425"
+        },
+        {
+            "label": "Recherches Translationnelles sur le VIH et les Maladies Infectieuses",
+            "type": "child",
+            "id": "https://ror.org/014sj8802"
+        },
+        {
+            "label": "TBM-Core",
+            "type": "child",
+            "id": "https://ror.org/00qe5nz43"
+        },
+        {
+            "label": "Radioth\u00e9rapie Mol\u00e9culaire et Innovation Th\u00e9rapeutique",
+            "type": "child",
+            "id": "https://ror.org/00jp5dw81"
+        },
+        {
+            "label": "Pathog\u00e9n\u00e8se Bact\u00e9rienne et R\u00e9ponses Cellulaires",
+            "type": "child",
+            "id": "https://ror.org/03t9s7t87"
+        },
+        {
+            "label": "Centre d\u2019Investigation Clinique des H\u00f4pitaux Universitaires de Strasbourg",
+            "type": "child",
+            "id": "https://ror.org/03zsnyg10"
+        },
+        {
+            "label": "Bordeaux Imaging Center",
+            "type": "child",
+            "id": "https://ror.org/04dyeh227"
+        },
+        {
+            "label": "Centre d'Immunoph\u00e9nomique",
+            "type": "child",
+            "id": "https://ror.org/034bena10"
+        },
+        {
+            "label": "RMeS - Regenerative Medicine and Skeleton",
+            "type": "child",
+            "id": "https://ror.org/025agbr41"
+        },
+        {
+            "label": "Pharmacologie des anti-infectieux et antibior\u00e9sistance",
+            "type": "child",
+            "id": "https://ror.org/041v99f68"
+        },
+        {
+            "label": "Nutrition, Inflammation et axe Microbiote-Intestin-Cerveau",
+            "type": "child",
+            "id": "https://ror.org/040d87505"
+        },
+        {
+            "label": "Isch\u00e9mie Reperfusion, M\u00e9tabolisme et Inflammation St\u00e9rile en Transplantation",
+            "type": "child",
+            "id": "https://ror.org/05kkw6065"
+        },
+        {
+            "label": "Laboratoire de Neurosciences Exp\u00e9rimentales et Cliniques",
+            "type": "child",
+            "id": "https://ror.org/04rfxk768"
+        },
+        {
+            "label": "Anti-infectieux : supports mol\u00e9culaires des r\u00e9sistances et innovations th\u00e9rapeutiques",
+            "type": "child",
+            "id": "https://ror.org/0458p8g61"
+        },
+        {
+            "label": "Institut d\u2019Epid\u00e9miologie et de Neurologie Tropicale",
+            "type": "child",
+            "id": "https://ror.org/023h4a821"
+        },
+        {
+            "label": "Centre d'\u00c9tude des Pathologies Respiratoires",
+            "type": "child",
+            "id": "https://ror.org/01vxptj17"
+        },
+        {
+            "label": "Groupe de Recherches sur l\u2019Analyse Multimodale de la Fonction C\u00e9r\u00e9brale",
+            "type": "child",
+            "id": "https://ror.org/02a9mrq41"
+        },
+        {
+            "label": "Plateforme d'information et de services pour les maladies rares et les m\u00e9dicaments orphelins",
+            "type": "child",
+            "id": "https://ror.org/05thj7870"
+        },
+        {
+            "label": "Biopathologie de la my\u00e9line, neuroprotection et strat\u00e9gies th\u00e9rapeutiques",
+            "type": "child",
+            "id": "https://ror.org/000n1xh78"
+        },
+        {
+            "label": "Optimisation Th\u00e9rapeutique en Neuropsychopharmacologie",
+            "type": "child",
+            "id": "https://ror.org/05wzabs02"
+        },
+        {
+            "label": "Centre of Research in Epidemiology and Statistics",
+            "type": "child",
+            "id": "https://ror.org/00t9egj41"
+        },
+        {
+            "label": "Infection, Antimicrobials, Modelling, Evolution",
+            "type": "child",
+            "id": "https://ror.org/05hqep952"
+        },
+        {
+            "label": "Chimie et Biologie de la Cellule",
+            "type": "child",
+            "id": "https://ror.org/03k37h274"
+        },
+        {
+            "label": "France G\u00e9nomique",
+            "type": "child",
+            "id": "https://ror.org/05k267t15"
+        },
+        {
+            "label": "Neurophysiologie respiratoire exp\u00e9rimentale et clinique",
+            "type": "child",
+            "id": "https://ror.org/0259td381"
+        },
+        {
+            "label": "Genopolys",
+            "type": "child",
+            "id": "https://ror.org/030vwjb30"
+        },
+        {
+            "label": "Organisation Nucl\u00e9aire et Oncogen\u00e8se",
+            "type": "child",
+            "id": "https://ror.org/05q8d3662"
+        },
+        {
+            "label": "Physiopathog\u00e9n\u00e8se et Traitement des Maladies du Foie",
+            "type": "child",
+            "id": "https://ror.org/01zrk7293"
+        },
+        {
+            "label": "Contr\u00f4le transcriptionnel et \u00e9pig\u00e9n\u00e9tique de l\u2019h\u00e9matopo\u00ef\u00e8se maligne",
+            "type": "child",
+            "id": "https://ror.org/00p73bw06"
+        },
+        {
+            "label": "Chimie et Mod\u00e9lisation pour la Biologie du Cancer",
+            "type": "child",
+            "id": "https://ror.org/02nfq1309"
+        },
+        {
+            "label": "Pathogen\u00e8se des infections vasculaires",
+            "type": "child",
+            "id": "https://ror.org/00gjnk018"
+        },
+        {
+            "label": "ARNA - Acides nucl\u00e9iques: R\u00e9gulations naturelles et artificielles",
+            "type": "child",
+            "id": "https://ror.org/01cbgsf04"
+        },
+        {
+            "label": "Maladies Rares: G\u00e9n\u00e9tique et M\u00e9tabolisme",
+            "type": "child",
+            "id": "https://ror.org/01wvg5605"
+        },
+        {
+            "label": "Research on healthcare performance",
+            "type": "child",
+            "id": "https://ror.org/02ncy5p18"
+        },
+        {
+            "label": "Mitochondrial and Cardiovascular Physiopathology",
+            "type": "child",
+            "id": "https://ror.org/03hqv2x85"
+        },
+        {
+            "label": "Micro et Nanom\u00e9decines translationnelles",
+            "type": "child",
+            "id": "https://ror.org/055nbmz93"
+        },
+        {
+            "label": "Physiopathologie et imagerie des troubles neurologiques",
+            "type": "child",
+            "id": "https://ror.org/00vsvph51"
+        },
+        {
+            "label": "Neuropsychologie et Imagerie de la M\u00e9moire Humaine",
+            "type": "child",
+            "id": "https://ror.org/04f6tkx67"
+        },
+        {
+            "label": "Mobilit\u00e9s: Vieillissement, Pathologie, Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/028rasm92"
+        },
+        {
+            "label": "Imagerie Mol\u00e9culaire et Strat\u00e9gies Th\u00e9ranostiques",
+            "type": "child",
+            "id": "https://ror.org/03y61y350"
+        },
+        {
+            "label": "Biologie et pharmacologie des plaquettes sanguines : h\u00e9mostase, thrombose, transfusion",
+            "type": "child",
+            "id": "https://ror.org/03qge6j93"
+        },
+        {
+            "label": "Physique pour la m\u00e9decine Paris",
+            "type": "child",
+            "id": "https://ror.org/03y7m8990"
+        },
+        {
+            "label": "Stabilit\u00e9 G\u00e9n\u00e9tique, Cellules Souches et Radiations",
+            "type": "child",
+            "id": "https://ror.org/00nvvw130"
+        },
+        {
+            "label": "BISCEm - Biologie Int\u00e9grative Sant\u00e9 Chimie Environnement",
+            "type": "child",
+            "id": "https://ror.org/04kbqb151"
+        },
+        {
+            "label": "Laboratoire d'imagerie translationnelle en oncologie",
+            "type": "child",
+            "id": "https://ror.org/05qy9ka59"
+        },
+        {
+            "label": "RESTORE",
+            "type": "child",
+            "id": "https://ror.org/00qhm9960"
+        },
+        {
+            "label": "Institut Toulousain des Maladies Infectieuses et Inflammatoires",
+            "type": "child",
+            "id": "https://ror.org/00n90tt57"
+        },
+        {
+            "label": "G\u00e9nomique fonctionnelle comparative",
+            "type": "child",
+            "id": "https://ror.org/016nv8j08"
+        },
+        {
+            "label": "Laboratoire Physiopathologie et G\u00e9n\u00e9tique du Neurone et du Muscle",
+            "type": "child",
+            "id": "https://ror.org/013nhg483"
+        },
+        {
+            "label": "L\u2019Inserm dans Paris et l\u2019\u00cele-de-France Centre Nord",
+            "type": "child",
+            "id": "https://ror.org/00jyt4d57"
+        },
+        {
+            "label": "D\u00e9faillance Cardiovasculaire Aigu\u00eb et Chronique",
+            "type": "child",
+            "id": "https://ror.org/05ft9wv42"
+        },
+        {
+            "label": "Nutrition-G\u00e9n\u00e9tique et Exposition aux Risques Environnementaux",
+            "type": "child",
+            "id": "https://ror.org/053d03003"
+        },
+        {
+            "label": "Laboratoire de Biologie, Bioing\u00e9ni\u00e9rie et Bioimagerie ost\u00e9oarticulaire",
+            "type": "child",
+            "id": "https://ror.org/03q7r5x87"
+        },
+        {
+            "label": "The Enteric Nervous System in Gut and Brain Disorders",
+            "type": "child",
+            "id": "https://ror.org/01kbkse74"
+        },
+        {
+            "label": "UMS Ph\u00e9notypage du petit animal",
+            "type": "child",
+            "id": "https://ror.org/05pm2xt51"
+        },
+        {
+            "label": "PHOTOSYNTHESE",
+            "type": "child",
+            "id": "https://ror.org/05hb8m595"
+        },
+        {
+            "label": "Neurosciences Paris-Seine",
+            "type": "child",
+            "id": "https://ror.org/02sps6z09"
+        },
+        {
+            "label": "F\u00e9d\u00e9ration de Physico-Chimie Analytique et Biologique",
+            "type": "child",
+            "id": "https://ror.org/05edayg07"
+        },
+        {
+            "label": "Adaptation Biologique et Vieillissement",
+            "type": "child",
+            "id": "https://ror.org/02y2c2646"
+        },
+        {
+            "label": "Fondation Voir & Entendre",
+            "type": "child",
+            "id": "https://ror.org/01ph0t361"
+        },
+        {
+            "label": "Tara Oceans Systems Ecology & Evolution",
+            "type": "child",
+            "id": "https://ror.org/04fgntk96"
+        },
+        {
+            "label": "Maladies g\u00e9n\u00e9tiques d\u2019expression p\u00e9diatrique",
+            "type": "child",
+            "id": "https://ror.org/0387w4y93"
+        },
+        {
+            "label": "Centre d'Acquisition et de Traitement des Images",
+            "type": "child",
+            "id": "https://ror.org/01zprwd36"
+        },
+        {
+            "label": "Production et analyse de donn\u00e9es en sciences de la vie et en sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/03p2d3k93"
+        },
+        {
+            "label": "Laboratoire d'Informatique M\u00e9dicale et d'Ing\u00e9nieurie des Connaissances en e-Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/01jr1v359"
+        },
+        {
+            "label": "Replication des chromosomes eucaryotes et ses points de contr\u00f4le",
+            "type": "child",
+            "id": "https://ror.org/01r19bq53"
+        },
+        {
+            "label": "Centre de Recherche en Myologie",
+            "type": "child",
+            "id": "https://ror.org/02e3eqz10"
+        },
+        {
+            "label": "PremUP",
+            "type": "child",
+            "id": "https://ror.org/04ph5sm90"
+        },
+        {
+            "label": "Nutrition et ob\u00e9sit\u00e9 : approches syst\u00e9miques",
+            "type": "child",
+            "id": "https://ror.org/00qdphm77"
+        },
+        {
+            "label": "Unit\u00e9 de recherche sur les maladies cardiovasculaires et m\u00e9taboliques",
+            "type": "child",
+            "id": "https://ror.org/043y2tx42"
+        },
+        {
+            "label": "Institut Pierre Louis d\u2018\u00c9pid\u00e9miologie et de Sant\u00e9 Publique",
+            "type": "child",
+            "id": "https://ror.org/02qqh1125"
+        },
+        {
+            "label": "Maladies r\u00e9nales fr\u00e9quentes et rares : des m\u00e9canismes mol\u00e9culaires \u00e0 la m\u00e9decine personnalis\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/01x3ydm75"
+        },
+        {
+            "label": "Infection et inflammation",
+            "type": "child",
+            "id": "https://ror.org/021sh3243"
+        },
+        {
+            "label": "Cohortes \u00e9pid\u00e9miologiques en population",
+            "type": "child",
+            "id": "https://ror.org/00ex3jm11"
+        },
+        {
+            "label": "Laboratoire physiopathologie et pharmacologie clinique de la douleur",
+            "type": "child",
+            "id": "https://ror.org/02k243t26"
+        },
+        {
+            "label": "Handicap neuromusculaire : Physiopathologie, Bioth\u00e9rapie et Pharmacologie appliqu\u00e9es",
+            "type": "child",
+            "id": "https://ror.org/02nxezb95"
+        },
+        {
+            "label": "Neuropsychologie Cognitive et Physiopathologie de la Schizophr\u00e9nie",
+            "type": "child",
+            "id": "https://ror.org/02zwf7d57"
+        },
+        {
+            "label": "COMETE - Mobilit\u00e9s : Vieillissement, pathologie, sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/018z38380"
+        },
+        {
+            "label": "Endoth\u00e9lium, valvulopathies et insuffisance cardiaque",
+            "type": "child",
+            "id": "https://ror.org/017ed2k28"
+        },
+        {
+            "label": "Laboratoire d'Excellence en Recherche sur le M\u00e9dicament et l'Innovation Th\u00e9rapeutique",
+            "type": "child",
+            "id": "https://ror.org/035gq6r08"
+        },
+        {
+            "label": "Center for Research in Transplantation and Translational Immunology",
+            "type": "child",
+            "id": "https://ror.org/01165k395"
+        },
+        {
+            "label": "Immunologie et Nouveaux Concepts en Immunoth\u00e9rapie",
+            "type": "child",
+            "id": "https://ror.org/018dfmm35"
+        },
+        {
+            "label": "methodS in Patient-centered outcomes and HEalth ResEarch",
+            "type": "child",
+            "id": "https://ror.org/013m8h627"
+        },
+        {
+            "label": "Translational Research in Gene Therapy",
+            "type": "child",
+            "id": "https://ror.org/02tg88m31"
+        },
+        {
+            "label": "Dynamique Microbienne associ\u00e9e aux Infections Urinaires et Respiratoires",
+            "type": "child",
+            "id": "https://ror.org/01a6c6c20"
+        },
+        {
+            "label": "G\u00e9nomique du cancer et du cerveau",
+            "type": "child",
+            "id": "https://ror.org/05k71g406"
+        },
+        {
+            "label": "Unit\u00e9 de recherche interdisciplinaire pour la pr\u00e9vention et le traitement des cancers",
+            "type": "child",
+            "id": "https://ror.org/04b8tg719"
+        },
+        {
+            "label": "Neuroendocrine, Endocrine and Germinal Differentiation Communication",
+            "type": "child",
+            "id": "https://ror.org/02yvdat18"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

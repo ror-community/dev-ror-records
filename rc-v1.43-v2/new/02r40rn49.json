@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2078025,
+            "geonames_details": {
+                "country_code": "AU",
+                "country_name": "Australia",
+                "lat": -34.92866,
+                "lng": 138.59863,
+                "name": "Adelaide"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000000417963647"
+            ],
+            "preferred": "0000000417963647"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q58347341"
+            ],
+            "preferred": "Q58347341"
+        }
+    ],
+    "id": "https://ror.org/02r40rn49",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://centraladelaide.health.sa.gov.au"
+        }
+    ],
+    "names": [
+        {
+            "value": "Central Adelaide Local Health Network",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CALHN",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "healthcare"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

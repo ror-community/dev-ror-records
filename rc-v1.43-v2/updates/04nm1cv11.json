@@ -1,0 +1,133 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2654675,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 51.45523,
+                "lng": -2.59665,
+                "name": "Bristol"
+            }
+        }
+    ],
+    "established": 1991,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0380 7336"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100012141"
+            ],
+            "preferred": "100012141"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q17028004"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.410421.2"
+            ],
+            "preferred": "grid.410421.2"
+        }
+    ],
+    "id": "https://ror.org/04nm1cv11",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.uhbristol.nhs.uk/"
+        },
+        {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_Hospitals_Bristol_NHS_Foundation_Trust"
+        }
+    ],
+    "names": [
+        {
+            "value": "University Hospitals Bristol NHS Foundation Trust",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Bristol Eye Hospital",
+            "type": "child",
+            "id": "https://ror.org/01w151e64"
+        },
+        {
+            "label": "Bristol General Hospital",
+            "type": "child",
+            "id": "https://ror.org/00h3hwc05"
+        },
+        {
+            "label": "Bristol Royal Hospital for Children",
+            "type": "child",
+            "id": "https://ror.org/01qgecw57"
+        },
+        {
+            "label": "Bristol Royal Infirmary",
+            "type": "child",
+            "id": "https://ror.org/031p4kj21"
+        },
+        {
+            "label": "NIHR Bristol Biomedical Research Centre",
+            "type": "child",
+            "id": "https://ror.org/02mtt1z51"
+        },
+        {
+            "label": "NIHR Bristol Cardiovascular Biomedical Research Unit",
+            "type": "child",
+            "id": "https://ror.org/03gna4510"
+        },
+        {
+            "label": "NIHR Bristol Nutrition Biomedical Research Unit",
+            "type": "child",
+            "id": "https://ror.org/019rf7x86"
+        },
+        {
+            "label": "South Bristol Community Hospital",
+            "type": "child",
+            "id": "https://ror.org/00pa9y269"
+        },
+        {
+            "label": "St Michael's Hospital",
+            "type": "child",
+            "id": "https://ror.org/02hqqna27"
+        },
+        {
+            "label": "University Of Bristol Dental Hospital",
+            "type": "child",
+            "id": "https://ror.org/027a33v57"
+        }
+    ],
+    "status": "inactive",
+    "types": [
+        "healthcare"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

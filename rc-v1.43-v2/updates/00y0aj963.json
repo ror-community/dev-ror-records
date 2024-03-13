@@ -1,0 +1,64 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3128760,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 41.38879,
+                "lng": 2.15899,
+                "name": "Barcelona"
+            }
+        }
+    ],
+    "established": 2008,
+    "external_ids": [
+        {
+            "type": "wikidata",
+            "all": [
+                "Q30256790"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.434604.1"
+            ],
+            "preferred": "grid.434604.1"
+        }
+    ],
+    "id": "https://ror.org/00y0aj963",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.thecorebike.com/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Going Green (Spain)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "inactive",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

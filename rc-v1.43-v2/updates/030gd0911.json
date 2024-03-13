@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2509954,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 39.47391,
+                "lng": -0.37966,
+                "name": "Valencia"
+            }
+        }
+    ],
+    "established": 1984,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 1807 8930"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.423830.e"
+            ],
+            "preferred": "grid.423830.e"
+        }
+    ],
+    "id": "https://ror.org/030gd0911",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.aidima.eu/"
+        }
+    ],
+    "names": [
+        {
+            "value": "AIDIMA Technology Institute",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "AIDIMA - Instituto Tecnol\u00f3gico del Mueble",
+            "types": [
+                "label"
+            ],
+            "lang": "es"
+        }
+    ],
+    "relationships": [],
+    "status": "inactive",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

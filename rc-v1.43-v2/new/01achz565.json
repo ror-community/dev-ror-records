@@ -1,0 +1,77 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1784764,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 29.16667,
+                "lng": 120,
+                "name": "Zhejiang"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/01achz565",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://windeyenergy.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "Windey Energy Technology Group Co., Ltd. (China)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Windey Energy Technology Group Co., Ltd.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Windey Energy Technology Group Co.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Windey Energy Technology Group",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u6d59\u6c5f\u8fd0\u8fbe\u98ce\u7535\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

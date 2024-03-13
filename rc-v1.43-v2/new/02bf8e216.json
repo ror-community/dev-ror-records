@@ -1,0 +1,74 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3435910,
+            "geonames_details": {
+                "country_code": "AR",
+                "country_name": "Argentina",
+                "lat": -34.61315,
+                "lng": -58.37723,
+                "name": "Buenos Aires"
+            }
+        }
+    ],
+    "established": 2007,
+    "external_ids": [],
+    "id": "https://ror.org/02bf8e216",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.editorialteseo.com"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://es.wikipedia.org/wiki/Editorial_Teseo"
+        }
+    ],
+    "names": [
+        {
+            "value": "Teseo (Argentina)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Editorial Teseo",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "TeseoPress",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Teseo",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

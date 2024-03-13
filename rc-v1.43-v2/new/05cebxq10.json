@@ -1,0 +1,86 @@
+{
+    "locations": [
+        {
+            "geonames_id": 112931,
+            "geonames_details": {
+                "country_code": "IR",
+                "country_name": "Iran",
+                "lat": 35.69439,
+                "lng": 51.42151,
+                "name": "Tehran"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 7433 9111"
+            ],
+            "preferred": "0000 0004 7433 9111"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q112085401"
+            ],
+            "preferred": "Q112085401"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100010606"
+            ],
+            "preferred": "501100010606"
+        }
+    ],
+    "id": "https://ror.org/05cebxq10",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://aeoi.org.ir/en/portal/home/?47916/%D8%B5%D9%81%D8%AD%D9%87-nuclear-science-and-technology-research"
+        }
+    ],
+    "names": [
+        {
+            "value": "Nuclear Science and Technology Research Institute",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Nuclear Science and Technology Research Institute of Iran",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "NSTRI",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility",
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}

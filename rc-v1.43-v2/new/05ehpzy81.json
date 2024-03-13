@@ -1,0 +1,99 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1816670,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 39.9075,
+                "lng": 116.39723,
+                "name": "Beijing"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 5928 1249"
+            ],
+            "preferred": "0000 0004 5928 1249"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100015648"
+            ],
+            "preferred": "501100015648"
+        }
+    ],
+    "id": "https://ror.org/05ehpzy81",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.epri.sgcc.com.cn"
+        }
+    ],
+    "names": [
+        {
+            "value": "China Electric Power Research Institute",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u4e2d\u56fd\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "China Electric Power Research Institute Co.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "China Electric Power Research Institute Co., Ltd.",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u4e2d\u56fd\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        },
+        {
+            "value": "CEPRI",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
+    }
+}
