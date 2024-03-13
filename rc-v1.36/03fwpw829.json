@@ -25,10 +25,10 @@
           "code": "IN.07"
         },
         "geonames_admin2": {
-          "name": null,
-          "id": null,
-          "ascii_name": null,
-          "code": null
+          "name": "Central",
+          "id": 8335421,
+          "ascii_name": "Central",
+          "code": "IN.07.095"
         },
         "license": {
           "attribution": "Data from geonames.org under a CC-BY 3.0 license",
