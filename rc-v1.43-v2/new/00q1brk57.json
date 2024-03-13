@@ -1,78 +1,91 @@
 {
-    "locations": [
-        {
-            "geonames_id": 4984247,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 42.27756,
-                "lng": -83.74088,
-                "name": "Ann Arbor"
-            }
-        }
-    ],
-    "established": 1999,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 6431 4500"
-            ],
-            "preferred": "0000 0004 6431 4500"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q45137775"
-            ],
-            "preferred": "Q45137775"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100011869"
-            ],
-            "preferred": "100011869"
-        }
-    ],
-    "id": "https://ror.org/00q1brk57",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://mcuaaar.org"
-        }
-    ],
-    "names": [
-        {
-            "value": "Michigan Center for Urban African American Aging Research",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MCUAAAR",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 4984247,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.27756,
+        "lng": -83.74088,
+        "name": "Ann Arbor"
+      }
     }
+  ],
+  "established": 1999,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 6431 4500"
+      ],
+      "preferred": "0000 0004 6431 4500"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q45137775"
+      ],
+      "preferred": "Q45137775"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100011869"
+      ],
+      "preferred": "100011869"
+    }
+  ],
+  "id": "https://ror.org/00q1brk57",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://mcuaaar.org"
+    }
+  ],
+  "names": [
+    {
+      "value": "Michigan Center for Urban African American Aging Research",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MCUAAAR",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Wayne State University"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/01070mq45"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

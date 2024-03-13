@@ -1,89 +1,102 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1705536,
-            "geonames_details": {
-                "country_code": "PH",
-                "country_name": "Philippines",
-                "lat": 14.17025,
-                "lng": 121.24181,
-                "name": "Los Ba\u00f1os"
-            }
-        }
-    ],
-    "established": 1972,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 0095 710X"
-            ],
-            "preferred": "0000 0001 0095 710X"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q7185026"
-            ],
-            "preferred": "Q7185026"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "501100014166"
-            ],
-            "preferred": "501100014166"
-        }
-    ],
-    "id": "https://ror.org/057p7e749",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.pcaarrd.dost.gov.ph"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Philippine_Council_for_Agriculture%2C_Aquatic%2C_and_Natural_Resources_Research_and_Development"
-        }
-    ],
-    "names": [
-        {
-            "value": "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "PCAARRD",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        },
-        {
-            "value": "DOST-PCAARRD",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1705536,
+      "geonames_details": {
+        "country_code": "PH",
+        "country_name": "Philippines",
+        "lat": 14.17025,
+        "lng": 121.24181,
+        "name": "Los Baños"
+      }
     }
+  ],
+  "established": 1972,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0095 710X"
+      ],
+      "preferred": "0000 0001 0095 710X"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q7185026"
+      ],
+      "preferred": "Q7185026"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100014166"
+      ],
+      "preferred": "501100014166"
+    }
+  ],
+  "id": "https://ror.org/057p7e749",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.pcaarrd.dost.gov.ph"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Philippine_Council_for_Agriculture%2C_Aquatic%2C_and_Natural_Resources_Research_and_Development"
+    }
+  ],
+  "names": [
+    {
+      "value": "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "PCAARRD",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "DOST-PCAARRD",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Department of Science and Technology"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/05tgxx705"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,78 +1,91 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2654993,
-            "geonames_details": {
-                "country_code": "GB",
-                "country_name": "United Kingdom",
-                "lat": 53.79391,
-                "lng": -1.75206,
-                "name": "Bradford"
-            }
-        }
-    ],
-    "established": 2019,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100014338"
-            ],
-            "preferred": "501100014338"
-        }
-    ],
-    "id": "https://ror.org/0300g2m85",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.arc-yh.nihr.ac.uk"
-        }
-    ],
-    "names": [
-        {
-            "value": "NIHR Collaboration for Leadership in Applied Health Research and Care Yorkshire and Humber",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care Yorkshire and Humber",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "NIHR CLAHRC Yorkshire and Humber",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "NIHR CLAHRC YH",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2654993,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 53.79391,
+        "lng": -1.75206,
+        "name": "Bradford"
+      }
     }
+  ],
+  "established": 2019,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100014338"
+      ],
+      "preferred": "501100014338"
+    }
+  ],
+  "id": "https://ror.org/0300g2m85",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.arc-yh.nihr.ac.uk"
+    }
+  ],
+  "names": [
+    {
+      "value": "NIHR Collaboration for Leadership in Applied Health Research and Care Yorkshire and Humber",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care Yorkshire and Humber",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NIHR CLAHRC Yorkshire and Humber",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NIHR CLAHRC YH",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "National Institute for Health Research"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/0187kwz08"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

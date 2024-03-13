@@ -1,101 +1,113 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2988758,
-            "geonames_details": {
-                "country_code": "FR",
-                "country_name": "France",
-                "lat": 48.71828,
-                "lng": 2.2498,
-                "name": "Palaiseau"
-            }
-        }
-    ],
-    "established": 1960,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0000 9029 5703"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q3214506"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.463726.2"
-            ],
-            "preferred": "grid.463726.2"
-        }
-    ],
-    "id": "https://ror.org/002ty1h48",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://luli.ip-paris.fr"
-        }
-    ],
-    "names": [
-        {
-            "value": "Laboratoire pour l'utilisation des lasers intenses",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Laboratory for the User of Intense Lasers",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        },
-        {
-            "value": "LULI",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Atomic Energy and Alternative Energies Commission",
-            "type": "parent",
-            "id": "https://ror.org/00jjx8s55"
-        },
-        {
-            "label": "Sorbonne Universit\u00e9",
-            "type": "parent",
-            "id": "https://ror.org/02en5vm52"
-        },
-        {
-            "label": "\u00c9cole Polytechnique",
-            "type": "parent",
-            "id": "https://ror.org/05hy3tk52"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2988758,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.71828,
+        "lng": 2.2498,
+        "name": "Palaiseau"
+      }
     }
+  ],
+  "established": 1960,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0000 9029 5703"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q3214506"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.463726.2"
+      ],
+      "preferred": "grid.463726.2"
+    }
+  ],
+  "id": "https://ror.org/002ty1h48",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://luli.ip-paris.fr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Laboratoire pour l'utilisation des lasers intenses",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Laboratory for the User of Intense Lasers",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "LULI",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Atomic Energy and Alternative Energies Commission",
+      "type": "parent",
+      "id": "https://ror.org/00jjx8s55"
+    },
+    {
+      "label": "Sorbonne Université",
+      "type": "parent",
+      "id": "https://ror.org/02en5vm52"
+    },
+    {
+      "label": "École Polytechnique",
+      "type": "parent",
+      "id": "https://ror.org/05hy3tk52"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "French National Centre for Scientific Research"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

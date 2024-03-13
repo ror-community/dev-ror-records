@@ -1,0 +1,81 @@
+{
+  "admin": {
+    "created": {
+      "date": "2019-02-17",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1944,
+  "external_ids": [
+    {
+      "all": [
+        "Q15243261"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.503035.0"
+      ],
+      "preferred": "grid.503035.0",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/03q28x580",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.maxiv.lu.se/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/MAX_IV_Laboratory"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "SE",
+        "country_name": "Sweden",
+        "lat": 55.727188,
+        "lng": 13.234872,
+        "name": "Lund"
+      },
+      "geonames_id": 2693678
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "MAX IV Laboratory"
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "value": "LEAPS",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Related",
+      "id": "https://ror.org/04wcn4e27"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

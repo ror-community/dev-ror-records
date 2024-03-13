@@ -1,0 +1,138 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2023-09-14",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1890,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 0447 0018"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "100007926",
+        "100008937",
+        "100008271",
+        "100013827"
+      ],
+      "preferred": "100007926",
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q640652",
+        "Q39056078"
+      ],
+      "preferred": "Q640652",
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.266900.b"
+      ],
+      "preferred": "grid.266900.b",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/02aqsxs83",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.ou.edu/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/University_of_Oklahoma"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 35.22257,
+        "lng": -97.43948,
+        "name": "Norman"
+      },
+      "geonames_id": 4543762
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "University of Oklahoma"
+    },
+    {
+      "lang": "es",
+      "types": [
+        "label"
+      ],
+      "value": "Universidad de Oklahoma"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "UO"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Oklahoma City VA Medical Center",
+      "type": "related",
+      "id": "https://ror.org/010md9d18"
+    },
+    {
+      "label": "University of Oklahoma Health Sciences Center",
+      "type": "related",
+      "id": "https://ror.org/0457zbj98"
+    },
+    {
+      "label": "University of Oklahoma Medical Center",
+      "type": "related",
+      "id": "https://ror.org/01w8whh21"
+    },
+    {
+      "label": "Oklahoma Space Grant Consortium",
+      "type": "child",
+      "id": "https://ror.org/020xgge28"
+    },
+    {
+      "label": "South Central Climate Adaptation Science Center",
+      "type": "child",
+      "id": "https://ror.org/05066y189"
+    },
+    {
+      "label": {
+        "value": "University of Oklahoma - Tulsa",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Child",
+      "id": "https://ror.org/04g1a0w27"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ]
+}

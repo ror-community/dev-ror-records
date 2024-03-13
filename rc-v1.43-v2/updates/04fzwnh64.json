@@ -1,109 +1,121 @@
 {
-    "locations": [
-        {
-            "geonames_id": 4887398,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 41.85003,
-                "lng": -87.65005,
-                "name": "Chicago"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 4683 9645"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.490348.2"
-            ],
-            "preferred": "grid.490348.2"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q50036890"
-            ],
-            "preferred": "Q50036890"
-        }
-    ],
-    "id": "https://ror.org/04fzwnh64",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.nm.org/"
-        }
-    ],
-    "names": [
-        {
-            "value": "Northwestern Medicine",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Northwestern Memorial HealthCare",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Central DuPage Hospital",
-            "type": "child",
-            "id": "https://ror.org/00g1rc256"
-        },
-        {
-            "label": "LivingWell Cancer Resource Center",
-            "type": "child",
-            "id": "https://ror.org/007nfvg13"
-        },
-        {
-            "label": "Marianjoy Rehabilitation Hospital",
-            "type": "child",
-            "id": "https://ror.org/03m5bv793"
-        },
-        {
-            "label": "Northwestern Medicine Lake Forest Hospital",
-            "type": "child",
-            "id": "https://ror.org/03fhrtz10"
-        },
-        {
-            "label": "Northwestern Memorial Hospital",
-            "type": "child",
-            "id": "https://ror.org/009543z50"
-        },
-        {
-            "label": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
-            "type": "child",
-            "id": "https://ror.org/02p4far57"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 4887398,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 41.85003,
+        "lng": -87.65005,
+        "name": "Chicago"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 4683 9645"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.490348.2"
+      ],
+      "preferred": "grid.490348.2"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q50036890"
+      ],
+      "preferred": "Q50036890"
+    }
+  ],
+  "id": "https://ror.org/04fzwnh64",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.nm.org/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Northwestern Medicine",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Northwestern Memorial HealthCare",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Central DuPage Hospital",
+      "type": "child",
+      "id": "https://ror.org/00g1rc256"
+    },
+    {
+      "label": "LivingWell Cancer Resource Center",
+      "type": "child",
+      "id": "https://ror.org/007nfvg13"
+    },
+    {
+      "label": "Marianjoy Rehabilitation Hospital",
+      "type": "child",
+      "id": "https://ror.org/03m5bv793"
+    },
+    {
+      "label": "Northwestern Medicine Lake Forest Hospital",
+      "type": "child",
+      "id": "https://ror.org/03fhrtz10"
+    },
+    {
+      "label": "Northwestern Memorial Hospital",
+      "type": "child",
+      "id": "https://ror.org/009543z50"
+    },
+    {
+      "label": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+      "type": "child",
+      "id": "https://ror.org/02p4far57"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Northwestern University"
+      },
+      "type": "Related",
+      "id": "https://ror.org/000e0be47"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

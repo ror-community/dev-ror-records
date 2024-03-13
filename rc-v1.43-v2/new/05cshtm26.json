@@ -1,71 +1,276 @@
 {
-    "locations": [
-        {
-            "geonames_id": 5140405,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 43.04812,
-                "lng": -76.14742,
-                "name": "Syracuse"
-            }
-        }
-    ],
-    "established": 2012,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 1483 9309"
-            ],
-            "preferred": "0000 0004 1483 9309"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100013115"
-            ],
-            "preferred": "100013115"
-        }
-    ],
-    "id": "https://ror.org/05cshtm26",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.esf.edu/glrc/index.php"
-        }
-    ],
-    "names": [
-        {
-            "value": "Great Lakes Research Consortium",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "GLRC",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "nonprofit"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 5140405,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 43.04812,
+        "lng": -76.14742,
+        "name": "Syracuse"
+      }
     }
+  ],
+  "established": 2012,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 1483 9309"
+      ],
+      "preferred": "0000 0004 1483 9309"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100013115"
+      ],
+      "preferred": "100013115"
+    }
+  ],
+  "id": "https://ror.org/05cshtm26",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.esf.edu/glrc/index.php"
+    }
+  ],
+  "names": [
+    {
+      "value": "Great Lakes Research Consortium",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "GLRC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "University at Albany, State University of New York"
+      },
+      "type": "Related",
+      "id": "https://ror.org/012zs8222"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Binghamton University"
+      },
+      "type": "Related",
+      "id": "https://ror.org/008rmbt77"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "SUNY Brockport"
+      },
+      "type": "Related",
+      "id": "https://ror.org/0306aeb62"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "University at Buffalo, State University of New York"
+      },
+      "type": "Related",
+      "id": "https://ror.org/01y64my43"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Clarkson University"
+      },
+      "type": "Related",
+      "id": "https://ror.org/03rwgpn18"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Cornell University"
+      },
+      "type": "Related",
+      "id": "https://ror.org/05bnh6r87"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "State University of New York College at Cortland"
+      },
+      "type": "Related",
+      "id": "https://ror.org/05a4pj207"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "SUNY College of Environmental Science and Forestry"
+      },
+      "type": "Related",
+      "id": "https://ror.org/00qv0tw17"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "SUNY Fredonia"
+      },
+      "type": "Related",
+      "id": "https://ror.org/05vrs0r17"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "State University of New York at Geneseo"
+      },
+      "type": "Related",
+      "id": "https://ror.org/03g1q6c06"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Hobart and William Smith Colleges"
+      },
+      "type": "Related",
+      "id": "https://ror.org/004majf41"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "State University of New York at Oswego"
+      },
+      "type": "Related",
+      "id": "https://ror.org/01597g643"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "SUNY Plattsburgh"
+      },
+      "type": "Related",
+      "id": "https://ror.org/033zmj163"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "State University of New York at Potsdam"
+      },
+      "type": "Related",
+      "id": "https://ror.org/032qgrc76"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Rochester Institute of Technology"
+      },
+      "type": "Related",
+      "id": "https://ror.org/00v4yb702"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "St. Lawrence University"
+      },
+      "type": "Related",
+      "id": "https://ror.org/05pvqha70"
+    },
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Syracuse University"
+      },
+      "type": "Related",
+      "id": "https://ror.org/025r5qe02"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,84 +1,97 @@
 {
-    "locations": [
-        {
-            "geonames_id": 5713376,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 45.48706,
-                "lng": -122.80371,
-                "name": "Beaverton"
-            }
-        }
-    ],
-    "established": 2001,
-    "external_ids": [],
-    "id": "https://ror.org/00d4pqn65",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ohsu.edu/vaccine-gene-therapy-institute"
-        }
-    ],
-    "names": [
-        {
-            "value": "Vaccine and Gene Therapy Institute",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Vaccine & Gene Therapy Institute",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Oregon Health & Science University Vaccine and Gene Therapy Institute",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "OHSU Vaccine and Gene Therapy Institute",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "VGTI",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        },
-        {
-            "value": "OHSU VGTI",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 5713376,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 45.48706,
+        "lng": -122.80371,
+        "name": "Beaverton"
+      }
     }
+  ],
+  "established": 2001,
+  "external_ids": [],
+  "id": "https://ror.org/00d4pqn65",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ohsu.edu/vaccine-gene-therapy-institute"
+    }
+  ],
+  "names": [
+    {
+      "value": "Vaccine and Gene Therapy Institute",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Vaccine & Gene Therapy Institute",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Oregon Health & Science University Vaccine and Gene Therapy Institute",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "OHSU Vaccine and Gene Therapy Institute",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "VGTI",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "OHSU VGTI",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Oregon Health & Science University"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/009avj582"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

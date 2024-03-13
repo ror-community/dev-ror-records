@@ -1,92 +1,105 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2792482,
-            "geonames_details": {
-                "country_code": "BE",
-                "country_name": "Belgium",
-                "lat": 50.87959,
-                "lng": 4.70093,
-                "name": "Leuven"
-            }
-        }
-    ],
-    "established": 2018,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 9225 9756"
-            ],
-            "preferred": "0000 0004 9225 9756"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q112085345"
-            ],
-            "preferred": "Q112085345"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100016326"
-            ],
-            "preferred": "100016326"
-        }
-    ],
-    "id": "https://ror.org/01kde4v59",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.eitfood.eu"
-        }
-    ],
-    "names": [
-        {
-            "value": "EIT Food",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "EIT Food iVZW",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "European Institute of Innovation & Technology Food",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Food4Future",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "other"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2792482,
+      "geonames_details": {
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "lat": 50.87959,
+        "lng": 4.70093,
+        "name": "Leuven"
+      }
     }
+  ],
+  "established": 2018,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 9225 9756"
+      ],
+      "preferred": "0000 0004 9225 9756"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q112085345"
+      ],
+      "preferred": "Q112085345"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100016326"
+      ],
+      "preferred": "100016326"
+    }
+  ],
+  "id": "https://ror.org/01kde4v59",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.eitfood.eu"
+    }
+  ],
+  "names": [
+    {
+      "value": "EIT Food",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "EIT Food iVZW",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "European Institute of Innovation & Technology Food",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Food4Future",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "European Institute of Innovation and Technology"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/036dxts37"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

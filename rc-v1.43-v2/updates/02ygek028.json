@@ -1,124 +1,137 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2800866,
-            "geonames_details": {
-                "country_code": "BE",
-                "country_name": "Belgium",
-                "lat": 50.85045,
-                "lng": 4.34878,
-                "name": "Brussels"
-            }
-        }
-    ],
-    "established": 1858,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 0941 6203"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "501100008137"
-            ],
-            "preferred": "501100008137"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q1391752"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.434229.a"
-            ],
-            "preferred": "grid.434229.a"
-        }
-    ],
-    "id": "https://ror.org/02ygek028",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.usaintlouis.be/sl/1058.html"
-        },
-        {
-            "type": "wikipedia",
-            "value": "http://en.wikipedia.org/wiki/Universit%C3%A9_Saint-Louis_Bruxelles"
-        }
-    ],
-    "names": [
-        {
-            "value": "UCLouvain Saint-Louis Brussels",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Facult\u00e9s Universitaires Saint-Louis",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Universit\u00e9 Saint-Louis - Bruxelles",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Universit\u00e9 Saint-Louis",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Saint-Louis University",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        },
-        {
-            "value": "Facult\u00e9s universitaires saint-louis",
-            "types": [
-                "label"
-            ],
-            "lang": "fr"
-        },
-        {
-            "value": "USLB",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2800866,
+      "geonames_details": {
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "lat": 50.85045,
+        "lng": 4.34878,
+        "name": "Brussels"
+      }
     }
+  ],
+  "established": 1858,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0941 6203"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100008137"
+      ],
+      "preferred": "501100008137"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q1391752"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.434229.a"
+      ],
+      "preferred": "grid.434229.a"
+    }
+  ],
+  "id": "https://ror.org/02ygek028",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usaintlouis.be/sl/1058.html"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/Universit%C3%A9_Saint-Louis_Bruxelles"
+    }
+  ],
+  "names": [
+    {
+      "value": "UCLouvain Saint-Louis Brussels",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Facultés Universitaires Saint-Louis",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Université Saint-Louis - Bruxelles",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Université Saint-Louis",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Saint-Louis University",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "Facultés universitaires saint-louis",
+      "types": [
+        "label"
+      ],
+      "lang": "fr"
+    },
+    {
+      "value": "USLB",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "value": "UCLouvain",
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "lang": null
+      },
+      "type": "Parent",
+      "id": "https://ror.org/02495e989"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

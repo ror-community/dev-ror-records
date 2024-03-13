@@ -1,63 +1,76 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3173435,
-            "geonames_details": {
-                "country_code": "IT",
-                "country_name": "Italy",
-                "lat": 45.46427,
-                "lng": 9.18951,
-                "name": "Milan"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [],
-    "id": "https://ror.org/04z2hsy54",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.nvidia.com/it-it/"
-        }
-    ],
-    "names": [
-        {
-            "value": "NVIDIA (Italy)",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "NVIDIA Italy",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Nvidia Italy S.R.L.",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "company"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3173435,
+      "geonames_details": {
+        "country_code": "IT",
+        "country_name": "Italy",
+        "lat": 45.46427,
+        "lng": 9.18951,
+        "name": "Milan"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/04z2hsy54",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.nvidia.com/it-it/"
+    }
+  ],
+  "names": [
+    {
+      "value": "NVIDIA (Italy)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NVIDIA Italy",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Nvidia Italy S.R.L.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "Nvidia (United States)"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/03jdj4y14"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

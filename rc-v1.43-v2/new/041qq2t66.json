@@ -1,73 +1,86 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2643743,
-            "geonames_details": {
-                "country_code": "GB",
-                "country_name": "United Kingdom",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "name": "London"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 6085 4796"
-            ],
-            "preferred": "0000 0004 6085 4796"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q45132743"
-            ],
-            "preferred": "Q45132743"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "501100008754"
-            ],
-            "preferred": "501100008754"
-        }
-    ],
-    "id": "https://ror.org/041qq2t66",
-    "domains": [],
-    "links": [],
-    "names": [
-        {
-            "value": "Leverhulme Centre for Integrative Research on Agriculture and Health",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "LCIRAH",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2643743,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.50853,
+        "lng": -0.12574,
+        "name": "London"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 6085 4796"
+      ],
+      "preferred": "0000 0004 6085 4796"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q45132743"
+      ],
+      "preferred": "Q45132743"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100008754"
+      ],
+      "preferred": "501100008754"
+    }
+  ],
+  "id": "https://ror.org/041qq2t66",
+  "domains": [],
+  "links": [],
+  "names": [
+    {
+      "value": "Leverhulme Centre for Integrative Research on Agriculture and Health",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "LCIRAH",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": {
+        "lang": null,
+        "types": [
+          "ror_display",
+          "label"
+        ],
+        "value": "London International Development Centre"
+      },
+      "type": "Parent",
+      "id": "https://ror.org/053xt2a19"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,0 +1,106 @@
+{
+  "id": "https://ror.org/03t61s708",
+  "name": "Parliament of United Kingdom",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1707,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Parliamentary Office of Science and Technology",
+      "type": "Child",
+      "id": "https://ror.org/02pvnr704"
+    },
+    {
+      "label": "Scottish Home and Health Department",
+      "type": "Child",
+      "id": "https://ror.org/043xqa828"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 51.500735,
+      "lng": -0.124749,
+      "state": null,
+      "state_code": null,
+      "city": "London",
+      "geonames_city": {
+        "id": 2643743,
+        "city": "London",
+        "geonames_admin1": {
+          "name": "England",
+          "id": 6269131,
+          "ascii_name": "England",
+          "code": "GB.ENG"
+        },
+        "geonames_admin2": {
+          "name": "Greater London",
+          "id": 2648110,
+          "ascii_name": "Greater London",
+          "code": "GB.ENG.GLA"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": "LONDON",
+          "code": "UKI"
+        },
+        "nuts_level2": {
+          "name": "Inner London - West",
+          "code": "UKI3"
+        },
+        "nuts_level3": {
+          "name": "Westminster",
+          "code": "UKI32"
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 2635167
+    }
+  ],
+  "links": [
+    "http://www.parliament.uk/"
+  ],
+  "aliases": [
+    "UK Parliament",
+    "British Parliament"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom",
+  "labels": [
+    {
+      "label": "Tŷ'r Arglwyddi",
+      "iso639": "cy"
+    }
+  ],
+  "country": {
+    "country_name": "United Kingdom",
+    "country_code": "GB"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0001 2181 0086"
+      ]
+    },
+    "Wikidata": {
+      "preferred": "Q11010",
+      "all": [
+        "Q11010",
+        "Q11007"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.451251.6",
+      "all": "grid.451251.6"
+    }
+  }
+}
