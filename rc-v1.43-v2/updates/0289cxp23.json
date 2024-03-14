@@ -55,7 +55,7 @@
   ],
   "relationships": [
     {
-      "label": "Complejo Hospitalario de Toledo",
+      "label": "Complejo Hospitalario Universitario de Toledo",
       "type": "parent",
       "id": "https://ror.org/04q4ppz72"
     },
