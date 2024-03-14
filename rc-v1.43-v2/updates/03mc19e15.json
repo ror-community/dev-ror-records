@@ -69,11 +69,6 @@
   ],
   "relationships": [
     {
-      "label": "Weston Area Health NHS Trust",
-      "type": "parent",
-      "id": "https://ror.org/03fpf5m04"
-    },
-    {
       "label": "University Hospitals Bristol and Weston NHS Foundation Trust",
       "type": "Parent",
       "id": "https://ror.org/03jzzxg14"

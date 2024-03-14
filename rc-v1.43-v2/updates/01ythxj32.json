@@ -10,35 +10,46 @@
     }
   },
   "domains": [],
-  "established": 1908,
+  "established": 1957,
   "external_ids": [
     {
       "all": [
-        "0000 0004 0435 2409"
+        "0000 0001 2219 916X"
       ],
       "preferred": null,
       "type": "isni"
     },
     {
       "all": [
-        "Q50376756"
+        "100017115"
+      ],
+      "preferred": "100017115",
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q782116"
       ],
       "preferred": null,
       "type": "wikidata"
     },
     {
       "all": [
-        "grid.417120.1"
+        "grid.261277.7"
       ],
-      "preferred": "grid.417120.1",
+      "preferred": "grid.261277.7",
       "type": "grid"
     }
   ],
-  "id": "https://ror.org/05x9ffc66",
+  "id": "https://ror.org/01ythxj32",
   "links": [
     {
       "type": "website",
-      "value": "https://www.beaumont.org/locations/beaumont-hospital-troy"
+      "value": "http://wwwp.oakland.edu/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/Oakland_University"
     }
   ],
   "locations": [
@@ -46,11 +57,11 @@
       "geonames_details": {
         "country_code": "US",
         "country_name": "United States",
-        "lat": 42.60559,
-        "lng": -83.14993,
-        "name": "Troy"
+        "lat": 42.68059,
+        "lng": -83.13382,
+        "name": "Rochester"
       },
-      "geonames_id": 5012639
+      "geonames_id": 5007400
     }
   ],
   "names": [
@@ -60,30 +71,30 @@
         "ror_display",
         "label"
       ],
-      "value": "Beaumont Hospital, Troy"
+      "value": "Oakland University"
     },
     {
       "lang": null,
       "types": [
-        "alias"
+        "acronym"
       ],
-      "value": "William Beaumont Hospital, Troy"
+      "value": "OU"
     }
   ],
   "relationships": [
     {
-      "label": "Oakland University",
+      "label": "Beaumont Hospital, Royal Oak",
       "type": "related",
-      "id": "https://ror.org/01ythxj32"
+      "id": "https://ror.org/03artm726"
     },
     {
-      "label": "Corewell Health",
-      "type": "Parent",
-      "id": "https://ror.org/02hb5yj49"
+      "label": "Beaumont Hospital, Troy",
+      "type": "related",
+      "id": "https://ror.org/05x9ffc66"
     }
   ],
   "status": "active",
   "types": [
-    "healthcare"
+    "education"
   ]
 }
