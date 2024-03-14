@@ -1,0 +1,66 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2650225,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 55.95206,
+                "lng": -3.19648,
+                "name": "Edinburgh"
+            }
+        }
+    ],
+    "established": 1977,
+    "external_ids": [
+        {
+            "type": "wikidata",
+            "all": [
+                "Q45134415"
+            ],
+            "preferred": "Q45134415"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100012164"
+            ],
+            "preferred": "100012164"
+        }
+    ],
+    "id": "https://ror.org/05stqjz94",
+    "domains": [],
+    "links": [],
+    "names": [
+        {
+            "value": "Row Fogo Charitable Trust",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Mrs. Gladys Row Fogo Charitable Trust",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

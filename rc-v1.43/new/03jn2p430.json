@@ -86,13 +86,7 @@
     }
   },
   "established": 1964,
-  "relationships": [
-    {
-      "label": "Government of Pakistan",
-      "type": "Parent",
-      "id": "https://ror.org/00pnp4y96"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03jn2p430",
   "labels": [

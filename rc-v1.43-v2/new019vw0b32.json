@@ -1,0 +1,63 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1668341,
+            "geonames_details": {
+                "country_code": "TW",
+                "country_name": "Taiwan",
+                "lat": 25.04776,
+                "lng": 121.53185,
+                "name": "Taipei"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/019vw0b32",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.qps.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "QPS Taiwan (Taiwan)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u660c\u9054\u751f\u5316",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "QPS Taiwan",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

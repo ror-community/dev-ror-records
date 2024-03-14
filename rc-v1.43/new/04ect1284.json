@@ -76,13 +76,7 @@
     }
   },
   "established": 2014,
-  "relationships": [
-    {
-      "label": "University of Edinburgh",
-      "type": "Parent",
-      "id": "https://ror.org/01nrxwf90"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04ect1284",
   "labels": [],

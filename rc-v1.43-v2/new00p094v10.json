@@ -1,0 +1,82 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3433522,
+            "geonames_details": {
+                "country_code": "AR",
+                "country_name": "Argentina",
+                "lat": -34.5904,
+                "lng": -58.62904,
+                "name": "Hurlingham"
+            }
+        }
+    ],
+    "established": 2016,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 7699 5761"
+            ],
+            "preferred": "0000 0004 7699 5761"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q28501872"
+            ],
+            "preferred": "Q28501872"
+        }
+    ],
+    "id": "https://ror.org/00p094v10",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://unahur.edu.ar"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://es.wikipedia.org/wiki/Universidad_Nacional_de_Hurlingham"
+        }
+    ],
+    "names": [
+        {
+            "value": "Universidad Nacional de Hurlingham",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "National University of Hurlingham",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "UNAHUR",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

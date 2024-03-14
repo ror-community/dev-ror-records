@@ -1,0 +1,87 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2989204,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.69572,
+                "lng": 2.18727,
+                "name": "Orsay"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "grid",
+            "all": [
+                "grid.463808.1"
+            ],
+            "preferred": "grid.463808.1"
+        }
+    ],
+    "id": "https://ror.org/036mest28",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www-archbac.u-psud.fr/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Biology of Extremophiles Laboratory",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Laboratoire de Biologie Moleculaire du G\u00e8ne chez les Extremophiles",
+            "types": [
+                "label"
+            ],
+            "lang": "fr"
+        },
+        {
+            "value": "BMGE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "D\u00e9l\u00e9gation Ile-de-France Sud",
+            "type": "parent",
+            "id": "https://ror.org/01y8j9r24"
+        },
+        {
+            "label": "Institute of Integrative Biology of the Cell",
+            "type": "parent",
+            "id": "https://ror.org/01fftxe08"
+        },
+        {
+            "label": "University of Paris-Sud",
+            "type": "parent",
+            "id": "https://ror.org/028rypz17"
+        }
+    ],
+    "status": "inactive",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

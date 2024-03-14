@@ -7,13 +7,7 @@
   "types": [
     "Education"
   ],
-  "relationships": [
-    {
-      "label": "Northwestern University",
-      "type": "Related",
-      "id": "https://ror.org/000e0be47"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 25.28545,

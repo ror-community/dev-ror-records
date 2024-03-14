@@ -63,13 +63,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "Veneto Institute of Molecular Medicine Home",
-      "type": "Related",
-      "id": "https://ror.org/0048jxt15"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03q5e6q66",
   "labels": [],

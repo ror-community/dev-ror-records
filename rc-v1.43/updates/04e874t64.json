@@ -7,13 +7,7 @@
   "types": [
     "Facility"
   ],
-  "relationships": [
-    {
-      "label": "Bank of Italy",
-      "type": "Related",
-      "id": "https://ror.org/03v2nbx43"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 41.89193,

@@ -1,0 +1,127 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2110683,
+            "geonames_details": {
+                "country_code": "JP",
+                "country_name": "Japan",
+                "lat": 36.2,
+                "lng": 140.1,
+                "name": "Tsukuba"
+            }
+        }
+    ],
+    "established": 1963,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2151 1625"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100006328"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.450301.3"
+            ],
+            "preferred": "grid.450301.3"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q11657051"
+            ],
+            "preferred": "Q11657051"
+        }
+    ],
+    "id": "https://ror.org/04cwfse38",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.bosai.go.jp"
+        }
+    ],
+    "names": [
+        {
+            "value": "National Research Institute for Earth Science and Disaster Resilience",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "National Research Institute for Earth Science and Disaster Prevention",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u307c\u3046\u3055\u3044\u304b\u304c\u304f\u304e\u3058\u3085\u3064\u3051\u3093\u304d\u3085\u3046\u3057\u3087",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u30dc\u30a6\u30b5\u30a4\u30ab\u30ac\u30af\u30ae\u30b8\u30e5\u30c4\u30b1\u30f3\u30ad\u30e5\u30a6\u30b7\u30e7",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "B\u014dsai Kagaku Gijutsu Kenky\u016bsho",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Bousai Kagaku Gijutsu Kenkyuusho",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u56fd\u7acb\u7814\u7a76\u958b\u767a\u6cd5\u4eba\u9632\u707d\u79d1\u5b66\u6280\u8853\u7814\u7a76\u6240",
+            "types": [
+                "label"
+            ],
+            "lang": "ja"
+        },
+        {
+            "value": "NIED",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

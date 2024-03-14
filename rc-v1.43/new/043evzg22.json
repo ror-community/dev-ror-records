@@ -72,13 +72,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Tsinghua University",
-      "type": "Parent",
-      "id": "https://ror.org/03cve4549"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/043evzg22",
   "labels": [

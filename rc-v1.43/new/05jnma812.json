@@ -78,13 +78,7 @@
     }
   },
   "established": 1995,
-  "relationships": [
-    {
-      "label": "Administration for Children and Families",
-      "type": "Parent",
-      "id": "https://ror.org/00g8hms52"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05jnma812",
   "labels": [],

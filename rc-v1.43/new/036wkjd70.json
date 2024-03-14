@@ -85,13 +85,7 @@
     }
   },
   "established": 1980,
-  "relationships": [
-    {
-      "label": "Asahi Kasei (Japan)",
-      "type": "Parent",
-      "id": "https://ror.org/018wp0236"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/036wkjd70",
   "labels": [

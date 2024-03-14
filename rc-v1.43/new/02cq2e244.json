@@ -80,13 +80,7 @@
     }
   },
   "established": 1996,
-  "relationships": [
-    {
-      "label": "University of California, Berkeley",
-      "type": "Parent",
-      "id": "https://ror.org/01an7q238"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02cq2e244",
   "labels": [],

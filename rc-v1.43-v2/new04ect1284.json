@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2650225,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 55.95206,
+                "lng": -3.19648,
+                "name": "Edinburgh"
+            }
+        }
+    ],
+    "established": 2014,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 8306 8464"
+            ],
+            "preferred": "0000 0004 8306 8464"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100014335"
+            ],
+            "preferred": "501100014335"
+        }
+    ],
+    "id": "https://ror.org/04ect1284",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.ed.ac.uk/usher/aukcar"
+        }
+    ],
+    "names": [
+        {
+            "value": "Asthma UK Centre for Applied Research",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "AUKCAR",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

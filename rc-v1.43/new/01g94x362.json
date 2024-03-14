@@ -85,13 +85,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Flemish Government",
-      "type": "Parent",
-      "id": "https://ror.org/04qxsrb28"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01g94x362",
   "labels": [

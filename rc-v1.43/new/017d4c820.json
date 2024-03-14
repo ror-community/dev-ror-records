@@ -61,13 +61,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "Arcadia Fund",
-      "type": "Related",
-      "id": "https://ror.org/051z6e826"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/017d4c820",
   "labels": [],

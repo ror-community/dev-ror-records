@@ -74,13 +74,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "University of Lisbon",
-      "type": "Parent",
-      "id": "https://ror.org/01c27hj86"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/020rfvw83",
   "labels": [],

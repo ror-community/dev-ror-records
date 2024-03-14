@@ -1,0 +1,89 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5454627,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 32.89953,
+                "lng": -105.96027,
+                "name": "Alamogordo"
+            }
+        }
+    ],
+    "established": 1958,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 4650 5039"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q7010288"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.449449.0"
+            ],
+            "preferred": "grid.449449.0"
+        }
+    ],
+    "id": "https://ror.org/007sts724",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://alamogordo.nmsu.edu"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/New_Mexico_State_University_Alamogordo"
+        }
+    ],
+    "names": [
+        {
+            "value": "New Mexico State University Alamogordo",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "NMSU Alamogordo",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "NMSU-A",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

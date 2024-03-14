@@ -63,13 +63,7 @@
   ],
   "external_ids": {},
   "established": 2015,
-  "relationships": [
-    {
-      "label": "Dartmouth College",
-      "type": "Related",
-      "id": "https://ror.org/049s0rh22"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04tfhh831",
   "labels": [],

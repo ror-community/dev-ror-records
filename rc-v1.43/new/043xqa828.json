@@ -74,13 +74,7 @@
     }
   },
   "established": 1999,
-  "relationships": [
-    {
-      "label": "Parliament of United Kingdom",
-      "type": "Parent",
-      "id": "https://ror.org/03t61s708"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/043xqa828",
   "labels": [],

@@ -85,13 +85,7 @@
     }
   },
   "established": 1880,
-  "relationships": [
-    {
-      "label": "Cornell University",
-      "type": "Parent",
-      "id": "https://ror.org/05bnh6r87"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/012qsrr25",
   "labels": [],

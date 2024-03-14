@@ -7,13 +7,7 @@
   "types": [
     "Company"
   ],
-  "relationships": [
-    {
-      "label": "Arquimea (Spain)",
-      "type": "Successor",
-      "id": "https://ror.org/04mnaqe33"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 40.4165,

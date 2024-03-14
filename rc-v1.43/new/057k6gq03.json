@@ -63,13 +63,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "Instituto de Biotecnología de León",
-      "type": "Predecessor",
-      "id": "https://ror.org/03ry8wj79"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/057k6gq03",
   "labels": [],

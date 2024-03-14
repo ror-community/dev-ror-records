@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5134086,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 43.15478,
+                "lng": -77.61556,
+                "name": "Rochester"
+            }
+        }
+    ],
+    "established": 1881,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 0940 8270"
+            ],
+            "preferred": "0000 0001 0940 8270"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q70060834"
+            ],
+            "preferred": "Q70060834"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100011435"
+            ],
+            "preferred": "100011435"
+        }
+    ],
+    "id": "https://ror.org/056nnzb78",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.rasny.org"
+        }
+    ],
+    "names": [
+        {
+            "value": "Rochester Academy of Science",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "RAS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

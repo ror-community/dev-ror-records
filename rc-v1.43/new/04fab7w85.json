@@ -72,13 +72,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "University of Coimbra",
-      "type": "Parent",
-      "id": "https://ror.org/04z8k9a98"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04fab7w85",
   "labels": [],

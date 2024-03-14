@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1606147,
+            "geonames_details": {
+                "country_code": "TH",
+                "country_name": "Thailand",
+                "lat": 7.19882,
+                "lng": 100.5951,
+                "name": "Songkhla"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 7832 2704"
+            ],
+            "preferred": "0000 0004 7832 2704"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100010725"
+            ],
+            "preferred": "501100010725"
+        }
+    ],
+    "id": "https://ror.org/00sef7t37",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://cas.or.th"
+        }
+    ],
+    "names": [
+        {
+            "value": "Center for Alcohol Studies",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CAS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

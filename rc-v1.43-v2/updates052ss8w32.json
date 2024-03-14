@@ -1,0 +1,85 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2306104,
+            "geonames_details": {
+                "country_code": "GH",
+                "country_name": "Ghana",
+                "lat": 5.55602,
+                "lng": -0.1969,
+                "name": "Accra"
+            }
+        }
+    ],
+    "established": 1993,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 0582 2706"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q5555350"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.434994.7"
+            ],
+            "preferred": "grid.434994.7"
+        }
+    ],
+    "id": "https://ror.org/052ss8w32",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://ghs.gov.gh"
+        }
+    ],
+    "names": [
+        {
+            "value": "Ghana Health Service",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Ghanaian Health Service",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "GHS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

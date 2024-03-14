@@ -77,13 +77,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Cliniques Universitaires Saint-Luc",
-      "type": "Parent",
-      "id": "https://ror.org/03s4khd80"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/021354321",
   "labels": [

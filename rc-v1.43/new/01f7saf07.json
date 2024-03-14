@@ -76,13 +76,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Medtronic (United States)",
-      "type": "Parent",
-      "id": "https://ror.org/00grd1h17"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01f7saf07",
   "labels": [],

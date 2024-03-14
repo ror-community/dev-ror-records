@@ -1,0 +1,64 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2989204,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.69572,
+                "lng": 2.18727,
+                "name": "Orsay"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "grid",
+            "all": [
+                "grid.464067.7"
+            ],
+            "preferred": "grid.464067.7"
+        }
+    ],
+    "id": "https://ror.org/05dpfhh73",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.scicf.universite-paris-saclay.fr"
+        }
+    ],
+    "names": [
+        {
+            "value": "Interactions Cellulaires et Physiopathologie H\u00e9pathique",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ICPH",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

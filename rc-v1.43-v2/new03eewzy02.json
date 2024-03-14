@@ -1,0 +1,68 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2996944,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 45.74846,
+                "lng": 4.84671,
+                "name": "Lyon"
+            }
+        }
+    ],
+    "established": 1983,
+    "external_ids": [
+        {
+            "type": "wikidata",
+            "all": [
+                "Q1052684"
+            ],
+            "preferred": "Q1052684"
+        }
+    ],
+    "id": "https://ror.org/03eewzy02",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.cegid.com"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://fr.wikipedia.org/wiki/Cegid"
+        }
+    ],
+    "names": [
+        {
+            "value": "Cegid (France)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Cegid",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

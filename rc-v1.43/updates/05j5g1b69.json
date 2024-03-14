@@ -7,13 +7,7 @@
   "types": [
     "Facility"
   ],
-  "relationships": [
-    {
-      "label": "Wales Centre for Public Policy",
-      "type": "Successor",
-      "id": "https://ror.org/03y0ymy78"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 51.48,

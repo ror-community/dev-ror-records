@@ -80,13 +80,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "New Mexico State University",
-      "type": "Parent",
-      "id": "https://ror.org/00hpz7z43"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/009q0jm69",
   "labels": [],

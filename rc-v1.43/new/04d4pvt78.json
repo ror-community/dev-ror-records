@@ -72,13 +72,7 @@
     }
   },
   "established": 2004,
-  "relationships": [
-    {
-      "label": "Johns Hopkins Medicine",
-      "type": "Parent",
-      "id": "https://ror.org/037zgn354"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04d4pvt78",
   "labels": [],

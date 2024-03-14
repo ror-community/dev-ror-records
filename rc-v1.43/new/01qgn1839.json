@@ -78,13 +78,7 @@
     }
   },
   "established": 2014,
-  "relationships": [
-    {
-      "label": "National Institute for Health Research",
-      "type": "Parent",
-      "id": "https://ror.org/0187kwz08"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01qgn1839",
   "labels": [],

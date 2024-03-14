@@ -74,13 +74,7 @@
     }
   },
   "established": 2002,
-  "relationships": [
-    {
-      "label": "Royal Marsden Hospital",
-      "type": "Parent",
-      "id": "https://ror.org/034vb5t35"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/058ne9w36",
   "labels": [],

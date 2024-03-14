@@ -80,13 +80,7 @@
     }
   },
   "established": 1973,
-  "relationships": [
-    {
-      "label": "Mars (United States)",
-      "type": "Parent",
-      "id": "https://ror.org/028vrr082"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00p7f7z86",
   "labels": [],

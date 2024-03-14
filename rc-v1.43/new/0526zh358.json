@@ -76,13 +76,7 @@
     }
   },
   "established": 2014,
-  "relationships": [
-    {
-      "label": "Cardiff University",
-      "type": "Parent",
-      "id": "https://ror.org/03kk7td41"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0526zh358",
   "labels": [

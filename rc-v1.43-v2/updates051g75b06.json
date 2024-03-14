@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 706483,
+            "geonames_details": {
+                "country_code": "UA",
+                "country_name": "Ukraine",
+                "lat": 49.98081,
+                "lng": 36.25272,
+                "name": "Kharkiv"
+            }
+        }
+    ],
+    "established": 1921,
+    "external_ids": [
+        {
+            "type": "wikidata",
+            "all": [
+                "Q30257440"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.445530.3"
+            ],
+            "preferred": "grid.445530.3"
+        }
+    ],
+    "id": "https://ror.org/051g75b06",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://ksada.org"
+        }
+    ],
+    "names": [
+        {
+            "value": "Kharkov State Academy of Design and Arts",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u0434\u0435\u0440\u0436\u0430\u0432\u043d\u0430 \u0430\u043a\u0430\u0434\u0435\u043c\u0456\u044f \u0434\u0438\u0437\u0430\u0439\u043d\u0443 \u0456 \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432",
+            "types": [
+                "label"
+            ],
+            "lang": "uk"
+        },
+        {
+            "value": "KSADA",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

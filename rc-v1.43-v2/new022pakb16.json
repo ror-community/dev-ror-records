@@ -1,0 +1,70 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3172394,
+            "geonames_details": {
+                "country_code": "IT",
+                "country_name": "Italy",
+                "lat": 40.85216,
+                "lng": 14.26811,
+                "name": "Naples"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/022pakb16",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.create.unina.it"
+        }
+    ],
+    "names": [
+        {
+            "value": "C.R.E.A.T.E. Consorzio Di Ricerca Per L'Energia E Le Applicazioni Technologiche Dell'Elettromagnetismo",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Consorzio Di Ricerca Per L'Energia E Le Applicazioni Technologiche Dell'Elettromagnetismo",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Consortium for Energy Research and Technological Applications of Electromagnetism",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CREATE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "other"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

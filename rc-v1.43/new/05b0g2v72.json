@@ -79,13 +79,7 @@
     }
   },
   "established": 1990,
-  "relationships": [
-    {
-      "label": "Harvard University",
-      "type": "Parent",
-      "id": "https://ror.org/03vek6s52"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05b0g2v72",
   "labels": [],

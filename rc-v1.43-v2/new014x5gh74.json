@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2647178,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 56.00614,
+                "lng": -4.72648,
+                "name": "Helensburgh"
+            }
+        }
+    ],
+    "established": 1972,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 1087 8640"
+            ],
+            "preferred": "0000 0001 1087 8640"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100011405"
+            ],
+            "preferred": "100011405"
+        }
+    ],
+    "id": "https://ror.org/014x5gh74",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://academyofmarketing.org"
+        }
+    ],
+    "names": [
+        {
+            "value": "Academy of Marketing",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Marketing Education Group",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "other"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

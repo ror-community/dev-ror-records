@@ -76,13 +76,7 @@
     }
   },
   "established": 2020,
-  "relationships": [
-    {
-      "label": "Hospital Virgen de la Salud",
-      "type": "Predecessor",
-      "id": "https://ror.org/0289cxp23"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00wxgxz56",
   "labels": [],

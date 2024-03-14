@@ -1,0 +1,84 @@
+{
+    "locations": [
+        {
+            "geonames_id": 601294,
+            "geonames_details": {
+                "country_code": "UZ",
+                "country_name": "Uzbekistan",
+                "lat": 42.45306,
+                "lng": 59.61028,
+                "name": "Nukus"
+            }
+        }
+    ],
+    "established": 2021,
+    "external_ids": [],
+    "id": "https://ror.org/02b42av24",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://tdaunukus.uz"
+        }
+    ],
+    "names": [
+        {
+            "value": "Institute of Agriculture and Agrotechnologies of Karakalpakstan",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Karakalpak Institute of Agriculture and Agrotechnologies",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0430 \u0438 \u0430\u0433\u0440\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u041a\u0430\u0440\u0430\u043a\u0430\u043b\u043f\u0430\u043a\u0441\u0442\u0430\u043d\u0430",
+            "types": [
+                "label"
+            ],
+            "lang": "ru"
+        },
+        {
+            "value": "Qoraqalpog'iston qishloq xo'jaligi va agrotexnologiyalar instituti",
+            "types": [
+                "label"
+            ],
+            "lang": "uz"
+        },
+        {
+            "value": "Qaraqalpaqstan aw\u0131l xojal\u0131\u01f5\u0131 h\u00e1m agrotexnologiyalar institut\u0131",
+            "types": [
+                "label"
+            ],
+            "lang": "tt"
+        },
+        {
+            "value": "IAAK",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

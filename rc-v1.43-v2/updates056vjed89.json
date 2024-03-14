@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3114472,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 42.81687,
+                "lng": -1.64323,
+                "name": "Pamplona"
+            }
+        }
+    ],
+    "established": 1992,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 4687 7107"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.424804.e"
+            ],
+            "preferred": "grid.424804.e"
+        }
+    ],
+    "id": "https://ror.org/056vjed89",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.cemitec.com/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Centro Multidisciplinar de Tecnolog\u00edas para la Industria",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Cetena Foundation\u00b4s Multidisciplinary Innovation and Technology Centre of Navarre",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "CEMITEC",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "inactive",
+    "types": [
+        "other"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

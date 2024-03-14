@@ -1,0 +1,68 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5942845,
+            "geonames_details": {
+                "country_code": "CA",
+                "country_name": "Canada",
+                "lat": 45.88336,
+                "lng": -72.48241,
+                "name": "Drummondville"
+            }
+        }
+    ],
+    "established": 1968,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 0746 5060"
+            ],
+            "preferred": "0000 0001 0746 5060"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q3009995"
+            ],
+            "preferred": "Q3009995"
+        }
+    ],
+    "id": "https://ror.org/015vt1f29",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.cegepdrummond.ca"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://fr.wikipedia.org/wiki/C%C3%A9gep_de_Drummondville"
+        }
+    ],
+    "names": [
+        {
+            "value": "C\u00e9gep de Drummondville",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

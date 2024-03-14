@@ -1,0 +1,92 @@
+{
+    "locations": [
+        {
+            "geonames_id": 265243,
+            "geonames_details": {
+                "country_code": "GR",
+                "country_name": "Greece",
+                "lat": 38.05,
+                "lng": 23.8,
+                "name": "Marousi"
+            }
+        }
+    ],
+    "established": 2003,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0393 5688"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.19843.37"
+            ],
+            "preferred": "grid.19843.37"
+        }
+    ],
+    "id": "https://ror.org/0576by029",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.athena-innovation.gr/el/announce/pressreleases.html"
+        }
+    ],
+    "names": [
+        {
+            "value": "Athena Research and Innovation Center In Information Communication & Knowledge Technologies",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Athena RIC",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Athena Research and Innovation Center",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Athena Research Center",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Athena RC",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

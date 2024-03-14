@@ -7,13 +7,7 @@
   "types": [
     "Healthcare"
   ],
-  "relationships": [
-    {
-      "label": "Corewell Health",
-      "type": "Successor",
-      "id": "https://ror.org/02hb5yj49"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 42.10976,

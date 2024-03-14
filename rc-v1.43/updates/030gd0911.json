@@ -7,13 +7,7 @@
   "types": [
     "Nonprofit"
   ],
-  "relationships": [
-    {
-      "label": "Instituto Tecnológico Metalmecánico, Mueble, Madera, Embalaje y Afines",
-      "type": "Successor",
-      "id": "https://ror.org/057f9wg13"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 39.47391,

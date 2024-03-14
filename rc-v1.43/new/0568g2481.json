@@ -73,13 +73,7 @@
     }
   },
   "established": 2007,
-  "relationships": [
-    {
-      "label": "North Carolina State University",
-      "type": "Parent",
-      "id": "https://ror.org/04tj63d06"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0568g2481",
   "labels": [],

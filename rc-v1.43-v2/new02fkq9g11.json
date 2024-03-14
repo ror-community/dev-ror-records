@@ -1,0 +1,63 @@
+{
+    "locations": [
+        {
+            "geonames_id": 1808956,
+            "geonames_details": {
+                "country_code": "CN",
+                "country_name": "China",
+                "lat": 36.18389,
+                "lng": 113.10528,
+                "name": "Changzhi"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/02fkq9g11",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.czszyyjsfsyy.cn"
+        }
+    ],
+    "names": [
+        {
+            "value": "Affiliated Hospital of Changzhi Institute of Traditional Chinese Medicine",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Changzhi Traditional Chinese Medicine Hospital",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "\u957f\u6cbb\u5e02\u4e2d\u533b\u7814\u7a76\u6240\u9644\u5c5e\u533b\u9662",
+            "types": [
+                "label"
+            ],
+            "lang": "zh"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "healthcare"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3016078,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.68333,
+                "lng": 2.13333,
+                "name": "Gif-sur-Yvette"
+            }
+        }
+    ],
+    "established": 1999,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0369 495X"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.464173.3"
+            ],
+            "preferred": "grid.464173.3"
+        }
+    ],
+    "id": "https://ror.org/03sypqe31",
+    "domains": [],
+    "links": [],
+    "names": [
+        {
+            "value": "Syst\u00e8mes Membranaires, Photobiologie, Stress et D\u00e9toxication",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "SMPSD",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

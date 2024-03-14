@@ -83,13 +83,7 @@
     }
   },
   "established": 1972,
-  "relationships": [
-    {
-      "label": "Department of Science and Technology",
-      "type": "Parent",
-      "id": "https://ror.org/05tgxx705"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/057p7e749",
   "labels": [],

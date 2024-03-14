@@ -7,13 +7,7 @@
   "types": [
     "Healthcare"
   ],
-  "relationships": [
-    {
-      "label": "Zentrum für Klinische Tiermedizin",
-      "type": "Parent",
-      "id": "https://ror.org/02qqvpd39"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 48.25,

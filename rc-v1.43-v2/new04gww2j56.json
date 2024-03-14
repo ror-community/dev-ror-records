@@ -1,0 +1,92 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2618425,
+            "geonames_details": {
+                "country_code": "DK",
+                "country_name": "Denmark",
+                "lat": 55.67594,
+                "lng": 12.56553,
+                "name": "Copenhagen"
+            }
+        }
+    ],
+    "established": 1982,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 7478 7897"
+            ],
+            "preferred": "0000 0004 7478 7897"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q27430020"
+            ],
+            "preferred": "Q27430020"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100010344"
+            ],
+            "preferred": "501100010344"
+        }
+    ],
+    "id": "https://ror.org/04gww2j56",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://louis-hansenfonden.dk"
+        }
+    ],
+    "names": [
+        {
+            "value": "Aage og Johanne Louis-Hansens Fond",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Aage og Johanne Louis-Hansens Familiefond",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Aage og Johanne Louis-Hansen ApS",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Aage and Johanne Louis-Hansen's Foundation",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

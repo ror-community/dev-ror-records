@@ -7,13 +7,7 @@
   "types": [
     "Education"
   ],
-  "relationships": [
-    {
-      "label": "New Mexico State University",
-      "type": "Parent",
-      "id": "https://ror.org/00hpz7z43"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": 32.89953,

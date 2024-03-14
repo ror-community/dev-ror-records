@@ -1,0 +1,75 @@
+{
+    "locations": [
+        {
+            "geonames_id": 6077243,
+            "geonames_details": {
+                "country_code": "CA",
+                "country_name": "Canada",
+                "lat": 45.50884,
+                "lng": -73.58781,
+                "name": "Montreal"
+            }
+        }
+    ],
+    "established": 1967,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0000 8800 9608"
+            ],
+            "preferred": "0000 0000 8800 9608"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q3152136"
+            ],
+            "preferred": "Q3152136"
+        }
+    ],
+    "id": "https://ror.org/02w3bnx54",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.ithq.qc.ca"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://fr.wikipedia.org/wiki/Institut_de_tourisme_et_d%27h%C3%B4tellerie_du_Qu%C3%A9bec"
+        }
+    ],
+    "names": [
+        {
+            "value": "Institut de tourisme et d'h\u00f4tellerie du Qu\u00e9bec",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ITHQ",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

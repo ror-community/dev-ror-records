@@ -7,13 +7,7 @@
   "types": [
     "Government"
   ],
-  "relationships": [
-    {
-      "label": "Department of Water and Environmental Regulation",
-      "type": "Successor",
-      "id": "https://ror.org/0508kew31"
-    }
-  ],
+  "relationships": [],
   "addresses": [
     {
       "lat": -31.95224,

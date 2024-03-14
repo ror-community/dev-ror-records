@@ -80,13 +80,7 @@
     }
   },
   "established": 2013,
-  "relationships": [
-    {
-      "label": "Universidade Federal do Rio Grande do Sul",
-      "type": "Parent",
-      "id": "https://ror.org/041yk2d64"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01vt9w950",
   "labels": [

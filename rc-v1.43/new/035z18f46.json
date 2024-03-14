@@ -63,13 +63,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "Shanxi University",
-      "type": "Parent",
-      "id": "https://ror.org/03y3e3s17"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/035z18f46",
   "labels": [

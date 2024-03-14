@@ -68,13 +68,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Klinik für Schweine",
-      "type": "Child",
-      "id": "https://ror.org/02am8se85"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02qqvpd39",
   "labels": [],

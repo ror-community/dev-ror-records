@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2654675,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 51.45523,
+                "lng": -2.59665,
+                "name": "Bristol"
+            }
+        }
+    ],
+    "established": 2014,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 9128 4888"
+            ],
+            "preferred": "0000 0004 9128 4888"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100022244"
+            ],
+            "preferred": "501100022244"
+        }
+    ],
+    "id": "https://ror.org/03pzxq793",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://arc-w.nihr.ac.uk"
+        }
+    ],
+    "names": [
+        {
+            "value": "NIHR Applied Research Collaboration West",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "National Institute for Health Research Applied Research Collaboration West",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "NIHR ARC West",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

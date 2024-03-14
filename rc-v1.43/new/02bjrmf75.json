@@ -66,13 +66,7 @@
   ],
   "external_ids": {},
   "established": 1999,
-  "relationships": [
-    {
-      "label": "Catholic University of Applied Sciences of North Rhine – Westphalia",
-      "type": "Related",
-      "id": "https://ror.org/024nr0776"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02bjrmf75",
   "labels": [],

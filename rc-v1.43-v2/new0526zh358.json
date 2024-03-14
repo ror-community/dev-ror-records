@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2653822,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 51.48,
+                "lng": -3.18,
+                "name": "Cardiff"
+            }
+        }
+    ],
+    "established": 2014,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 8306 8544"
+            ],
+            "preferred": "0000 0004 8306 8544"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100014332"
+            ],
+            "preferred": "501100014332"
+        }
+    ],
+    "id": "https://ror.org/0526zh358",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.lsrnw.ac.uk"
+        }
+    ],
+    "names": [
+        {
+            "value": "Life Sciences Research Network Wales",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Rhwydwaith Gwyddorau Bywyd Cymru",
+            "types": [
+                "label"
+            ],
+            "lang": "cy"
+        },
+        {
+            "value": "LSRNW",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

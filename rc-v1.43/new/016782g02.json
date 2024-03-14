@@ -66,13 +66,7 @@
   ],
   "external_ids": {},
   "established": 2011,
-  "relationships": [
-    {
-      "label": "Vrije Universiteit Brussel",
-      "type": "Related",
-      "id": "https://ror.org/006e5kg04"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/016782g02",
   "labels": [],

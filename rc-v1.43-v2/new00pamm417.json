@@ -1,0 +1,68 @@
+{
+    "locations": [
+        {
+            "geonames_id": 6325494,
+            "geonames_details": {
+                "country_code": "CA",
+                "country_name": "Canada",
+                "lat": 46.81228,
+                "lng": -71.21454,
+                "name": "Qu\u00e9bec"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 8060 7653"
+            ],
+            "preferred": "0000 0004 8060 7653"
+        }
+    ],
+    "id": "https://ror.org/00pamm417",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.ciusss-capitalenationale.gouv.qc.ca"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://fr.wikipedia.org/wiki/Centre_int%C3%A9gr%C3%A9_de_sant%C3%A9_et_de_services_sociaux"
+        }
+    ],
+    "names": [
+        {
+            "value": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de la Capitale-Nationale",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CIUSSS de la Capitale-Nationale",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "healthcare"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

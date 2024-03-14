@@ -1,0 +1,110 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3128760,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 41.38879,
+                "lng": 2.15899,
+                "name": "Barcelona"
+            }
+        }
+    ],
+    "established": 1907,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2291 9040"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q1200925"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.462577.5"
+            ],
+            "preferred": "grid.462577.5"
+        }
+    ],
+    "id": "https://ror.org/00bep5t26",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.bnc.cat"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/National_Library_of_Catalonia"
+        }
+    ],
+    "names": [
+        {
+            "value": "National Library of Catalonia",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Bibliot\u00e8ca de Catalonha",
+            "types": [
+                "label"
+            ],
+            "lang": "oc"
+        },
+        {
+            "value": "Biblioteca de Catalunya",
+            "types": [
+                "label"
+            ],
+            "lang": "ca"
+        },
+        {
+            "value": "Kataluniako Liburutegia",
+            "types": [
+                "label"
+            ],
+            "lang": "eu"
+        },
+        {
+            "value": "Biblioteca de Catalunya",
+            "types": [
+                "label"
+            ],
+            "lang": "gl"
+        },
+        {
+            "value": "Biblioteca de Catalu\u00f1a",
+            "types": [
+                "label"
+            ],
+            "lang": "es"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

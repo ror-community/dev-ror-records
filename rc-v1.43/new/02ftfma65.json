@@ -68,18 +68,7 @@
     }
   },
   "established": 2015,
-  "relationships": [
-    {
-      "label": "Agricultural Research Institute of Ontario",
-      "type": "Related",
-      "id": "https://ror.org/011n4tk56"
-    },
-    {
-      "label": "University of Guelph",
-      "type": "Related",
-      "id": "https://ror.org/01r7awg59"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02ftfma65",
   "labels": [],

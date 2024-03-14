@@ -1,0 +1,102 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3113209,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 42.431,
+                "lng": -8.64435,
+                "name": "Pontevedra"
+            }
+        }
+    ],
+    "established": 1921,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2292 6080"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q38078567"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.502190.f"
+            ],
+            "preferred": "grid.502190.f"
+        }
+    ],
+    "id": "https://ror.org/00tpn9z48",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://mbg.csic.es"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Galicia_Biological_Mission"
+        }
+    ],
+    "names": [
+        {
+            "value": "Misi\u00f3n Biol\u00f3gica de Galicia",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Biological Mission of Galicia",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Galicia Biological Mission",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "MBG-CSIC",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Consejo Superior de Investigaciones Cient\u00edficas",
+            "type": "parent",
+            "id": "https://ror.org/02gfc7t72"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

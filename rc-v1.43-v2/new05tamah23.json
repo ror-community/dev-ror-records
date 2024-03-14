@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2653941,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 52.2,
+                "lng": 0.11667,
+                "name": "Cambridge"
+            }
+        }
+    ],
+    "established": 2006,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "501100011032"
+            ],
+            "preferred": "501100011032"
+        }
+    ],
+    "id": "https://ror.org/05tamah23",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.cedar.iph.cam.ac.uk"
+        }
+    ],
+    "names": [
+        {
+            "value": "Communicating Diet and Activity Research",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Centre for Diet and Activity Research",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CEDAR",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

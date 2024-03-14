@@ -78,13 +78,7 @@
     }
   },
   "established": 1970,
-  "relationships": [
-    {
-      "label": "National Technological Institute of Mexico",
-      "type": "Parent",
-      "id": "https://ror.org/00davry38"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04w0a0617",
   "labels": [],

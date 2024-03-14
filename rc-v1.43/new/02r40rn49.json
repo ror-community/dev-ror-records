@@ -76,18 +76,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Royal Adelaide Hospital",
-      "type": "Child",
-      "id": "https://ror.org/00carf720"
-    },
-    {
-      "label": "Queen Elizabeth Hospital",
-      "type": "Child",
-      "id": "https://ror.org/00x362k69"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02r40rn49",
   "labels": [],

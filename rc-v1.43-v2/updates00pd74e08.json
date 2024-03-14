@@ -1,0 +1,124 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2867543,
+            "geonames_details": {
+                "country_code": "DE",
+                "country_name": "Germany",
+                "lat": 51.96236,
+                "lng": 7.62571,
+                "name": "M\u00fcnster"
+            }
+        }
+    ],
+    "established": 1780,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2172 9288"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100004869",
+                "501100004870"
+            ],
+            "preferred": "501100004869"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q168426"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.5949.1"
+            ],
+            "preferred": "grid.5949.1"
+        }
+    ],
+    "id": "https://ror.org/00pd74e08",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.uni-muenster.de"
+        },
+        {
+            "type": "wikipedia",
+            "value": "http://en.wikipedia.org/wiki/University_of_M%C3%BCnster"
+        }
+    ],
+    "names": [
+        {
+            "value": "University of M\u00fcnster",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Universitaet Muenster",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "University of Muenster",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Universit\u00e4t M\u00fcnster",
+            "types": [
+                "label"
+            ],
+            "lang": "de"
+        },
+        {
+            "value": "WWU",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "University Hospital M\u00fcnster",
+            "type": "related",
+            "id": "https://ror.org/01856cw59"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

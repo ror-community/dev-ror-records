@@ -72,13 +72,7 @@
     }
   },
   "established": 2013,
-  "relationships": [
-    {
-      "label": "University of Sussex",
-      "type": "Parent",
-      "id": "https://ror.org/00ayhx656"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00g1jn849",
   "labels": [],

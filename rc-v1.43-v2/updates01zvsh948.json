@@ -1,0 +1,95 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3128026,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 43.26271,
+                "lng": -2.92528,
+                "name": "Bilbao"
+            }
+        }
+    ],
+    "established": 1994,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 1793 9217"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q571118"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.482032.f"
+            ],
+            "preferred": "grid.482032.f"
+        }
+    ],
+    "id": "https://ror.org/01zvsh948",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://osha.europa.eu"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/European_Agency_for_Safety_and_Health_at_Work"
+        }
+    ],
+    "names": [
+        {
+            "value": "European Agency for Safety and Health at Work",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Agencia Europea para la Seguridad y la Salud en el Trabajo",
+            "types": [
+                "label"
+            ],
+            "lang": "es"
+        },
+        {
+            "value": "EU-OSHA",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "European Union",
+            "type": "parent",
+            "id": "https://ror.org/019w4f821"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

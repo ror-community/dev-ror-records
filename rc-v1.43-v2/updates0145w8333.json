@@ -1,0 +1,89 @@
+{
+    "locations": [
+        {
+            "geonames_id": 745044,
+            "geonames_details": {
+                "country_code": "TR",
+                "country_name": "T\u00fcrkiye",
+                "lat": 41.01384,
+                "lng": 28.94966,
+                "name": "Istanbul"
+            }
+        }
+    ],
+    "established": 2008,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0399 5023"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q2756518"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.449305.f"
+            ],
+            "preferred": "grid.449305.f"
+        }
+    ],
+    "id": "https://ror.org/0145w8333",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.altinbas.edu.tr"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Istanbul_Kemerburgaz_University"
+        }
+    ],
+    "names": [
+        {
+            "value": "Alt\u0131nba\u015f University",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Istanbul Kemerburgaz University",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Alt\u0131nba\u015f \u00dcniversitesi",
+            "types": [
+                "label"
+            ],
+            "lang": "tr"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3016078,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.68333,
+                "lng": 2.13333,
+                "name": "Gif-sur-Yvette"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "grid",
+            "all": [
+                "grid.457334.2"
+            ],
+            "preferred": "grid.457334.2"
+        }
+    ],
+    "id": "https://ror.org/03n15ch10",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www-centre-saclay.cea.fr/fr"
+        }
+    ],
+    "names": [
+        {
+            "value": "CEA Saclay",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Direction des \u00e9nergies",
+            "type": "parent",
+            "id": "https://ror.org/03cwzta72"
+        },
+        {
+            "label": "Laboratoire Interactions, Dynamiques et Lasers",
+            "type": "child",
+            "id": "https://ror.org/04dy97z61"
+        },
+        {
+            "label": "Saclay Nuclear Research Centre",
+            "type": "child",
+            "id": "https://ror.org/01fv25t22"
+        },
+        {
+            "label": "Soleil Synchrotron",
+            "type": "child",
+            "id": "https://ror.org/01ydb3330"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

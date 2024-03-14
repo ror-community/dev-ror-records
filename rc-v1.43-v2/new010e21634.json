@@ -1,0 +1,56 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2973783,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.58392,
+                "lng": 7.74553,
+                "name": "Strasbourg"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [],
+    "id": "https://ror.org/010e21634",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.unistra.fr/recherche-1/vie-et-sante-1/medecine-cardiovasculaire-translationnelle-mcvt-ur-3074"
+        }
+    ],
+    "names": [
+        {
+            "value": "M\u00e9decine Cardiovasculaire Translationnelle",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "MCVT",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

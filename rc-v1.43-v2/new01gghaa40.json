@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2650225,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 55.95206,
+                "lng": -3.19648,
+                "name": "Edinburgh"
+            }
+        }
+    ],
+    "established": 2017,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 9225 965X"
+            ],
+            "preferred": "0000 0004 9225 965X"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100015504"
+            ],
+            "preferred": "501100015504"
+        }
+    ],
+    "id": "https://ror.org/01gghaa40",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://sidb.org.uk"
+        }
+    ],
+    "names": [
+        {
+            "value": "Simons Initiative for the Developing Brain",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "SIDB",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

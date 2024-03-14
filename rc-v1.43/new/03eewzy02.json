@@ -70,13 +70,7 @@
     }
   },
   "established": 1983,
-  "relationships": [
-    {
-      "label": "Meta4 (Spain)",
-      "type": "Predecessor",
-      "id": "https://ror.org/03kevw840"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03eewzy02",
   "labels": [],

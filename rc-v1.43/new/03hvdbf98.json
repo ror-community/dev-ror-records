@@ -78,13 +78,7 @@
     }
   },
   "established": 1839,
-  "relationships": [
-    {
-      "label": "British Medical Association",
-      "type": "Parent",
-      "id": "https://ror.org/02caz1f24"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03hvdbf98",
   "labels": [],

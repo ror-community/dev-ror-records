@@ -71,13 +71,7 @@
     }
   },
   "established": 2021,
-  "relationships": [
-    {
-      "label": "Nationale Forschungsdateninfrastruktur",
-      "type": "Parent",
-      "id": "https://ror.org/05qj6w324"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00bb4nn95",
   "labels": [],

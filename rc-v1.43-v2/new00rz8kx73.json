@@ -1,0 +1,89 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2641430,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 52.25,
+                "lng": -0.88333,
+                "name": "Northampton"
+            }
+        }
+    ],
+    "established": 1884,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 1011 6814"
+            ],
+            "preferred": "0000 0001 1011 6814"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q55633416"
+            ],
+            "preferred": "Q55633416"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100014660"
+            ],
+            "preferred": "100014660"
+        }
+    ],
+    "id": "https://ror.org/00rz8kx73",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.addiction-ssa.org"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Society_for_the_Study_of_Addiction"
+        }
+    ],
+    "names": [
+        {
+            "value": "Society for the Study of Addiction",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "The Society for the Study of Addiction to Alcohol and other Drugs",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "SSA",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

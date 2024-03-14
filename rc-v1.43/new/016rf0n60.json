@@ -83,13 +83,7 @@
     }
   },
   "established": 2005,
-  "relationships": [
-    {
-      "label": "Charité - Universitätsmedizin Berlin",
-      "type": "Parent",
-      "id": "https://ror.org/001w7jn25"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/016rf0n60",
   "labels": [],

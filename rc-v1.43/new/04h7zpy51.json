@@ -68,13 +68,7 @@
     }
   },
   "established": 1852,
-  "relationships": [
-    {
-      "label": "Polytechnic Institute of Porto",
-      "type": "Parent",
-      "id": "https://ror.org/04988re48"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04h7zpy51",
   "labels": [],

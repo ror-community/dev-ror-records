@@ -78,13 +78,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "University of Oklahoma",
-      "type": "Parent",
-      "id": "https://ror.org/02aqsxs83"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04g1a0w27",
   "labels": [],

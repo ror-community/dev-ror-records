@@ -76,13 +76,7 @@
     }
   },
   "established": 1967,
-  "relationships": [
-    {
-      "label": "Government of Northwest Territories",
-      "type": "Parent",
-      "id": "https://ror.org/05hqvvq43"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02w3bnx54",
   "labels": [],

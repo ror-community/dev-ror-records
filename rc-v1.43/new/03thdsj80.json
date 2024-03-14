@@ -74,13 +74,7 @@
     }
   },
   "established": 1991,
-  "relationships": [
-    {
-      "label": "Vodafone (United Kingdom)",
-      "type": "Parent",
-      "id": "https://ror.org/01v7jrq42"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03thdsj80",
   "labels": [],

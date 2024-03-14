@@ -70,13 +70,7 @@
     }
   },
   "established": 1999,
-  "relationships": [
-    {
-      "label": "Johns Hopkins University",
-      "type": "Parent",
-      "id": "https://ror.org/00za53h95"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/042fhmq33",
   "labels": [],

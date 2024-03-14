@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5037649,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 44.97997,
+                "lng": -93.26384,
+                "name": "Minneapolis"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0005 1260 4722"
+            ],
+            "preferred": "0000 0005 1260 4722"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100016303"
+            ],
+            "preferred": "100016303"
+        }
+    ],
+    "id": "https://ror.org/01f7saf07",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://foundation.medtronic.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "Medtronic Foundation",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Medtronic Communities Foundation",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3427500,
+            "geonames_details": {
+                "country_code": "AR",
+                "country_name": "Argentina",
+                "lat": -34.45505,
+                "lng": -58.54614,
+                "name": "Victoria"
+            }
+        }
+    ],
+    "established": 1988,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2325 2241"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q5242548"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.441741.3"
+            ],
+            "preferred": "grid.441741.3"
+        }
+    ],
+    "id": "https://ror.org/04f7h3b65",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.udesa.edu.ar/"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_San_Andr%C3%A9s"
+        }
+    ],
+    "names": [
+        {
+            "value": "University of San Andr\u00e9s",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Universidad de San Andr\u00e9s",
+            "types": [
+                "label"
+            ],
+            "lang": "es"
+        },
+        {
+            "value": "Universit\u00e9 de san andr\u00e9s",
+            "types": [
+                "label"
+            ],
+            "lang": "fr"
+        },
+        {
+            "value": "UDESA",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

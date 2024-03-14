@@ -82,13 +82,7 @@
     }
   },
   "established": 1990,
-  "relationships": [
-    {
-      "label": "United States Department of Defense",
-      "type": "Parent",
-      "id": "https://ror.org/0447fe631"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00ew61678",
   "labels": [],

@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2648579,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 55.86515,
+                "lng": -4.25763,
+                "name": "Glasgow"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0629 7087"
+            ],
+            "preferred": "0000 0004 0629 7087"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100011776"
+            ],
+            "preferred": "100011776"
+        }
+    ],
+    "id": "https://ror.org/04fzs4293",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://mndscotland.org.uk"
+        }
+    ],
+    "names": [
+        {
+            "value": "MND Scotland",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Motor Neuron Disease Scotland",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

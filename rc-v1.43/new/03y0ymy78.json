@@ -76,18 +76,7 @@
     }
   },
   "established": 2017,
-  "relationships": [
-    {
-      "label": "Public Policy Institute for Wales",
-      "type": "Predecessor",
-      "id": "https://ror.org/05j5g1b69"
-    },
-    {
-      "label": "Cardiff University",
-      "type": "Related",
-      "id": "https://ror.org/03kk7td41"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03y0ymy78",
   "labels": [

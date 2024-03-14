@@ -1,0 +1,63 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5278052,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 43.01168,
+                "lng": -88.23148,
+                "name": "Waukesha"
+            }
+        }
+    ],
+    "established": 2006,
+    "external_ids": [],
+    "id": "https://ror.org/05bjr0y28",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.neurotecheeg.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "Neurotech, LLC (United States)",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Neurotech",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Neurotech, LLC",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "company"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

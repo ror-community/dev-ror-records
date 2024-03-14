@@ -70,13 +70,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Ministry of Defence",
-      "type": "Parent",
-      "id": "https://ror.org/01bvxzn29"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05wnp0977",
   "labels": [],

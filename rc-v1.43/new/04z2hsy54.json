@@ -64,13 +64,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "Nvidia (United States)",
-      "type": "Parent",
-      "id": "https://ror.org/03jdj4y14"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04z2hsy54",
   "labels": [],

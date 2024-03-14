@@ -64,13 +64,7 @@
   ],
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "Geocisa (Spain)",
-      "type": "Predecessor",
-      "id": "https://ror.org/0040z4m89"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03gf4dx13",
   "labels": [],

@@ -66,13 +66,7 @@
   ],
   "external_ids": {},
   "established": 1958,
-  "relationships": [
-    {
-      "label": "Jinan University",
-      "type": "Parent",
-      "id": "https://ror.org/02xe5ns62"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04x2nq985",
   "labels": [

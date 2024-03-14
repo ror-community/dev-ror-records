@@ -1,0 +1,82 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2657908,
+            "geonames_details": {
+                "country_code": "CH",
+                "country_name": "Switzerland",
+                "lat": 47.17242,
+                "lng": 8.51745,
+                "name": "Zug"
+            }
+        }
+    ],
+    "established": 1923,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0005 0275 206X"
+            ],
+            "preferred": "0000 0005 0275 206X"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100016964"
+            ],
+            "preferred": "100016964"
+        }
+    ],
+    "id": "https://ror.org/00qxcft19",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.wernersiemens-stiftung.ch"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://de.wikipedia.org/wiki/Werner_Siemens-Stiftung"
+        }
+    ],
+    "names": [
+        {
+            "value": "Werner Siemens-Stiftung",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Werner Siemens Foundation",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "WSS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

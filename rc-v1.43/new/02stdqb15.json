@@ -76,13 +76,7 @@
     }
   },
   "established": 1986,
-  "relationships": [
-    {
-      "label": "Ontario Veterinary College",
-      "type": "Parent",
-      "id": "https://ror.org/04frvgs13"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02stdqb15",
   "labels": [],

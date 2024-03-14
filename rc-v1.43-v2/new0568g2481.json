@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 4487042,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 35.7721,
+                "lng": -78.63861,
+                "name": "Raleigh"
+            }
+        }
+    ],
+    "established": 2007,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "100012671"
+            ],
+            "preferred": "100012671"
+        }
+    ],
+    "id": "https://ror.org/0568g2481",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://thenonwovensinstitute.com"
+        }
+    ],
+    "names": [
+        {
+            "value": "The Nonwovens Institute",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Nonwovens Institute",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "North Carolina State University Nonwovens Institute",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "NWI NCSU",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

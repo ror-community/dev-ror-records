@@ -71,13 +71,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Beihang University",
-      "type": "Parent",
-      "id": "https://ror.org/00wk2mp56"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0009eea46",
   "labels": [

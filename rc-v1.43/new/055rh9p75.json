@@ -64,13 +64,7 @@
   ],
   "external_ids": {},
   "established": 2007,
-  "relationships": [
-    {
-      "label": "China Aerodynamics Research and Development Center",
-      "type": "Parent",
-      "id": "https://ror.org/00jma8s40"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/055rh9p75",
   "labels": [

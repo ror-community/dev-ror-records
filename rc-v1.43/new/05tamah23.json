@@ -72,13 +72,7 @@
     }
   },
   "established": 2006,
-  "relationships": [
-    {
-      "label": "United Kingdom Clinical Research Collaboration",
-      "type": "Related",
-      "id": "https://ror.org/025ecp212"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05tamah23",
   "labels": [],

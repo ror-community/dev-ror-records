@@ -1,0 +1,85 @@
+{
+    "locations": [
+        {
+            "geonames_id": 4553433,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 36.15398,
+                "lng": -95.99277,
+                "name": "Tulsa"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0386 8892"
+            ],
+            "preferred": "0000 0004 0386 8892"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q39056078"
+            ],
+            "preferred": "Q39056078"
+        }
+    ],
+    "id": "https://ror.org/04g1a0w27",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.ou.edu/tulsa"
+        }
+    ],
+    "names": [
+        {
+            "value": "University of Oklahoma - Tulsa",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "University of Oklahoma - Tulsa Schusterman Center",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "OU - Tulsa Schusterman Center",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "University of Oklahoma at Tulsa",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

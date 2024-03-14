@@ -1,0 +1,424 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3016078,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.68333,
+                "lng": 2.13333,
+                "name": "Gif-sur-Yvette"
+            }
+        }
+    ],
+    "established": 2015,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 4910 6535"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100007241"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q109409389"
+            ],
+            "preferred": "Q109409389"
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.460789.4"
+            ],
+            "preferred": "grid.460789.4"
+        }
+    ],
+    "id": "https://ror.org/03xjwb503",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.universite-paris-saclay.fr/fr"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/University_of_Paris-Saclay"
+        }
+    ],
+    "names": [
+        {
+            "value": "University of Paris-Saclay",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Universit\u00e9 Paris-Saclay",
+            "types": [
+                "label"
+            ],
+            "lang": "fr"
+        },
+        {
+            "value": "Universitat Par\u00eds-Saclay",
+            "types": [
+                "label"
+            ],
+            "lang": "ca"
+        },
+        {
+            "value": "Paris-Saclayko Unibertsitatea",
+            "types": [
+                "label"
+            ],
+            "lang": "eu"
+        }
+    ],
+    "relationships": [
+        {
+            "label": "AgroParisTech",
+            "type": "child",
+            "id": "https://ror.org/02kbmgc12"
+        },
+        {
+            "label": "Biologie de la Reproduction, Environnement, Epig\u00e9n\u00e9tique et D\u00e9veloppement",
+            "type": "child",
+            "id": "https://ror.org/05mfwtg94"
+        },
+        {
+            "label": "CentraleSup\u00e9lec",
+            "type": "child",
+            "id": "https://ror.org/019tcpt25"
+        },
+        {
+            "label": "Centre for Nanoscience and Nanotechnology",
+            "type": "child",
+            "id": "https://ror.org/00zay3w86"
+        },
+        {
+            "label": "Computer Science, Integrative Biology and Complex Systems",
+            "type": "child",
+            "id": "https://ror.org/01aqxgr98"
+        },
+        {
+            "label": "Hautes \u00c9tudes Commerciales de Paris",
+            "type": "child",
+            "id": "https://ror.org/0423jsj19"
+        },
+        {
+            "label": "Hemostase Inflammation Thrombosis",
+            "type": "child",
+            "id": "https://ror.org/03ka94606"
+        },
+        {
+            "label": "Institut des Cellules Souches pour le Traitement et l'\u00c9tude des Maladies Monog\u00e9niques",
+            "type": "child",
+            "id": "https://ror.org/04g9rt435"
+        },
+        {
+            "label": "Institut d\u2019Optique Graduate School",
+            "type": "child",
+            "id": "https://ror.org/00d0rke27"
+        },
+        {
+            "label": "Laboratoire G\u00e9nie Industriel",
+            "type": "child",
+            "id": "https://ror.org/0455wwj08"
+        },
+        {
+            "label": "Laboratoire de Physique des 2 Infinis Ir\u00e8ne Joliot-Curie",
+            "type": "child",
+            "id": "https://ror.org/03gc1p724"
+        },
+        {
+            "label": "Laboratoire de Physique des Gaz et des Plasmas",
+            "type": "child",
+            "id": "https://ror.org/04bgjpg77"
+        },
+        {
+            "label": "Laboratory of Quantum and Molecular Photonics",
+            "type": "child",
+            "id": "https://ror.org/01bn5c048"
+        },
+        {
+            "label": "Laboratoire Interactions, Dynamiques et Lasers",
+            "type": "child",
+            "id": "https://ror.org/04dy97z61"
+        },
+        {
+            "label": "Leprince-Ringuet Laboratory",
+            "type": "child",
+            "id": "https://ror.org/058t6p923"
+        },
+        {
+            "label": "Saclay Nuclear Research Centre",
+            "type": "child",
+            "id": "https://ror.org/01fv25t22"
+        },
+        {
+            "label": "University of \u00c9vry Val d'Essonne",
+            "type": "child",
+            "id": "https://ror.org/00e96v939"
+        },
+        {
+            "label": "Universit\u00e9 de Versailles Saint-Quentin-en-Yvelines",
+            "type": "child",
+            "id": "https://ror.org/03mkjjy25"
+        },
+        {
+            "label": "\u00c9cole Nationale de la Statistique et de l'Administration \u00c9conomique",
+            "type": "child",
+            "id": "https://ror.org/01fz7mn40"
+        },
+        {
+            "label": "\u00c9cole Normale Sup\u00e9rieure Paris-Saclay",
+            "type": "child",
+            "id": "https://ror.org/00hx6zz33"
+        },
+        {
+            "label": "Agronomie",
+            "type": "child",
+            "id": "https://ror.org/02cptmd52"
+        },
+        {
+            "label": "MoSAR - Modelisation Systemique Appliquee aux Ruminants",
+            "type": "child",
+            "id": "https://ror.org/0050cbz19"
+        },
+        {
+            "label": "Laboratoire Universitaire de Recherche en Production Automatis\u00e9e",
+            "type": "child",
+            "id": "https://ror.org/05wjc8a85"
+        },
+        {
+            "label": "SADAPT Science Action D\u00e9veloppement - Activit\u00e9s Produits Territoires",
+            "type": "child",
+            "id": "https://ror.org/01cmdgj85"
+        },
+        {
+            "label": "Laboratoire Structures, Propri\u00e9t\u00e9s et Mod\u00e9lisation des Solides",
+            "type": "child",
+            "id": "https://ror.org/01t05f005"
+        },
+        {
+            "label": "Biblioth\u00e8que Jacques Hadamard",
+            "type": "child",
+            "id": "https://ror.org/04g0ktq11"
+        },
+        {
+            "label": "Math\u00e9matiques et Informatique pour la Complexit\u00e9 et les Syst\u00e8mes",
+            "type": "child",
+            "id": "https://ror.org/03q29s414"
+        },
+        {
+            "label": "Physiologie et Physiopathlogie Endocriniennes",
+            "type": "child",
+            "id": "https://ror.org/05kz79f96"
+        },
+        {
+            "label": "Immunologie int\u00e9grative des tumeurs et immunoth\u00e9rapie du cancer",
+            "type": "child",
+            "id": "https://ror.org/0266c5p67"
+        },
+        {
+            "label": "Inflammation, Microbiome and Immunosurveillance",
+            "type": "child",
+            "id": "https://ror.org/048qk7477"
+        },
+        {
+            "label": "Pr\u00e9dicteurs mol\u00e9culaires et nouvelles cibles en oncologie",
+            "type": "child",
+            "id": "https://ror.org/01earvv39"
+        },
+        {
+            "label": "Math\u00e9matiques et Informatique Appliqu\u00e9es",
+            "type": "child",
+            "id": "https://ror.org/00780az30"
+        },
+        {
+            "label": "Radioth\u00e9rapie Mol\u00e9culaire et Innovation Th\u00e9rapeutique",
+            "type": "child",
+            "id": "https://ror.org/00jp5dw81"
+        },
+        {
+            "label": "Physiopathog\u00e9n\u00e8se et Traitement des Maladies du Foie",
+            "type": "child",
+            "id": "https://ror.org/01zrk7293"
+        },
+        {
+            "label": "Contr\u00f4le transcriptionnel et \u00e9pig\u00e9n\u00e9tique de l\u2019h\u00e9matopo\u00ef\u00e8se maligne",
+            "type": "child",
+            "id": "https://ror.org/00p73bw06"
+        },
+        {
+            "label": "Chimie et Mod\u00e9lisation pour la Biologie du Cancer",
+            "type": "child",
+            "id": "https://ror.org/02nfq1309"
+        },
+        {
+            "label": "Le Laboratoire des Maladies Neurod\u00e9g\u00e9n\u00e9ratives",
+            "type": "child",
+            "id": "https://ror.org/00az7j379"
+        },
+        {
+            "label": "Stabilit\u00e9 G\u00e9n\u00e9tique, Cellules Souches et Radiations",
+            "type": "child",
+            "id": "https://ror.org/00nvvw130"
+        },
+        {
+            "label": "Laboratoire de Biologie de l'Exercice pour la Performance et la Sant\u00e9",
+            "type": "child",
+            "id": "https://ror.org/0449rap84"
+        },
+        {
+            "label": "Centre de Recherche en Design",
+            "type": "child",
+            "id": "https://ror.org/007y9b339"
+        },
+        {
+            "label": "Laboratoire Lumi\u00e8re, Mati\u00e8re et Interfaces",
+            "type": "child",
+            "id": "https://ror.org/048d5xq24"
+        },
+        {
+            "label": "SayFood - Food and Bioproduct Engineering",
+            "type": "child",
+            "id": "https://ror.org/03gmkya61"
+        },
+        {
+            "label": "Laboratoire Interdisciplinaire des Sciences du Num\u00e9rique",
+            "type": "child",
+            "id": "https://ror.org/00rd81916"
+        },
+        {
+            "label": "Laboratoire M\u00e9thodes Formelles",
+            "type": "child",
+            "id": "https://ror.org/00gdtta79"
+        },
+        {
+            "label": "Virologie et Immunologie Mol\u00e9culaires",
+            "type": "child",
+            "id": "https://ror.org/01jvz7e61"
+        },
+        {
+            "label": "F\u00e9d\u00e9ration Francilienne de M\u00e9canique - Mat\u00e9riaux, Structures, Proc\u00e9d\u00e9s",
+            "type": "child",
+            "id": "https://ror.org/01bbf9m56"
+        },
+        {
+            "label": "PHOTOSYNTHESE",
+            "type": "child",
+            "id": "https://ror.org/05hb8m595"
+        },
+        {
+            "label": "F\u00e9d\u00e9ration Ile de France de recherche sur l'environnement",
+            "type": "child",
+            "id": "https://ror.org/03qgfy688"
+        },
+        {
+            "label": "F\u00e9d\u00e9ration de Recherche Spectroscopies de Photo\u00e9mission",
+            "type": "child",
+            "id": "https://ror.org/01x6z5t49"
+        },
+        {
+            "label": "GDR NBODY : Probl\u00e8me quantique \u00e0 N corps en chimie et physique",
+            "type": "child",
+            "id": "https://ror.org/01nrtdp55"
+        },
+        {
+            "label": "F\u00e9d\u00e9ration de Recherche sur l'Energie Solaire",
+            "type": "child",
+            "id": "https://ror.org/0459fdx51"
+        },
+        {
+            "label": "Bioinformatique Mol\u00e9culaire",
+            "type": "child",
+            "id": "https://ror.org/02r1kz177"
+        },
+        {
+            "label": "INFRANALYTICS",
+            "type": "child",
+            "id": "https://ror.org/04yem5s35"
+        },
+        {
+            "label": "Laboratoire de Physique des Plasmas",
+            "type": "child",
+            "id": "https://ror.org/05c95bg36"
+        },
+        {
+            "label": "Biomarqueurs et essais cliniques en Canc\u00e9rologie et Onco-H\u00e9matologie",
+            "type": "child",
+            "id": "https://ror.org/05r0mw364"
+        },
+        {
+            "label": "Centre d\u2019histoire culturelle des soci\u00e9t\u00e9s contemporaines",
+            "type": "child",
+            "id": "https://ror.org/0087n5v55"
+        },
+        {
+            "label": "Cohortes \u00e9pid\u00e9miologiques en population",
+            "type": "child",
+            "id": "https://ror.org/00ex3jm11"
+        },
+        {
+            "label": "Equipe de recherche param\u00e9dicale sur le handicap neuromoteur",
+            "type": "child",
+            "id": "https://ror.org/023bv6t84"
+        },
+        {
+            "label": "Institut de recherches arctiques Jean Malaurie",
+            "type": "child",
+            "id": "https://ror.org/008hxwy89"
+        },
+        {
+            "label": "Laboratoire Anthropologie, Arch\u00e9ologie, Biologie",
+            "type": "child",
+            "id": "https://ror.org/023b2c435"
+        },
+        {
+            "label": "Laboratoire interdisciplinaire sur les mutations des espaces \u00e9conomiques et politiques - Paris Saclay",
+            "type": "child",
+            "id": "https://ror.org/01jdptv64"
+        },
+        {
+            "label": "Maison de la Simulation",
+            "type": "child",
+            "id": "https://ror.org/03jv6w209"
+        },
+        {
+            "label": "CIRED",
+            "type": "child",
+            "id": "https://ror.org/01b436806"
+        },
+        {
+            "label": "Laboratoire Charles Fabry",
+            "type": "child",
+            "id": "https://ror.org/046hjmc37"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

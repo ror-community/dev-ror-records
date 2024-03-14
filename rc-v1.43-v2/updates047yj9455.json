@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 3128760,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 41.38879,
+                "lng": 2.15899,
+                "name": "Barcelona"
+            }
+        }
+    ],
+    "established": 2009,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 1783 3287"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q8242526"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.16388.34"
+            ],
+            "preferred": "grid.16388.34"
+        }
+    ],
+    "id": "https://ror.org/047yj9455",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://www.barcelonamedia.org/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Barcelona Media",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "BM",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "inactive",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

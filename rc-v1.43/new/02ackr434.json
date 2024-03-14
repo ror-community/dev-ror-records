@@ -80,13 +80,7 @@
     }
   },
   "established": 2009,
-  "relationships": [
-    {
-      "label": "Roche (Switzerland)",
-      "type": "Parent",
-      "id": "https://ror.org/00by1q217"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02ackr434",
   "labels": [

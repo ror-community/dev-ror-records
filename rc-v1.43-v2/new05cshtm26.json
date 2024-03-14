@@ -1,0 +1,71 @@
+{
+    "locations": [
+        {
+            "geonames_id": 5140405,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 43.04812,
+                "lng": -76.14742,
+                "name": "Syracuse"
+            }
+        }
+    ],
+    "established": 2012,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 1483 9309"
+            ],
+            "preferred": "0000 0004 1483 9309"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "100013115"
+            ],
+            "preferred": "100013115"
+        }
+    ],
+    "id": "https://ror.org/05cshtm26",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.esf.edu/glrc/index.php"
+        }
+    ],
+    "names": [
+        {
+            "value": "Great Lakes Research Consortium",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "GLRC",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

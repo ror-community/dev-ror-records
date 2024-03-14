@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "geonames_id": 2509954,
+            "geonames_details": {
+                "country_code": "ES",
+                "country_name": "Spain",
+                "lat": 39.47391,
+                "lng": -0.37966,
+                "name": "Valencia"
+            }
+        }
+    ],
+    "established": 1996,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0001 2162 6430"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q5917720"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.507092.9"
+            ],
+            "preferred": "grid.507092.9"
+        }
+    ],
+    "id": "https://ror.org/0364rd617",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://istas.net"
+        }
+    ],
+    "names": [
+        {
+            "value": "Instituto Sindical de Trabajo Ambiente y Salud",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ISTAS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-14",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-14",
+            "schema_version": "2.0"
+        }
+    }
+}

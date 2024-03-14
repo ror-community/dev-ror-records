@@ -74,13 +74,7 @@
     }
   },
   "established": 1999,
-  "relationships": [
-    {
-      "label": "California State University System",
-      "type": "Parent",
-      "id": "https://ror.org/020qm1538"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00m98kt33",
   "labels": [],

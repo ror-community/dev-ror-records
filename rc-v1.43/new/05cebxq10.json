@@ -85,13 +85,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Atomic Energy Organization of Iran",
-      "type": "Parent",
-      "id": "https://ror.org/04feqxb79"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05cebxq10",
   "labels": [],
