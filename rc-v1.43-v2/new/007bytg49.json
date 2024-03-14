@@ -1,70 +1,76 @@
 {
-    "locations": [
-        {
-            "geonames_id": 683506,
-            "geonames_details": {
-                "country_code": "RO",
-                "country_name": "Romania",
-                "lat": 44.43225,
-                "lng": 26.10626,
-                "name": "Bucharest"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [],
-    "id": "https://ror.org/007bytg49",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.acadsudest.ro"
-        }
-    ],
-    "names": [
-        {
-            "value": "Institutul de Studii Sud-Est Europene",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Institutul de Studii Sud-Est Europene al Academiei Rom\u00e2ne",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "The Romanian Academy\u2019s Institute for South-East European Studies",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Institute for South-East European Studies",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 683506,
+      "geonames_details": {
+        "country_code": "RO",
+        "country_name": "Romania",
+        "lat": 44.43225,
+        "lng": 26.10626,
+        "name": "Bucharest"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/007bytg49",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.acadsudest.ro"
+    }
+  ],
+  "names": [
+    {
+      "value": "Institutul de Studii Sud-Est Europene",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Institutul de Studii Sud-Est Europene al Academiei Române",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "The Romanian Academy’s Institute for South-East European Studies",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Institute for South-East European Studies",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Romanian Academy",
+      "type": "parent",
+      "id": "https://ror.org/0561n6946"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

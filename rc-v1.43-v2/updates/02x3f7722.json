@@ -1,75 +1,81 @@
 {
-    "locations": [
-        {
-            "geonames_id": 5008327,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 42.10976,
-                "lng": -86.48002,
-                "name": "Saint Joseph"
-            }
-        }
-    ],
-    "established": 1899,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0443 0139"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q22059525"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.490238.4"
-            ],
-            "preferred": "grid.490238.4"
-        }
-    ],
-    "id": "https://ror.org/02x3f7722",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.lakelandhealth.org/"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Lakeland_Health"
-        }
-    ],
-    "names": [
-        {
-            "value": "Lakeland Health",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "inactive",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 5008327,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.10976,
+        "lng": -86.48002,
+        "name": "Saint Joseph"
+      }
     }
+  ],
+  "established": 1899,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0443 0139"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q22059525"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.490238.4"
+      ],
+      "preferred": "grid.490238.4"
+    }
+  ],
+  "id": "https://ror.org/02x3f7722",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.lakelandhealth.org/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Lakeland_Health"
+    }
+  ],
+  "names": [
+    {
+      "value": "Lakeland Health",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Corewell Health",
+      "type": "successor",
+      "id": "https://ror.org/02hb5yj49"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

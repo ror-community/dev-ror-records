@@ -1,78 +1,89 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2989204,
-            "geonames_details": {
-                "country_code": "FR",
-                "country_name": "France",
-                "lat": 48.69572,
-                "lng": 2.18727,
-                "name": "Orsay"
-            }
-        }
-    ],
-    "established": 1927,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0623 5425"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.462747.4"
-            ],
-            "preferred": "grid.462747.4"
-        }
-    ],
-    "id": "https://ror.org/021xexe56",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.lac.universite-paris-saclay.fr"
-        }
-    ],
-    "names": [
-        {
-            "value": "Laboratoire Aim\u00e9 Cotton",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Aim\u00e9 Cotton Laboratory",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "LAC",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2989204,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "name": "Orsay"
+      }
     }
+  ],
+  "established": 1927,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0623 5425"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.462747.4"
+      ],
+      "preferred": "grid.462747.4"
+    }
+  ],
+  "id": "https://ror.org/021xexe56",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.lac.universite-paris-saclay.fr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Laboratoire Aimé Cotton",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Aimé Cotton Laboratory",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "LAC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

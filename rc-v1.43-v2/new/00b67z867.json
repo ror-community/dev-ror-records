@@ -1,92 +1,98 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2038180,
-            "geonames_details": {
-                "country_code": "CN",
-                "country_name": "China",
-                "lat": 43.88,
-                "lng": 125.32278,
-                "name": "Changchun"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100011234"
-            ],
-            "preferred": "501100011234"
-        }
-    ],
-    "id": "https://ror.org/00b67z867",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.ascl.jlu.edu.cn"
-        }
-    ],
-    "names": [
-        {
-            "value": "State Key Laboratory of Automotive Simulation and Control",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "State Key Lab of Automotive Simulation and Control",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "State Key Laboratory of Automobile Simulation and Control",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "State Key Lab of Automobile Simulation and Control",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u6c7d\u8f66\u52a8\u6001\u6a21\u62df\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u6c7d\u8f66\u4eff\u771f\u4e0e\u63a7\u5236\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
-            "types": [
-                "label"
-            ],
-            "lang": "zh"
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2038180,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 43.88,
+        "lng": 125.32278,
+        "name": "Changchun"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100011234"
+      ],
+      "preferred": "501100011234"
+    }
+  ],
+  "id": "https://ror.org/00b67z867",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.ascl.jlu.edu.cn"
+    }
+  ],
+  "names": [
+    {
+      "value": "State Key Laboratory of Automotive Simulation and Control",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Lab of Automotive Simulation and Control",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Laboratory of Automobile Simulation and Control",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Lab of Automobile Simulation and Control",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "汽车动态模拟国家重点实验室",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "汽车仿真与控制国家重点实验室",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Jilin University",
+      "type": "parent",
+      "id": "https://ror.org/00js3aw79"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

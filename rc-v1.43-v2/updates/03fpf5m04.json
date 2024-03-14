@@ -1,70 +1,75 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2634308,
-            "geonames_details": {
-                "country_code": "GB",
-                "country_name": "United Kingdom",
-                "lat": 51.34603,
-                "lng": -2.97665,
-                "name": "Weston-super-Mare"
-            }
-        }
-    ],
-    "established": 1991,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0484 4171"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.439741.c"
-            ],
-            "preferred": "grid.439741.c"
-        }
-    ],
-    "id": "https://ror.org/03fpf5m04",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.waht.nhs.uk/"
-        }
-    ],
-    "names": [
-        {
-            "value": "Weston Area Health NHS Trust",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Weston General Hospital",
-            "type": "child",
-            "id": "https://ror.org/03mc19e15"
-        }
-    ],
-    "status": "inactive",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2634308,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.34603,
+        "lng": -2.97665,
+        "name": "Weston-super-Mare"
+      }
     }
+  ],
+  "established": 1991,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0484 4171"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.439741.c"
+      ],
+      "preferred": "grid.439741.c"
+    }
+  ],
+  "id": "https://ror.org/03fpf5m04",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.waht.nhs.uk/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Weston Area Health NHS Trust",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Weston General Hospital",
+      "type": "child",
+      "id": "https://ror.org/03mc19e15"
+    },
+    {
+      "label": "University Hospitals Bristol and Weston NHS Foundation Trust",
+      "type": "successor",
+      "id": "https://ror.org/03jzzxg14"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

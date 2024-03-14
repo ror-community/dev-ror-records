@@ -1,71 +1,77 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2964574,
-            "geonames_details": {
-                "country_code": "IE",
-                "country_name": "Ireland",
-                "lat": 53.33306,
-                "lng": -6.24889,
-                "name": "Dublin"
-            }
-        }
-    ],
-    "established": 2010,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0510 4503"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.494077.9"
-            ],
-            "preferred": "grid.494077.9"
-        }
-    ],
-    "id": "https://ror.org/04ma29860",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.fishinginireland.info/"
-        }
-    ],
-    "names": [
-        {
-            "value": "Fishing in Ireland",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Central Fisheries Board",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "inactive",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2964574,
+      "geonames_details": {
+        "country_code": "IE",
+        "country_name": "Ireland",
+        "lat": 53.33306,
+        "lng": -6.24889,
+        "name": "Dublin"
+      }
     }
+  ],
+  "established": 2010,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0510 4503"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.494077.9"
+      ],
+      "preferred": "grid.494077.9"
+    }
+  ],
+  "id": "https://ror.org/04ma29860",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.fishinginireland.info/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Fishing in Ireland",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Central Fisheries Board",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Inland Fisheries Ireland",
+      "type": "successor",
+      "id": "https://ror.org/022rydv31"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

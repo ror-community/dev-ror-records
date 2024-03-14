@@ -1,78 +1,84 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1816670,
-            "geonames_details": {
-                "country_code": "CN",
-                "country_name": "China",
-                "lat": 39.9075,
-                "lng": 116.39723,
-                "name": "Beijing"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100011160"
-            ],
-            "preferred": "501100011160"
-        }
-    ],
-    "id": "https://ror.org/0009eea46",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://vrlab.buaa.edu.cn"
-        }
-    ],
-    "names": [
-        {
-            "value": "State Key Laboratory of Virtual Reality Technology and Systems",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "State Key Lab of Virtual Reality Technology and Systems",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u865a\u62df\u73b0\u5b9e\u6280\u672f\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u865a\u62df\u73b0\u5b9e\u6280\u672f\u4e0e\u7cfb\u7edf\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
-            "types": [
-                "label"
-            ],
-            "lang": "zh"
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1816670,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 39.9075,
+        "lng": 116.39723,
+        "name": "Beijing"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100011160"
+      ],
+      "preferred": "501100011160"
+    }
+  ],
+  "id": "https://ror.org/0009eea46",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://vrlab.buaa.edu.cn"
+    }
+  ],
+  "names": [
+    {
+      "value": "State Key Laboratory of Virtual Reality Technology and Systems",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Lab of Virtual Reality Technology and Systems",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "虚拟现实技术国家重点实验室",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "虚拟现实技术与系统国家重点实验室",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Beihang University",
+      "type": "parent",
+      "id": "https://ror.org/00wk2mp56"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,78 +1,84 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2740637,
-            "geonames_details": {
-                "country_code": "PT",
-                "country_name": "Portugal",
-                "lat": 40.20564,
-                "lng": -8.41955,
-                "name": "Coimbra"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100014071"
-            ],
-            "preferred": "501100014071"
-        }
-    ],
-    "id": "https://ror.org/04fab7w85",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ces.uc.pt"
-        }
-    ],
-    "names": [
-        {
-            "value": "Centro de Estudos Sociais",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Universidade de Coimbra Centro de Estudos Sociais",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Centro de Estudos Sociais de Universidade de Coimbra",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "University of Coimbra Centre for Social Studies",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2740637,
+      "geonames_details": {
+        "country_code": "PT",
+        "country_name": "Portugal",
+        "lat": 40.20564,
+        "lng": -8.41955,
+        "name": "Coimbra"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100014071"
+      ],
+      "preferred": "501100014071"
+    }
+  ],
+  "id": "https://ror.org/04fab7w85",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ces.uc.pt"
+    }
+  ],
+  "names": [
+    {
+      "value": "Centro de Estudos Sociais",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Universidade de Coimbra Centro de Estudos Sociais",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Centro de Estudos Sociais de Universidade de Coimbra",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University of Coimbra Centre for Social Studies",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "University of Coimbra",
+      "type": "parent",
+      "id": "https://ror.org/04z8k9a98"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,78 +1,84 @@
 {
-    "locations": [
-        {
-            "geonames_id": 8299576,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 40.60079,
-                "lng": -74.64815,
-                "name": "Bridgewater"
-            }
-        }
-    ],
-    "established": 2011,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 6430 7044"
-            ],
-            "preferred": "0000 0004 6430 7044"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q45132270"
-            ],
-            "preferred": "Q45132270"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100010886"
-            ],
-            "preferred": "100010886"
-        }
-    ],
-    "id": "https://ror.org/03y8jvk69",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.nestlehealthscience.com"
-        }
-    ],
-    "names": [
-        {
-            "value": "Nestl\u00e9 Health Science (United States)",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Nestl\u00e9 Health Science",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "company"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 8299576,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 40.60079,
+        "lng": -74.64815,
+        "name": "Bridgewater"
+      }
     }
+  ],
+  "established": 2011,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 6430 7044"
+      ],
+      "preferred": "0000 0004 6430 7044"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q45132270"
+      ],
+      "preferred": "Q45132270"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100010886"
+      ],
+      "preferred": "100010886"
+    }
+  ],
+  "id": "https://ror.org/03y8jvk69",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.nestlehealthscience.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "Nestlé Health Science (United States)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Nestlé Health Science",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Nestlé (Switzerland)",
+      "type": "parent",
+      "id": "https://ror.org/01v5xwf23"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

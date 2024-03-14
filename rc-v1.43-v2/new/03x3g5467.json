@@ -1,64 +1,70 @@
 {
-    "locations": [
-        {
-            "geonames_id": 4407066,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 38.62727,
-                "lng": -90.19789,
-                "name": "St Louis"
-            }
-        }
-    ],
-    "established": 2012,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "100013395"
-            ],
-            "preferred": "100013395"
-        }
-    ],
-    "id": "https://ror.org/03x3g5467",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://taylorfamilyinstitute.wustl.edu"
-        }
-    ],
-    "names": [
-        {
-            "value": "Taylor Family Institute for Innovative Psychiatric Research",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Taylor Family Institute for Innovative Psychiatric Research at Washington University School of Medicine in St. Louis",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 4407066,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 38.62727,
+        "lng": -90.19789,
+        "name": "St Louis"
+      }
     }
+  ],
+  "established": 2012,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "100013395"
+      ],
+      "preferred": "100013395"
+    }
+  ],
+  "id": "https://ror.org/03x3g5467",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://taylorfamilyinstitute.wustl.edu"
+    }
+  ],
+  "names": [
+    {
+      "value": "Taylor Family Institute for Innovative Psychiatric Research",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Taylor Family Institute for Innovative Psychiatric Research at Washington University School of Medicine in St. Louis",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Washington University in St. Louis",
+      "type": "parent",
+      "id": "https://ror.org/01yc7t268"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

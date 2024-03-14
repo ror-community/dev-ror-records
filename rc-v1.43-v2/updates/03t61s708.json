@@ -1,0 +1,108 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1707,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0001 2181 0086"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q11010",
+        "Q11007"
+      ],
+      "preferred": "Q11010",
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.451251.6"
+      ],
+      "preferred": "grid.451251.6",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/03t61s708",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.parliament.uk/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.500735,
+        "lng": -0.124749,
+        "name": "London"
+      },
+      "geonames_id": 2643743
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Parliament of United Kingdom"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "UK Parliament"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "British Parliament"
+    },
+    {
+      "lang": "cy",
+      "types": [
+        "label"
+      ],
+      "value": "Tŷ'r Arglwyddi"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Parliamentary Office of Science and Technology",
+      "type": "child",
+      "id": "https://ror.org/02pvnr704"
+    },
+    {
+      "label": "Scottish Home and Health Department",
+      "type": "child",
+      "id": "https://ror.org/043xqa828"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ]
+}

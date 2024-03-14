@@ -1,77 +1,103 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3165524,
-            "geonames_details": {
-                "country_code": "IT",
-                "country_name": "Italy",
-                "lat": 45.07049,
-                "lng": 7.68682,
-                "name": "Turin"
-            }
-        }
-    ],
-    "established": 2021,
-    "external_ids": [],
-    "id": "https://ror.org/04hp1ky92",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ecs-nodes.eu"
-        }
-    ],
-    "names": [
-        {
-            "value": "NODES S.c.a.r.l",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "NODES - Nord Ovest Digitale E Sostenibile",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Nord Ovest Digitale E Sostenibile",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "HUB NODES S.c.a.r.l",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "NODES",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "nonprofit"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3165524,
+      "geonames_details": {
+        "country_code": "IT",
+        "country_name": "Italy",
+        "lat": 45.07049,
+        "lng": 7.68682,
+        "name": "Turin"
+      }
     }
+  ],
+  "established": 2021,
+  "external_ids": [],
+  "id": "https://ror.org/04hp1ky92",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ecs-nodes.eu"
+    }
+  ],
+  "names": [
+    {
+      "value": "NODES S.c.a.r.l",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NODES - Nord Ovest Digitale E Sostenibile",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Nord Ovest Digitale E Sostenibile",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "HUB NODES S.c.a.r.l",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NODES",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Polytechnic University of Turin",
+      "type": "related",
+      "id": "https://ror.org/00bgk9508"
+    },
+    {
+      "label": "University of Turin",
+      "type": "related",
+      "id": "https://ror.org/048tbm396"
+    },
+    {
+      "label": "University of Eastern Piedmont Amadeo Avogadro",
+      "type": "related",
+      "id": "https://ror.org/04387x656"
+    },
+    {
+      "label": "University of Insubria",
+      "type": "related",
+      "id": "https://ror.org/00s409261"
+    },
+    {
+      "label": "University of Aosta Valley",
+      "type": "related",
+      "id": "https://ror.org/03126ng80"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }
