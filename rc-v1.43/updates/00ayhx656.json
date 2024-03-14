@@ -41,8 +41,8 @@
   ],
   "addresses": [
     {
-      "lat": 50.865278,
-      "lng": -0.085556,
+      "lat": 50.82838,
+      "lng": -0.13947,
       "state": null,
       "state_code": null,
       "city": "Brighton",
@@ -66,16 +66,16 @@
           "license": "http://creativecommons.org/licenses/by/3.0/"
         },
         "nuts_level1": {
-          "name": "SOUTH EAST (ENGLAND)",
-          "code": "UKJ"
+          "name": null,
+          "code": null
         },
         "nuts_level2": {
-          "name": "Surrey, East and West Sussex",
-          "code": "UKJ2"
+          "name": null,
+          "code": null
         },
         "nuts_level3": {
-          "name": "Brighton and Hove",
-          "code": "UKJ21"
+          "name": null,
+          "code": null
         }
       },
       "postcode": null,
