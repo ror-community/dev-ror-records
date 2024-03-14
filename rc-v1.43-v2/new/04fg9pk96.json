@@ -1,131 +1,131 @@
 {
-    "locations": [
-        {
-            "geonames_id": 6167865,
-            "geonames_details": {
-                "country_code": "CA",
-                "country_name": "Canada",
-                "lat": 43.70643,
-                "lng": -79.39864,
-                "name": "Toronto"
-            }
-        }
-    ],
-    "established": 1999,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 0721 7876"
-            ],
-            "preferred": "0000 0001 0721 7876"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q3315245"
-            ],
-            "preferred": "Q3315245"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100016329"
-            ],
-            "preferred": "100016329"
-        }
-    ],
-    "id": "https://ror.org/04fg9pk96",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ontario.ca/page/ministry-education"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Ministry_of_Education_%28Ontario%29"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ministry of Education",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Education of Ontario",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Education, Government of Ontario",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Minist\u00e8re de l\u2019\u00c9ducation, Gouvernement de l\u2019Ontario",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ontario Ministry of Education",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Minist\u00e8re de l'\u00c9ducation de l'Ontario",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Minist\u00e8re de l'\u00c9ducation",
-            "types": [
-                "label"
-            ],
-            "lang": "fr"
-        },
-        {
-            "value": "EDU",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MEO",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 6167865,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 43.70643,
+        "lng": -79.39864,
+        "name": "Toronto"
+      }
     }
+  ],
+  "established": 1999,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0721 7876"
+      ],
+      "preferred": "0000 0001 0721 7876"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q3315245"
+      ],
+      "preferred": "Q3315245"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100016329"
+      ],
+      "preferred": "100016329"
+    }
+  ],
+  "id": "https://ror.org/04fg9pk96",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ontario.ca/page/ministry-education"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Ministry_of_Education_%28Ontario%29"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministry of Education",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Education of Ontario",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Education, Government of Ontario",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministère de l’Éducation, Gouvernement de l’Ontario",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ontario Ministry of Education",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministère de l'Éducation de l'Ontario",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministère de l'Éducation",
+      "types": [
+        "label"
+      ],
+      "lang": "fr"
+    },
+    {
+      "value": "EDU",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MEO",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

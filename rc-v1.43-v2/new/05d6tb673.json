@@ -1,89 +1,89 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3176219,
-            "geonames_details": {
-                "country_code": "IT",
-                "country_name": "Italy",
-                "lat": 44.40478,
-                "lng": 8.94439,
-                "name": "Genoa"
-            }
-        }
-    ],
-    "established": 1948,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 1530 5008"
-            ],
-            "preferred": "0000 0001 1530 5008"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q30888334"
-            ],
-            "preferred": "Q30888334"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "501100009881"
-            ],
-            "preferred": "501100009881"
-        }
-    ],
-    "id": "https://ror.org/05d6tb673",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.regione.liguria.it"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://it.wikipedia.org/wiki/Giunta_regionale_della_Liguria"
-        }
-    ],
-    "names": [
-        {
-            "value": "Regione Liguria",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Liguria Region",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Region of Liguria",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3176219,
+      "geonames_details": {
+        "country_code": "IT",
+        "country_name": "Italy",
+        "lat": 44.40478,
+        "lng": 8.94439,
+        "name": "Genoa"
+      }
     }
+  ],
+  "established": 1948,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 1530 5008"
+      ],
+      "preferred": "0000 0001 1530 5008"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q30888334"
+      ],
+      "preferred": "Q30888334"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100009881"
+      ],
+      "preferred": "501100009881"
+    }
+  ],
+  "id": "https://ror.org/05d6tb673",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.regione.liguria.it"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://it.wikipedia.org/wiki/Giunta_regionale_della_Liguria"
+    }
+  ],
+  "names": [
+    {
+      "value": "Regione Liguria",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Liguria Region",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Region of Liguria",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,78 +1,78 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2636432,
-            "geonames_details": {
-                "country_code": "GB",
-                "country_name": "United Kingdom",
-                "lat": 51.62079,
-                "lng": -3.94323,
-                "name": "Swansea"
-            }
-        }
-    ],
-    "established": 2017,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 7765 6809"
-            ],
-            "preferred": "0000 0004 7765 6809"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100014590"
-            ],
-            "preferred": "100014590"
-        }
-    ],
-    "id": "https://ror.org/03dcvs546",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ernw.ac.uk"
-        }
-    ],
-    "names": [
-        {
-            "value": "Engineering Research Network Wales",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Rhwydwaith Ymchwil Peirianneg Cymru",
-            "types": [
-                "label"
-            ],
-            "lang": "cy"
-        },
-        {
-            "value": "ERNW",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "other"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2636432,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.62079,
+        "lng": -3.94323,
+        "name": "Swansea"
+      }
     }
+  ],
+  "established": 2017,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 7765 6809"
+      ],
+      "preferred": "0000 0004 7765 6809"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100014590"
+      ],
+      "preferred": "100014590"
+    }
+  ],
+  "id": "https://ror.org/03dcvs546",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ernw.ac.uk"
+    }
+  ],
+  "names": [
+    {
+      "value": "Engineering Research Network Wales",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Rhwydwaith Ymchwil Peirianneg Cymru",
+      "types": [
+        "label"
+      ],
+      "lang": "cy"
+    },
+    {
+      "value": "ERNW",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

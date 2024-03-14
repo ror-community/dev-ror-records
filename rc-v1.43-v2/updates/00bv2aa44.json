@@ -1,78 +1,78 @@
 {
-    "locations": [
-        {
-            "geonames_id": 4355843,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 39.14344,
-                "lng": -77.20137,
-                "name": "Gaithersburg"
-            }
-        }
-    ],
-    "established": 1989,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100011016"
-            ],
-            "preferred": "501100011016"
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.511415.5"
-            ],
-            "preferred": "grid.511415.5"
-        }
-    ],
-    "id": "https://ror.org/00bv2aa44",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.stcube.com/"
-        }
-    ],
-    "names": [
-        {
-            "value": "STCube (United States)",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "STCube Pharmaceuticals",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "STCube Pharmaceuticals, Inc.",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "company"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 4355843,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 39.14344,
+        "lng": -77.20137,
+        "name": "Gaithersburg"
+      }
     }
+  ],
+  "established": 1989,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100011016"
+      ],
+      "preferred": "501100011016"
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.511415.5"
+      ],
+      "preferred": "grid.511415.5"
+    }
+  ],
+  "id": "https://ror.org/00bv2aa44",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.stcube.com/"
+    }
+  ],
+  "names": [
+    {
+      "value": "STCube (United States)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "STCube Pharmaceuticals",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "STCube Pharmaceuticals, Inc.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

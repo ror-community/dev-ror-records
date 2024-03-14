@@ -1,68 +1,68 @@
 {
-    "locations": [
-        {
-            "geonames_id": 5959974,
-            "geonames_details": {
-                "country_code": "CA",
-                "country_name": "Canada",
-                "lat": 45.47723,
-                "lng": -75.70164,
-                "name": "Gatineau"
-            }
-        }
-    ],
-    "established": 1967,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 8063 3499"
-            ],
-            "preferred": "0000 0004 8063 3499"
-        }
-    ],
-    "id": "https://ror.org/05eky6607",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://cisss-outaouais.gouv.qc.ca"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://fr.wikipedia.org/wiki/Centre_int%C3%A9gr%C3%A9_de_sant%C3%A9_et_de_services_sociaux"
-        }
-    ],
-    "names": [
-        {
-            "value": "Centre int\u00e9gr\u00e9 de sant\u00e9 et des services sociaux de l\u2019Outaouais",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "CISSS de l'Outaouais",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 5959974,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 45.47723,
+        "lng": -75.70164,
+        "name": "Gatineau"
+      }
     }
+  ],
+  "established": 1967,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 8063 3499"
+      ],
+      "preferred": "0000 0004 8063 3499"
+    }
+  ],
+  "id": "https://ror.org/05eky6607",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://cisss-outaouais.gouv.qc.ca"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://fr.wikipedia.org/wiki/Centre_int%C3%A9gr%C3%A9_de_sant%C3%A9_et_de_services_sociaux"
+    }
+  ],
+  "names": [
+    {
+      "value": "Centre intégré de santé et des services sociaux de l’Outaouais",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CISSS de l'Outaouais",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

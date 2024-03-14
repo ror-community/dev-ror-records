@@ -1,82 +1,82 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1809498,
-            "geonames_details": {
-                "country_code": "CN",
-                "country_name": "China",
-                "lat": 25.28022,
-                "lng": 110.29639,
-                "name": "Guilin"
-            }
-        }
-    ],
-    "established": 1985,
-    "external_ids": [
-        {
-            "type": "wikidata",
-            "all": [
-                "Q11111580"
-            ],
-            "preferred": "Q11111580"
-        }
-    ],
-    "id": "https://ror.org/013a79z51",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.gltu.edu.cn"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://zh.wikipedia.org/wiki/%E6%A1%82%E6%9E%97%E6%97%85%E6%B8%B8%E5%AD%A6%E9%99%A2"
-        }
-    ],
-    "names": [
-        {
-            "value": "Guilin Tourism University",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u6842\u6797\u65c5\u6e38\u4e13\u79d1\u5b66\u6821",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u6842\u6797\u65c5\u6e38\u5b66\u9662",
-            "types": [
-                "label"
-            ],
-            "lang": "zh"
-        },
-        {
-            "value": "GLTU",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1809498,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 25.28022,
+        "lng": 110.29639,
+        "name": "Guilin"
+      }
     }
+  ],
+  "established": 1985,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q11111580"
+      ],
+      "preferred": "Q11111580"
+    }
+  ],
+  "id": "https://ror.org/013a79z51",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.gltu.edu.cn"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://zh.wikipedia.org/wiki/%E6%A1%82%E6%9E%97%E6%97%85%E6%B8%B8%E5%AD%A6%E9%99%A2"
+    }
+  ],
+  "names": [
+    {
+      "value": "Guilin Tourism University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "桂林旅游专科学校",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "桂林旅游学院",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    },
+    {
+      "value": "GLTU",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,89 +1,89 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2618425,
-            "geonames_details": {
-                "country_code": "DK",
-                "country_name": "Denmark",
-                "lat": 55.67594,
-                "lng": 12.56553,
-                "name": "Copenhagen"
-            }
-        }
-    ],
-    "established": 1920,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 7866 339X"
-            ],
-            "preferred": "0000 0004 7866 339X"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q12309486"
-            ],
-            "preferred": "Q12309486"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "501100009902"
-            ],
-            "preferred": "501100009902"
-        }
-    ],
-    "id": "https://ror.org/044kpcz50",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.egmontfonden.dk"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://da.wikipedia.org/wiki/Egmont_Fonden"
-        }
-    ],
-    "names": [
-        {
-            "value": "Egmont Fonden",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Egmont H. Petersens Fond",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Egmont Foundation",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "nonprofit"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2618425,
+      "geonames_details": {
+        "country_code": "DK",
+        "country_name": "Denmark",
+        "lat": 55.67594,
+        "lng": 12.56553,
+        "name": "Copenhagen"
+      }
     }
+  ],
+  "established": 1920,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 7866 339X"
+      ],
+      "preferred": "0000 0004 7866 339X"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q12309486"
+      ],
+      "preferred": "Q12309486"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100009902"
+      ],
+      "preferred": "501100009902"
+    }
+  ],
+  "id": "https://ror.org/044kpcz50",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.egmontfonden.dk"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://da.wikipedia.org/wiki/Egmont_Fonden"
+    }
+  ],
+  "names": [
+    {
+      "value": "Egmont Fonden",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Egmont H. Petersens Fond",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Egmont Foundation",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

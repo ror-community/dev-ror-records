@@ -1,63 +1,63 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2834282,
-            "geonames_details": {
-                "country_code": "DE",
-                "country_name": "Germany",
-                "lat": 53.62937,
-                "lng": 11.41316,
-                "name": "Schwerin"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [],
-    "id": "https://ror.org/013k5zx16",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.regierung-mv.de/Landesregierung/lm/"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ministerium f\u00fcr Klimaschutz, Landwirtschaft, l\u00e4ndliche R\u00e4ume und Umwelt des Landes Mecklenburg-Vorpommern",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry for Climate Protection, Agriculture, Rural Areas and the Environment of the State of Mecklenburg-Western Pomerania",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MKLRU-MV",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2834282,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 53.62937,
+        "lng": 11.41316,
+        "name": "Schwerin"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/013k5zx16",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.regierung-mv.de/Landesregierung/lm/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministerium für Klimaschutz, Landwirtschaft, ländliche Räume und Umwelt des Landes Mecklenburg-Vorpommern",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry for Climate Protection, Agriculture, Rural Areas and the Environment of the State of Mecklenburg-Western Pomerania",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MKLRU-MV",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

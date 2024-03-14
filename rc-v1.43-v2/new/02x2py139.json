@@ -1,89 +1,89 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1609350,
-            "geonames_details": {
-                "country_code": "TH",
-                "country_name": "Thailand",
-                "lat": 13.75398,
-                "lng": 100.50144,
-                "name": "Bangkok"
-            }
-        }
-    ],
-    "established": 1998,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0482 0559"
-            ],
-            "preferred": "0000 0004 0482 0559"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q18394263"
-            ],
-            "preferred": "Q18394263"
-        }
-    ],
-    "id": "https://ror.org/02x2py139",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.thonburi-u.ac.th"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Thonburi_University"
-        }
-    ],
-    "names": [
-        {
-            "value": "Thonburi University",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Thonburi College of Technology",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Thonburi College",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "TRU",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1609350,
+      "geonames_details": {
+        "country_code": "TH",
+        "country_name": "Thailand",
+        "lat": 13.75398,
+        "lng": 100.50144,
+        "name": "Bangkok"
+      }
     }
+  ],
+  "established": 1998,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0482 0559"
+      ],
+      "preferred": "0000 0004 0482 0559"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q18394263"
+      ],
+      "preferred": "Q18394263"
+    }
+  ],
+  "id": "https://ror.org/02x2py139",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.thonburi-u.ac.th"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Thonburi_University"
+    }
+  ],
+  "names": [
+    {
+      "value": "Thonburi University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Thonburi College of Technology",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Thonburi College",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "TRU",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

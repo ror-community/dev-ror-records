@@ -1,68 +1,68 @@
 {
-    "locations": [
-        {
-            "geonames_id": 6077243,
-            "geonames_details": {
-                "country_code": "CA",
-                "country_name": "Canada",
-                "lat": 45.50884,
-                "lng": -73.58781,
-                "name": "Montreal"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 4910 4644"
-            ],
-            "preferred": "0000 0004 4910 4644"
-        }
-    ],
-    "id": "https://ror.org/03n9mt987",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ciusssnordmtl.ca"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://fr.wikipedia.org/wiki/Centre_int%C3%A9gr%C3%A9_de_sant%C3%A9_et_de_services_sociaux"
-        }
-    ],
-    "names": [
-        {
-            "value": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux du Nord-de-l\u2019\u00cele-de-Montr\u00e9al",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "CIUSSS du Nord-de-l'\u00cele-de-Montr\u00e9al",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 6077243,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 45.50884,
+        "lng": -73.58781,
+        "name": "Montreal"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 4910 4644"
+      ],
+      "preferred": "0000 0004 4910 4644"
+    }
+  ],
+  "id": "https://ror.org/03n9mt987",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ciusssnordmtl.ca"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://fr.wikipedia.org/wiki/Centre_int%C3%A9gr%C3%A9_de_sant%C3%A9_et_de_services_sociaux"
+    }
+  ],
+  "names": [
+    {
+      "value": "Centre intégré universitaire de santé et de services sociaux du Nord-de-l’Île-de-Montréal",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CIUSSS du Nord-de-l'Île-de-Montréal",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

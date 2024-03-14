@@ -1,91 +1,91 @@
 {
-    "locations": [
-        {
-            "geonames_id": 8358544,
-            "geonames_details": {
-                "country_code": "GR",
-                "country_name": "Greece",
-                "lat": 37.97574,
-                "lng": 23.76911,
-                "name": "Zografos"
-            }
-        }
-    ],
-    "established": 1989,
-    "external_ids": [
-        {
-            "type": "grid",
-            "all": [
-                "grid.435146.1"
-            ],
-            "preferred": "grid.435146.1"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q30289833"
-            ],
-            "preferred": "Q30289833"
-        }
-    ],
-    "id": "https://ror.org/0483fn738",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.iccs.gr"
-        }
-    ],
-    "names": [
-        {
-            "value": "Institute of Communication and Computer Systems",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Institute of Communication & Computer Systems \u201cICCS\u201d",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Erevnitiko Panepistimiako Institouto Systimaton Epikoinonion Kai Ypologiston",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "ICCS",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "National Technical University of Athens",
-            "type": "related",
-            "id": "https://ror.org/03cx6bg69"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "nonprofit"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 8358544,
+      "geonames_details": {
+        "country_code": "GR",
+        "country_name": "Greece",
+        "lat": 37.97574,
+        "lng": 23.76911,
+        "name": "Zografos"
+      }
     }
+  ],
+  "established": 1989,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.435146.1"
+      ],
+      "preferred": "grid.435146.1"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q30289833"
+      ],
+      "preferred": "Q30289833"
+    }
+  ],
+  "id": "https://ror.org/0483fn738",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.iccs.gr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Institute of Communication and Computer Systems",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Institute of Communication & Computer Systems “ICCS”",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Erevnitiko Panepistimiako Institouto Systimaton Epikoinonion Kai Ypologiston",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "ICCS",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "National Technical University of Athens",
+      "type": "related",
+      "id": "https://ror.org/03cx6bg69"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

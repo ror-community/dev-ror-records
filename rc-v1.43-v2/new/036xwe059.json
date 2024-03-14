@@ -1,63 +1,63 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2934246,
-            "geonames_details": {
-                "country_code": "DE",
-                "country_name": "Germany",
-                "lat": 51.22172,
-                "lng": 6.77616,
-                "name": "D\u00fcsseldorf"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [],
-    "id": "https://ror.org/036xwe059",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.mlv.nrw.de"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ministerium f\u00fcr Landwirtschaft und Verbraucherschutz des Landes Nordrhein-Westfalen",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Agriculture and Consumer Protection of the State of North Rhine-Westphalia",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MLV NRW",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2934246,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 51.22172,
+        "lng": 6.77616,
+        "name": "Düsseldorf"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/036xwe059",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.mlv.nrw.de"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministerium für Landwirtschaft und Verbraucherschutz des Landes Nordrhein-Westfalen",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Agriculture and Consumer Protection of the State of North Rhine-Westphalia",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MLV NRW",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

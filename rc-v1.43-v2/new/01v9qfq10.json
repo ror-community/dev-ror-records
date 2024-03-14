@@ -1,63 +1,63 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2037013,
-            "geonames_details": {
-                "country_code": "CN",
-                "country_name": "China",
-                "lat": 45.75,
-                "lng": 126.65,
-                "name": "Harbin"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [],
-    "id": "https://ror.org/01v9qfq10",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.hilem.cn"
-        }
-    ],
-    "names": [
-        {
-            "value": "Harbin Institute of Large Electric Machinery",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u54c8\u5c14\u6ee8\u5927\u7535\u673a\u7814\u7a76\u6240",
-            "types": [
-                "label"
-            ],
-            "lang": "zh"
-        },
-        {
-            "value": "HILEM",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2037013,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 45.75,
+        "lng": 126.65,
+        "name": "Harbin"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/01v9qfq10",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.hilem.cn"
+    }
+  ],
+  "names": [
+    {
+      "value": "Harbin Institute of Large Electric Machinery",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "哈尔滨大电机研究所",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    },
+    {
+      "value": "HILEM",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

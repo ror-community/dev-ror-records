@@ -1,63 +1,63 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2852458,
-            "geonames_details": {
-                "country_code": "DE",
-                "country_name": "Germany",
-                "lat": 52.39886,
-                "lng": 13.06566,
-                "name": "Potsdam"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [],
-    "id": "https://ror.org/04rhqkc66",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://mluk.brandenburg.de/mluk/"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ministerium f\u00fcr Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Landesministerium f\u00fcr Landwirtschaft, Umwelt und Klimaschutz Brandenburg",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MLUK",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2852458,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 52.39886,
+        "lng": 13.06566,
+        "name": "Potsdam"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/04rhqkc66",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://mluk.brandenburg.de/mluk/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministerium für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Landesministerium für Landwirtschaft, Umwelt und Klimaschutz Brandenburg",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MLUK",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

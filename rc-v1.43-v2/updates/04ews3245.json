@@ -1,131 +1,131 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2934246,
-            "geonames_details": {
-                "country_code": "DE",
-                "country_name": "Germany",
-                "lat": 51.22172,
-                "lng": 6.77616,
-                "name": "D\u00fcsseldorf"
-            }
-        }
-    ],
-    "established": 1964,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0492 602X"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.429051.b"
-            ],
-            "preferred": "grid.429051.b"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q1205596"
-            ],
-            "preferred": "Q1205596"
-        }
-    ],
-    "id": "https://ror.org/04ews3245",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://ddz.de"
-        }
-    ],
-    "names": [
-        {
-            "value": "Deutsches Diabetes-Zentrum e.V.",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Leibniz-Zentrum f\u00fcr Diabetes-Forschung an der Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Leibniz Center for Diabetes Research at the Heinrich Heine University D\u00fcsseldorf",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "German Diabetes Center",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "DDFG e.V.",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "DDZ German Diabetes Center",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Deutsches Diabetes-Zentrum",
-            "types": [
-                "label"
-            ],
-            "lang": "de"
-        },
-        {
-            "value": "DDZ",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Heinrich Heine University D\u00fcsseldorf",
-            "type": "parent",
-            "id": "https://ror.org/024z2rq82"
-        },
-        {
-            "label": "Leibniz Association",
-            "type": "parent",
-            "id": "https://ror.org/01n6r0e97"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2934246,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 51.22172,
+        "lng": 6.77616,
+        "name": "Düsseldorf"
+      }
     }
+  ],
+  "established": 1964,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0492 602X"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.429051.b"
+      ],
+      "preferred": "grid.429051.b"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q1205596"
+      ],
+      "preferred": "Q1205596"
+    }
+  ],
+  "id": "https://ror.org/04ews3245",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://ddz.de"
+    }
+  ],
+  "names": [
+    {
+      "value": "Deutsches Diabetes-Zentrum e.V.",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Leibniz-Zentrum für Diabetes-Forschung an der Heinrich-Heine-Universität Düsseldorf",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Leibniz Center for Diabetes Research at the Heinrich Heine University Düsseldorf",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "German Diabetes Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "DDFG e.V.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "DDZ German Diabetes Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Deutsches Diabetes-Zentrum",
+      "types": [
+        "label"
+      ],
+      "lang": "de"
+    },
+    {
+      "value": "DDZ",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Heinrich Heine University Düsseldorf",
+      "type": "parent",
+      "id": "https://ror.org/024z2rq82"
+    },
+    {
+      "label": "Leibniz Association",
+      "type": "parent",
+      "id": "https://ror.org/01n6r0e97"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

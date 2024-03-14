@@ -1,52 +1,52 @@
 {
-    "locations": [
-        {
-            "geonames_id": 5128581,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 40.71427,
-                "lng": -74.00597,
-                "name": "New York"
-            }
-        }
-    ],
-    "established": 1986,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "100012695"
-            ],
-            "preferred": "100012695"
-        }
-    ],
-    "id": "https://ror.org/0177kw895",
-    "domains": [],
-    "links": [],
-    "names": [
-        {
-            "value": "Beatrice and Samuel A. Seaver Foundation",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "nonprofit"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 5128581,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 40.71427,
+        "lng": -74.00597,
+        "name": "New York"
+      }
     }
+  ],
+  "established": 1986,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "100012695"
+      ],
+      "preferred": "100012695"
+    }
+  ],
+  "id": "https://ror.org/0177kw895",
+  "domains": [],
+  "links": [],
+  "names": [
+    {
+      "value": "Beatrice and Samuel A. Seaver Foundation",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

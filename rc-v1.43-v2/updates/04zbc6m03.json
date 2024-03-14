@@ -1,77 +1,77 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3117735,
-            "geonames_details": {
-                "country_code": "ES",
-                "country_name": "Spain",
-                "lat": 40.4165,
-                "lng": -3.70256,
-                "name": "Madrid"
-            }
-        }
-    ],
-    "established": 1995,
-    "external_ids": [
-        {
-            "type": "grid",
-            "all": [
-                "grid.512902.d"
-            ],
-            "preferred": "grid.512902.d"
-        }
-    ],
-    "id": "https://ror.org/04zbc6m03",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.isciii.es/QuienesSomos/CentrosPropios/MuseoISCIII"
-        }
-    ],
-    "names": [
-        {
-            "value": "Museo Nacional de Sanidad",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "ISCIII Museum",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        },
-        {
-            "value": "Museo ISCIII",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Instituto de Salud Carlos III",
-            "type": "parent",
-            "id": "https://ror.org/00ca2c886"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "archive"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3117735,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 40.4165,
+        "lng": -3.70256,
+        "name": "Madrid"
+      }
     }
+  ],
+  "established": 1995,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.512902.d"
+      ],
+      "preferred": "grid.512902.d"
+    }
+  ],
+  "id": "https://ror.org/04zbc6m03",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.isciii.es/QuienesSomos/CentrosPropios/MuseoISCIII"
+    }
+  ],
+  "names": [
+    {
+      "value": "Museo Nacional de Sanidad",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "ISCIII Museum",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "Museo ISCIII",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Instituto de Salud Carlos III",
+      "type": "parent",
+      "id": "https://ror.org/00ca2c886"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "archive"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

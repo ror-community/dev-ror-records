@@ -1,84 +1,84 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1796236,
-            "geonames_details": {
-                "country_code": "CN",
-                "country_name": "China",
-                "lat": 31.22222,
-                "lng": 121.45806,
-                "name": "Shanghai"
-            }
-        }
-    ],
-    "established": 2000,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 0061 254X"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.507739.f"
-            ],
-            "preferred": "grid.507739.f"
-        }
-    ],
-    "id": "https://ror.org/02rrdvm96",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://cemcs.cas.cn"
-        }
-    ],
-    "names": [
-        {
-            "value": "Center for Excellence in Molecular Cell Science",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Institute of Biochemistry and Cell Biology",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u4e2d\u79d1\u9662\u5206\u5b50\u7ec6\u80de\u5353\u8d8a\u521b\u65b0\u4e2d\u5fc3",
-            "types": [
-                "label"
-            ],
-            "lang": "zh"
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Chinese Academy of Sciences",
-            "type": "parent",
-            "id": "https://ror.org/034t30j35"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1796236,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 31.22222,
+        "lng": 121.45806,
+        "name": "Shanghai"
+      }
     }
+  ],
+  "established": 2000,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0061 254X"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.507739.f"
+      ],
+      "preferred": "grid.507739.f"
+    }
+  ],
+  "id": "https://ror.org/02rrdvm96",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://cemcs.cas.cn"
+    }
+  ],
+  "names": [
+    {
+      "value": "Center for Excellence in Molecular Cell Science",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Institute of Biochemistry and Cell Biology",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "中科院分子细胞卓越创新中心",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Chinese Academy of Sciences",
+      "type": "parent",
+      "id": "https://ror.org/034t30j35"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

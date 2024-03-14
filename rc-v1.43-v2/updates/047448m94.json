@@ -1,85 +1,85 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2220957,
-            "geonames_details": {
-                "country_code": "CM",
-                "country_name": "Cameroon",
-                "lat": 3.86667,
-                "lng": 11.51667,
-                "name": "Yaound\u00e9"
-            }
-        }
-    ],
-    "established": 1965,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0000 9212 1336"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.463347.1"
-            ],
-            "preferred": "grid.463347.1"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q30261846"
-            ],
-            "preferred": "Q30261846"
-        }
-    ],
-    "id": "https://ror.org/047448m94",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://impm-cm.org"
-        }
-    ],
-    "names": [
-        {
-            "value": "Institut de Recherches M\u00e9dicales et d\u2019Etudes des Plantes M\u00e9dicinales",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Institute of Research Medical and Medicinal Plants Studies",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        },
-        {
-            "value": "IMPM",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2220957,
+      "geonames_details": {
+        "country_code": "CM",
+        "country_name": "Cameroon",
+        "lat": 3.86667,
+        "lng": 11.51667,
+        "name": "Yaoundé"
+      }
     }
+  ],
+  "established": 1965,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0000 9212 1336"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.463347.1"
+      ],
+      "preferred": "grid.463347.1"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q30261846"
+      ],
+      "preferred": "Q30261846"
+    }
+  ],
+  "id": "https://ror.org/047448m94",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://impm-cm.org"
+    }
+  ],
+  "names": [
+    {
+      "value": "Institut de Recherches Médicales et d’Etudes des Plantes Médicinales",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Institute of Research Medical and Medicinal Plants Studies",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "IMPM",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

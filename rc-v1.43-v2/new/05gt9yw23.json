@@ -1,71 +1,71 @@
 {
-    "locations": [
-        {
-            "geonames_id": 333750,
-            "geonames_details": {
-                "country_code": "ET",
-                "country_name": "Ethiopia",
-                "lat": 5.65,
-                "lng": 36.65,
-                "name": "Jinka"
-            }
-        }
-    ],
-    "established": 2017,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0005 0976 328X"
-            ],
-            "preferred": "0000 0005 0976 328X"
-        }
-    ],
-    "id": "https://ror.org/05gt9yw23",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://jku.edu.et"
-        }
-    ],
-    "names": [
-        {
-            "value": "Jinka University",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u1302\u1295\u12ab \u12e9\u1292\u1268\u122d\u1232\u1272",
-            "types": [
-                "label"
-            ],
-            "lang": "am"
-        },
-        {
-            "value": "JKU",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 333750,
+      "geonames_details": {
+        "country_code": "ET",
+        "country_name": "Ethiopia",
+        "lat": 5.65,
+        "lng": 36.65,
+        "name": "Jinka"
+      }
     }
+  ],
+  "established": 2017,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0005 0976 328X"
+      ],
+      "preferred": "0000 0005 0976 328X"
+    }
+  ],
+  "id": "https://ror.org/05gt9yw23",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://jku.edu.et"
+    }
+  ],
+  "names": [
+    {
+      "value": "Jinka University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "ጂንካ ዩኒቨርሲቲ",
+      "types": [
+        "label"
+      ],
+      "lang": "am"
+    },
+    {
+      "value": "JKU",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

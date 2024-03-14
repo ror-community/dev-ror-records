@@ -1,71 +1,71 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3117735,
-            "geonames_details": {
-                "country_code": "ES",
-                "country_name": "Spain",
-                "lat": 40.4165,
-                "lng": -3.70256,
-                "name": "Madrid"
-            }
-        }
-    ],
-    "established": 1992,
-    "external_ids": [
-        {
-            "type": "grid",
-            "all": [
-                "grid.494474.e"
-            ],
-            "preferred": "grid.494474.e"
-        }
-    ],
-    "id": "https://ror.org/04nqtfa57",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "http://www.sts-e.com/index.php?lang=en"
-        }
-    ],
-    "names": [
-        {
-            "value": "Technical Services and Supplies (Spain)",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Servicios T\u00e9cnicos y Suministros",
-            "types": [
-                "label"
-            ],
-            "lang": "es"
-        },
-        {
-            "value": "STS",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "inactive",
-    "types": [
-        "company"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3117735,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 40.4165,
+        "lng": -3.70256,
+        "name": "Madrid"
+      }
     }
+  ],
+  "established": 1992,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.494474.e"
+      ],
+      "preferred": "grid.494474.e"
+    }
+  ],
+  "id": "https://ror.org/04nqtfa57",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.sts-e.com/index.php?lang=en"
+    }
+  ],
+  "names": [
+    {
+      "value": "Technical Services and Supplies (Spain)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Servicios Técnicos y Suministros",
+      "types": [
+        "label"
+      ],
+      "lang": "es"
+    },
+    {
+      "value": "STS",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "inactive",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

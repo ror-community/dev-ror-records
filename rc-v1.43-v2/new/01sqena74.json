@@ -1,71 +1,71 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1264527,
-            "geonames_details": {
-                "country_code": "IN",
-                "country_name": "India",
-                "lat": 13.08784,
-                "lng": 80.27847,
-                "name": "Chennai"
-            }
-        }
-    ],
-    "established": 2001,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100013419"
-            ],
-            "preferred": "501100013419"
-        }
-    ],
-    "id": "https://ror.org/01sqena74",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ssn.edu.in"
-        }
-    ],
-    "names": [
-        {
-            "value": "SSN Educational and Charitable Trust",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "SSN Trust",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Sri Sivasubramaniya Nadar Trust",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1264527,
+      "geonames_details": {
+        "country_code": "IN",
+        "country_name": "India",
+        "lat": 13.08784,
+        "lng": 80.27847,
+        "name": "Chennai"
+      }
     }
+  ],
+  "established": 2001,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100013419"
+      ],
+      "preferred": "501100013419"
+    }
+  ],
+  "id": "https://ror.org/01sqena74",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ssn.edu.in"
+    }
+  ],
+  "names": [
+    {
+      "value": "SSN Educational and Charitable Trust",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "SSN Trust",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Sri Sivasubramaniya Nadar Trust",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }

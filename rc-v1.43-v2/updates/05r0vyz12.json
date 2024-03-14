@@ -1,142 +1,142 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3117735,
-            "geonames_details": {
-                "country_code": "ES",
-                "country_name": "Spain",
-                "lat": 40.4165,
-                "lng": -3.70256,
-                "name": "Madrid"
-            }
-        }
-    ],
-    "established": 2020,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100004837",
-                "100014440",
-                "501100017642"
-            ],
-            "preferred": "501100004837"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q85874966"
-            ],
-            "preferred": "Q85874966"
-        }
-    ],
-    "id": "https://ror.org/05r0vyz12",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ciencia.gob.es"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://es.wikipedia.org/wiki/Ministerio_de_Ciencia_e_Innovaci%C3%B3n"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Science and Information",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Science, Innovation and Universities",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Spanish Ministry of Science, Innovation and Universities",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Science, Innovation and Universities, Spain",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades de Espa\u00f1a",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministerio de Ciencia e Innovaci\u00f3n",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministerio de Ciencia e Innovaci\u00f3n de Espa\u00f1a",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MICINN",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Agencia Estatal de Investigaci\u00f3n",
-            "type": "child",
-            "id": "https://ror.org/003x0zc53"
-        },
-        {
-            "label": "European X-Ray Free-Electron Laser",
-            "type": "child",
-            "id": "https://ror.org/01wp2jz98"
-        },
-        {
-            "label": "Instituto de Salud Carlos III",
-            "type": "child",
-            "id": "https://ror.org/00ca2c886"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-14",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-14",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3117735,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 40.4165,
+        "lng": -3.70256,
+        "name": "Madrid"
+      }
     }
+  ],
+  "established": 2020,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100004837",
+        "100014440",
+        "501100017642"
+      ],
+      "preferred": "501100004837"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q85874966"
+      ],
+      "preferred": "Q85874966"
+    }
+  ],
+  "id": "https://ror.org/05r0vyz12",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ciencia.gob.es"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://es.wikipedia.org/wiki/Ministerio_de_Ciencia_e_Innovaci%C3%B3n"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministerio de Ciencia, Innovación y Universidades",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Science and Information",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Science, Innovation and Universities",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Spanish Ministry of Science, Innovation and Universities",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Science, Innovation and Universities, Spain",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministerio de Ciencia, Innovación y Universidades de España",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministerio de Ciencia e Innovación",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministerio de Ciencia e Innovación de España",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MICINN",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Agencia Estatal de Investigación",
+      "type": "child",
+      "id": "https://ror.org/003x0zc53"
+    },
+    {
+      "label": "European X-Ray Free-Electron Laser",
+      "type": "child",
+      "id": "https://ror.org/01wp2jz98"
+    },
+    {
+      "label": "Instituto de Salud Carlos III",
+      "type": "child",
+      "id": "https://ror.org/00ca2c886"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-14",
+      "schema_version": "2.0"
+    }
+  }
 }
