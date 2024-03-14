@@ -1,98 +1,85 @@
 {
-  "locations": [
-    {
-      "geonames_id": 3452925,
-      "geonames_details": {
-        "country_code": "BR",
-        "country_name": "Brazil",
-        "lat": -30.03283,
-        "lng": -51.23019,
-        "name": "Porto Alegre"
-      }
+    "locations": [
+        {
+            "geonames_id": 3452925,
+            "geonames_details": {
+                "country_code": "BR",
+                "country_name": "Brazil",
+                "lat": -30.03283,
+                "lng": -51.23019,
+                "name": "Porto Alegre"
+            }
+        }
+    ],
+    "established": 2013,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 6088 6907"
+            ],
+            "preferred": "0000 0004 6088 6907"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q10302596"
+            ],
+            "preferred": "Q10302596"
+        },
+        {
+            "type": "fundref",
+            "all": [
+                "501100007762"
+            ],
+            "preferred": "501100007762"
+        }
+    ],
+    "id": "https://ror.org/01vt9w950",
+    "domains": [],
+    "links": [
+        {
+            "type": "wikipedia",
+            "value": "https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Ci%C3%AAncia_e_Tecnologia_Translacional_em_Medicina"
+        }
+    ],
+    "names": [
+        {
+            "value": "Instituto Nacional de Ci\u00eancia e Tecnologia Translacional em Medicina",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "National Science and Technology Institute for Translational Medicine",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "INCT-TM",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 2013,
-  "external_ids": [
-    {
-      "type": "isni",
-      "all": [
-        "0000 0004 6088 6907"
-      ],
-      "preferred": "0000 0004 6088 6907"
-    },
-    {
-      "type": "wikidata",
-      "all": [
-        "Q10302596"
-      ],
-      "preferred": "Q10302596"
-    },
-    {
-      "type": "fundref",
-      "all": [
-        "501100007762"
-      ],
-      "preferred": "501100007762"
-    }
-  ],
-  "id": "https://ror.org/01vt9w950",
-  "domains": [],
-  "links": [
-    {
-      "type": "wikipedia",
-      "value": "https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Ci%C3%AAncia_e_Tecnologia_Translacional_em_Medicina"
-    }
-  ],
-  "names": [
-    {
-      "value": "Instituto Nacional de Ciência e Tecnologia Translacional em Medicina",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "National Science and Technology Institute for Translational Medicine",
-      "types": [
-        "label"
-      ],
-      "lang": "en"
-    },
-    {
-      "value": "INCT-TM",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Universidade Federal do Rio Grande do Sul"
-      },
-      "type": "Parent",
-      "id": "https://ror.org/041yk2d64"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "facility"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

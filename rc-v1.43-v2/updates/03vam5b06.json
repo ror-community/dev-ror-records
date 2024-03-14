@@ -1,130 +1,106 @@
 {
-  "locations": [
-    {
-      "geonames_id": 3029276,
-      "geonames_details": {
-        "country_code": "FR",
-        "country_name": "France",
-        "lat": 48.79632,
-        "lng": 2.33661,
-        "name": "Cachan"
-      }
+    "locations": [
+        {
+            "geonames_id": 3029276,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.79632,
+                "lng": 2.33661,
+                "name": "Cachan"
+            }
+        }
+    ],
+    "established": 2002,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0370 4273"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q30262402"
+            ],
+            "preferred": "Q30262402"
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.464043.1"
+            ],
+            "preferred": "grid.464043.1"
+        }
+    ],
+    "id": "https://ror.org/03vam5b06",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://satie.ens-paris-saclay.fr"
+        }
+    ],
+    "names": [
+        {
+            "value": "Laboratoire des syst\u00e8mes et applications des technologies de l'information et de l'\u00e9nergie",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Laboratory of Systems and Applications of Information and Energy Technologies",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "SATIE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "CY Cergy Paris University",
+            "type": "parent",
+            "id": "https://ror.org/043htjv09"
+        },
+        {
+            "label": "Conservatoire National des Arts et M\u00e9tiers",
+            "type": "parent",
+            "id": "https://ror.org/0175hh227"
+        },
+        {
+            "label": "Universit\u00e9 Gustave Eiffel",
+            "type": "parent",
+            "id": "https://ror.org/03x42jk29"
+        },
+        {
+            "label": "\u00c9cole Normale Sup\u00e9rieure Paris-Saclay",
+            "type": "parent",
+            "id": "https://ror.org/00hx6zz33"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 2002,
-  "external_ids": [
-    {
-      "type": "isni",
-      "all": [
-        "0000 0004 0370 4273"
-      ],
-      "preferred": null
-    },
-    {
-      "type": "wikidata",
-      "all": [
-        "Q30262402"
-      ],
-      "preferred": "Q30262402"
-    },
-    {
-      "type": "grid",
-      "all": [
-        "grid.464043.1"
-      ],
-      "preferred": "grid.464043.1"
-    }
-  ],
-  "id": "https://ror.org/03vam5b06",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://satie.ens-paris-saclay.fr"
-    }
-  ],
-  "names": [
-    {
-      "value": "Laboratoire des systèmes et applications des technologies de l'information et de l'énergie",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Laboratory of Systems and Applications of Information and Energy Technologies",
-      "types": [
-        "label"
-      ],
-      "lang": "en"
-    },
-    {
-      "value": "SATIE",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": "CY Cergy Paris University",
-      "type": "parent",
-      "id": "https://ror.org/043htjv09"
-    },
-    {
-      "label": "Conservatoire National des Arts et Métiers",
-      "type": "parent",
-      "id": "https://ror.org/0175hh227"
-    },
-    {
-      "label": "Université Gustave Eiffel",
-      "type": "parent",
-      "id": "https://ror.org/03x42jk29"
-    },
-    {
-      "label": "École Normale Supérieure Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/00hx6zz33"
-    },
-    {
-      "label": {
-        "value": "University of Paris-Saclay",
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "lang": null
-      },
-      "type": "Parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "French National Centre for Scientific Research"
-      },
-      "type": "Parent",
-      "id": "https://ror.org/02feahw73"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "facility"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

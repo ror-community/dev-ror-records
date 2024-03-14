@@ -1,95 +1,82 @@
 {
-  "locations": [
-    {
-      "geonames_id": 1260445,
-      "geonames_details": {
-        "country_code": "IN",
-        "country_name": "India",
-        "lat": 22.40418,
-        "lng": 87.71746,
-        "name": "Pānskura"
-      }
+    "locations": [
+        {
+            "geonames_id": 1260445,
+            "geonames_details": {
+                "country_code": "IN",
+                "country_name": "India",
+                "lat": 22.40418,
+                "lng": 87.71746,
+                "name": "P\u0101nskura"
+            }
+        }
+    ],
+    "established": 1960,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 9225 0073"
+            ],
+            "preferred": "0000 0004 9225 0073"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q7131589"
+            ],
+            "preferred": "Q7131589"
+        }
+    ],
+    "id": "https://ror.org/01hn2pk88",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.panskurabanamalicollege.org"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Panskura_Banamali_College"
+        }
+    ],
+    "names": [
+        {
+            "value": "Panskura Banamali College",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Panskura Banamali Autonomous College",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "PBC",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 1960,
-  "external_ids": [
-    {
-      "type": "isni",
-      "all": [
-        "0000 0004 9225 0073"
-      ],
-      "preferred": "0000 0004 9225 0073"
-    },
-    {
-      "type": "wikidata",
-      "all": [
-        "Q7131589"
-      ],
-      "preferred": "Q7131589"
-    }
-  ],
-  "id": "https://ror.org/01hn2pk88",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://www.panskurabanamalicollege.org"
-    },
-    {
-      "type": "wikipedia",
-      "value": "https://en.wikipedia.org/wiki/Panskura_Banamali_College"
-    }
-  ],
-  "names": [
-    {
-      "value": "Panskura Banamali College",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Panskura Banamali Autonomous College",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "PBC",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Vidyasagar University"
-      },
-      "type": "Related",
-      "id": "https://ror.org/027jsza11"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "education"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

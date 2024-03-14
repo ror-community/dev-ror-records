@@ -1,110 +1,85 @@
 {
-  "locations": [
-    {
-      "geonames_id": 2989204,
-      "geonames_details": {
-        "country_code": "FR",
-        "country_name": "France",
-        "lat": 48.69572,
-        "lng": 2.18727,
-        "name": "Orsay"
-      }
+    "locations": [
+        {
+            "geonames_id": 2989204,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.69572,
+                "lng": 2.18727,
+                "name": "Orsay"
+            }
+        }
+    ],
+    "established": 1998,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0368 9704"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.463900.8"
+            ],
+            "preferred": "grid.463900.8"
+        }
+    ],
+    "id": "https://ror.org/03ab0zs98",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.imo.universite-paris-saclay.fr"
+        }
+    ],
+    "names": [
+        {
+            "value": "Laboratoire de Math\u00e9matiques d'Orsay",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Laboratoire de Math\u00e9matiques d\u2019Orsay",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Mathematics Laboratory of Orsay",
+            "types": [
+                "label"
+            ],
+            "lang": "en"
+        },
+        {
+            "value": "LMO",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 1998,
-  "external_ids": [
-    {
-      "type": "isni",
-      "all": [
-        "0000 0004 0368 9704"
-      ],
-      "preferred": null
-    },
-    {
-      "type": "grid",
-      "all": [
-        "grid.463900.8"
-      ],
-      "preferred": "grid.463900.8"
-    }
-  ],
-  "id": "https://ror.org/03ab0zs98",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://www.imo.universite-paris-saclay.fr"
-    }
-  ],
-  "names": [
-    {
-      "value": "Laboratoire de Mathématiques d'Orsay",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Laboratoire de Mathématiques d’Orsay",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Mathematics Laboratory of Orsay",
-      "types": [
-        "label"
-      ],
-      "lang": "en"
-    },
-    {
-      "value": "LMO",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "value": "University of Paris-Saclay",
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "lang": null
-      },
-      "type": "Parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "French National Centre for Scientific Research"
-      },
-      "type": "Parent",
-      "id": "https://ror.org/02feahw73"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "facility"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

@@ -1,213 +1,56 @@
 {
-  "locations": [
-    {
-      "geonames_id": 2750053,
-      "geonames_details": {
-        "country_code": "NL",
-        "country_name": "The Netherlands",
-        "lat": 51.8425,
-        "lng": 5.85278,
-        "name": "Nijmegen"
-      }
+    "locations": [
+        {
+            "geonames_id": 2750053,
+            "geonames_details": {
+                "country_code": "NL",
+                "country_name": "The Netherlands",
+                "lat": 51.8425,
+                "lng": 5.85278,
+                "name": "Nijmegen"
+            }
+        }
+    ],
+    "established": 2017,
+    "external_ids": [],
+    "id": "https://ror.org/04wcn4e27",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://leaps-initiative.eu"
+        }
+    ],
+    "names": [
+        {
+            "value": "LEAPS",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "League of European Accelerator-based Photon Sources",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "other"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 2017,
-  "external_ids": [],
-  "id": "https://ror.org/04wcn4e27",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://leaps-initiative.eu"
-    }
-  ],
-  "names": [
-    {
-      "value": "LEAPS",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "League of European Accelerator-based Photon Sources",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "ALBA Synchrotron (Spain)"
-      },
-      "type": "Related",
-      "id": "https://ror.org/02j9n6e35"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Deutsches Elektronen-Synchrotron DESY"
-      },
-      "type": "Related",
-      "id": "https://ror.org/01js2sh04"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Diamond Light Source"
-      },
-      "type": "Related",
-      "id": "https://ror.org/05etxs293"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Elettra-Sincrotrone Trieste S.C.p.A."
-      },
-      "type": "Related",
-      "id": "https://ror.org/01c3rrh15"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "European X-Ray Free-Electron Laser"
-      },
-      "type": "Related",
-      "id": "https://ror.org/01wp2jz98"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "FELIX Laboratory"
-      },
-      "type": "Related",
-      "id": "https://ror.org/03tkwyq76"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Helmholtz-Zentrum Berlin für Materialien und Energie"
-      },
-      "type": "Related",
-      "id": "https://ror.org/02aj13c28"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Helmholtz-Zentrum Dresden-Rossendorf"
-      },
-      "type": "Related",
-      "id": "https://ror.org/01zy2cs03"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Istituto Nazionale di Fisica Nucleare"
-      },
-      "type": "Related",
-      "id": "https://ror.org/005ta0471"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "MAX IV Laboratory"
-      },
-      "type": "Related",
-      "id": "https://ror.org/03q28x580"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Paul Scherrer Institute"
-      },
-      "type": "Related",
-      "id": "https://ror.org/03eh3y714"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Physikalisch-Technische Bundesanstalt"
-      },
-      "type": "Related",
-      "id": "https://ror.org/05r3f7h03"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Soleil Synchrotron"
-      },
-      "type": "Related",
-      "id": "https://ror.org/01ydb3330"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "other"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

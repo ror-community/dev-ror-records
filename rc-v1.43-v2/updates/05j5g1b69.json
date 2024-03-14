@@ -1,88 +1,75 @@
 {
-  "locations": [
-    {
-      "geonames_id": 2653822,
-      "geonames_details": {
-        "country_code": "GB",
-        "country_name": "United Kingdom",
-        "lat": 51.48,
-        "lng": -3.18,
-        "name": "Cardiff"
-      }
+    "locations": [
+        {
+            "geonames_id": 2653822,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 51.48,
+                "lng": -3.18,
+                "name": "Cardiff"
+            }
+        }
+    ],
+    "established": 2014,
+    "external_ids": [
+        {
+            "type": "wikidata",
+            "all": [
+                "Q29025663"
+            ],
+            "preferred": null
+        },
+        {
+            "type": "grid",
+            "all": [
+                "grid.500780.a"
+            ],
+            "preferred": "grid.500780.a"
+        }
+    ],
+    "id": "https://ror.org/05j5g1b69",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "http://ppiw.org.uk/"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://en.wikipedia.org/wiki/Public_Policy_Institute_for_Wales"
+        }
+    ],
+    "names": [
+        {
+            "value": "Public Policy Institute for Wales",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "PPIW",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "inactive",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 2014,
-  "external_ids": [
-    {
-      "type": "wikidata",
-      "all": [
-        "Q29025663"
-      ],
-      "preferred": null
-    },
-    {
-      "type": "grid",
-      "all": [
-        "grid.500780.a"
-      ],
-      "preferred": "grid.500780.a"
-    }
-  ],
-  "id": "https://ror.org/05j5g1b69",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "http://ppiw.org.uk/"
-    },
-    {
-      "type": "wikipedia",
-      "value": "https://en.wikipedia.org/wiki/Public_Policy_Institute_for_Wales"
-    }
-  ],
-  "names": [
-    {
-      "value": "Public Policy Institute for Wales",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "PPIW",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "value": "Wales Centre for Public Policy",
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "lang": null
-      },
-      "type": "Successor",
-      "id": "https://ror.org/03y0ymy78"
-    }
-  ],
-  "status": "inactive",
-  "types": [
-    "facility"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

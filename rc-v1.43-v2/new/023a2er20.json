@@ -1,89 +1,64 @@
 {
-  "locations": [
-    {
-      "geonames_id": 2653941,
-      "geonames_details": {
-        "country_code": "GB",
-        "country_name": "United Kingdom",
-        "lat": 52.2,
-        "lng": 0.11667,
-        "name": "Cambridge"
-      }
+    "locations": [
+        {
+            "geonames_id": 2653941,
+            "geonames_details": {
+                "country_code": "GB",
+                "country_name": "United Kingdom",
+                "lat": 52.2,
+                "lng": 0.11667,
+                "name": "Cambridge"
+            }
+        }
+    ],
+    "established": 2013,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "501100014679"
+            ],
+            "preferred": "501100014679"
+        }
+    ],
+    "id": "https://ror.org/023a2er20",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.cruk.cam.ac.uk/research-groups/brindle-group/cancer-imaging-centre/"
+        }
+    ],
+    "names": [
+        {
+            "value": "Cancer Imaging Centre",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CRUK and EPSRC Cancer Imaging Centre in Cambridge and Manchester",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 2013,
-  "external_ids": [
-    {
-      "type": "fundref",
-      "all": [
-        "501100014679"
-      ],
-      "preferred": "501100014679"
-    }
-  ],
-  "id": "https://ror.org/023a2er20",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://www.cruk.cam.ac.uk/research-groups/brindle-group/cancer-imaging-centre/"
-    }
-  ],
-  "names": [
-    {
-      "value": "Cancer Imaging Centre",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "CRUK and EPSRC Cancer Imaging Centre in Cambridge and Manchester",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "University of Cambridge"
-      },
-      "type": "Parent",
-      "id": "https://ror.org/013meh722"
-    },
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "University of Manchester"
-      },
-      "type": "Parent",
-      "id": "https://ror.org/027m9bs27"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "facility"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

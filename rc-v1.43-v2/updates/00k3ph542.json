@@ -1,96 +1,84 @@
 {
-  "locations": [
-    {
-      "geonames_id": 2989204,
-      "geonames_details": {
-        "country_code": "FR",
-        "country_name": "France",
-        "lat": 48.69572,
-        "lng": 2.18727,
-        "name": "Orsay"
-      }
+    "locations": [
+        {
+            "geonames_id": 2989204,
+            "geonames_details": {
+                "country_code": "FR",
+                "country_name": "France",
+                "lat": 48.69572,
+                "lng": 2.18727,
+                "name": "Orsay"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "grid",
+            "all": [
+                "grid.503134.0"
+            ],
+            "preferred": "grid.503134.0"
+        }
+    ],
+    "id": "https://ror.org/00k3ph542",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.faculte-sciences-sport.universite-paris-saclay.fr/recherche/presentation-unite-de-recherche-ciams"
+        }
+    ],
+    "names": [
+        {
+            "value": "Complexit\u00e9, Innovation et Activit\u00e9s Motrices et Sportives",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Laboratoire CIAMS",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Laboratoire Complexit\u00e9, Innovation et Activit\u00e9s Motrices et Sportives",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "CIAMS",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Universit\u00e9 d'Orl\u00e9ans",
+            "type": "parent",
+            "id": "https://ror.org/014zrew76"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "facility"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": null,
-  "external_ids": [
-    {
-      "type": "grid",
-      "all": [
-        "grid.503134.0"
-      ],
-      "preferred": "grid.503134.0"
-    }
-  ],
-  "id": "https://ror.org/00k3ph542",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://www.faculte-sciences-sport.universite-paris-saclay.fr/recherche/presentation-unite-de-recherche-ciams"
-    }
-  ],
-  "names": [
-    {
-      "value": "Complexité, Innovation et Activités Motrices et Sportives",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Laboratoire CIAMS",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Laboratoire Complexité, Innovation et Activités Motrices et Sportives",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "CIAMS",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": "Université d'Orléans",
-      "type": "parent",
-      "id": "https://ror.org/014zrew76"
-    },
-    {
-      "label": {
-        "value": "University of Paris-Saclay",
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "lang": null
-      },
-      "type": "Parent",
-      "id": "https://ror.org/03xjwb503"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "facility"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

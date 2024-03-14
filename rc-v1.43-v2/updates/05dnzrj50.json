@@ -1,103 +1,91 @@
 {
-  "locations": [
-    {
-      "geonames_id": 4140963,
-      "geonames_details": {
-        "country_code": "US",
-        "country_name": "United States",
-        "lat": 38.89511,
-        "lng": -77.03637,
-        "name": "Washington"
-      }
+    "locations": [
+        {
+            "geonames_id": 4140963,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 38.89511,
+                "lng": -77.03637,
+                "name": "Washington"
+            }
+        }
+    ],
+    "established": null,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "100013055"
+            ],
+            "preferred": "100013055"
+        }
+    ],
+    "id": "https://ror.org/05dnzrj50",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://science.osti.gov/bes/mse"
+        }
+    ],
+    "names": [
+        {
+            "value": "Materials Sciences and Engineering Division",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Division of Materials Sciences and Engineering",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Materials Sciences and Engineering (MSE) Division",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "DMSE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        },
+        {
+            "value": "MSE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Ames National Laboratory",
+            "type": "parent",
+            "id": "https://ror.org/041m9xr71"
+        }
+    ],
+    "status": "withdrawn",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": null,
-  "external_ids": [
-    {
-      "type": "fundref",
-      "all": [
-        "100013055"
-      ],
-      "preferred": "100013055"
-    }
-  ],
-  "id": "https://ror.org/05dnzrj50",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://science.osti.gov/bes/mse"
-    }
-  ],
-  "names": [
-    {
-      "value": "Materials Sciences and Engineering Division",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Division of Materials Sciences and Engineering",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Materials Sciences and Engineering (MSE) Division",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "DMSE",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    },
-    {
-      "value": "MSE",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": "Ames National Laboratory",
-      "type": "parent",
-      "id": "https://ror.org/041m9xr71"
-    },
-    {
-      "label": {
-        "value": "Office of Basic Energy Sciences",
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "lang": null
-      },
-      "type": "Successor",
-      "id": "https://ror.org/05mg91w61"
-    }
-  ],
-  "status": "withdrawn",
-  "types": [
-    "government"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

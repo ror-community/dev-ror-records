@@ -1,101 +1,101 @@
 {
-  "locations": [
-    {
-      "geonames_id": 4140963,
-      "geonames_details": {
-        "country_code": "US",
-        "country_name": "United States",
-        "lat": 38.89511,
-        "lng": -77.03637,
-        "name": "Washington"
-      }
+    "locations": [
+        {
+            "geonames_id": 4140963,
+            "geonames_details": {
+                "country_code": "US",
+                "country_name": "United States",
+                "lat": 38.89511,
+                "lng": -77.03637,
+                "name": "Washington"
+            }
+        }
+    ],
+    "established": 2003,
+    "external_ids": [
+        {
+            "type": "fundref",
+            "all": [
+                "100016153"
+            ],
+            "preferred": "100016153"
+        }
+    ],
+    "id": "https://ror.org/02y6dp041",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.energy.gov/oe/office-electricity"
+        }
+    ],
+    "names": [
+        {
+            "value": "Office of Electricity",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "United States Department of Energy Office of Electricity",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "U.S. Department of Energy Office of Electricity",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Office of Electricity Delivery and Energy Reliability",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "OE",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [
+        {
+            "label": "Grid Systems and Components",
+            "type": "child",
+            "id": "https://ror.org/04bym8a28"
+        },
+        {
+            "label": "Grid Controls and Communications Division",
+            "type": "child",
+            "id": "https://ror.org/04b1tq154"
+        },
+        {
+            "label": "United States Department of Energy",
+            "type": "parent",
+            "id": "https://ror.org/01bj3aw27"
+        }
+    ],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 2003,
-  "external_ids": [
-    {
-      "type": "fundref",
-      "all": [
-        "100016153"
-      ],
-      "preferred": "100016153"
-    }
-  ],
-  "id": "https://ror.org/02y6dp041",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://www.energy.gov/oe/office-electricity"
-    }
-  ],
-  "names": [
-    {
-      "value": "Office of Electricity",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "United States Department of Energy Office of Electricity",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "U.S. Department of Energy Office of Electricity",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Office of Electricity Delivery and Energy Reliability",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "OE",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": "Grid Systems and Components",
-      "type": "child",
-      "id": "https://ror.org/04bym8a28"
-    },
-    {
-      "label": "Grid Controls and Communications Division",
-      "type": "child",
-      "id": "https://ror.org/04b1tq154"
-    },
-    {
-      "label": "United States Department of Energy",
-      "type": "parent",
-      "id": "https://ror.org/01bj3aw27"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "government"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

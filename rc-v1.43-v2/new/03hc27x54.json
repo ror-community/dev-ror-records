@@ -1,83 +1,70 @@
 {
-  "locations": [
-    {
-      "geonames_id": 2464461,
-      "geonames_details": {
-        "country_code": "TN",
-        "country_name": "Tunisia",
-        "lat": 34,
-        "lng": 9,
-        "name": "Tunisia"
-      }
+    "locations": [
+        {
+            "geonames_id": 2464461,
+            "geonames_details": {
+                "country_code": "TN",
+                "country_name": "Tunisia",
+                "lat": 34,
+                "lng": 9,
+                "name": "Tunisia"
+            }
+        }
+    ],
+    "established": 1978,
+    "external_ids": [],
+    "id": "https://ror.org/03hc27x54",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.cnudst.rnrt.tn"
+        }
+    ],
+    "names": [
+        {
+            "value": "University National Center of Scientific and Technical Documentation",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "Centre National Universitaire de Documentation Scientifique et Technique",
+            "types": [
+                "label"
+            ],
+            "lang": "fr"
+        },
+        {
+            "value": "\u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0637\u0646\u064a \u0627\u0644\u062c\u0627\u0645\u0639\u064a \u0644\u0644\u062a\u0648\u062b\u064a\u0642 \u0627\u0644\u0639\u0644\u0645\u064a \u0648\u0627\u0644\u062a\u0642\u0646\u064a",
+            "types": [
+                "label"
+            ],
+            "lang": "ar"
+        },
+        {
+            "value": "CNUDST",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "government"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 1978,
-  "external_ids": [],
-  "id": "https://ror.org/03hc27x54",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://www.cnudst.rnrt.tn"
-    }
-  ],
-  "names": [
-    {
-      "value": "University National Center of Scientific and Technical Documentation",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "Centre National Universitaire de Documentation Scientifique et Technique",
-      "types": [
-        "label"
-      ],
-      "lang": "fr"
-    },
-    {
-      "value": "المركز الوطني الجامعي للتوثيق العلمي والتقني",
-      "types": [
-        "label"
-      ],
-      "lang": "ar"
-    },
-    {
-      "value": "CNUDST",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Ministry of Higher Education and Scientific Research"
-      },
-      "type": "Parent",
-      "id": "https://ror.org/05v1m8q81"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "government"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

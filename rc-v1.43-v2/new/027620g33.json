@@ -1,69 +1,56 @@
 {
-  "locations": [
-    {
-      "geonames_id": 3173435,
-      "geonames_details": {
-        "country_code": "IT",
-        "country_name": "Italy",
-        "lat": 45.46427,
-        "lng": 9.18951,
-        "name": "Milan"
-      }
+    "locations": [
+        {
+            "geonames_id": 3173435,
+            "geonames_details": {
+                "country_code": "IT",
+                "country_name": "Italy",
+                "lat": 45.46427,
+                "lng": 9.18951,
+                "name": "Milan"
+            }
+        }
+    ],
+    "established": 1994,
+    "external_ids": [],
+    "id": "https://ror.org/027620g33",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://www.fondazionebassetti.org"
+        }
+    ],
+    "names": [
+        {
+            "value": "Fondazione Giannino Bassetti",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "FGB",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "nonprofit"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 1994,
-  "external_ids": [],
-  "id": "https://ror.org/027620g33",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://www.fondazionebassetti.org"
-    }
-  ],
-  "names": [
-    {
-      "value": "Fondazione Giannino Bassetti",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "FGB",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "Globus et Locus"
-      },
-      "type": "Related",
-      "id": "https://ror.org/01ym3w380"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "nonprofit"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }

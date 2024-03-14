@@ -1,95 +1,82 @@
 {
-  "locations": [
-    {
-      "geonames_id": 3985606,
-      "geonames_details": {
-        "country_code": "MX",
-        "country_name": "Mexico",
-        "lat": 22.14982,
-        "lng": -100.97916,
-        "name": "San Luis Potosí City"
-      }
+    "locations": [
+        {
+            "geonames_id": 3985606,
+            "geonames_details": {
+                "country_code": "MX",
+                "country_name": "Mexico",
+                "lat": 22.14982,
+                "lng": -100.97916,
+                "name": "San Luis Potos\u00ed City"
+            }
+        }
+    ],
+    "established": 1970,
+    "external_ids": [
+        {
+            "type": "isni",
+            "all": [
+                "0000 0004 0369 8555"
+            ],
+            "preferred": "0000 0004 0369 8555"
+        },
+        {
+            "type": "wikidata",
+            "all": [
+                "Q5917885"
+            ],
+            "preferred": "Q5917885"
+        }
+    ],
+    "id": "https://ror.org/04w0a0617",
+    "domains": [],
+    "links": [
+        {
+            "type": "website",
+            "value": "https://slp.tecnm.mx"
+        },
+        {
+            "type": "wikipedia",
+            "value": "https://es.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_San_Luis_Potos%C3%AD"
+        }
+    ],
+    "names": [
+        {
+            "value": "Instituto Tecnol\u00f3gico de San Luis Potos\u00ed",
+            "types": [
+                "ror_display",
+                "label"
+            ],
+            "lang": null
+        },
+        {
+            "value": "TecNM campus San Luis Potos\u00ed",
+            "types": [
+                "alias"
+            ],
+            "lang": null
+        },
+        {
+            "value": "ITSLP",
+            "types": [
+                "acronym"
+            ],
+            "lang": null
+        }
+    ],
+    "relationships": [],
+    "status": "active",
+    "types": [
+        "education"
+    ],
+    "admin": {
+        "created": {
+            "date": "2024-03-13",
+            "schema_version": "1.0"
+        },
+        "last_modified": {
+            "date": "2024-03-13",
+            "schema_version": "2.0"
+        }
     }
-  ],
-  "established": 1970,
-  "external_ids": [
-    {
-      "type": "isni",
-      "all": [
-        "0000 0004 0369 8555"
-      ],
-      "preferred": "0000 0004 0369 8555"
-    },
-    {
-      "type": "wikidata",
-      "all": [
-        "Q5917885"
-      ],
-      "preferred": "Q5917885"
-    }
-  ],
-  "id": "https://ror.org/04w0a0617",
-  "domains": [],
-  "links": [
-    {
-      "type": "website",
-      "value": "https://slp.tecnm.mx"
-    },
-    {
-      "type": "wikipedia",
-      "value": "https://es.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_San_Luis_Potos%C3%AD"
-    }
-  ],
-  "names": [
-    {
-      "value": "Instituto Tecnológico de San Luis Potosí",
-      "types": [
-        "ror_display",
-        "label"
-      ],
-      "lang": null
-    },
-    {
-      "value": "TecNM campus San Luis Potosí",
-      "types": [
-        "alias"
-      ],
-      "lang": null
-    },
-    {
-      "value": "ITSLP",
-      "types": [
-        "acronym"
-      ],
-      "lang": null
-    }
-  ],
-  "relationships": [
-    {
-      "label": {
-        "lang": null,
-        "types": [
-          "ror_display",
-          "label"
-        ],
-        "value": "National Technological Institute of Mexico"
-      },
-      "type": "Parent",
-      "id": "https://ror.org/00davry38"
-    }
-  ],
-  "status": "active",
-  "types": [
-    "education"
-  ],
-  "admin": {
-    "created": {
-      "date": "2024-03-13",
-      "schema_version": "1.0"
-    },
-    "last_modified": {
-      "date": "2024-03-13",
-      "schema_version": "2.0"
-    }
-  }
 }
