@@ -1,0 +1,79 @@
+{
+  "admin": {
+    "created": {
+      "date": "2023-07-06",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2023-07-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2013,
+  "external_ids": [],
+  "id": "https://ror.org/03tkwyq76",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ru.nl/felix/"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "lat": 51.8425,
+        "lng": 5.85278,
+        "name": "Nijmegen"
+      },
+      "geonames_id": 2750053
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "FELIX Laboratory"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Free Electron Lasers for Infrared eXperiments"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "FELIX"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Radboud University Nijmegen",
+      "type": "parent",
+      "id": "https://ror.org/016xsfp80"
+    },
+    {
+      "label": "Dutch Research Council",
+      "type": "parent",
+      "id": "https://ror.org/04jsz6e67"
+    },
+    {
+      "label": "LEAPS",
+      "type": "Related",
+      "id": "https://ror.org/04wcn4e27"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

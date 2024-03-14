@@ -1,75 +1,81 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2510409,
-            "geonames_details": {
-                "country_code": "ES",
-                "country_name": "Spain",
-                "lat": 39.8581,
-                "lng": -4.02263,
-                "name": "Toledo"
-            }
-        }
-    ],
-    "established": 2020,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 7406 9449"
-            ],
-            "preferred": "0000 0004 7406 9449"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q107611919"
-            ],
-            "preferred": "Q107611919"
-        }
-    ],
-    "id": "https://ror.org/00wxgxz56",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://hospitaluniversitariodetoledo.es"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://es.wikipedia.org/wiki/Hospital_Universitario_de_Toledo"
-        }
-    ],
-    "names": [
-        {
-            "value": "Hospital Universitario de Toledo",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "University Hospital of Toledo",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2510409,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 39.8581,
+        "lng": -4.02263,
+        "name": "Toledo"
+      }
     }
+  ],
+  "established": 2020,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 7406 9449"
+      ],
+      "preferred": "0000 0004 7406 9449"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q107611919"
+      ],
+      "preferred": "Q107611919"
+    }
+  ],
+  "id": "https://ror.org/00wxgxz56",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://hospitaluniversitariodetoledo.es"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://es.wikipedia.org/wiki/Hospital_Universitario_de_Toledo"
+    }
+  ],
+  "names": [
+    {
+      "value": "Hospital Universitario de Toledo",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University Hospital of Toledo",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Hospital Virgen de la Salud",
+      "type": "Predecessor",
+      "id": "https://ror.org/0289cxp23"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,96 +1,112 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2648108,
-            "geonames_details": {
-                "country_code": "GB",
-                "country_name": "United Kingdom",
-                "lat": 53.45,
-                "lng": -2.23333,
-                "name": "Greater Manchester"
-            }
-        }
-    ],
-    "established": 2006,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0612 4047"
-            ],
-            "preferred": "0000 0004 0612 4047"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q24060265"
-            ],
-            "preferred": "Q24060265"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "501100017008"
-            ],
-            "preferred": "501100017008"
-        }
-    ],
-    "id": "https://ror.org/033svsm10",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.crukcentre.manchester.ac.uk"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Manchester_Cancer_Research_Centre"
-        }
-    ],
-    "names": [
-        {
-            "value": "Cancer Research UK Manchester Centre",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "CRUK Manchester Centre",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Manchester Cancer Research Centre",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "MCRC",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2648108,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 53.45,
+        "lng": -2.23333,
+        "name": "Greater Manchester"
+      }
     }
+  ],
+  "established": 2006,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0612 4047"
+      ],
+      "preferred": "0000 0004 0612 4047"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q24060265"
+      ],
+      "preferred": "Q24060265"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100017008"
+      ],
+      "preferred": "501100017008"
+    }
+  ],
+  "id": "https://ror.org/033svsm10",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.crukcentre.manchester.ac.uk"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Manchester_Cancer_Research_Centre"
+    }
+  ],
+  "names": [
+    {
+      "value": "Cancer Research UK Manchester Centre",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CRUK Manchester Centre",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Manchester Cancer Research Centre",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MCRC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Cancer Research UK",
+      "type": "Parent",
+      "id": "https://ror.org/054225q67"
+    },
+    {
+      "label": "University of Manchester",
+      "type": "Parent",
+      "id": "https://ror.org/027m9bs27"
+    },
+    {
+      "label": "The Christie NHS Foundation Trust",
+      "type": "Parent",
+      "id": "https://ror.org/03v9efr22"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

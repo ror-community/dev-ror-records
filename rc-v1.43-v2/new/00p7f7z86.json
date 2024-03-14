@@ -1,75 +1,81 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2634840,
-            "geonames_details": {
-                "country_code": "GB",
-                "country_name": "United Kingdom",
-                "lat": 52.81698,
-                "lng": -0.80835,
-                "name": "Waltham on the Wolds"
-            }
-        }
-    ],
-    "established": 1973,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0598 7406"
-            ],
-            "preferred": "0000 0004 0598 7406"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q7966597"
-            ],
-            "preferred": "Q7966597"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100014560"
-            ],
-            "preferred": "100014560"
-        }
-    ],
-    "id": "https://ror.org/00p7f7z86",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.waltham.com"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Waltham_Petcare_Science_Institute"
-        }
-    ],
-    "names": [
-        {
-            "value": "Waltham Centre for Pet Nutrition",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2634840,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 52.81698,
+        "lng": -0.80835,
+        "name": "Waltham on the Wolds"
+      }
     }
+  ],
+  "established": 1973,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0598 7406"
+      ],
+      "preferred": "0000 0004 0598 7406"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q7966597"
+      ],
+      "preferred": "Q7966597"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100014560"
+      ],
+      "preferred": "100014560"
+    }
+  ],
+  "id": "https://ror.org/00p7f7z86",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.waltham.com"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Waltham_Petcare_Science_Institute"
+    }
+  ],
+  "names": [
+    {
+      "value": "Waltham Centre for Pet Nutrition",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Mars (United States)",
+      "type": "Parent",
+      "id": "https://ror.org/028vrr082"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

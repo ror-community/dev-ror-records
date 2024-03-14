@@ -1,109 +1,114 @@
 {
-    "locations": [
-        {
-            "geonames_id": 4887398,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 41.85003,
-                "lng": -87.65005,
-                "name": "Chicago"
-            }
-        }
-    ],
-    "established": 1974,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0619 6876"
-            ],
-            "preferred": "0000 0004 0619 6876"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100011249"
-            ],
-            "preferred": "100011249"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q105710663"
-            ],
-            "preferred": "Q105710663"
-        }
-    ],
-    "id": "https://ror.org/02p4far57",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.cancer.northwestern.edu"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Robert_H._Lurie_Comprehensive_Cancer_Center"
-        }
-    ],
-    "names": [
-        {
-            "value": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Robert H. Lurie Comprehensive Cancer Center",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Lurie Comprehensive Cancer Center",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Robert H. Lurie Cancer Center",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Lurie Cancer Center",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "Northwestern Medicine",
-            "type": "parent",
-            "id": "https://ror.org/04fzwnh64"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "healthcare"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 4887398,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 41.85003,
+        "lng": -87.65005,
+        "name": "Chicago"
+      }
     }
+  ],
+  "established": 1974,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0619 6876"
+      ],
+      "preferred": "0000 0004 0619 6876"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100011249"
+      ],
+      "preferred": "100011249"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q105710663"
+      ],
+      "preferred": "Q105710663"
+    }
+  ],
+  "id": "https://ror.org/02p4far57",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.cancer.northwestern.edu"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Robert_H._Lurie_Comprehensive_Cancer_Center"
+    }
+  ],
+  "names": [
+    {
+      "value": "Robert H. Lurie Comprehensive Cancer Center of Northwestern University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Robert H. Lurie Comprehensive Cancer Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Lurie Comprehensive Cancer Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Robert H. Lurie Cancer Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Lurie Cancer Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Northwestern Medicine",
+      "type": "parent",
+      "id": "https://ror.org/04fzwnh64"
+    },
+    {
+      "label": "Northwestern University",
+      "type": "Related",
+      "id": "https://ror.org/000e0be47"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

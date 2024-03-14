@@ -1,99 +1,105 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2800866,
-            "geonames_details": {
-                "country_code": "BE",
-                "country_name": "Belgium",
-                "lat": 50.85045,
-                "lng": 4.34878,
-                "name": "Brussels"
-            }
-        }
-    ],
-    "established": null,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 0550 8872"
-            ],
-            "preferred": "0000 0001 0550 8872"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q108367206"
-            ],
-            "preferred": "Q108367206"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "501100012285"
-            ],
-            "preferred": "501100012285"
-        }
-    ],
-    "id": "https://ror.org/01g94x362",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.ewi-vlaanderen.be"
-        }
-    ],
-    "names": [
-        {
-            "value": "Departement Economie, Wetenschap & Innovatie",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Departement Economie, Wetenschap en Innovatie",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Department of Economy, Sciency and Innovation",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Department of Economy, Sciency & Innovation",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        },
-        {
-            "value": "DEWI",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2800866,
+      "geonames_details": {
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "lat": 50.85045,
+        "lng": 4.34878,
+        "name": "Brussels"
+      }
     }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0550 8872"
+      ],
+      "preferred": "0000 0001 0550 8872"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q108367206"
+      ],
+      "preferred": "Q108367206"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100012285"
+      ],
+      "preferred": "501100012285"
+    }
+  ],
+  "id": "https://ror.org/01g94x362",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ewi-vlaanderen.be"
+    }
+  ],
+  "names": [
+    {
+      "value": "Departement Economie, Wetenschap & Innovatie",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Departement Economie, Wetenschap en Innovatie",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Department of Economy, Sciency and Innovation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Department of Economy, Sciency & Innovation",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "DEWI",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Flemish Government",
+      "type": "Parent",
+      "id": "https://ror.org/04qxsrb28"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,79 +1,85 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1800627,
-            "geonames_details": {
-                "country_code": "CN",
-                "country_name": "China",
-                "lat": 31.46784,
-                "lng": 104.68168,
-                "name": "Mianyang"
-            }
-        }
-    ],
-    "established": 2007,
-    "external_ids": [],
-    "id": "https://ror.org/055rh9p75",
-    "domains": [],
-    "links": [],
-    "names": [
-        {
-            "value": "State Key Laboratory of Aerodynamics",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "State Key Lab of Aerodynamics",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u7a7a\u6c14\u52a8\u529b\u5b66\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "State Key Laboratory of Aerodynamic Science and Technology",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "State Key Lab of Aerodynamic Science and Technology",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u7a7a\u5929\u98de\u884c\u7a7a\u6c14\u52a8\u529b\u79d1\u5b66\u4e0e\u6280\u672f\u5168\u56fd\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
-            "types": [
-                "label"
-            ],
-            "lang": "zh"
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1800627,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 31.46784,
+        "lng": 104.68168,
+        "name": "Mianyang"
+      }
     }
+  ],
+  "established": 2007,
+  "external_ids": [],
+  "id": "https://ror.org/055rh9p75",
+  "domains": [],
+  "links": [],
+  "names": [
+    {
+      "value": "State Key Laboratory of Aerodynamics",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Lab of Aerodynamics",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "空气动力学国家重点实验室",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Laboratory of Aerodynamic Science and Technology",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Lab of Aerodynamic Science and Technology",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "空天飞行空气动力科学与技术全国重点实验室",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "China Aerodynamics Research and Development Center",
+      "type": "Parent",
+      "id": "https://ror.org/00jma8s40"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

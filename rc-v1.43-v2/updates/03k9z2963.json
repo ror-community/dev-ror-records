@@ -1,91 +1,96 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2988507,
-            "geonames_details": {
-                "country_code": "FR",
-                "country_name": "France",
-                "lat": 48.85341,
-                "lng": 2.3488,
-                "name": "Paris"
-            }
-        }
-    ],
-    "established": 1998,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0624 4946"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q51784704"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.503142.1"
-            ],
-            "preferred": "grid.503142.1"
-        }
-    ],
-    "id": "https://ror.org/03k9z2963",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.math.ens.psl.eu"
-        }
-    ],
-    "names": [
-        {
-            "value": "D\u00e9partement de math\u00e9matiques et applications",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Department of Mathematics and their Applications",
-            "types": [
-                "label"
-            ],
-            "lang": "en"
-        },
-        {
-            "value": "DMA",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [
-        {
-            "label": "\u00c9cole Normale Sup\u00e9rieure - PSL",
-            "type": "parent",
-            "id": "https://ror.org/05a0dhs15"
-        }
-    ],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2988507,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.85341,
+        "lng": 2.3488,
+        "name": "Paris"
+      }
     }
+  ],
+  "established": 1998,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0624 4946"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q51784704"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.503142.1"
+      ],
+      "preferred": "grid.503142.1"
+    }
+  ],
+  "id": "https://ror.org/03k9z2963",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.math.ens.psl.eu"
+    }
+  ],
+  "names": [
+    {
+      "value": "Département de mathématiques et applications",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Department of Mathematics and their Applications",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "DMA",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "École Normale Supérieure - PSL",
+      "type": "parent",
+      "id": "https://ror.org/05a0dhs15"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

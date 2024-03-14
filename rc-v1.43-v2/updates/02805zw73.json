@@ -1,0 +1,73 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2022-06-16",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1875,
+  "external_ids": [
+    {
+      "all": [
+        "grid.459275.8"
+      ],
+      "preferred": "grid.459275.8",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/02805zw73",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.csss-iugs.ca/details-article-hitorique/detail/2008-11-24/d-youville-le-premier-hopital-de-sherbrooke"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 45.40008,
+        "lng": -71.89908,
+        "name": "Sherbrooke"
+      },
+      "geonames_id": 6146143
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Hôpital d'Youville de Sherbrooke"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Centre intégré de santé et de services sociaux de Chaudière-Appalaches",
+      "type": "parent",
+      "id": "https://ror.org/05ghbjx71"
+    },
+    {
+      "label": "Cégep Beauce-Appalaches",
+      "type": "Child",
+      "id": "https://ror.org/05sz3st37"
+    },
+    {
+      "label": "Cégep Beauce-Appalaches",
+      "type": "Parent",
+      "id": "https://ror.org/05sz3st37"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}

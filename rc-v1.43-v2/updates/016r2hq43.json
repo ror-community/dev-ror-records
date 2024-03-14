@@ -1,78 +1,89 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2989204,
-            "geonames_details": {
-                "country_code": "FR",
-                "country_name": "France",
-                "lat": 48.69572,
-                "lng": 2.18727,
-                "name": "Orsay"
-            }
-        }
-    ],
-    "established": 2000,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0370 3203"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q30261584"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.462861.f"
-            ],
-            "preferred": "grid.462861.f"
-        }
-    ],
-    "id": "https://ror.org/016r2hq43",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.universite-paris-saclay.fr/institut-de-chimie-physique"
-        }
-    ],
-    "names": [
-        {
-            "value": "Laboratoire de Chimie Physique",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "LCP",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2989204,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "name": "Orsay"
+      }
     }
+  ],
+  "established": 2000,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0370 3203"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q30261584"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.462861.f"
+      ],
+      "preferred": "grid.462861.f"
+    }
+  ],
+  "id": "https://ror.org/016r2hq43",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.universite-paris-saclay.fr/institut-de-chimie-physique"
+    }
+  ],
+  "names": [
+    {
+      "value": "Laboratoire de Chimie Physique",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "LCP",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "University of Paris-Saclay",
+      "type": "Parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

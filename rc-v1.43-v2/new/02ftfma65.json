@@ -1,57 +1,68 @@
 {
-    "locations": [
-        {
-            "geonames_id": 5967629,
-            "geonames_details": {
-                "country_code": "CA",
-                "country_name": "Canada",
-                "lat": 43.54594,
-                "lng": -80.25599,
-                "name": "Guelph"
-            }
-        }
-    ],
-    "established": 2015,
-    "external_ids": [
-        {
-            "type": "fundref",
-            "all": [
-                "501100015516"
-            ],
-            "preferred": "501100015516"
-        }
-    ],
-    "id": "https://ror.org/02ftfma65",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.uoguelph.ca/alliance/"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ontario Agri-Food Innovation Alliance",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "other"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 5967629,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 43.54594,
+        "lng": -80.25599,
+        "name": "Guelph"
+      }
     }
+  ],
+  "established": 2015,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100015516"
+      ],
+      "preferred": "501100015516"
+    }
+  ],
+  "id": "https://ror.org/02ftfma65",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.uoguelph.ca/alliance/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ontario Agri-Food Innovation Alliance",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Agricultural Research Institute of Ontario",
+      "type": "Related",
+      "id": "https://ror.org/011n4tk56"
+    },
+    {
+      "label": "University of Guelph",
+      "type": "Related",
+      "id": "https://ror.org/01r7awg59"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

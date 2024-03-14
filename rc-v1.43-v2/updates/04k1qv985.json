@@ -1,64 +1,70 @@
 {
-    "locations": [
-        {
-            "geonames_id": 3128760,
-            "geonames_details": {
-                "country_code": "ES",
-                "country_name": "Spain",
-                "lat": 41.38879,
-                "lng": 2.15899,
-                "name": "Barcelona"
-            }
-        }
-    ],
-    "established": 1987,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 6096 8320"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.509567.8"
-            ],
-            "preferred": "grid.509567.8"
-        }
-    ],
-    "id": "https://ror.org/04k1qv985",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.lipotec.com/"
-        }
-    ],
-    "names": [
-        {
-            "value": "Lipotec (Spain)",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "inactive",
-    "types": [
-        "company"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 3128760,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 41.38879,
+        "lng": 2.15899,
+        "name": "Barcelona"
+      }
     }
+  ],
+  "established": 1987,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 6096 8320"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.509567.8"
+      ],
+      "preferred": "grid.509567.8"
+    }
+  ],
+  "id": "https://ror.org/04k1qv985",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.lipotec.com/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Lipotec (Spain)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Lubrizol Life Science Health (United States)",
+      "type": "Successor",
+      "id": "https://ror.org/03kp1tb17"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

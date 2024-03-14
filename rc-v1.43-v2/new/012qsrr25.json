@@ -1,96 +1,102 @@
 {
-    "locations": [
-        {
-            "geonames_id": 5122432,
-            "geonames_details": {
-                "country_code": "US",
-                "country_name": "United States",
-                "lat": 42.44063,
-                "lng": -76.49661,
-                "name": "Ithaca"
-            }
-        }
-    ],
-    "established": 1880,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 2170 7652"
-            ],
-            "preferred": "0000 0001 2170 7652"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q45134801"
-            ],
-            "preferred": "Q45134801"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100011622"
-            ],
-            "preferred": "100011622"
-        }
-    ],
-    "id": "https://ror.org/012qsrr25",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://cals.cornell.edu/agricultural-experiment-station"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/New_York_State_Agricultural_Experiment_Station"
-        }
-    ],
-    "names": [
-        {
-            "value": "Cornell University Agricultural Experiment Station",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Cornell AES",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Cornell AgriTech",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "CUAES",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 5122432,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.44063,
+        "lng": -76.49661,
+        "name": "Ithaca"
+      }
     }
+  ],
+  "established": 1880,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 2170 7652"
+      ],
+      "preferred": "0000 0001 2170 7652"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q45134801"
+      ],
+      "preferred": "Q45134801"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100011622"
+      ],
+      "preferred": "100011622"
+    }
+  ],
+  "id": "https://ror.org/012qsrr25",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://cals.cornell.edu/agricultural-experiment-station"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/New_York_State_Agricultural_Experiment_Station"
+    }
+  ],
+  "names": [
+    {
+      "value": "Cornell University Agricultural Experiment Station",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Cornell AES",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Cornell AgriTech",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CUAES",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Cornell University",
+      "type": "Parent",
+      "id": "https://ror.org/05bnh6r87"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

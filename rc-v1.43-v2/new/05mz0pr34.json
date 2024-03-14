@@ -1,85 +1,91 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2643743,
-            "geonames_details": {
-                "country_code": "GB",
-                "country_name": "United Kingdom",
-                "lat": 51.50853,
-                "lng": -0.12574,
-                "name": "London"
-            }
-        }
-    ],
-    "established": 1994,
-    "external_ids": [
-        {
-            "type": "wikidata",
-            "all": [
-                "Q45131942"
-            ],
-            "preferred": "Q45131942"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100011088"
-            ],
-            "preferred": "100011088"
-        }
-    ],
-    "id": "https://ror.org/05mz0pr34",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.uclhcharity.org.uk"
-        }
-    ],
-    "names": [
-        {
-            "value": "UCL Hospitals Charitable Foundation",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "UCLH Charitable Foundation",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "University College London Hospitals Charitable Foundation",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "UCLH Charity",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "nonprofit"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2643743,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.50853,
+        "lng": -0.12574,
+        "name": "London"
+      }
     }
+  ],
+  "established": 1994,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q45131942"
+      ],
+      "preferred": "Q45131942"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100011088"
+      ],
+      "preferred": "100011088"
+    }
+  ],
+  "id": "https://ror.org/05mz0pr34",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.uclhcharity.org.uk"
+    }
+  ],
+  "names": [
+    {
+      "value": "UCL Hospitals Charitable Foundation",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "UCLH Charitable Foundation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University College London Hospitals Charitable Foundation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "UCLH Charity",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "University College London",
+      "type": "Parent",
+      "id": "https://ror.org/02jx3x895"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

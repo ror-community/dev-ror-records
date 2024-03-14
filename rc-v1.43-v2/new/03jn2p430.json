@@ -1,110 +1,116 @@
 {
-    "locations": [
-        {
-            "geonames_id": 1176615,
-            "geonames_details": {
-                "country_code": "PK",
-                "country_name": "Pakistan",
-                "lat": 33.72148,
-                "lng": 73.04329,
-                "name": "Islamabad"
-            }
-        }
-    ],
-    "established": 1964,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0001 2230 840X"
-            ],
-            "preferred": "0000 0001 2230 840X"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q4294470"
-            ],
-            "preferred": "Q4294470"
-        },
-        {
-            "type": "fundref",
-            "all": [
-                "100019473"
-            ],
-            "preferred": "100019473"
-        }
-    ],
-    "id": "https://ror.org/03jn2p430",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://most.gov.pk"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Ministry_of_Science_and_Technology_%28Pakistan%29"
-        }
-    ],
-    "names": [
-        {
-            "value": "Ministry of Science and Technology",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Science and Technology, Government of Pakistan",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Ministry of Science and Technology of Pakistan",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Pakistan Ministry of Science and Technology",
-            "types": [
-                "alias"
-            ],
-            "lang": null
-        },
-        {
-            "value": "\u0648\u0632\u0627\u0631\u062a \u0633\u0627\u0626\u0646\u0633 \u0648 \u0679\u06cc\u06a9\u0646\u0627\u0644\u0648\u062c\u06cc",
-            "types": [
-                "label"
-            ],
-            "lang": "ar"
-        },
-        {
-            "value": "MoST",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "government"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 1176615,
+      "geonames_details": {
+        "country_code": "PK",
+        "country_name": "Pakistan",
+        "lat": 33.72148,
+        "lng": 73.04329,
+        "name": "Islamabad"
+      }
     }
+  ],
+  "established": 1964,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 2230 840X"
+      ],
+      "preferred": "0000 0001 2230 840X"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q4294470"
+      ],
+      "preferred": "Q4294470"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100019473"
+      ],
+      "preferred": "100019473"
+    }
+  ],
+  "id": "https://ror.org/03jn2p430",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://most.gov.pk"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Ministry_of_Science_and_Technology_%28Pakistan%29"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministry of Science and Technology",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Science and Technology, Government of Pakistan",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Science and Technology of Pakistan",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Pakistan Ministry of Science and Technology",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "وزارت سائنس و ٹیکنالوجی",
+      "types": [
+        "label"
+      ],
+      "lang": "ar"
+    },
+    {
+      "value": "MoST",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Government of Pakistan",
+      "type": "Parent",
+      "id": "https://ror.org/00pnp4y96"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

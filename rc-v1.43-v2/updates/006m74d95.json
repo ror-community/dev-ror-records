@@ -1,90 +1,96 @@
 {
-    "locations": [
-        {
-            "geonames_id": 290030,
-            "geonames_details": {
-                "country_code": "QA",
-                "country_name": "Qatar",
-                "lat": 25.28545,
-                "lng": 51.53096,
-                "name": "Doha"
-            }
-        }
-    ],
-    "established": 2008,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0548 1261",
-                "0000 0004 9474 7403"
-            ],
-            "preferred": "0000 0004 0548 1261"
-        },
-        {
-            "type": "wikidata",
-            "all": [
-                "Q890759"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.452115.6"
-            ],
-            "preferred": "grid.452115.6"
-        }
-    ],
-    "id": "https://ror.org/006m74d95",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.qatar.northwestern.edu"
-        },
-        {
-            "type": "wikipedia",
-            "value": "https://en.wikipedia.org/wiki/Northwestern_University_in_Qatar"
-        }
-    ],
-    "names": [
-        {
-            "value": "Northwestern University in Qatar",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Universidad del noroeste",
-            "types": [
-                "label"
-            ],
-            "lang": "es"
-        },
-        {
-            "value": "NU-Q",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "education"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 290030,
+      "geonames_details": {
+        "country_code": "QA",
+        "country_name": "Qatar",
+        "lat": 25.28545,
+        "lng": 51.53096,
+        "name": "Doha"
+      }
     }
+  ],
+  "established": 2008,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0548 1261",
+        "0000 0004 9474 7403"
+      ],
+      "preferred": "0000 0004 0548 1261"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q890759"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.452115.6"
+      ],
+      "preferred": "grid.452115.6"
+    }
+  ],
+  "id": "https://ror.org/006m74d95",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.qatar.northwestern.edu"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Northwestern_University_in_Qatar"
+    }
+  ],
+  "names": [
+    {
+      "value": "Northwestern University in Qatar",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Universidad del noroeste",
+      "types": [
+        "label"
+      ],
+      "lang": "es"
+    },
+    {
+      "value": "NU-Q",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Northwestern University",
+      "type": "Related",
+      "id": "https://ror.org/000e0be47"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }

@@ -1,78 +1,89 @@
 {
-    "locations": [
-        {
-            "geonames_id": 2989204,
-            "geonames_details": {
-                "country_code": "FR",
-                "country_name": "France",
-                "lat": 48.69572,
-                "lng": 2.18727,
-                "name": "Orsay"
-            }
-        }
-    ],
-    "established": 1998,
-    "external_ids": [
-        {
-            "type": "isni",
-            "all": [
-                "0000 0004 0366 8268"
-            ],
-            "preferred": null
-        },
-        {
-            "type": "grid",
-            "all": [
-                "grid.503330.6"
-            ],
-            "preferred": "grid.503330.6"
-        }
-    ],
-    "id": "https://ror.org/00w67e447",
-    "domains": [],
-    "links": [
-        {
-            "type": "website",
-            "value": "https://www.lptms.universite-paris-saclay.fr"
-        }
-    ],
-    "names": [
-        {
-            "value": "Laboratory of Theoretical Physics and Statistical Models",
-            "types": [
-                "ror_display",
-                "label"
-            ],
-            "lang": null
-        },
-        {
-            "value": "Laboratoire de Physique Th\u00e9orique et Mod\u00e8les Statistiques",
-            "types": [
-                "label"
-            ],
-            "lang": "fr"
-        },
-        {
-            "value": "LPTMS",
-            "types": [
-                "acronym"
-            ],
-            "lang": null
-        }
-    ],
-    "relationships": [],
-    "status": "active",
-    "types": [
-        "facility"
-    ],
-    "admin": {
-        "created": {
-            "date": "2024-03-13",
-            "schema_version": "1.0"
-        },
-        "last_modified": {
-            "date": "2024-03-13",
-            "schema_version": "2.0"
-        }
+  "locations": [
+    {
+      "geonames_id": 2989204,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "name": "Orsay"
+      }
     }
+  ],
+  "established": 1998,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0366 8268"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.503330.6"
+      ],
+      "preferred": "grid.503330.6"
+    }
+  ],
+  "id": "https://ror.org/00w67e447",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.lptms.universite-paris-saclay.fr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Laboratory of Theoretical Physics and Statistical Models",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Laboratoire de Physique Théorique et Modèles Statistiques",
+      "types": [
+        "label"
+      ],
+      "lang": "fr"
+    },
+    {
+      "value": "LPTMS",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "University of Paris-Saclay",
+      "type": "Parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-13",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-13",
+      "schema_version": "2.0"
+    }
+  }
 }
