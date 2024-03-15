@@ -71,7 +71,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Charité - Universitätsmedizin Berlin",
+      "type": "parent",
+      "id": "https://ror.org/001w7jn25"
+    }
+  ],
   "status": "active",
   "types": [
     "nonprofit"

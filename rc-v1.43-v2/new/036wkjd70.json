@@ -81,7 +81,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Asahi Kasei (Japan)",
+      "type": "parent",
+      "id": "https://ror.org/018wp0236"
+    }
+  ],
   "status": "active",
   "types": [
     "company"

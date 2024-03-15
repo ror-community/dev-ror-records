@@ -51,6 +51,11 @@
       "label": "Spectrum Health",
       "type": "parent",
       "id": "https://ror.org/02ahxdd04"
+    },
+    {
+      "label": "Corewell Health",
+      "type": "parent",
+      "id": "https://ror.org/02hb5yj49"
     }
   ],
   "status": "active",

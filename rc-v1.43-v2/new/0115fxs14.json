@@ -53,7 +53,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Medical College of Wisconsin",
+      "type": "parent",
+      "id": "https://ror.org/00qqv6244"
+    }
+  ],
   "status": "active",
   "types": [
     "healthcare"

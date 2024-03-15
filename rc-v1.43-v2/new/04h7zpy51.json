@@ -43,7 +43,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Polytechnic Institute of Porto",
+      "type": "parent",
+      "id": "https://ror.org/04988re48"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

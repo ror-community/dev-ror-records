@@ -46,7 +46,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "J.M. Kaplan Fund",
+      "type": "parent",
+      "id": "https://ror.org/03cn98e27"
+    }
+  ],
   "status": "active",
   "types": [
     "nonprofit"

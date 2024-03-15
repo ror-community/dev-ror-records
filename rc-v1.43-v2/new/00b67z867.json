@@ -74,7 +74,13 @@
       "lang": "zh"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Jilin University",
+      "type": "parent",
+      "id": "https://ror.org/00js3aw79"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

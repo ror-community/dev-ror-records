@@ -38,7 +38,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Globus et Locus",
+      "type": "related",
+      "id": "https://ror.org/01ym3w380"
+    }
+  ],
   "status": "active",
   "types": [
     "nonprofit"

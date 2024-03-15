@@ -45,7 +45,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Nvidia (United States)",
+      "type": "parent",
+      "id": "https://ror.org/03jdj4y14"
+    }
+  ],
   "status": "active",
   "types": [
     "company"

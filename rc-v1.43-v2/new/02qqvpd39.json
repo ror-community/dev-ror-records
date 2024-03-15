@@ -39,7 +39,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Klinik für Schweine",
+      "type": "child",
+      "id": "https://ror.org/02am8se85"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

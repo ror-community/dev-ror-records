@@ -53,7 +53,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Johns Hopkins Medicine",
+      "type": "parent",
+      "id": "https://ror.org/037zgn354"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

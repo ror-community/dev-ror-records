@@ -65,6 +65,11 @@
       "label": "Beaumont Health",
       "type": "parent",
       "id": "https://ror.org/05g2hd893"
+    },
+    {
+      "label": "Corewell Health",
+      "type": "parent",
+      "id": "https://ror.org/02hb5yj49"
     }
   ],
   "status": "active",

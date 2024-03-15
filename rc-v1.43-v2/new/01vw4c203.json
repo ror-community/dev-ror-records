@@ -74,7 +74,18 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Imperial College London",
+      "type": "parent",
+      "id": "https://ror.org/041kmwe10"
+    },
+    {
+      "label": "Medical Research Council",
+      "type": "parent",
+      "id": "https://ror.org/03x94j517"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

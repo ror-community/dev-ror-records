@@ -1,0 +1,105 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1841,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 0367 1221"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "501100004267"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q7373582"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.416075.1"
+      ],
+      "preferred": "grid.416075.1",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/00carf720",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.rah.sa.gov.au/homepage.php"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Royal_Adelaide_Hospital"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "AU",
+        "country_name": "Australia",
+        "lat": -34.920619,
+        "lng": 138.608363,
+        "name": "Adelaide"
+      },
+      "geonames_id": 2078025
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Royal Adelaide Hospital"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "RAH"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Hanson Institute",
+      "type": "related",
+      "id": "https://ror.org/047kx5j58"
+    },
+    {
+      "label": "University of Adelaide",
+      "type": "related",
+      "id": "https://ror.org/00892tw58"
+    },
+    {
+      "label": "Central Adelaide Local Health Network",
+      "type": "parent",
+      "id": "https://ror.org/02r40rn49"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}

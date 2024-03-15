@@ -106,6 +106,11 @@
       "label": "Cliniques Universitaires Saint-Luc",
       "type": "related",
       "id": "https://ror.org/03s4khd80"
+    },
+    {
+      "label": "UCLouvain Saint-Louis Brussels",
+      "type": "child",
+      "id": "https://ror.org/02ygek028"
     }
   ],
   "status": "active",
