@@ -7,7 +7,7 @@
         "country_name": "France",
         "lat": 48.79395,
         "lng": 2.49323,
-        "name": "Saint-Maur-des-Foss\u00e9s"
+        "name": "Saint-Maur-des-Fossés"
       }
     }
   ],
@@ -67,32 +67,32 @@
       "id": "https://ror.org/02feahw73"
     },
     {
-      "label": "Astrophysique, Instrumentation et Mod\u00e9lisation",
+      "label": "Astrophysique, Instrumentation et Modélisation",
       "type": "child",
       "id": "https://ror.org/0015h8611"
     },
     {
-      "label": "Besan\u00e7on Astronomical Observatory",
+      "label": "Besançon Astronomical Observatory",
       "type": "child",
       "id": "https://ror.org/032582s48"
     },
     {
-      "label": "Centre National de Recherches M\u00e9t\u00e9orologiques",
+      "label": "Centre National de Recherches Météorologiques",
       "type": "child",
       "id": "https://ror.org/004rej139"
     },
     {
-      "label": "Centre d'\u00c9tudes Spatiales de la Biosph\u00e8re",
+      "label": "Centre d'Études Spatiales de la Biosphère",
       "type": "child",
       "id": "https://ror.org/01225hq90"
     },
     {
-      "label": "Centre de Formation et de Recherche sur les Environnements M\u00e9diterran\u00e9ens",
+      "label": "Centre de Formation et de Recherche sur les Environnements Méditerranéens",
       "type": "child",
       "id": "https://ror.org/01jt5ms28"
     },
     {
-      "label": "Centre de Recherches P\u00e9trographiques et G\u00e9ochimiques",
+      "label": "Centre de Recherches Pétrographiques et Géochimiques",
       "type": "child",
       "id": "https://ror.org/011nqat45"
     },
@@ -112,7 +112,7 @@
       "id": "https://ror.org/01s48fc08"
     },
     {
-      "label": "Environnements et Pal\u00e9oenvironnements Oc\u00e9aniques et Continentaux",
+      "label": "Environnements et Paléoenvironnements Océaniques et Continentaux",
       "type": "child",
       "id": "https://ror.org/01tsa0x55"
     },
@@ -122,27 +122,22 @@
       "id": "https://ror.org/01920cw75"
     },
     {
-      "label": "G\u00e9oazur",
+      "label": "Géoazur",
       "type": "child",
       "id": "https://ror.org/05xtktk35"
     },
     {
-      "label": "Geosciences Paris Sud",
-      "type": "child",
-      "id": "https://ror.org/03s92mv58"
-    },
-    {
-      "label": "G\u00e9osciences Environnement Toulouse",
+      "label": "Géosciences Environnement Toulouse",
       "type": "child",
       "id": "https://ror.org/05k0qmv73"
     },
     {
-      "label": "G\u00e9osciences Montpellier",
+      "label": "Géosciences Montpellier",
       "type": "child",
       "id": "https://ror.org/024gts110"
     },
     {
-      "label": "G\u00e9osciences Rennes",
+      "label": "Géosciences Rennes",
       "type": "child",
       "id": "https://ror.org/00vn0zc62"
     },
@@ -162,7 +157,7 @@
       "id": "https://ror.org/022bnxw24"
     },
     {
-      "label": "Institut de M\u00e9canique C\u00e9leste et de Calcul des \u00c9ph\u00e9m\u00e9rides",
+      "label": "Institut de Mécanique Céleste et de Calcul des Éphémérides",
       "type": "child",
       "id": "https://ror.org/002zc3t08"
     },
@@ -197,7 +192,7 @@
       "id": "https://ror.org/00r8amq78"
     },
     {
-      "label": "Laboratoire Interuniversitaire des Syst\u00e8mes Atmosph\u00e9riques",
+      "label": "Laboratoire Interuniversitaire des Systèmes Atmosphériques",
       "type": "child",
       "id": "https://ror.org/046cjf283"
     },
@@ -207,47 +202,47 @@
       "id": "https://ror.org/02vnq7240"
     },
     {
-      "label": "Laboratoire d'A\u00e9rologie",
+      "label": "Laboratoire d'Aérologie",
       "type": "child",
       "id": "https://ror.org/017d9yp59"
     },
     {
-      "label": "Laboratoire d'Oc\u00e9anographie et du Climat : Exp\u00e9rimentations et Approches Num\u00e9riques",
+      "label": "Laboratoire d'Océanographie et du Climat : Expérimentations et Approches Numériques",
       "type": "child",
       "id": "https://ror.org/05j3atf73"
     },
     {
-      "label": "Laboratoire d'Optique Atmosph\u00e9rique",
+      "label": "Laboratoire d'Optique Atmosphérique",
       "type": "child",
       "id": "https://ror.org/02mdnkg28"
     },
     {
-      "label": "Laboratoire de G\u00e9ologie de Lyon : Terre, Plan\u00e8tes et Environnement",
+      "label": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
       "type": "child",
       "id": "https://ror.org/04t89f389"
     },
     {
-      "label": "Laboratoire de G\u00e9ologie de l\u2019\u00c9cole Normale Sup\u00e9rieure",
+      "label": "Laboratoire de Géologie de l’École Normale Supérieure",
       "type": "child",
       "id": "https://ror.org/05vg9cw43"
     },
     {
-      "label": "Laboratoire de M\u00e9t\u00e9orologie Dynamique",
+      "label": "Laboratoire de Météorologie Dynamique",
       "type": "child",
       "id": "https://ror.org/000ehr937"
     },
     {
-      "label": "Laboratoire de M\u00e9t\u00e9orologie Physique",
+      "label": "Laboratoire de Météorologie Physique",
       "type": "child",
       "id": "https://ror.org/03gz4y884"
     },
     {
-      "label": "Laboratoire de Plan\u00e9tologie et G\u00e9osciences",
+      "label": "Laboratoire de Planétologie et Géosciences",
       "type": "child",
       "id": "https://ror.org/04fm0sh33"
     },
     {
-      "label": "Laboratoire de l'Atmosph\u00e8re et des Cyclones",
+      "label": "Laboratoire de l'Atmosphère et des Cyclones",
       "type": "child",
       "id": "https://ror.org/03wsemq03"
     },
@@ -257,12 +252,12 @@
       "id": "https://ror.org/03dsd0g48"
     },
     {
-      "label": "Laboratoire d\u2019Astrophysique de Marseille",
+      "label": "Laboratoire d’Astrophysique de Marseille",
       "type": "child",
       "id": "https://ror.org/00ssy9q55"
     },
     {
-      "label": "Laboratoire d\u2019Oc\u00e9anologie et de G\u00e9osciences",
+      "label": "Laboratoire d’Océanologie et de Géosciences",
       "type": "child",
       "id": "https://ror.org/05m14rs93"
     },
@@ -282,7 +277,7 @@
       "id": "https://ror.org/03rtw5049"
     },
     {
-      "label": "Laboratoire d\u2019Etudes du Rayonnement et de la Mati\u00e8re en Astrophysique et Atmosph\u00e8res",
+      "label": "Laboratoire d’Etudes du Rayonnement et de la Matière en Astrophysique et Atmosphères",
       "type": "child",
       "id": "https://ror.org/01g5pq328"
     },
@@ -292,12 +287,12 @@
       "id": "https://ror.org/00yee3n23"
     },
     {
-      "label": "Laboratoire d'Oc\u00e9anographie Microbienne",
+      "label": "Laboratoire d'Océanographie Microbienne",
       "type": "child",
       "id": "https://ror.org/05nk54s89"
     },
     {
-      "label": "Laboratoire d\u2019\u00e9tudes spatiales et d\u2019instrumentation en astrophysique",
+      "label": "Laboratoire d’études spatiales et d’instrumentation en astrophysique",
       "type": "child",
       "id": "https://ror.org/02eptjh02"
     },
@@ -317,7 +312,7 @@
       "id": "https://ror.org/03qma7a12"
     },
     {
-      "label": "Observatoire des Sciences de l'Univers de la R\u00e9union",
+      "label": "Observatoire des Sciences de l'Univers de la Réunion",
       "type": "child",
       "id": "https://ror.org/05mv3tj33"
     },
@@ -337,12 +332,12 @@
       "id": "https://ror.org/05hm2ja81"
     },
     {
-      "label": "Syst\u00e8mes de R\u00e9f\u00e9rence Temps-Espace",
+      "label": "Systèmes de Référence Temps-Espace",
       "type": "child",
       "id": "https://ror.org/03tdef037"
     },
     {
-      "label": "Laboratoire d\u2019Oc\u00e9anographie de Villefranche",
+      "label": "Laboratoire d’Océanographie de Villefranche",
       "type": "child",
       "id": "https://ror.org/05r5y6641"
     },
@@ -357,7 +352,7 @@
       "id": "https://ror.org/03vte9x46"
     },
     {
-      "label": "\u00c9cole & Observatoire des Sciences de la Terre",
+      "label": "École & Observatoire des Sciences de la Terre",
       "type": "child",
       "id": "https://ror.org/030qxve40"
     },
