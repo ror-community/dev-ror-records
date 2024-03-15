@@ -1,0 +1,71 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1645875,
+      "geonames_details": {
+        "country_code": "ID",
+        "country_name": "Indonesia",
+        "lat": -3.4703,
+        "lng": 102.5207,
+        "name": "Curup"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q109912911"
+      ],
+      "preferred": "Q109912911"
+    }
+  ],
+  "id": "https://ror.org/01cjqyj20",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://iaincurup.ac.id"
+    }
+  ],
+  "names": [
+    {
+      "value": "Institut Agama Islam Negeri Curup",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "IAIN Curup",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Curup State Islamic Religious Institute",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

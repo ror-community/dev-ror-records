@@ -1,0 +1,77 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2643743,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.50853,
+        "lng": -0.12574,
+        "name": "London"
+      }
+    }
+  ],
+  "established": 1999,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q45137372"
+      ],
+      "preferred": "Q45137372"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100003263"
+      ],
+      "preferred": "501100003263"
+    }
+  ],
+  "id": "https://ror.org/043xqa828",
+  "domains": [],
+  "links": [
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Scottish_Office"
+    }
+  ],
+  "names": [
+    {
+      "value": "Scottish Home and Health Department",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Scottish Office Home and Health Department",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Parliament of United Kingdom",
+      "type": "parent",
+      "id": "https://ror.org/03t61s708"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "locations": [
+    {
+      "geonames_id": 3016078,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.68333,
+        "lng": 2.13333,
+        "name": "Gif-sur-Yvette"
+      }
+    }
+  ],
+  "established": 1998,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0390 3862"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q30261615"
+      ],
+      "preferred": "Q30261615"
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.462965.a"
+      ],
+      "preferred": "grid.462965.a"
+    }
+  ],
+  "id": "https://ror.org/02xnnng09",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.centralesupelec.fr/fr/geeps-group-electrical-engineering-paris"
+    }
+  ],
+  "names": [
+    {
+      "value": "Laboratoire de Génie Électrique et Électronique de Paris",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Group of Electrical Engineering - Paris Laboratory",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Group of Electrical Engineering - Paris",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "GeePs",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Sorbonne Université",
+      "type": "parent",
+      "id": "https://ror.org/02en5vm52"
+    },
+    {
+      "label": "CentraleSupélec",
+      "type": "parent",
+      "id": "https://ror.org/019tcpt25"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}
