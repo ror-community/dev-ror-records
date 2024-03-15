@@ -47,7 +47,7 @@
       "lang": null
     },
     {
-      "value": "宁夏林业研究院股份有限公司",
+      "value": "\u5b81\u590f\u6797\u4e1a\u7814\u7a76\u9662\u80a1\u4efd\u6709\u9650\u516c\u53f8",
       "types": [
         "label"
       ],
@@ -61,11 +61,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

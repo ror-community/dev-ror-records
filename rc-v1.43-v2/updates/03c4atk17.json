@@ -50,7 +50,7 @@
   ],
   "names": [
     {
-      "value": "Università della Svizzera italiana",
+      "value": "Universit\u00e0 della Svizzera italiana",
       "types": [
         "ror_display",
         "label"
@@ -72,7 +72,7 @@
       "lang": null
     },
     {
-      "value": "Université de la Suisse italienne",
+      "value": "Universit\u00e9 de la Suisse italienne",
       "types": [
         "alias"
       ],
@@ -95,24 +95,9 @@
   ],
   "relationships": [
     {
-      "label": "Institute of Oncology Research",
-      "type": "child",
-      "id": "https://ror.org/01dpyn972"
-    },
-    {
-      "label": "Institute for Research in Biomedicine",
-      "type": "child",
-      "id": "https://ror.org/05gfswd81"
-    },
-    {
       "label": "Dalle Molle Institute for Artificial Intelligence Research",
       "type": "child",
       "id": "https://ror.org/013355g38"
-    },
-    {
-      "label": "Facoltà di Teologia di Lugano",
-      "type": "child",
-      "id": "https://ror.org/02k3baz05"
     }
   ],
   "status": "active",
@@ -121,11 +106,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

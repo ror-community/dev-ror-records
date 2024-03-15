@@ -72,11 +72,6 @@
       "label": "Ames National Laboratory",
       "type": "parent",
       "id": "https://ror.org/041m9xr71"
-    },
-    {
-      "label": "Office of Basic Energy Sciences",
-      "type": "successor",
-      "id": "https://ror.org/05mg91w61"
     }
   ],
   "status": "withdrawn",
@@ -85,11 +80,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

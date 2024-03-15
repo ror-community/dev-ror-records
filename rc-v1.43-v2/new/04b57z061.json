@@ -60,24 +60,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of California, San Diego",
-      "type": "parent",
-      "id": "https://ror.org/0168r3w48"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

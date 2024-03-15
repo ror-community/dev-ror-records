@@ -78,7 +78,7 @@
       "lang": null
     },
     {
-      "value": "وزارت سائنس و ٹیکنالوجی",
+      "value": "\u0648\u0632\u0627\u0631\u062a \u0633\u0627\u0626\u0646\u0633 \u0648 \u0679\u06cc\u06a9\u0646\u0627\u0644\u0648\u062c\u06cc",
       "types": [
         "label"
       ],
@@ -92,24 +92,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Government of Pakistan",
-      "type": "parent",
-      "id": "https://ror.org/00pnp4y96"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

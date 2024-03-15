@@ -58,7 +58,7 @@
   ],
   "names": [
     {
-      "value": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+      "value": "Bundesministerium f\u00fcr Klimaschutz, Umwelt, Energie, Mobilit\u00e4t, Innovation und Technologie",
       "types": [
         "ror_display",
         "label"
@@ -94,7 +94,7 @@
       "lang": null
     },
     {
-      "value": "Bundesministerium für Verkehr, Innovation und Technologie",
+      "value": "Bundesministerium f\u00fcr Verkehr, Innovation und Technologie",
       "types": [
         "alias"
       ],
@@ -122,11 +122,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

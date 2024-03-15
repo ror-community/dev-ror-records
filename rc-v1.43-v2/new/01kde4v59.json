@@ -74,24 +74,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "European Institute of Innovation and Technology",
-      "type": "parent",
-      "id": "https://ror.org/036dxts37"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "other"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -31,7 +31,7 @@
       "lang": null
     },
     {
-      "value": "InnoRenew CoE Center odličnosti za raziskave in inovacije na področju obnovljivih materialov in zdravega bivanjskega okolja",
+      "value": "InnoRenew CoE Center odli\u010dnosti za raziskave in inovacije na podro\u010dju obnovljivih materialov in zdravega bivanjskega okolja",
       "types": [
         "alias"
       ],
@@ -45,11 +45,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

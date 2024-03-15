@@ -67,7 +67,7 @@
       "lang": null
     },
     {
-      "value": "Centre international d'études supérieures en sciences agronomiques",
+      "value": "Centre international d'\u00e9tudes sup\u00e9rieures en sciences agronomiques",
       "types": [
         "label"
       ],
@@ -91,7 +91,7 @@
       "id": "https://ror.org/05r332y60"
     },
     {
-      "label": "Centre d'Écologie Fonctionnelle et Évolutive",
+      "label": "Centre d'\u00c9cologie Fonctionnelle et \u00c9volutive",
       "type": "child",
       "id": "https://ror.org/008rywf59"
     },
@@ -121,12 +121,12 @@
       "id": "https://ror.org/0262br971"
     },
     {
-      "label": "Laboratoire d'Écophysiologie Moléculaire des Plantes sous Stress Environnementaux",
+      "label": "Laboratoire d'\u00c9cophysiologie Mol\u00e9culaire des Plantes sous Stress Environnementaux",
       "type": "child",
       "id": "https://ror.org/03fte3n86"
     },
     {
-      "label": "Laboratoire des Symbioses Tropicales et Méditerranéennes",
+      "label": "Laboratoire des Symbioses Tropicales et M\u00e9diterran\u00e9ennes",
       "type": "child",
       "id": "https://ror.org/05q94pf14"
     },
@@ -136,12 +136,12 @@
       "id": "https://ror.org/011xg1225"
     },
     {
-      "label": "Mathématiques, Informatique et Statistique pour l'Environnement et l'Agronomie",
+      "label": "Math\u00e9matiques, Informatique et Statistique pour l'Environnement et l'Agronomie",
       "type": "child",
       "id": "https://ror.org/01pd2sz18"
     },
     {
-      "label": "Sciences pour L’Œnologie",
+      "label": "Sciences pour L\u2019\u0152nologie",
       "type": "child",
       "id": "https://ror.org/04w07sc25"
     },
@@ -156,7 +156,7 @@
       "id": "https://ror.org/033x0mt18"
     },
     {
-      "label": "Laboratoire interdisciplinaire de recherche en didactique, éducation et formation",
+      "label": "Laboratoire interdisciplinaire de recherche en didactique, \u00e9ducation et formation",
       "type": "child",
       "id": "https://ror.org/03kbarg82"
     }
@@ -167,11 +167,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

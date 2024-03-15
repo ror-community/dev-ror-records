@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Fundación Tripartita para la Formación en el Empleo",
+      "value": "Fundaci\u00f3n Tripartita para la Formaci\u00f3n en el Empleo",
       "types": [
         "ror_display",
         "label"
@@ -53,11 +53,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

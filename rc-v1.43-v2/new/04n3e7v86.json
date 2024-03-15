@@ -45,21 +45,21 @@
       "lang": null
     },
     {
-      "value": "苏州大学附属第四医院",
+      "value": "\u82cf\u5dde\u5927\u5b66\u9644\u5c5e\u7b2c\u56db\u533b\u9662",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "苏州市独墅湖医院",
+      "value": "\u82cf\u5dde\u5e02\u72ec\u5885\u6e56\u533b\u9662",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "苏州大学附属第四医院 (苏州市独墅湖医院)",
+      "value": "\u82cf\u5dde\u5927\u5b66\u9644\u5c5e\u7b2c\u56db\u533b\u9662 (\u82cf\u5dde\u5e02\u72ec\u5885\u6e56\u533b\u9662)",
       "types": [
         "label"
       ],
@@ -80,11 +80,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

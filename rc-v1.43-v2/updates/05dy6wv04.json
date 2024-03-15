@@ -46,29 +46,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Inserm",
-      "type": "parent",
-      "id": "https://ror.org/02vjkv261"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

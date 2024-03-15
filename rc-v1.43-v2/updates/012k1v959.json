@@ -57,21 +57,21 @@
       "lang": null
     },
     {
-      "value": "Hochschule München",
+      "value": "Hochschule M\u00fcnchen",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Hochschule für angewandte Wissenschaften München",
+      "value": "Hochschule f\u00fcr angewandte Wissenschaften M\u00fcnchen",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Hochschule München University of Applied Sciences",
+      "value": "Hochschule M\u00fcnchen University of Applied Sciences",
       "types": [
         "label"
       ],
@@ -92,11 +92,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

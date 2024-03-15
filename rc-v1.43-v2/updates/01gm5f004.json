@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "Centro de Investigación Biomédica en Red en Bioingeniería, Biomateriales y Nanomedicina",
+      "value": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red en Bioingenier\u00eda, Biomateriales y Nanomedicina",
       "types": [
         "label"
       ],
@@ -74,11 +74,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

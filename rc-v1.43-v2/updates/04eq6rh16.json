@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Sociedad Española de Bioquímica y Biología Molecular",
+      "value": "Sociedad Espa\u00f1ola de Bioqu\u00edmica y Biolog\u00eda Molecular",
       "types": [
         "label"
       ],
@@ -67,11 +67,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

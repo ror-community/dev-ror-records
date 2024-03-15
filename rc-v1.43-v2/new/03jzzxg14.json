@@ -85,34 +85,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University Hospitals Bristol NHS Foundation Trust",
-      "type": "predecessor",
-      "id": "https://ror.org/04nm1cv11"
-    },
-    {
-      "label": "Weston Area Health NHS Trust",
-      "type": "predecessor",
-      "id": "https://ror.org/03fpf5m04"
-    },
-    {
-      "label": "Weston General Hospital",
-      "type": "child",
-      "id": "https://ror.org/03mc19e15"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "healthcare"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

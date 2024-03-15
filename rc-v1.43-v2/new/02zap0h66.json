@@ -35,7 +35,7 @@
   ],
   "names": [
     {
-      "value": "Centre intégré de santé et de services sociaux de Lanaudière",
+      "value": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de Lanaudi\u00e8re",
       "types": [
         "ror_display",
         "label"
@@ -43,7 +43,7 @@
       "lang": null
     },
     {
-      "value": "CISSS de Lanaudière",
+      "value": "CISSS de Lanaudi\u00e8re",
       "types": [
         "alias"
       ],
@@ -57,11 +57,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

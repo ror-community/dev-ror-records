@@ -7,7 +7,7 @@
         "country_name": "Spain",
         "lat": 41.35,
         "lng": 2.08333,
-        "name": "Cornellà de Llobregat"
+        "name": "Cornell\u00e0 de Llobregat"
       }
     }
   ],
@@ -46,24 +46,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Ateknea Solutions (Spain)",
-      "type": "successor",
-      "id": "https://ror.org/01m260238"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "other"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

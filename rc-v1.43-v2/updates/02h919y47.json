@@ -64,7 +64,7 @@
       "lang": null
     },
     {
-      "value": "Europäische Organisation für die Nutzung meteorologischer Satelliten",
+      "value": "Europ\u00e4ische Organisation f\u00fcr die Nutzung meteorologischer Satelliten",
       "types": [
         "label"
       ],
@@ -85,11 +85,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

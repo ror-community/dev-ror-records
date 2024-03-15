@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "Stiftung Charité",
+      "value": "Stiftung Charit\u00e9",
       "types": [
         "ror_display",
         "label"
@@ -57,38 +57,32 @@
       "lang": null
     },
     {
-      "value": "Charité Foundation",
+      "value": "Charit\u00e9 Foundation",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Die Stiftung Charité",
+      "value": "Die Stiftung Charit\u00e9",
       "types": [
         "alias"
       ],
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Charité - Universitätsmedizin Berlin",
-      "type": "parent",
-      "id": "https://ror.org/001w7jn25"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

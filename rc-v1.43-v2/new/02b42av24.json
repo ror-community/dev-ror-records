@@ -38,7 +38,7 @@
       "lang": null
     },
     {
-      "value": "Институт сельского хозяйства и агротехнологий Каракалпакстана",
+      "value": "\u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0430 \u0438 \u0430\u0433\u0440\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u041a\u0430\u0440\u0430\u043a\u0430\u043b\u043f\u0430\u043a\u0441\u0442\u0430\u043d\u0430",
       "types": [
         "label"
       ],
@@ -52,7 +52,7 @@
       "lang": "uz"
     },
     {
-      "value": "Qaraqalpaqstan awıl xojalıǵı hám agrotexnologiyalar institutı",
+      "value": "Qaraqalpaqstan aw\u0131l xojal\u0131\u01f5\u0131 h\u00e1m agrotexnologiyalar institut\u0131",
       "types": [
         "label"
       ],
@@ -73,11 +73,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

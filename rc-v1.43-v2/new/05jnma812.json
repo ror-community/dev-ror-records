@@ -60,24 +60,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Administration for Children and Families",
-      "type": "parent",
-      "id": "https://ror.org/00g8hms52"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

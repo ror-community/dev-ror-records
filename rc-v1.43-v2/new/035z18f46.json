@@ -38,31 +38,25 @@
       "lang": null
     },
     {
-      "value": "量子光学与光量子器件国家重点实验室",
+      "value": "\u91cf\u5b50\u5149\u5b66\u4e0e\u5149\u91cf\u5b50\u5668\u4ef6\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
       "types": [
         "label"
       ],
       "lang": "zh"
     }
   ],
-  "relationships": [
-    {
-      "label": "Shanxi University",
-      "type": "parent",
-      "id": "https://ror.org/03y3e3s17"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Institut de Chimie Moléculaire et des Matériaux d'Orsay",
+      "value": "Institut de Chimie Mol\u00e9culaire et des Mat\u00e9riaux d'Orsay",
       "types": [
         "ror_display",
         "label"
@@ -53,29 +53,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

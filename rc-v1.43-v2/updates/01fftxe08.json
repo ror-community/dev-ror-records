@@ -60,7 +60,7 @@
       "lang": null
     },
     {
-      "value": "Institut de Biologie Intégrative de la Cellule",
+      "value": "Institut de Biologie Int\u00e9grative de la Cellule",
       "types": [
         "label"
       ],
@@ -81,14 +81,9 @@
       "id": "https://ror.org/00jjx8s55"
     },
     {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
+      "label": "Biology of Extremophiles Laboratory",
+      "type": "child",
+      "id": "https://ror.org/036mest28"
     }
   ],
   "status": "active",
@@ -97,11 +92,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

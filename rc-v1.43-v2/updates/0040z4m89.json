@@ -53,24 +53,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "DRACE GEOCISA S.A. (Spain)",
-      "type": "successor",
-      "id": "https://ror.org/03gf4dx13"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "company"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

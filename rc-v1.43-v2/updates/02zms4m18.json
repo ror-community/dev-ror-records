@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "Fundación ONCE",
+      "value": "Fundaci\u00f3n ONCE",
       "types": [
         "ror_display",
         "label"
@@ -50,7 +50,7 @@
       "lang": null
     },
     {
-      "value": "Fundación ONCE for Cooperation and Social Inclusion of Persons with Disabilities",
+      "value": "Fundaci\u00f3n ONCE for Cooperation and Social Inclusion of Persons with Disabilities",
       "types": [
         "label"
       ],
@@ -71,11 +71,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

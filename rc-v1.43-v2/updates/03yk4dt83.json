@@ -7,7 +7,7 @@
         "country_name": "Spain",
         "lat": 38.99042,
         "lng": -0.51852,
-        "name": "Xàtiva"
+        "name": "X\u00e0tiva"
       }
     }
   ],
@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Hospital Lluís Alcanyís",
+      "value": "Hospital Llu\u00eds Alcany\u00eds",
       "types": [
         "alias"
       ],
@@ -67,14 +67,14 @@
       "lang": null
     },
     {
-      "value": "Departament de Salut Xàtiva Ontinyent",
+      "value": "Departament de Salut X\u00e0tiva Ontinyent",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Departamento de Salud Xàtiva Ontinyent",
+      "value": "Departamento de Salud X\u00e0tiva Ontinyent",
       "types": [
         "alias"
       ],
@@ -88,11 +88,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

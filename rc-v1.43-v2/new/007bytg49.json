@@ -31,14 +31,14 @@
       "lang": null
     },
     {
-      "value": "Institutul de Studii Sud-Est Europene al Academiei Române",
+      "value": "Institutul de Studii Sud-Est Europene al Academiei Rom\u00e2ne",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "The Romanian Academy’s Institute for South-East European Studies",
+      "value": "The Romanian Academy\u2019s Institute for South-East European Studies",
       "types": [
         "alias"
       ],
@@ -52,24 +52,18 @@
       "lang": "en"
     }
   ],
-  "relationships": [
-    {
-      "label": "Romanian Academy",
-      "type": "parent",
-      "id": "https://ror.org/0561n6946"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

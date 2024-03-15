@@ -7,7 +7,7 @@
         "country_name": "Canada",
         "lat": 48.65007,
         "lng": -72.44906,
-        "name": "Saint-Félicien"
+        "name": "Saint-F\u00e9licien"
       }
     }
   ],
@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "Cégep de Saint-Félicien",
+      "value": "C\u00e9gep de Saint-F\u00e9licien",
       "types": [
         "ror_display",
         "label"
@@ -57,11 +57,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

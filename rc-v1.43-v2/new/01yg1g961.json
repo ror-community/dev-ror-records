@@ -27,7 +27,7 @@
   ],
   "names": [
     {
-      "value": "Universidad Nacional de Educación",
+      "value": "Universidad Nacional de Educaci\u00f3n",
       "types": [
         "ror_display",
         "label"
@@ -42,14 +42,14 @@
       "lang": null
     },
     {
-      "value": "Universidad Nacional De Educación, Ecuador",
+      "value": "Universidad Nacional De Educaci\u00f3n, Ecuador",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Universidad Nacional de Educación del Ecuador",
+      "value": "Universidad Nacional de Educaci\u00f3n del Ecuador",
       "types": [
         "alias"
       ],
@@ -70,11 +70,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

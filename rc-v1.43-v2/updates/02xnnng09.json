@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Laboratoire de Génie Électrique et Électronique de Paris",
+      "value": "Laboratoire de G\u00e9nie \u00c9lectrique et \u00c9lectronique de Paris",
       "types": [
         "ror_display",
         "label"
@@ -76,24 +76,9 @@
   ],
   "relationships": [
     {
-      "label": "Sorbonne Université",
+      "label": "Sorbonne Universit\u00e9",
       "type": "parent",
       "id": "https://ror.org/02en5vm52"
-    },
-    {
-      "label": "CentraleSupélec",
-      "type": "parent",
-      "id": "https://ror.org/019tcpt25"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -102,11 +87,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

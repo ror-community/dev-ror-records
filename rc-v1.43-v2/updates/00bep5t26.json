@@ -57,7 +57,7 @@
       "lang": null
     },
     {
-      "value": "Bibliotèca de Catalonha",
+      "value": "Bibliot\u00e8ca de Catalonha",
       "types": [
         "label"
       ],
@@ -85,7 +85,7 @@
       "lang": "gl"
     },
     {
-      "value": "Biblioteca de Cataluña",
+      "value": "Biblioteca de Catalu\u00f1a",
       "types": [
         "label"
       ],
@@ -99,11 +99,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

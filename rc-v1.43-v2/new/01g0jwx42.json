@@ -23,7 +23,7 @@
   ],
   "names": [
     {
-      "value": "Instituto Politécnico do Rio de Janeiro",
+      "value": "Instituto Polit\u00e9cnico do Rio de Janeiro",
       "types": [
         "ror_display",
         "label"
@@ -31,14 +31,14 @@
       "lang": null
     },
     {
-      "value": "Instituto Politécnico da Universidade do Estado do Rio de Janeiro",
+      "value": "Instituto Polit\u00e9cnico da Universidade do Estado do Rio de Janeiro",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "UERJ - Instituto Politécnico",
+      "value": "UERJ - Instituto Polit\u00e9cnico",
       "types": [
         "alias"
       ],
@@ -73,24 +73,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Rio de Janeiro State University",
-      "type": "parent",
-      "id": "https://ror.org/0198v2949"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

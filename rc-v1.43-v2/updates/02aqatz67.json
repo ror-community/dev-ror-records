@@ -74,14 +74,14 @@
       "lang": null
     },
     {
-      "value": "湘电集团",
+      "value": "\u6e58\u7535\u96c6\u56e2",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "湘潭电机股份有限公司",
+      "value": "\u6e58\u6f6d\u7535\u673a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
       "types": [
         "label"
       ],
@@ -102,11 +102,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

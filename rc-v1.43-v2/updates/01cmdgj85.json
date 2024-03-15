@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "SADAPT Science Action Développement - Activités Produits Territoires",
+      "value": "SADAPT Science Action D\u00e9veloppement - Activit\u00e9s Produits Territoires",
       "types": [
         "ror_display",
         "label"
@@ -39,7 +39,7 @@
       "lang": null
     },
     {
-      "value": "Sciences pour l'Action et le Développement : Activités, Produits, Territoires",
+      "value": "Sciences pour l'Action et le D\u00e9veloppement : Activit\u00e9s, Produits, Territoires",
       "types": [
         "alias"
       ],
@@ -71,11 +71,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

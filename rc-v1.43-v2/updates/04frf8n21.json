@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "Kyrgyz-Türkish Manas Üniversity",
+      "value": "Kyrgyz-T\u00fcrkish Manas \u00dcniversity",
       "types": [
         "ror_display",
         "label"
@@ -71,21 +71,21 @@
       "lang": null
     },
     {
-      "value": "Kırgızistan-Türkiye Manas Üniversitesi",
+      "value": "K\u0131rg\u0131zistan-T\u00fcrkiye Manas \u00dcniversitesi",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Кыргыз-Түрк «Манас» университети",
+      "value": "\u041a\u044b\u0440\u0433\u044b\u0437-\u0422\u04af\u0440\u043a \u00ab\u041c\u0430\u043d\u0430\u0441\u00bb \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0438",
       "types": [
         "label"
       ],
       "lang": "ky"
     },
     {
-      "value": "Кыргызско-Турецкий университет «Манас»",
+      "value": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u043e-\u0422\u0443\u0440\u0435\u0446\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u00ab\u041c\u0430\u043d\u0430\u0441\u00bb",
       "types": [
         "label"
       ],
@@ -106,11 +106,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

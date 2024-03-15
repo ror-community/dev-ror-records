@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Fundació Salut i Envelliment UAB",
+      "value": "Fundaci\u00f3 Salut i Envelliment UAB",
       "types": [
         "ror_display",
         "label"
@@ -48,7 +48,7 @@
   ],
   "relationships": [
     {
-      "label": "Universitat Autònoma de Barcelona",
+      "label": "Universitat Aut\u00f2noma de Barcelona",
       "type": "related",
       "id": "https://ror.org/052g8jq94"
     }
@@ -59,11 +59,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

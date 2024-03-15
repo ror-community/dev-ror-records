@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Fundación para la innovación tecnológica",
+      "value": "Fundaci\u00f3n para la innovaci\u00f3n tecnol\u00f3gica",
       "types": [
         "ror_display",
         "label"
@@ -60,11 +60,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -71,14 +71,14 @@
       "lang": null
     },
     {
-      "value": "Université Paris-Sud",
+      "value": "Universit\u00e9 Paris-Sud",
       "types": [
         "label"
       ],
       "lang": "fr"
     },
     {
-      "value": "Universitat de París Sud",
+      "value": "Universitat de Par\u00eds Sud",
       "types": [
         "label"
       ],
@@ -87,7 +87,7 @@
   ],
   "relationships": [
     {
-      "label": "Hôpital Marie Lannelongue",
+      "label": "H\u00f4pital Marie Lannelongue",
       "type": "related",
       "id": "https://ror.org/02ndr3r66"
     },
@@ -97,7 +97,7 @@
       "id": "https://ror.org/036mest28"
     },
     {
-      "label": "Stabilité génétique et oncogenèse",
+      "label": "Genetic Stability and Oncogenesis",
       "type": "child",
       "id": "https://ror.org/055s8hs34"
     },
@@ -110,11 +110,6 @@
       "label": "Laboratory Signaling and Cardiovascular Pathophysiology",
       "type": "child",
       "id": "https://ror.org/04bkzce69"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "successor",
-      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "inactive",
@@ -123,11 +118,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

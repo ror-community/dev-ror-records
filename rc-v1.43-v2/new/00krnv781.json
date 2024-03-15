@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Réseau de Recherche en Santé Buccodentaire et Osseuse",
+      "value": "R\u00e9seau de Recherche en Sant\u00e9 Buccodentaire et Osseuse",
       "types": [
         "ror_display",
         "label"
@@ -74,11 +74,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

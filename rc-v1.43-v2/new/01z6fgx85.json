@@ -78,7 +78,7 @@
       "lang": null
     },
     {
-      "value": "国家能源投资集团",
+      "value": "\u56fd\u5bb6\u80fd\u6e90\u6295\u8d44\u96c6\u56e2",
       "types": [
         "label"
       ],
@@ -92,11 +92,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -74,19 +74,14 @@
       "id": "https://ror.org/00jjx8s55"
     },
     {
-      "label": "Sorbonne Université",
+      "label": "Sorbonne Universit\u00e9",
       "type": "parent",
       "id": "https://ror.org/02en5vm52"
     },
     {
-      "label": "École Polytechnique",
+      "label": "\u00c9cole Polytechnique",
       "type": "parent",
       "id": "https://ror.org/05hy3tk52"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -95,11 +90,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

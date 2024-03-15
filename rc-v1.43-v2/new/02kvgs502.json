@@ -45,7 +45,7 @@
       "lang": null
     },
     {
-      "value": "英利能源科技集团",
+      "value": "\u82f1\u5229\u80fd\u6e90\u79d1\u6280\u96c6\u56e2",
       "types": [
         "label"
       ],
@@ -59,11 +59,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

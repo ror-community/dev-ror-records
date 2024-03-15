@@ -35,7 +35,7 @@
   ],
   "names": [
     {
-      "value": "Ministerio para la Transformación Digital y de la Función Pública",
+      "value": "Ministerio para la Transformaci\u00f3n Digital y de la Funci\u00f3n P\u00fablica",
       "types": [
         "ror_display",
         "label"
@@ -43,7 +43,7 @@
       "lang": null
     },
     {
-      "value": "Ministerio para la Transformación Digital y de la Función Pública de España",
+      "value": "Ministerio para la Transformaci\u00f3n Digital y de la Funci\u00f3n P\u00fablica de Espa\u00f1a",
       "types": [
         "alias"
       ],
@@ -71,24 +71,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Ministerio de Asuntos Económicos y Transformación Digital",
-      "type": "predecessor",
-      "id": "https://ror.org/03sv46s19"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -64,14 +64,14 @@
       "lang": null
     },
     {
-      "value": "Teologiska högskolan Stockholm",
+      "value": "Teologiska h\u00f6gskolan Stockholm",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Enskilda Högskolan Stockholm",
+      "value": "Enskilda H\u00f6gskolan Stockholm",
       "types": [
         "label"
       ],
@@ -99,11 +99,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

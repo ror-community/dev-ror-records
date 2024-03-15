@@ -7,7 +7,7 @@
         "country_name": "Philippines",
         "lat": 14.17025,
         "lng": 121.24181,
-        "name": "Los Baños"
+        "name": "Los Ba\u00f1os"
       }
     }
   ],
@@ -71,24 +71,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Department of Science and Technology",
-      "type": "parent",
-      "id": "https://ror.org/05tgxx705"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

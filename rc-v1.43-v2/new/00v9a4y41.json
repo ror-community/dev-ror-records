@@ -43,7 +43,7 @@
       "lang": null
     },
     {
-      "value": "Centre de recherches sur les écosystèmes d'altitude",
+      "value": "Centre de recherches sur les \u00e9cosyst\u00e8mes d'altitude",
       "types": [
         "alias"
       ],
@@ -64,11 +64,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

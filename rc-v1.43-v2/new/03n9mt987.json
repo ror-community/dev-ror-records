@@ -35,7 +35,7 @@
   ],
   "names": [
     {
-      "value": "Centre intégré universitaire de santé et de services sociaux du Nord-de-l’Île-de-Montréal",
+      "value": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux du Nord-de-l\u2019\u00cele-de-Montr\u00e9al",
       "types": [
         "ror_display",
         "label"
@@ -43,7 +43,7 @@
       "lang": null
     },
     {
-      "value": "CIUSSS du Nord-de-l'Île-de-Montréal",
+      "value": "CIUSSS du Nord-de-l'\u00cele-de-Montr\u00e9al",
       "types": [
         "alias"
       ],
@@ -57,11 +57,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

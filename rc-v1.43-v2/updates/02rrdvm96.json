@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "中科院分子细胞卓越创新中心",
+      "value": "\u4e2d\u79d1\u9662\u5206\u5b50\u7ec6\u80de\u5353\u8d8a\u521b\u65b0\u4e2d\u5fc3",
       "types": [
         "label"
       ],
@@ -73,11 +73,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

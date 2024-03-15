@@ -52,7 +52,7 @@
       "lang": null
     },
     {
-      "value": "天合光能股份有限公司",
+      "value": "\u5929\u5408\u5149\u80fd\u80a1\u4efd\u6709\u9650\u516c\u53f8",
       "types": [
         "label"
       ],
@@ -66,11 +66,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

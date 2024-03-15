@@ -50,31 +50,25 @@
       "lang": null
     },
     {
-      "value": "Fundació Pasqual Maragall",
+      "value": "Fundaci\u00f3 Pasqual Maragall",
       "types": [
         "label"
       ],
       "lang": "ca"
     }
   ],
-  "relationships": [
-    {
-      "label": "Barcelonaβeta Brain Research Center",
-      "type": "child",
-      "id": "https://ror.org/03k4wdb90"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

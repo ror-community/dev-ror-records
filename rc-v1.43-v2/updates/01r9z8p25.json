@@ -7,7 +7,7 @@
         "country_name": "Spain",
         "lat": 28.4853,
         "lng": -16.32014,
-        "name": "San Cristóbal de La Laguna"
+        "name": "San Crist\u00f3bal de La Laguna"
       }
     }
   ],
@@ -97,16 +97,6 @@
       "label": "Hospital Universitario de Canarias",
       "type": "related",
       "id": "https://ror.org/05qndj312"
-    },
-    {
-      "label": "Instituto de Astrofísica de Canarias",
-      "type": "child",
-      "id": "https://ror.org/03cmntr54"
-    },
-    {
-      "label": "Hospital Universitario Nuestra Señora de Candelaria",
-      "type": "related",
-      "id": "https://ror.org/005a3p084"
     }
   ],
   "status": "active",
@@ -115,11 +105,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

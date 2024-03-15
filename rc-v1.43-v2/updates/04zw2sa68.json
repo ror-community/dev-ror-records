@@ -39,7 +39,7 @@
       "lang": null
     },
     {
-      "value": "Grupo Español de Cáncer de Ovario",
+      "value": "Grupo Espa\u00f1ol de C\u00e1ncer de Ovario",
       "types": [
         "label"
       ],
@@ -60,11 +60,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

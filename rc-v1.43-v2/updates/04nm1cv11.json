@@ -114,11 +114,6 @@
       "label": "University Of Bristol Dental Hospital",
       "type": "child",
       "id": "https://ror.org/027a33v57"
-    },
-    {
-      "label": "University Hospitals Bristol and Weston NHS Foundation Trust",
-      "type": "successor",
-      "id": "https://ror.org/03jzzxg14"
     }
   ],
   "status": "inactive",
@@ -127,11 +122,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

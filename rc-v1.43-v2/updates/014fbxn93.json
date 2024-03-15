@@ -7,7 +7,7 @@
         "country_name": "Portugal",
         "lat": 40.60188,
         "lng": -8.67021,
-        "name": "Ílhavo"
+        "name": "\u00cdlhavo"
       }
     }
   ],
@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "Plataforma Internacional para Ciência, Tecnologia e Inovação em Saúde",
+      "value": "Plataforma Internacional para Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o em Sa\u00fade",
       "types": [
         "ror_display",
         "label"
@@ -55,7 +55,7 @@
   ],
   "relationships": [
     {
-      "label": "Fundação Oswaldo Cruz",
+      "label": "Funda\u00e7\u00e3o Oswaldo Cruz",
       "type": "related",
       "id": "https://ror.org/04jhswv08"
     }
@@ -66,11 +66,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

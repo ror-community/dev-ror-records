@@ -7,7 +7,7 @@
         "country_name": "Spain",
         "lat": 43.06441,
         "lng": -2.48977,
-        "name": "Arrasate / Mondragón"
+        "name": "Arrasate / Mondrag\u00f3n"
       }
     }
   ],
@@ -57,7 +57,7 @@
       "lang": null
     },
     {
-      "value": "Universidad de Mondragón",
+      "value": "Universidad de Mondrag\u00f3n",
       "types": [
         "label"
       ],
@@ -71,7 +71,7 @@
       "lang": "eu"
     },
     {
-      "value": "Universidade de Mondragón",
+      "value": "Universidade de Mondrag\u00f3n",
       "types": [
         "label"
       ],
@@ -103,11 +103,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

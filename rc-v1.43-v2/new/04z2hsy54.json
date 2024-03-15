@@ -45,24 +45,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Nvidia (United States)",
-      "type": "parent",
-      "id": "https://ror.org/03jdj4y14"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "company"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

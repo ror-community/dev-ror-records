@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Laboratoire des signaux et systèmes",
+      "value": "Laboratoire des signaux et syst\u00e8mes",
       "types": [
         "ror_display",
         "label"
@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "Laboratoire des signaux & systèmes",
+      "value": "Laboratoire des signaux & syst\u00e8mes",
       "types": [
         "alias"
       ],
@@ -69,19 +69,9 @@
   ],
   "relationships": [
     {
-      "label": "CentraleSupélec",
+      "label": "CentraleSup\u00e9lec",
       "type": "parent",
       "id": "https://ror.org/019tcpt25"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -90,11 +80,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

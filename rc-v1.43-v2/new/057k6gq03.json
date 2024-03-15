@@ -38,24 +38,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Instituto de Biotecnología de León",
-      "type": "predecessor",
-      "id": "https://ror.org/03ry8wj79"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

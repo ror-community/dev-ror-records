@@ -7,7 +7,7 @@
         "country_name": "Germany",
         "lat": 49.79391,
         "lng": 9.95121,
-        "name": "Würzburg"
+        "name": "W\u00fcrzburg"
       }
     }
   ],
@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Universitätsklinikum Würzburg",
+      "value": "Universit\u00e4tsklinikum W\u00fcrzburg",
       "types": [
         "ror_display",
         "label"
@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "University Hospital Würzburg",
+      "value": "University Hospital W\u00fcrzburg",
       "types": [
         "alias"
       ],
@@ -83,12 +83,12 @@
   ],
   "relationships": [
     {
-      "label": "University of Würzburg",
+      "label": "University of W\u00fcrzburg",
       "type": "related",
       "id": "https://ror.org/00fbnyb24"
     },
     {
-      "label": "Augenklinik Universitätsklinikum Würzburg",
+      "label": "Augenklinik Universit\u00e4tsklinikum W\u00fcrzburg",
       "type": "child",
       "id": "https://ror.org/00rwpbm87"
     },
@@ -98,7 +98,7 @@
       "id": "https://ror.org/013tmk464"
     },
     {
-      "label": "Universitäts-Kinderklinik Würzburg",
+      "label": "Universit\u00e4ts-Kinderklinik W\u00fcrzburg",
       "type": "child",
       "id": "https://ror.org/000ph9k36"
     }
@@ -109,11 +109,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

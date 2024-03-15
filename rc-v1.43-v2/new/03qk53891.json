@@ -85,14 +85,14 @@
       "lang": null
     },
     {
-      "value": "兗礦集團有限公司",
+      "value": "\u5157\u7926\u96c6\u5718\u6709\u9650\u516c\u53f8",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "兖矿能源集团股份有限公司",
+      "value": "\u5156\u77ff\u80fd\u6e90\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
       "types": [
         "label"
       ],
@@ -106,11 +106,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

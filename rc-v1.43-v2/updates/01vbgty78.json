@@ -7,7 +7,7 @@
         "country_name": "Spain",
         "lat": 41.49109,
         "lng": 2.14079,
-        "name": "Cerdanyola del Vallès"
+        "name": "Cerdanyola del Vall\u00e8s"
       }
     }
   ],
@@ -57,7 +57,7 @@
       "lang": null
     },
     {
-      "value": "Institut de Ciències de l'Espai",
+      "value": "Institut de Ci\u00e8ncies de l'Espai",
       "types": [
         "label"
       ],
@@ -80,7 +80,7 @@
   ],
   "relationships": [
     {
-      "label": "Consejo Superior de Investigaciones Científicas",
+      "label": "Consejo Superior de Investigaciones Cient\u00edficas",
       "type": "parent",
       "id": "https://ror.org/02gfc7t72"
     }
@@ -91,11 +91,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

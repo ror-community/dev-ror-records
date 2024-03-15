@@ -55,11 +55,6 @@
       "label": "Fresenius Medical Care North America (United States)",
       "type": "child",
       "id": "https://ror.org/05rs7tq63"
-    },
-    {
-      "label": "Fresenius (Germany)",
-      "type": "related",
-      "id": "https://ror.org/01v376g59"
     }
   ],
   "status": "active",
@@ -68,11 +63,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

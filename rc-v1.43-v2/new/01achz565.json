@@ -52,7 +52,7 @@
       "lang": null
     },
     {
-      "value": "浙江运达风电股份有限公司",
+      "value": "\u6d59\u6c5f\u8fd0\u8fbe\u98ce\u7535\u80a1\u4efd\u6709\u9650\u516c\u53f8",
       "types": [
         "label"
       ],
@@ -66,11 +66,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

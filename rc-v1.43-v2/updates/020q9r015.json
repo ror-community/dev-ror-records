@@ -60,7 +60,7 @@
       "lang": null
     },
     {
-      "value": "中国建筑材料科学研究",
+      "value": "\u4e2d\u56fd\u5efa\u7b51\u6750\u6599\u79d1\u5b66\u7814\u7a76",
       "types": [
         "label"
       ],
@@ -81,11 +81,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

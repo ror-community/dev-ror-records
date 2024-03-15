@@ -44,7 +44,7 @@
   ],
   "names": [
     {
-      "value": "Ministerio de Ciencia, Innovación y Universidades",
+      "value": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades",
       "types": [
         "ror_display",
         "label"
@@ -80,21 +80,21 @@
       "lang": null
     },
     {
-      "value": "Ministerio de Ciencia, Innovación y Universidades de España",
+      "value": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades de Espa\u00f1a",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Ministerio de Ciencia e Innovación",
+      "value": "Ministerio de Ciencia e Innovaci\u00f3n",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Ministerio de Ciencia e Innovación de España",
+      "value": "Ministerio de Ciencia e Innovaci\u00f3n de Espa\u00f1a",
       "types": [
         "alias"
       ],
@@ -110,7 +110,7 @@
   ],
   "relationships": [
     {
-      "label": "Agencia Estatal de Investigación",
+      "label": "Agencia Estatal de Investigaci\u00f3n",
       "type": "child",
       "id": "https://ror.org/003x0zc53"
     },
@@ -131,11 +131,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

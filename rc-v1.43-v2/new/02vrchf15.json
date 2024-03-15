@@ -35,7 +35,7 @@
   ],
   "names": [
     {
-      "value": "éklore-ed School of Management",
+      "value": "\u00e9klore-ed School of Management",
       "types": [
         "ror_display",
         "label"
@@ -64,11 +64,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -38,7 +38,7 @@
       "lang": null
     },
     {
-      "value": "Pohjoismainen Filippiiniläishoitajien Yhdistys Ry",
+      "value": "Pohjoismainen Filippiinil\u00e4ishoitajien Yhdistys Ry",
       "types": [
         "alias"
       ],
@@ -59,11 +59,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

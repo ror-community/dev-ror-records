@@ -23,7 +23,7 @@
   ],
   "names": [
     {
-      "value": "Deutsche Institut für angewandte Pflegeforschung e.V.",
+      "value": "Deutsche Institut f\u00fcr angewandte Pflegeforschung e.V.",
       "types": [
         "ror_display",
         "label"
@@ -31,7 +31,7 @@
       "lang": null
     },
     {
-      "value": "Deutsche Institut für angewandte Pflegeforschung",
+      "value": "Deutsche Institut f\u00fcr angewandte Pflegeforschung",
       "types": [
         "alias"
       ],
@@ -52,24 +52,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Catholic University of Applied Sciences of North Rhine – Westphalia",
-      "type": "related",
-      "id": "https://ror.org/024nr0776"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

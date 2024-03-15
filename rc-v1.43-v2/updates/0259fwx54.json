@@ -64,7 +64,7 @@
       "lang": null
     },
     {
-      "value": "Deutsche Zentralbibliothek für Medizin (ZB MED) - Informationszentrum Lebenswissenschaften",
+      "value": "Deutsche Zentralbibliothek f\u00fcr Medizin (ZB MED) - Informationszentrum Lebenswissenschaften",
       "types": [
         "alias"
       ],
@@ -78,7 +78,7 @@
       "lang": null
     },
     {
-      "value": "Deutsche Zentralbibliothek für Medizin",
+      "value": "Deutsche Zentralbibliothek f\u00fcr Medizin",
       "types": [
         "alias"
       ],
@@ -106,11 +106,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

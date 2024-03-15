@@ -74,14 +74,14 @@
       "lang": null
     },
     {
-      "value": "沈阳机床股份有限公司保",
+      "value": "\u6c88\u9633\u673a\u5e8a\u80a1\u4efd\u6709\u9650\u516c\u53f8\u4fdd",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "通用技术沈阳机床股份有限公司官网",
+      "value": "\u901a\u7528\u6280\u672f\u6c88\u9633\u673a\u5e8a\u80a1\u4efd\u6709\u9650\u516c\u53f8\u5b98\u7f51",
       "types": [
         "label"
       ],
@@ -102,11 +102,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

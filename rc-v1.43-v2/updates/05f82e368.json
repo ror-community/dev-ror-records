@@ -56,7 +56,7 @@
   ],
   "names": [
     {
-      "value": "Université Paris Cité",
+      "value": "Universit\u00e9 Paris Cit\u00e9",
       "types": [
         "ror_display",
         "label"
@@ -71,7 +71,7 @@
       "lang": null
     },
     {
-      "value": "Université de Paris",
+      "value": "Universit\u00e9 de Paris",
       "types": [
         "alias"
       ],
@@ -80,12 +80,12 @@
   ],
   "relationships": [
     {
-      "label": "Hôpitaux Universitaires Paris-Ouest",
+      "label": "H\u00f4pitaux Universitaires Paris-Ouest",
       "type": "related",
       "id": "https://ror.org/01v676463"
     },
     {
-      "label": "Hôtel-Dieu de Paris",
+      "label": "H\u00f4tel-Dieu de Paris",
       "type": "related",
       "id": "https://ror.org/03jmjy508"
     },
@@ -95,7 +95,7 @@
       "id": "https://ror.org/004gzqz66"
     },
     {
-      "label": "André Revuz Didactics Laboratory",
+      "label": "Andr\u00e9 Revuz Didactics Laboratory",
       "type": "child",
       "id": "https://ror.org/053p8kg34"
     },
@@ -110,12 +110,12 @@
       "id": "https://ror.org/03tnjrr49"
     },
     {
-      "label": "Astrophysique, Instrumentation et Modélisation",
+      "label": "Astrophysique, Instrumentation et Mod\u00e9lisation",
       "type": "child",
       "id": "https://ror.org/0015h8611"
     },
     {
-      "label": "Biologie Intégrée du Globule Rouge",
+      "label": "Biologie Int\u00e9gr\u00e9e du Globule Rouge",
       "type": "child",
       "id": "https://ror.org/048cbmc89"
     },
@@ -145,7 +145,7 @@
       "id": "https://ror.org/03pnk9016"
     },
     {
-      "label": "Centre de Compétences NanoSciences Ile-de-France",
+      "label": "Centre de Comp\u00e9tences NanoSciences Ile-de-France",
       "type": "child",
       "id": "https://ror.org/027defw95"
     },
@@ -170,7 +170,7 @@
       "id": "https://ror.org/03dbsav41"
     },
     {
-      "label": "Expression Génétique Microbienne",
+      "label": "Expression G\u00e9n\u00e9tique Microbienne",
       "type": "child",
       "id": "https://ror.org/05t5n2z26"
     },
@@ -200,7 +200,7 @@
       "id": "https://ror.org/000nhq538"
     },
     {
-      "label": "Institut de Mathématiques de Jussieu-Paris Rive Gauche",
+      "label": "Institut de Math\u00e9matiques de Jussieu-Paris Rive Gauche",
       "type": "child",
       "id": "https://ror.org/03fk87k11"
     },
@@ -210,7 +210,7 @@
       "id": "https://ror.org/00ajjta07"
     },
     {
-      "label": "Institut d'écologie et des sciences de l'environnement de Paris",
+      "label": "Institut d'\u00e9cologie et des sciences de l'environnement de Paris",
       "type": "child",
       "id": "https://ror.org/02s56xp85"
     },
@@ -220,7 +220,7 @@
       "id": "https://ror.org/02g40zn06"
     },
     {
-      "label": "Interfaces Traitements Organisation et Dynamique des Systèmes",
+      "label": "Interfaces Traitements Organisation et Dynamique des Syst\u00e8mes",
       "type": "child",
       "id": "https://ror.org/03edms940"
     },
@@ -240,12 +240,12 @@
       "id": "https://ror.org/04p7gsa29"
     },
     {
-      "label": "Laboratoire Interdisciplinaire des Énergies de Demain",
+      "label": "Laboratoire Interdisciplinaire des \u00c9nergies de Demain",
       "type": "child",
       "id": "https://ror.org/00m43ek07"
     },
     {
-      "label": "Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "label": "Laboratoire Interuniversitaire des Syst\u00e8mes Atmosph\u00e9riques",
       "type": "child",
       "id": "https://ror.org/046cjf283"
     },
@@ -255,7 +255,7 @@
       "id": "https://ror.org/04xmteb38"
     },
     {
-      "label": "Laboratoire Matière et Systèmes Complexes",
+      "label": "Laboratoire Mati\u00e8re et Syst\u00e8mes Complexes",
       "type": "child",
       "id": "https://ror.org/032w6q449"
     },
@@ -265,7 +265,7 @@
       "id": "https://ror.org/03saykv37"
     },
     {
-      "label": "Laboratoire d'Electrochimie Moléculaire",
+      "label": "Laboratoire d'Electrochimie Mol\u00e9culaire",
       "type": "child",
       "id": "https://ror.org/03atapr58"
     },
@@ -280,7 +280,7 @@
       "id": "https://ror.org/0223bz716"
     },
     {
-      "label": "Laboratoire de Physique Nucléaire et de Hautes Énergies",
+      "label": "Laboratoire de Physique Nucl\u00e9aire et de Hautes \u00c9nergies",
       "type": "child",
       "id": "https://ror.org/01hg8p552"
     },
@@ -295,7 +295,7 @@
       "id": "https://ror.org/00kneq391"
     },
     {
-      "label": "Laboratory Preuves, Programmes et Systèmes",
+      "label": "Laboratory Preuves, Programmes et Syst\u00e8mes",
       "type": "child",
       "id": "https://ror.org/046p9e825"
     },
@@ -315,7 +315,7 @@
       "id": "https://ror.org/023kqz006"
     },
     {
-      "label": "Laboratoire d’immunologie intégrative du cancer",
+      "label": "Laboratoire d\u2019immunologie int\u00e9grative du cancer",
       "type": "child",
       "id": "https://ror.org/03cqwn895"
     },
@@ -325,7 +325,7 @@
       "id": "https://ror.org/03nr8xh07"
     },
     {
-      "label": "Laboratoire d’études spatiales et d’instrumentation en astrophysique",
+      "label": "Laboratoire d\u2019\u00e9tudes spatiales et d\u2019instrumentation en astrophysique",
       "type": "child",
       "id": "https://ror.org/02eptjh02"
     },
@@ -350,17 +350,17 @@
       "id": "https://ror.org/0366b1491"
     },
     {
-      "label": "Mère et Enfant en Milieu Tropical",
+      "label": "M\u00e8re et Enfant en Milieu Tropical",
       "type": "child",
       "id": "https://ror.org/00rd22143"
     },
     {
-      "label": "Laboratoire de Biologie, Bioingéniérie et Bioimagerie ostéoarticulaire",
+      "label": "Laboratoire de Biologie, Bioing\u00e9ni\u00e9rie et Bioimagerie ost\u00e9oarticulaire",
       "type": "child",
       "id": "https://ror.org/03q7r5x87"
     },
     {
-      "label": "Paris Biotech Santé",
+      "label": "Paris Biotech Sant\u00e9",
       "type": "child",
       "id": "https://ror.org/05h9gyn11"
     },
@@ -370,17 +370,17 @@
       "id": "https://ror.org/03gvnh520"
     },
     {
-      "label": "Pathologie et Virologie Moléculaire",
+      "label": "Pathologie et Virologie Mol\u00e9culaire",
       "type": "child",
       "id": "https://ror.org/002fxfq97"
     },
     {
-      "label": "Physiopathologie et Epidémiologie des Maladies Respiratoires",
+      "label": "Physiopathologie et Epid\u00e9miologie des Maladies Respiratoires",
       "type": "child",
       "id": "https://ror.org/04n8sc212"
     },
     {
-      "label": "Physique et Mécanique des Milieux Hétérogènes",
+      "label": "Physique et M\u00e9canique des Milieux H\u00e9t\u00e9rog\u00e8nes",
       "type": "child",
       "id": "https://ror.org/03kr50w79"
     },
@@ -390,7 +390,7 @@
       "id": "https://ror.org/002yg6s88"
     },
     {
-      "label": "Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique",
+      "label": "P\u00f4le de Recherche pour l'Organisation et la Diffusion de l'Information G\u00e9ographique",
       "type": "child",
       "id": "https://ror.org/002v3cy83"
     },
@@ -430,32 +430,32 @@
       "id": "https://ror.org/02z0jq636"
     },
     {
-      "label": "Unité de Technologies Chimiques et Biologiques pour la Santé",
+      "label": "Unit\u00e9 de Technologies Chimiques et Biologiques pour la Sant\u00e9",
       "type": "child",
       "id": "https://ror.org/03k1e4r14"
     },
     {
-      "label": "Éco-Anthropologie",
+      "label": "\u00c9co-Anthropologie",
       "type": "child",
       "id": "https://ror.org/03x0yny97"
     },
     {
-      "label": "Épidémiologie Clinique, Évaluation Économique Appliquées aux Populations Vulnérables",
+      "label": "\u00c9pid\u00e9miologie Clinique, \u00c9valuation \u00c9conomique Appliqu\u00e9es aux Populations Vuln\u00e9rables",
       "type": "child",
       "id": "https://ror.org/02617e391"
     },
     {
-      "label": "Histoire des Théories Linguistiques",
+      "label": "Histoire des Th\u00e9ories Linguistiques",
       "type": "child",
       "id": "https://ror.org/0546jt497"
     },
     {
-      "label": "Réseau interdisciplinaire pour l’aménagement, l’observation et la cohésion des territoires européens",
+      "label": "R\u00e9seau interdisciplinaire pour l\u2019am\u00e9nagement, l\u2019observation et la coh\u00e9sion des territoires europ\u00e9ens",
       "type": "child",
       "id": "https://ror.org/036w0tz95"
     },
     {
-      "label": "Mathématiques Appliquées à Paris 5",
+      "label": "Math\u00e9matiques Appliqu\u00e9es \u00e0 Paris 5",
       "type": "child",
       "id": "https://ror.org/04yrrdj53"
     },
@@ -475,7 +475,7 @@
       "id": "https://ror.org/006gzge74"
     },
     {
-      "label": "Innovations Thérapeutiques en Hémostase",
+      "label": "Innovations Th\u00e9rapeutiques en H\u00e9mostase",
       "type": "child",
       "id": "https://ror.org/02jp0cd74"
     },
@@ -485,7 +485,7 @@
       "id": "https://ror.org/0057kwj95"
     },
     {
-      "label": "Unite de recherche migrations et sociétés",
+      "label": "Unite de recherche migrations et soci\u00e9t\u00e9s",
       "type": "child",
       "id": "https://ror.org/02844qe97"
     },
@@ -495,17 +495,17 @@
       "id": "https://ror.org/008e1sp22"
     },
     {
-      "label": "Institut Droit et Santé",
+      "label": "Institut Droit et Sant\u00e9",
       "type": "child",
       "id": "https://ror.org/01ddqfh11"
     },
     {
-      "label": "Unité de Recherche en Biomatériaux Innovant et Interfaces",
+      "label": "Unit\u00e9 de Recherche en Biomat\u00e9riaux Innovant et Interfaces",
       "type": "child",
       "id": "https://ror.org/01cht3g41"
     },
     {
-      "label": "Optimisation Thérapeutique en Neuropsychopharmacologie",
+      "label": "Optimisation Th\u00e9rapeutique en Neuropsychopharmacologie",
       "type": "child",
       "id": "https://ror.org/05wzabs02"
     },
@@ -520,12 +520,12 @@
       "id": "https://ror.org/05hqep952"
     },
     {
-      "label": "Institut de Recherche bio-Médicale et d'Epidémiologie du Sport",
+      "label": "Institut de Recherche bio-M\u00e9dicale et d'Epid\u00e9miologie du Sport",
       "type": "child",
       "id": "https://ror.org/00dgdgj39"
     },
     {
-      "label": "Laboratoire de Probabilités, Statistique et Modélisation",
+      "label": "Laboratoire de Probabilit\u00e9s, Statistique et Mod\u00e9lisation",
       "type": "child",
       "id": "https://ror.org/02vnd0e65"
     },
@@ -535,22 +535,22 @@
       "id": "https://ror.org/02fgakj19"
     },
     {
-      "label": "SPPIN - Saints-Pères Paris Institute for Neurosciences",
+      "label": "SPPIN - Saints-P\u00e8res Paris Institute for Neurosciences",
       "type": "child",
       "id": "https://ror.org/01a4enz31"
     },
     {
-      "label": "Laboratoire de Psychologie et d’Ergonomie Appliquées",
+      "label": "Laboratoire de Psychologie et d\u2019Ergonomie Appliqu\u00e9es",
       "type": "child",
       "id": "https://ror.org/0572pak88"
     },
     {
-      "label": "Stabilité Génétique, Cellules Souches et Radiations",
+      "label": "Stabilit\u00e9 G\u00e9n\u00e9tique, Cellules Souches et Radiations",
       "type": "child",
       "id": "https://ror.org/00nvvw130"
     },
     {
-      "label": "Fédération de recherche en sciences mathématiques de Paris centre",
+      "label": "F\u00e9d\u00e9ration de recherche en sciences math\u00e9matiques de Paris centre",
       "type": "child",
       "id": "https://ror.org/02jwwk370"
     },
@@ -560,42 +560,42 @@
       "id": "https://ror.org/05hb8m595"
     },
     {
-      "label": "Fédération Ile de France de recherche sur l'environnement",
+      "label": "F\u00e9d\u00e9ration Ile de France de recherche sur l'environnement",
       "type": "child",
       "id": "https://ror.org/03qgfy688"
     },
     {
-      "label": "Micropesanteur Fondamentale et Appliquée",
+      "label": "Micropesanteur Fondamentale et Appliqu\u00e9e",
       "type": "child",
       "id": "https://ror.org/05be9p317"
     },
     {
-      "label": "Fédération de Recherche Spectroscopies de Photoémission",
+      "label": "F\u00e9d\u00e9ration de Recherche Spectroscopies de Photo\u00e9mission",
       "type": "child",
       "id": "https://ror.org/01x6z5t49"
     },
     {
-      "label": "GDR NBODY : Problème quantique à N corps en chimie et physique",
+      "label": "GDR NBODY : Probl\u00e8me quantique \u00e0 N corps en chimie et physique",
       "type": "child",
       "id": "https://ror.org/01nrtdp55"
     },
     {
-      "label": "Fédération de Recherche Interactions Fondamentales",
+      "label": "F\u00e9d\u00e9ration de Recherche Interactions Fondamentales",
       "type": "child",
       "id": "https://ror.org/03hkqjb05"
     },
     {
-      "label": "Replication des chromosomes eucaryotes et ses points de contrôle",
+      "label": "Replication des chromosomes eucaryotes et ses points de contr\u00f4le",
       "type": "child",
       "id": "https://ror.org/01r19bq53"
     },
     {
-      "label": "Fédération de Recherche sur l'Energie Solaire",
+      "label": "F\u00e9d\u00e9ration de Recherche sur l'Energie Solaire",
       "type": "child",
       "id": "https://ror.org/0459fdx51"
     },
     {
-      "label": "Fondation Sciences mathématiques de Paris",
+      "label": "Fondation Sciences math\u00e9matiques de Paris",
       "type": "child",
       "id": "https://ror.org/02zgjrf98"
     },
@@ -620,7 +620,7 @@
       "id": "https://ror.org/00adasd53"
     },
     {
-      "label": "Cohortes épidémiologiques en population",
+      "label": "Cohortes \u00e9pid\u00e9miologiques en population",
       "type": "child",
       "id": "https://ror.org/00ex3jm11"
     }
@@ -631,11 +631,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

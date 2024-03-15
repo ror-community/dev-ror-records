@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "Instituto Geográfico Nacional",
+      "value": "Instituto Geogr\u00e1fico Nacional",
       "types": [
         "ror_display",
         "label"
@@ -78,11 +78,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

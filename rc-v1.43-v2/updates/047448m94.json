@@ -7,7 +7,7 @@
         "country_name": "Cameroon",
         "lat": 3.86667,
         "lng": 11.51667,
-        "name": "Yaoundé"
+        "name": "Yaound\u00e9"
       }
     }
   ],
@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Institut de Recherches Médicales et d’Etudes des Plantes Médicinales",
+      "value": "Institut de Recherches M\u00e9dicales et d\u2019Etudes des Plantes M\u00e9dicinales",
       "types": [
         "ror_display",
         "label"
@@ -74,11 +74,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

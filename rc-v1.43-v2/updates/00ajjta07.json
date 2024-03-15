@@ -74,24 +74,14 @@
       "id": "https://ror.org/003vg9w96"
     },
     {
-      "label": "Université Paris Cité",
+      "label": "Universit\u00e9 Paris Cit\u00e9",
       "type": "parent",
       "id": "https://ror.org/05f82e368"
     },
     {
-      "label": "University of Évry Val d'Essonne",
+      "label": "University of \u00c9vry Val d'Essonne",
       "type": "parent",
       "id": "https://ror.org/00e96v939"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -100,11 +90,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

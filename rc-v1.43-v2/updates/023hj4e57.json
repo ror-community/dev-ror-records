@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "Barcelonaβeta Brain Research Center",
+      "value": "Barcelona\u03b2eta Brain Research Center",
       "types": [
         "ror_display",
         "label"
@@ -53,24 +53,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Barcelonaβeta Brain Research Center",
-      "type": "successor",
-      "id": "https://ror.org/03k4wdb90"
-    }
-  ],
+  "relationships": [],
   "status": "withdrawn",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

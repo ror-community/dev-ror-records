@@ -7,7 +7,7 @@
         "country_name": "Spain",
         "lat": 36.72016,
         "lng": -4.42034,
-        "name": "Málaga"
+        "name": "M\u00e1laga"
       }
     }
   ],
@@ -41,24 +41,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Dekra (Germany)",
-      "type": "successor",
-      "id": "https://ror.org/02b3ny291"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "company"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

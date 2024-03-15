@@ -23,7 +23,7 @@
   ],
   "names": [
     {
-      "value": "Kommission für Forschungsinformationen in Deutschland",
+      "value": "Kommission f\u00fcr Forschungsinformationen in Deutschland",
       "types": [
         "ror_display",
         "label"
@@ -52,11 +52,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

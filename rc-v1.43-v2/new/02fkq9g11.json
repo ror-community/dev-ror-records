@@ -38,7 +38,7 @@
       "lang": null
     },
     {
-      "value": "长治市中医研究所附属医院",
+      "value": "\u957f\u6cbb\u5e02\u4e2d\u533b\u7814\u7a76\u6240\u9644\u5c5e\u533b\u9662",
       "types": [
         "label"
       ],
@@ -52,11 +52,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

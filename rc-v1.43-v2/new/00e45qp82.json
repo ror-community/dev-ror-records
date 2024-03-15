@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Stiftelsen Dorothea Olivia, Karl Walter och Jarl Walter Perkléns Minne",
+      "value": "Stiftelsen Dorothea Olivia, Karl Walter och Jarl Walter Perkl\u00e9ns Minne",
       "types": [
         "ror_display",
         "label"
@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "Dorothea Olivia, Karl Walter and Jarl Walter Perkléns Memorial Foundation",
+      "value": "Dorothea Olivia, Karl Walter and Jarl Walter Perkl\u00e9ns Memorial Foundation",
       "types": [
         "label"
       ],
@@ -67,11 +67,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

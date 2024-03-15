@@ -7,7 +7,7 @@
         "country_name": "Germany",
         "lat": 51.96236,
         "lng": 7.62571,
-        "name": "Münster"
+        "name": "M\u00fcnster"
       }
     }
   ],
@@ -57,7 +57,7 @@
   ],
   "names": [
     {
-      "value": "University of Münster",
+      "value": "University of M\u00fcnster",
       "types": [
         "ror_display",
         "label"
@@ -65,7 +65,7 @@
       "lang": null
     },
     {
-      "value": "Westfälische Wilhelms-Universität Münster",
+      "value": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster",
       "types": [
         "alias"
       ],
@@ -86,7 +86,7 @@
       "lang": null
     },
     {
-      "value": "Universität Münster",
+      "value": "Universit\u00e4t M\u00fcnster",
       "types": [
         "label"
       ],
@@ -102,7 +102,7 @@
   ],
   "relationships": [
     {
-      "label": "University Hospital Münster",
+      "label": "University Hospital M\u00fcnster",
       "type": "related",
       "id": "https://ror.org/01856cw59"
     }
@@ -113,11 +113,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "Biblioteca Nacional de España",
+      "value": "Biblioteca Nacional de Espa\u00f1a",
       "types": [
         "ror_display",
         "label"
@@ -57,7 +57,7 @@
       "lang": null
     },
     {
-      "value": "Biblioteca Pública de Palacio",
+      "value": "Biblioteca P\u00fablica de Palacio",
       "types": [
         "alias"
       ],
@@ -99,11 +99,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

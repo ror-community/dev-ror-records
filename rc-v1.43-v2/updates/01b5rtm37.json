@@ -46,14 +46,14 @@
       "lang": null
     },
     {
-      "value": "Stress génotoxique et cancer",
+      "value": "Stress g\u00e9notoxique et cancer",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Intégrité du génome, ARN et cancer",
+      "value": "Int\u00e9grit\u00e9 du g\u00e9nome, ARN et cancer",
       "types": [
         "label"
       ],
@@ -65,16 +65,6 @@
       "label": "Institute Curie",
       "type": "parent",
       "id": "https://ror.org/04t0gwh46"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -83,11 +73,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

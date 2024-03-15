@@ -7,7 +7,7 @@
         "country_name": "Germany",
         "lat": 48.25,
         "lng": 11.56667,
-        "name": "Oberschleißheim"
+        "name": "Oberschlei\u00dfheim"
       }
     }
   ],
@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "Klinik für Schweine",
+      "value": "Klinik f\u00fcr Schweine",
       "types": [
         "ror_display",
         "label"
@@ -39,24 +39,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Zentrum für Klinische Tiermedizin",
-      "type": "parent",
-      "id": "https://ror.org/02qqvpd39"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "healthcare"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

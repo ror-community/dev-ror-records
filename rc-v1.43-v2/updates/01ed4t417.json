@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Centre de recherche en Epidémiologie et Santé des Populations",
+      "value": "Centre de recherche en Epid\u00e9miologie et Sant\u00e9 des Populations",
       "types": [
         "ror_display",
         "label"
@@ -69,29 +69,19 @@
   ],
   "relationships": [
     {
-      "label": "Université de Versailles Saint-Quentin-en-Yvelines",
+      "label": "Universit\u00e9 de Versailles Saint-Quentin-en-Yvelines",
       "type": "parent",
       "id": "https://ror.org/03mkjjy25"
     },
     {
-      "label": "Hôpital Paul-Brousse",
+      "label": "H\u00f4pital Paul-Brousse",
       "type": "parent",
       "id": "https://ror.org/05n7yzd13"
     },
     {
-      "label": "Assistance Publique – Hôpitaux de Paris",
+      "label": "Assistance Publique \u2013 H\u00f4pitaux de Paris",
       "type": "parent",
       "id": "https://ror.org/00pg5jh14"
-    },
-    {
-      "label": "Inserm",
-      "type": "parent",
-      "id": "https://ror.org/02vjkv261"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "active",
@@ -100,11 +90,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

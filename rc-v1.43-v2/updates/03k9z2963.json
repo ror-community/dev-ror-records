@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Département de mathématiques et applications",
+      "value": "D\u00e9partement de math\u00e9matiques et applications",
       "types": [
         "ror_display",
         "label"
@@ -69,14 +69,9 @@
   ],
   "relationships": [
     {
-      "label": "École Normale Supérieure - PSL",
+      "label": "\u00c9cole Normale Sup\u00e9rieure - PSL",
       "type": "parent",
       "id": "https://ror.org/05a0dhs15"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -85,11 +80,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

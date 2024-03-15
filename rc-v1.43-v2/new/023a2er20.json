@@ -46,29 +46,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of Cambridge",
-      "type": "parent",
-      "id": "https://ror.org/013meh722"
-    },
-    {
-      "label": "University of Manchester",
-      "type": "parent",
-      "id": "https://ror.org/027m9bs27"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

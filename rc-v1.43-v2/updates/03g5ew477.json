@@ -64,14 +64,14 @@
       "lang": null
     },
     {
-      "value": "Instituto de Ciencias Fotónicas",
+      "value": "Instituto de Ciencias Fot\u00f3nicas",
       "types": [
         "label"
       ],
       "lang": "es"
     },
     {
-      "value": "Institut de Ciències Fotòniques",
+      "value": "Institut de Ci\u00e8ncies Fot\u00f2niques",
       "types": [
         "label"
       ],
@@ -104,7 +104,7 @@
       "id": "https://ror.org/01bkbaq61"
     },
     {
-      "label": "Universitat Politècnica de Catalunya",
+      "label": "Universitat Polit\u00e8cnica de Catalunya",
       "type": "parent",
       "id": "https://ror.org/03mb6wj31"
     }
@@ -115,11 +115,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

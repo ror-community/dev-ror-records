@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Conservatori Superior de Música de Castelló",
+      "value": "Conservatori Superior de M\u00fasica de Castell\u00f3",
       "types": [
         "ror_display",
         "label"
@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Conservatorio Superior de Música de Castellón",
+      "value": "Conservatorio Superior de M\u00fasica de Castell\u00f3n",
       "types": [
         "alias"
       ],
@@ -67,11 +67,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

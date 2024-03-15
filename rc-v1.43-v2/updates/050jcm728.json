@@ -52,7 +52,7 @@
   ],
   "names": [
     {
-      "value": "Institut National des Sciences Mathématiques et de leurs Interactions",
+      "value": "Institut National des Sciences Math\u00e9matiques et de leurs Interactions",
       "types": [
         "ror_display",
         "label"
@@ -74,22 +74,22 @@
       "id": "https://ror.org/02feahw73"
     },
     {
-      "label": "Analyse, Géométrie et Modélisation",
+      "label": "Analyse, G\u00e9om\u00e9trie et Mod\u00e9lisation",
       "type": "child",
       "id": "https://ror.org/03qgt2624"
     },
     {
-      "label": "Centre de Mathématiques Appliquées",
+      "label": "Centre de Math\u00e9matiques Appliqu\u00e9es",
       "type": "child",
       "id": "https://ror.org/012e1xn46"
     },
     {
-      "label": "Centre de Recherche en Mathématiques de la Décision",
+      "label": "Centre de Recherche en Math\u00e9matiques de la D\u00e9cision",
       "type": "child",
       "id": "https://ror.org/03s0gj002"
     },
     {
-      "label": "Institut Henri Poincaré",
+      "label": "Institut Henri Poincar\u00e9",
       "type": "child",
       "id": "https://ror.org/05dfxeg46"
     },
@@ -99,42 +99,42 @@
       "id": "https://ror.org/05rwrfh97"
     },
     {
-      "label": "Institut de Mathématique et de Modélisation de Montpellier",
+      "label": "Institut de Math\u00e9matique et de Mod\u00e9lisation de Montpellier",
       "type": "child",
       "id": "https://ror.org/044kxby82"
     },
     {
-      "label": "Institut de Mathématiques de Bordeaux",
+      "label": "Institut de Math\u00e9matiques de Bordeaux",
       "type": "child",
       "id": "https://ror.org/05m3r1b84"
     },
     {
-      "label": "Institut de Mathématiques de Jussieu-Paris Rive Gauche",
+      "label": "Institut de Math\u00e9matiques de Jussieu-Paris Rive Gauche",
       "type": "child",
       "id": "https://ror.org/03fk87k11"
     },
     {
-      "label": "Institut de Recherche Mathématique Avancée",
+      "label": "Institut de Recherche Math\u00e9matique Avanc\u00e9e",
       "type": "child",
       "id": "https://ror.org/02hwgty18"
     },
     {
-      "label": "Institut Élie Cartan de Lorraine",
+      "label": "Institut \u00c9lie Cartan de Lorraine",
       "type": "child",
       "id": "https://ror.org/04rvw8791"
     },
     {
-      "label": "Laboratoire Amiénois de Mathématique Fondamentale et Appliquée",
+      "label": "Laboratoire Ami\u00e9nois de Math\u00e9matique Fondamentale et Appliqu\u00e9e",
       "type": "child",
       "id": "https://ror.org/04smxbm79"
     },
     {
-      "label": "Laboratoire Analyse, Géométrie et Applications",
+      "label": "Laboratoire Analyse, G\u00e9om\u00e9trie et Applications",
       "type": "child",
       "id": "https://ror.org/018nzqy79"
     },
     {
-      "label": "Laboratoire Angevin de Recherche en Mathématiques",
+      "label": "Laboratoire Angevin de Recherche en Math\u00e9matiques",
       "type": "child",
       "id": "https://ror.org/036j0y719"
     },
@@ -149,37 +149,37 @@
       "id": "https://ror.org/04ett5b41"
     },
     {
-      "label": "Laboratoire Jean-Alexandre Dieudonné",
+      "label": "Laboratoire Jean-Alexandre Dieudonn\u00e9",
       "type": "child",
       "id": "https://ror.org/0274zdr66"
     },
     {
-      "label": "Laboratoire Paul Painlevé",
+      "label": "Laboratoire Paul Painlev\u00e9",
       "type": "child",
       "id": "https://ror.org/043n4fm24"
     },
     {
-      "label": "Laboratoire de Mathématiques",
+      "label": "Laboratoire de Math\u00e9matiques",
       "type": "child",
       "id": "https://ror.org/05sd5r855"
     },
     {
-      "label": "Laboratoire de Mathématiques Jean Leray",
+      "label": "Laboratoire de Math\u00e9matiques Jean Leray",
       "type": "child",
       "id": "https://ror.org/04g1hjn96"
     },
     {
-      "label": "Laboratoire de Mathématiques Raphaël Salem",
+      "label": "Laboratoire de Math\u00e9matiques Rapha\u00ebl Salem",
       "type": "child",
       "id": "https://ror.org/01k1v7590"
     },
     {
-      "label": "Laboratoire de Mathématiques de Bretagne Atlantique",
+      "label": "Laboratoire de Math\u00e9matiques de Bretagne Atlantique",
       "type": "child",
       "id": "https://ror.org/02ght4n58"
     },
     {
-      "label": "Laboratoire d’Analyse et de Mathématiques Appliquées",
+      "label": "Laboratoire d\u2019Analyse et de Math\u00e9matiques Appliqu\u00e9es",
       "type": "child",
       "id": "https://ror.org/0581g8849"
     },
@@ -194,7 +194,7 @@
       "id": "https://ror.org/00b7djk73"
     },
     {
-      "label": "Institut de recherche mathématique de Rennes",
+      "label": "Institut de recherche math\u00e9matique de Rennes",
       "type": "child",
       "id": "https://ror.org/05y76vp22"
     },
@@ -209,7 +209,7 @@
       "id": "https://ror.org/05n21n105"
     },
     {
-      "label": "Institut de Mathématiques de Marseille",
+      "label": "Institut de Math\u00e9matiques de Marseille",
       "type": "child",
       "id": "https://ror.org/042h2y225"
     }
@@ -220,11 +220,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

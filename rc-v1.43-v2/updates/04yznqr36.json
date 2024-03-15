@@ -57,7 +57,7 @@
       "lang": null
     },
     {
-      "value": "Université Jean Monnet",
+      "value": "Universit\u00e9 Jean Monnet",
       "types": [
         "label"
       ],
@@ -66,17 +66,17 @@
   ],
   "relationships": [
     {
-      "label": "Laboratoire Interuniversitaire de Biologie de la Motricité",
+      "label": "Laboratoire Interuniversitaire de Biologie de la Motricit\u00e9",
       "type": "related",
       "id": "https://ror.org/03sc1p174"
     },
     {
-      "label": "Université de Lyon",
+      "label": "Universit\u00e9 de Lyon",
       "type": "parent",
       "id": "https://ror.org/01rk35k63"
     },
     {
-      "label": "Biologie, Ingénierie et Imagerie de la Greffe de Cornée",
+      "label": "Biologie, Ing\u00e9nierie et Imagerie de la Greffe de Corn\u00e9e",
       "type": "child",
       "id": "https://ror.org/037b3he73"
     },
@@ -106,7 +106,7 @@
       "id": "https://ror.org/0256r1e04"
     },
     {
-      "label": "Groupe d'Analyse et de Théorie Economique Lyon St Etienne",
+      "label": "Groupe d'Analyse et de Th\u00e9orie Economique Lyon St Etienne",
       "type": "child",
       "id": "https://ror.org/042fmc481"
     },
@@ -116,7 +116,7 @@
       "id": "https://ror.org/01yx7av22"
     },
     {
-      "label": "Institut d'Histoire des Représentations et des Idées dans les Modernités",
+      "label": "Institut d'Histoire des Repr\u00e9sentations et des Id\u00e9es dans les Modernit\u00e9s",
       "type": "child",
       "id": "https://ror.org/02wmc6m46"
     },
@@ -131,27 +131,27 @@
       "id": "https://ror.org/02vnq7240"
     },
     {
-      "label": "Laboratoire d'études sur les monothéismes",
+      "label": "Laboratoire d'\u00e9tudes sur les monoth\u00e9ismes",
       "type": "child",
       "id": "https://ror.org/02m0hy518"
     },
     {
-      "label": "Laboratoire de Biologie Moléculaire de la Cellule",
+      "label": "Laboratoire de Biologie Mol\u00e9culaire de la Cellule",
       "type": "child",
       "id": "https://ror.org/01bj4fd12"
     },
     {
-      "label": "Laboratoire de Biotechnologies Végétales Appliquées aux Plantes Aromatiques et Médicinales",
+      "label": "Laboratoire de Biotechnologies V\u00e9g\u00e9tales Appliqu\u00e9es aux Plantes Aromatiques et M\u00e9dicinales",
       "type": "child",
       "id": "https://ror.org/01j6cta96"
     },
     {
-      "label": "Laboratoire de Mécanique des Fluides et d'Acoustique",
+      "label": "Laboratoire de M\u00e9canique des Fluides et d'Acoustique",
       "type": "child",
       "id": "https://ror.org/04dxeze48"
     },
     {
-      "label": "Laboratoire de Recherche Historique Rhône-Alpes",
+      "label": "Laboratoire de Recherche Historique Rh\u00f4ne-Alpes",
       "type": "child",
       "id": "https://ror.org/04qz4qy85"
     },
@@ -161,7 +161,7 @@
       "id": "https://ror.org/02160my55"
     },
     {
-      "label": "Littérature, Idéologies, Représentations aux XVIIIe et XIXe Siècles",
+      "label": "Litt\u00e9rature, Id\u00e9ologies, Repr\u00e9sentations aux XVIIIe et XIXe Si\u00e8cles",
       "type": "child",
       "id": "https://ror.org/04rkh0096"
     },
@@ -171,7 +171,7 @@
       "id": "https://ror.org/00pdd0432"
     },
     {
-      "label": "Maison des Sciences de l'Homme Lyon St-Étienne",
+      "label": "Maison des Sciences de l'Homme Lyon St-\u00c9tienne",
       "type": "child",
       "id": "https://ror.org/00rawf147"
     },
@@ -181,7 +181,7 @@
       "id": "https://ror.org/04x9a0q46"
     },
     {
-      "label": "Centre d'Investigation Clinique - Epidémiologie Clinique Saint-Etienne",
+      "label": "Centre d'Investigation Clinique - Epid\u00e9miologie Clinique Saint-Etienne",
       "type": "child",
       "id": "https://ror.org/044dp1584"
     },
@@ -191,7 +191,7 @@
       "id": "https://ror.org/02ncy5p18"
     },
     {
-      "label": "Maison de l'Orient et de la Méditerranée Jean Pouilloux",
+      "label": "Maison de l'Orient et de la M\u00e9diterran\u00e9e Jean Pouilloux",
       "type": "child",
       "id": "https://ror.org/05de6h762"
     },
@@ -207,11 +207,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

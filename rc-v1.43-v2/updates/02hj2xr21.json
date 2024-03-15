@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Universidad Luterana Salvadoreña",
+      "value": "Universidad Luterana Salvadore\u00f1a",
       "types": [
         "ror_display",
         "label"
@@ -74,11 +74,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

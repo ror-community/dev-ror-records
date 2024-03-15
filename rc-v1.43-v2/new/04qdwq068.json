@@ -39,14 +39,14 @@
       "lang": null
     },
     {
-      "value": "QuantIC – UK Quantum Technology Hub in Quantum Enhanced Imaging",
+      "value": "QuantIC \u2013 UK Quantum Technology Hub in Quantum Enhanced Imaging",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "QuantIC – UK QT Hub in Quantum Enhanced Imaging",
+      "value": "QuantIC \u2013 UK QT Hub in Quantum Enhanced Imaging",
       "types": [
         "alias"
       ],
@@ -67,24 +67,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of Glasgow",
-      "type": "parent",
-      "id": "https://ror.org/00vtgdb53"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

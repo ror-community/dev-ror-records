@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Génétique Quantitative et Évolution Le Moulon",
+      "value": "G\u00e9n\u00e9tique Quantitative et \u00c9volution Le Moulon",
       "types": [
         "ror_display",
         "label"
@@ -63,16 +63,6 @@
       "label": "National Research Institute for Agriculture, Food and Environment",
       "type": "parent",
       "id": "https://ror.org/003vg9w96"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -81,11 +71,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Inria Saclay - Île-de-France Research Centre",
+      "value": "Inria Saclay - \u00cele-de-France Research Centre",
       "types": [
         "ror_display",
         "label"
@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Inria Saclay - Île de France",
+      "value": "Inria Saclay - \u00cele de France",
       "types": [
         "label"
       ],
@@ -66,11 +66,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

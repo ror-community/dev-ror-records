@@ -31,7 +31,7 @@
       "lang": null
     },
     {
-      "value": "国网山西省电力公司电力科学研究院",
+      "value": "\u56fd\u7f51\u5c71\u897f\u7701\u7535\u529b\u516c\u53f8\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
       "types": [
         "label"
       ],
@@ -45,11 +45,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

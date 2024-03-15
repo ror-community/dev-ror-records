@@ -56,7 +56,7 @@
   ],
   "names": [
     {
-      "value": "Université Sorbonne Paris Nord",
+      "value": "Universit\u00e9 Sorbonne Paris Nord",
       "types": [
         "ror_display",
         "label"
@@ -85,7 +85,7 @@
       "lang": null
     },
     {
-      "value": "Université Paris 13",
+      "value": "Universit\u00e9 Paris 13",
       "types": [
         "alias"
       ],
@@ -101,7 +101,7 @@
   ],
   "relationships": [
     {
-      "label": "Adaptateurs de Signalisation en Hématologie",
+      "label": "Adaptateurs de Signalisation en H\u00e9matologie",
       "type": "child",
       "id": "https://ror.org/03837fc46"
     },
@@ -111,7 +111,7 @@
       "id": "https://ror.org/05g1zjw44"
     },
     {
-      "label": "Institut de Biomécanique Humaine Georges Charpak",
+      "label": "Institut de Biom\u00e9canique Humaine Georges Charpak",
       "type": "child",
       "id": "https://ror.org/053gdvc84"
     },
@@ -121,12 +121,12 @@
       "id": "https://ror.org/03xg8m734"
     },
     {
-      "label": "Laboratoire Analyse, Géométrie et Applications",
+      "label": "Laboratoire Analyse, G\u00e9om\u00e9trie et Applications",
       "type": "child",
       "id": "https://ror.org/018nzqy79"
     },
     {
-      "label": "Laboratoire d’Ethologie Expérimentale et Comparée",
+      "label": "Laboratoire d\u2019Ethologie Exp\u00e9rimentale et Compar\u00e9e",
       "type": "child",
       "id": "https://ror.org/0414fab98"
     },
@@ -156,17 +156,17 @@
       "id": "https://ror.org/02mtpz628"
     },
     {
-      "label": "Laboratoire Interuniversitaire Expérience, Ressources culturelles, Education",
+      "label": "Laboratoire Interuniversitaire Exp\u00e9rience, Ressources culturelles, Education",
       "type": "child",
       "id": "https://ror.org/0127n6542"
     },
     {
-      "label": "Physiopathologie, cibles et thérapies de la polyarthrite rhumatoïde",
+      "label": "Physiopathologie, cibles et th\u00e9rapies de la polyarthrite rhumato\u00efde",
       "type": "child",
       "id": "https://ror.org/05vqkgf08"
     },
     {
-      "label": "Unité transversale de recherche en psychogénèse et psychopathologie",
+      "label": "Unit\u00e9 transversale de recherche en psychog\u00e9n\u00e8se et psychopathologie",
       "type": "child",
       "id": "https://ror.org/04dqaqw31"
     },
@@ -176,17 +176,17 @@
       "id": "https://ror.org/05079x435"
     },
     {
-      "label": "Unité de Recherche en Biomatériaux Innovant et Interfaces",
+      "label": "Unit\u00e9 de Recherche en Biomat\u00e9riaux Innovant et Interfaces",
       "type": "child",
       "id": "https://ror.org/01cht3g41"
     },
     {
-      "label": "CEPN - Centre d'Economie de l'Université Paris Nord",
+      "label": "CEPN - Centre d'Economie de l'Universit\u00e9 Paris Nord",
       "type": "child",
       "id": "https://ror.org/03k32n603"
     },
     {
-      "label": "Chimie, Structures et Propriétés de Biomatériaux et d'Agents Thérapeutiques",
+      "label": "Chimie, Structures et Propri\u00e9t\u00e9s de Biomat\u00e9riaux et d'Agents Th\u00e9rapeutiques",
       "type": "child",
       "id": "https://ror.org/0343fpq57"
     },
@@ -196,12 +196,12 @@
       "id": "https://ror.org/00t9egj41"
     },
     {
-      "label": "Formation, Innovation, Recherche, Services et Transfert en Temps-Fréquence",
+      "label": "Formation, Innovation, Recherche, Services et Transfert en Temps-Fr\u00e9quence",
       "type": "child",
       "id": "https://ror.org/0557mft23"
     },
     {
-      "label": "Laboratoire d'Informatique Médicale et d'Ingénieurie des Connaissances en e-Santé",
+      "label": "Laboratoire d'Informatique M\u00e9dicale et d'Ing\u00e9nieurie des Connaissances en e-Sant\u00e9",
       "type": "child",
       "id": "https://ror.org/01jr1v359"
     }
@@ -212,11 +212,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

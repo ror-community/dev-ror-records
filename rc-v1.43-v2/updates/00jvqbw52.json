@@ -39,14 +39,14 @@
       "lang": null
     },
     {
-      "value": "Institut de Recherche sur les Maladies Virales et Hépatiques",
+      "value": "Institut de Recherche sur les Maladies Virales et H\u00e9patiques",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Institut de recherche en médecine translationnelle et maladies hépatiques",
+      "value": "Institut de recherche en m\u00e9decine translationnelle et maladies h\u00e9patiques",
       "types": [
         "label"
       ],
@@ -85,11 +85,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

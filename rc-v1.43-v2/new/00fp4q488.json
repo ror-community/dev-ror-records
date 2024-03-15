@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "Europäische Gesellschaft für Orthodontie",
+      "value": "Europ\u00e4ische Gesellschaft f\u00fcr Orthodontie",
       "types": [
         "label"
       ],
@@ -74,11 +74,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

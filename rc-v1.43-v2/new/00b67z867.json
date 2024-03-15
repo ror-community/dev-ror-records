@@ -60,38 +60,32 @@
       "lang": null
     },
     {
-      "value": "汽车动态模拟国家重点实验室",
+      "value": "\u6c7d\u8f66\u52a8\u6001\u6a21\u62df\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "汽车仿真与控制国家重点实验室",
+      "value": "\u6c7d\u8f66\u4eff\u771f\u4e0e\u63a7\u5236\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
       "types": [
         "label"
       ],
       "lang": "zh"
     }
   ],
-  "relationships": [
-    {
-      "label": "Jilin University",
-      "type": "parent",
-      "id": "https://ror.org/00js3aw79"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

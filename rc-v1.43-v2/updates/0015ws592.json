@@ -46,14 +46,14 @@
       "lang": null
     },
     {
-      "value": "institut de génétique et de biologie moléculaire et cellulaire",
+      "value": "institut de g\u00e9n\u00e9tique et de biologie mol\u00e9culaire et cellulaire",
       "types": [
         "label"
       ],
       "lang": "fr"
     },
     {
-      "value": "Centre Européen de Recherche en Biologie et en Médecine",
+      "value": "Centre Europ\u00e9en de Recherche en Biologie et en M\u00e9decine",
       "types": [
         "label"
       ],
@@ -90,11 +90,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -39,7 +39,7 @@
       "lang": null
     },
     {
-      "value": "ጂንካ ዩኒቨርሲቲ",
+      "value": "\u1302\u1295\u12ab \u12e9\u1292\u1268\u122d\u1232\u1272",
       "types": [
         "label"
       ],
@@ -60,11 +60,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

@@ -7,7 +7,7 @@
         "country_name": "Mexico",
         "lat": 22.14982,
         "lng": -100.97916,
-        "name": "San Luis Potosí City"
+        "name": "San Luis Potos\u00ed City"
       }
     }
   ],
@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "Instituto Tecnológico de San Luis Potosí",
+      "value": "Instituto Tecnol\u00f3gico de San Luis Potos\u00ed",
       "types": [
         "ror_display",
         "label"
@@ -50,7 +50,7 @@
       "lang": null
     },
     {
-      "value": "TecNM campus San Luis Potosí",
+      "value": "TecNM campus San Luis Potos\u00ed",
       "types": [
         "alias"
       ],
@@ -64,24 +64,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "National Technological Institute of Mexico",
-      "type": "parent",
-      "id": "https://ror.org/00davry38"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

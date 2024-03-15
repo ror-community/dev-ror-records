@@ -46,24 +46,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Vodafone (United Kingdom)",
-      "type": "parent",
-      "id": "https://ror.org/01v7jrq42"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "other"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

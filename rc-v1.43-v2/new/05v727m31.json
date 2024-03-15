@@ -7,7 +7,7 @@
         "country_name": "France",
         "lat": 45.1787,
         "lng": 5.76281,
-        "name": "Saint-Martin-d'Hères"
+        "name": "Saint-Martin-d'H\u00e8res"
       }
     }
   ],
@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Communauté Université Grenoble Alpes",
+      "value": "Communaut\u00e9 Universit\u00e9 Grenoble Alpes",
       "types": [
         "ror_display",
         "label"
@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "Communauté Université Grenoble-Alpes",
+      "value": "Communaut\u00e9 Universit\u00e9 Grenoble-Alpes",
       "types": [
         "alias"
       ],
@@ -67,7 +67,7 @@
       "lang": null
     },
     {
-      "value": "ComUE Université Grenoble Alpes",
+      "value": "ComUE Universit\u00e9 Grenoble Alpes",
       "types": [
         "alias"
       ],
@@ -88,39 +88,18 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Université Grenoble Alpes",
-      "type": "related",
-      "id": "https://ror.org/02rx3b187"
-    },
-    {
-      "label": "Grenoble Institute of Technology",
-      "type": "related",
-      "id": "https://ror.org/05sbt2524"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "related",
-      "id": "https://ror.org/02feahw73"
-    },
-    {
-      "label": "French Institute for Research in Computer Science and Automation",
-      "type": "related",
-      "id": "https://ror.org/02kvxyf05"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

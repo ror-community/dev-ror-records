@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Instituto Português de Oncologia de Coimbra Francisco Gentil",
+      "value": "Instituto Portugu\u00eas de Oncologia de Coimbra Francisco Gentil",
       "types": [
         "ror_display",
         "label"
@@ -74,11 +74,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

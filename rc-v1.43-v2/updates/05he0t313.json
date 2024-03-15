@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Uniwersytet Kaliski im. Prezydenta Stanisława Wojciechowskiego",
+      "value": "Uniwersytet Kaliski im. Prezydenta Stanis\u0142awa Wojciechowskiego",
       "types": [
         "ror_display",
         "label"
@@ -60,7 +60,7 @@
       "lang": null
     },
     {
-      "value": "Państwowa Wyższa Szkoła Zawodowa w Kaliszu",
+      "value": "Pa\u0144stwowa Wy\u017csza Szko\u0142a Zawodowa w Kaliszu",
       "types": [
         "alias"
       ],
@@ -81,11 +81,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

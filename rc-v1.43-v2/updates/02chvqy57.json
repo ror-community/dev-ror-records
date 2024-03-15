@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Laboratoire d’Études en Géophysique et Océanographie Spatiales",
+      "value": "Laboratoire d\u2019\u00c9tudes en G\u00e9ophysique et Oc\u00e9anographie Spatiales",
       "types": [
         "ror_display",
         "label"
@@ -69,24 +69,19 @@
   ],
   "relationships": [
     {
-      "label": "Centre National d'Études Spatiales",
+      "label": "Centre National d'\u00c9tudes Spatiales",
       "type": "parent",
       "id": "https://ror.org/04h1h0y33"
     },
     {
-      "label": "Institut de Recherche pour le Développement",
+      "label": "Institut de Recherche pour le D\u00e9veloppement",
       "type": "parent",
       "id": "https://ror.org/05q3vnk25"
     },
     {
-      "label": "Université Toulouse III - Paul Sabatier",
+      "label": "Universit\u00e9 Toulouse III - Paul Sabatier",
       "type": "parent",
       "id": "https://ror.org/02v6kpv12"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",
@@ -95,11 +90,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

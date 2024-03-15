@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Institute of Communication & Computer Systems “ICCS”",
+      "value": "Institute of Communication & Computer Systems \u201cICCS\u201d",
       "types": [
         "alias"
       ],
@@ -80,11 +80,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

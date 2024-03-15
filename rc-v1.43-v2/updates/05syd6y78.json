@@ -57,7 +57,7 @@
   ],
   "names": [
     {
-      "value": "Universidade Federal do Paraná",
+      "value": "Universidade Federal do Paran\u00e1",
       "types": [
         "ror_display",
         "label"
@@ -65,7 +65,7 @@
       "lang": null
     },
     {
-      "value": "Federal University of Paraná",
+      "value": "Federal University of Paran\u00e1",
       "types": [
         "label"
       ],
@@ -86,11 +86,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }

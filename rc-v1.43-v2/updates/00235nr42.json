@@ -7,7 +7,7 @@
         "country_name": "Brazil",
         "lat": -22.42556,
         "lng": -45.45278,
-        "name": "Itajubá"
+        "name": "Itajub\u00e1"
       }
     }
   ],
@@ -57,7 +57,7 @@
   ],
   "names": [
     {
-      "value": "Universidade Federal de Itajubá",
+      "value": "Universidade Federal de Itajub\u00e1",
       "types": [
         "ror_display",
         "label"
@@ -65,14 +65,14 @@
       "lang": null
     },
     {
-      "value": "Escola Federal de Engenharia de Itajubá",
+      "value": "Escola Federal de Engenharia de Itajub\u00e1",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Federal University of Itajubá",
+      "value": "Federal University of Itajub\u00e1",
       "types": [
         "label"
       ],
@@ -100,11 +100,11 @@
   ],
   "admin": {
     "created": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-14",
+      "date": "2024-03-15",
       "schema_version": "2.0"
     }
   }
