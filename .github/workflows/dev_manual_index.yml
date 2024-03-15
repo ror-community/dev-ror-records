@@ -2,6 +2,13 @@ name: DEV manual deploy from dev branch
 on:
   workflow_dispatch:
     inputs:
+      schema-version:
+            required: true
+            description: Schema version
+            type: choice
+            options:
+            - v1
+            - v2
       directory-name:
         type: string
         required: true
@@ -89,7 +96,7 @@ jobs:
         run: |
           cd ./${{ github.event.inputs.directory-name }}
           zip files.zip *.json
-          aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.directory-name }}/files.zip
+          aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.directory-name }}-${{ github.event.inputs.schema-version }}/files.zip
           aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.directory-name }}/files.zip
       - name: Notify Slack
         if: always()
@@ -106,7 +113,13 @@ jobs:
           cd .github/workflows
           python -m pip install --upgrade pip
           pip install requests==2.23.0
-          python index_files.py -u ${{ secrets.INDEX_DEV_API_URL }} -d ${{ github.event.inputs.directory-name }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
+          if [[ ${{ github.event.inputs.schema-version }} == 'v1' ]]; then
+            python index_files.py -u ${{ secrets.INDEX_DEV_API_URL_V1 }} -d ${{ github.event.inputs.directory-name }}-v1 -he ${{ secrets.INDEX_DEV_API_HEADERS }}
+          fi
+          if [[ ${{ github.event.inputs.schema-version }} == 'v2' ]]; then
+            python index_files.py -u ${{ secrets.INDEX_DEV_API_URL_V2 }} -d ${{ github.event.inputs.directory-name }}-v2 -he ${{ secrets.INDEX_DEV_API_HEADERS }}
+          fi
+
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -115,5 +128,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'DEV index status: ${{ steps.indexdata.outcome }}. From directory: ${{ github.event.inputs.directory-name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV index status: ${{ steps.indexdata.outcome }}. Using version ${{ github.event.inputs.schema-version }}. From directory: ${{ github.event.inputs.directory-name }}-${{ github.event.inputs.schema-version }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 
