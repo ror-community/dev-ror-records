@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Barcelona\u03b2eta Brain Research Center",
+      "value": "Barcelonaβeta Brain Research Center",
       "types": [
         "ror_display",
         "label"
@@ -67,7 +67,18 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Pompeu Fabra University",
+      "type": "parent",
+      "id": "https://ror.org/04n0g0b29"
+    },
+    {
+      "label": "Pasqual Maragall Foundation",
+      "type": "parent",
+      "id": "https://ror.org/01nry9c15"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

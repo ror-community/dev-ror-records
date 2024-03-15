@@ -23,7 +23,7 @@
   ],
   "names": [
     {
-      "value": "M\u00e9decine Cardiovasculaire Translationnelle",
+      "value": "Médecine Cardiovasculaire Translationnelle",
       "types": [
         "ror_display",
         "label"
@@ -38,7 +38,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Strasbourg",
+      "type": "parent",
+      "id": "https://ror.org/00pg6eq24"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

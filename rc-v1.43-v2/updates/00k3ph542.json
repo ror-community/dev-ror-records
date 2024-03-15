@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "Complexit\u00e9, Innovation et Activit\u00e9s Motrices et Sportives",
+      "value": "Complexité, Innovation et Activités Motrices et Sportives",
       "types": [
         "ror_display",
         "label"
@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Laboratoire Complexit\u00e9, Innovation et Activit\u00e9s Motrices et Sportives",
+      "value": "Laboratoire Complexité, Innovation et Activités Motrices et Sportives",
       "types": [
         "alias"
       ],
@@ -62,9 +62,14 @@
   ],
   "relationships": [
     {
-      "label": "Universit\u00e9 d'Orl\u00e9ans",
+      "label": "Université d'Orléans",
       "type": "parent",
       "id": "https://ror.org/014zrew76"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "active",

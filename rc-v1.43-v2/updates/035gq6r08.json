@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Laboratoire d'Excellence en Recherche sur le M\u00e9dicament et l'Innovation Th\u00e9rapeutique",
+      "value": "Laboratoire d'Excellence en Recherche sur le Médicament et l'Innovation Thérapeutique",
       "types": [
         "ror_display",
         "label"
@@ -72,6 +72,11 @@
       "label": "Inserm",
       "type": "parent",
       "id": "https://ror.org/02vjkv261"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "active",

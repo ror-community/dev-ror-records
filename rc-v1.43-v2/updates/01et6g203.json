@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "Hypertension pulmonaire : physiopathologie et innovation th\u00e9rapeutique",
+      "value": "Hypertension pulmonaire : physiopathologie et innovation thérapeutique",
       "types": [
         "ror_display",
         "label"
@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Physiopathologie et Innovation Th\u00e9rapeutique",
+      "value": "Physiopathologie et Innovation Thérapeutique",
       "types": [
         "alias"
       ],
@@ -72,6 +72,11 @@
       "label": "Inserm",
       "type": "parent",
       "id": "https://ror.org/02vjkv261"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "active",

@@ -74,14 +74,24 @@
       "id": "https://ror.org/003vg9w96"
     },
     {
-      "label": "Universit\u00e9 Paris Cit\u00e9",
+      "label": "Université Paris Cité",
       "type": "parent",
       "id": "https://ror.org/05f82e368"
     },
     {
-      "label": "University of \u00c9vry Val d'Essonne",
+      "label": "University of Évry Val d'Essonne",
       "type": "parent",
       "id": "https://ror.org/00e96v939"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

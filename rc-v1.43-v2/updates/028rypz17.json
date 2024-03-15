@@ -71,14 +71,14 @@
       "lang": null
     },
     {
-      "value": "Universit\u00e9 Paris-Sud",
+      "value": "Université Paris-Sud",
       "types": [
         "label"
       ],
       "lang": "fr"
     },
     {
-      "value": "Universitat de Par\u00eds Sud",
+      "value": "Universitat de París Sud",
       "types": [
         "label"
       ],
@@ -87,7 +87,7 @@
   ],
   "relationships": [
     {
-      "label": "H\u00f4pital Marie Lannelongue",
+      "label": "Hôpital Marie Lannelongue",
       "type": "related",
       "id": "https://ror.org/02ndr3r66"
     },
@@ -110,6 +110,11 @@
       "label": "Laboratory Signaling and Cardiovascular Pathophysiology",
       "type": "child",
       "id": "https://ror.org/04bkzce69"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "successor",
+      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "inactive",

@@ -7,7 +7,7 @@
         "country_name": "Canada",
         "lat": 46.80326,
         "lng": -71.17793,
-        "name": "L\u00e9vis"
+        "name": "Lévis"
       }
     }
   ],
@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "C\u00e9gep Beauce-Appalaches",
+      "value": "Cégep Beauce-Appalaches",
       "types": [
         "ror_display",
         "label"
@@ -50,7 +50,18 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Hôpital d'Youville de Sherbrooke",
+      "type": "parent",
+      "id": "https://ror.org/02805zw73"
+    },
+    {
+      "label": "Hôpital d'Youville de Sherbrooke",
+      "type": "child",
+      "id": "https://ror.org/02805zw73"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

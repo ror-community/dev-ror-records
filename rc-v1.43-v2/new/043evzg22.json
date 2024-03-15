@@ -53,21 +53,27 @@
       "lang": null
     },
     {
-      "value": "\u7535\u529b\u7cfb\u7edf\u53ca\u53d1\u7535\u8bbe\u5907\u63a7\u5236\u548c\u4eff\u771f\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
+      "value": "电力系统及发电设备控制和仿真国家重点实验室",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "\u7535\u529b\u7cfb\u7edf\u53ca\u5927\u578b\u53d1\u7535\u8bbe\u5907\u5b89\u5168\u63a7\u5236\u548c\u4eff\u771f\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
+      "value": "电力系统及大型发电设备安全控制和仿真国家重点实验室",
       "types": [
         "label"
       ],
       "lang": "zh"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Tsinghua University",
+      "type": "parent",
+      "id": "https://ror.org/03cve4549"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

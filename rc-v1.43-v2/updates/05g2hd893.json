@@ -83,7 +83,7 @@
       "id": "https://ror.org/01ythxj32"
     },
     {
-      "label": "University of Michigan\u2013Ann Arbor",
+      "label": "University of Michigan–Ann Arbor",
       "type": "related",
       "id": "https://ror.org/00jmfr291"
     },
@@ -116,6 +116,11 @@
       "label": "Beaumont Hospital, Troy",
       "type": "child",
       "id": "https://ror.org/05x9ffc66"
+    },
+    {
+      "label": "Corewell Health",
+      "type": "successor",
+      "id": "https://ror.org/02hb5yj49"
     }
   ],
   "status": "inactive",

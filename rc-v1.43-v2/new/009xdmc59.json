@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Escuela Universitaria de Magisterio Bego\u00f1ako Andra Mari",
+      "value": "Escuela Universitaria de Magisterio Begoñako Andra Mari",
       "types": [
         "ror_display",
         "label"
@@ -46,14 +46,14 @@
       "lang": null
     },
     {
-      "value": "Bego\u00f1ako Andra Mari Irakasleen Unibertsitate Eskola",
+      "value": "Begoñako Andra Mari Irakasleen Unibertsitate Eskola",
       "types": [
         "label"
       ],
       "lang": "eu"
     },
     {
-      "value": "Bego\u00f1ako Andra Mari Teacher Training University College",
+      "value": "Begoñako Andra Mari Teacher Training University College",
       "types": [
         "label"
       ],
@@ -67,7 +67,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Universidad de Deusto",
+      "type": "related",
+      "id": "https://ror.org/00ne6sr39"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

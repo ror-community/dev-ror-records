@@ -134,12 +134,12 @@
       "id": "https://ror.org/05sajct49"
     },
     {
-      "label": "Institut de Pol\u00edtica Econ\u00f2mica i Governan\u00e7a",
+      "label": "Institut de Política Econòmica i Governança",
       "type": "child",
       "id": "https://ror.org/03wbt1f24"
     },
     {
-      "label": "Escola Superior de Comer\u00e7 Internacional",
+      "label": "Escola Superior de Comerç Internacional",
       "type": "child",
       "id": "https://ror.org/033m8p353"
     },
@@ -162,6 +162,11 @@
       "label": "TecnoCampus",
       "type": "child",
       "id": "https://ror.org/05193xx52"
+    },
+    {
+      "label": "Barcelonaβeta Brain Research Center",
+      "type": "child",
+      "id": "https://ror.org/03k4wdb90"
     }
   ],
   "status": "active",

@@ -53,7 +53,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Edinburgh",
+      "type": "parent",
+      "id": "https://ror.org/01nrxwf90"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

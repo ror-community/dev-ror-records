@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "SwissMAP \u2013 The Mathematics of Physics",
+      "value": "SwissMAP – The Mathematics of Physics",
       "types": [
         "alias"
       ],
@@ -67,7 +67,23 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Swiss National Science Foundation",
+      "type": "parent",
+      "id": "https://ror.org/00yjd3n13"
+    },
+    {
+      "label": "ETH Zurich",
+      "type": "parent",
+      "id": "https://ror.org/05a28rw58"
+    },
+    {
+      "label": "University of Geneva",
+      "type": "parent",
+      "id": "https://ror.org/01swzsf04"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Centre d'\u00c9tudes Spatiales de la Biosph\u00e8re",
+      "value": "Centre d'Études Spatiales de la Biosphère",
       "types": [
         "ror_display",
         "label"
@@ -69,7 +69,7 @@
   ],
   "relationships": [
     {
-      "label": "Centre National d'\u00c9tudes Spatiales",
+      "label": "Centre National d'Études Spatiales",
       "type": "parent",
       "id": "https://ror.org/04h1h0y33"
     },
@@ -79,14 +79,24 @@
       "id": "https://ror.org/04kdfz702"
     },
     {
-      "label": "Institut de Recherche pour le D\u00e9veloppement",
+      "label": "Institut de Recherche pour le Développement",
       "type": "parent",
       "id": "https://ror.org/05q3vnk25"
     },
     {
-      "label": "Universit\u00e9 Toulouse III - Paul Sabatier",
+      "label": "Université Toulouse III - Paul Sabatier",
       "type": "parent",
       "id": "https://ror.org/02v6kpv12"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "National Research Institute for Agriculture, Food and Environment",
+      "type": "parent",
+      "id": "https://ror.org/003vg9w96"
     }
   ],
   "status": "active",

@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Nestl\u00e9 Health Science (United States)",
+      "value": "Nestlé Health Science (United States)",
       "types": [
         "ror_display",
         "label"
@@ -53,14 +53,20 @@
       "lang": null
     },
     {
-      "value": "Nestl\u00e9 Health Science",
+      "value": "Nestlé Health Science",
       "types": [
         "label"
       ],
       "lang": "en"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Nestlé (Switzerland)",
+      "type": "parent",
+      "id": "https://ror.org/01v5xwf23"
+    }
+  ],
   "status": "active",
   "types": [
     "company"

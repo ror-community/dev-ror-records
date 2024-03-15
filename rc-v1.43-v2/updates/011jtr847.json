@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Institut de Recerca i Tecnologia Agroaliment\u00e0ries Centre de Recerca en Sanitat Animal",
+      "value": "Institut de Recerca i Tecnologia Agroalimentàries Centre de Recerca en Sanitat Animal",
       "types": [
         "alias"
       ],
@@ -69,13 +69,18 @@
   ],
   "relationships": [
     {
-      "label": "Universitat Aut\u00f2noma de Barcelona",
+      "label": "Universitat Autònoma de Barcelona",
       "type": "related",
       "id": "https://ror.org/052g8jq94"
     },
     {
       "label": "Institute for Research and Technology in Food and Agriculture",
       "type": "parent",
+      "id": "https://ror.org/012zh9h13"
+    },
+    {
+      "label": "Institute for Research and Technology in Food and Agriculture",
+      "type": "successor",
       "id": "https://ror.org/012zh9h13"
     }
   ],

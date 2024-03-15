@@ -64,21 +64,21 @@
       "lang": null
     },
     {
-      "value": "Facult\u00e9s Universitaires Saint-Louis",
+      "value": "Facultés Universitaires Saint-Louis",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Universit\u00e9 Saint-Louis - Bruxelles",
+      "value": "Université Saint-Louis - Bruxelles",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Universit\u00e9 Saint-Louis",
+      "value": "Université Saint-Louis",
       "types": [
         "alias"
       ],
@@ -92,7 +92,7 @@
       "lang": "en"
     },
     {
-      "value": "Facult\u00e9s universitaires saint-louis",
+      "value": "Facultés universitaires saint-louis",
       "types": [
         "label"
       ],
@@ -106,7 +106,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "UCLouvain",
+      "type": "parent",
+      "id": "https://ror.org/02495e989"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

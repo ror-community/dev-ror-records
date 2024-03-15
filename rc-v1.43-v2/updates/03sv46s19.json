@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital",
+      "value": "Ministerio de Asuntos Económicos y Transformación Digital",
       "types": [
         "ror_display",
         "label"
@@ -69,6 +69,11 @@
       "label": "Ministry of Economy, Industry and Competitiveness",
       "type": "predecessor",
       "id": "https://ror.org/034900433"
+    },
+    {
+      "label": "Ministerio para la Transformación Digital y de la Función Pública",
+      "type": "successor",
+      "id": "https://ror.org/01qh08519"
     }
   ],
   "status": "inactive",

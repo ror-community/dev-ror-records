@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "\u4e2d\u56fd\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662",
+      "value": "中国电力科学研究院",
       "types": [
         "alias"
       ],
@@ -67,7 +67,7 @@
       "lang": null
     },
     {
-      "value": "\u4e2d\u56fd\u7535\u529b\u79d1\u5b66\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+      "value": "中国电力科学研究院有限公司",
       "types": [
         "label"
       ],
@@ -81,7 +81,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "State Grid Corporation of China (China)",
+      "type": "parent",
+      "id": "https://ror.org/05twwhs70"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

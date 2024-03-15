@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "Institut de M\u00e9canique C\u00e9leste et de Calcul des \u00c9ph\u00e9m\u00e9rides",
+      "value": "Institut de Mécanique Céleste et de Calcul des Éphémérides",
       "types": [
         "ror_display",
         "label"
@@ -76,7 +76,7 @@
       "id": "https://ror.org/029nkcm90"
     },
     {
-      "label": "Sorbonne Universit\u00e9",
+      "label": "Sorbonne Université",
       "type": "parent",
       "id": "https://ror.org/02en5vm52"
     },
@@ -84,6 +84,11 @@
       "label": "University of Lille",
       "type": "parent",
       "id": "https://ror.org/02kzqn938"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

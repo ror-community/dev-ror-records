@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Laboratoire des syst\u00e8mes et applications des technologies de l'information et de l'\u00e9nergie",
+      "value": "Laboratoire des systèmes et applications des technologies de l'information et de l'énergie",
       "types": [
         "ror_display",
         "label"
@@ -74,19 +74,29 @@
       "id": "https://ror.org/043htjv09"
     },
     {
-      "label": "Conservatoire National des Arts et M\u00e9tiers",
+      "label": "Conservatoire National des Arts et Métiers",
       "type": "parent",
       "id": "https://ror.org/0175hh227"
     },
     {
-      "label": "Universit\u00e9 Gustave Eiffel",
+      "label": "Université Gustave Eiffel",
       "type": "parent",
       "id": "https://ror.org/03x42jk29"
     },
     {
-      "label": "\u00c9cole Normale Sup\u00e9rieure Paris-Saclay",
+      "label": "École Normale Supérieure Paris-Saclay",
       "type": "parent",
       "id": "https://ror.org/00hx6zz33"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

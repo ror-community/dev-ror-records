@@ -43,7 +43,7 @@
       "lang": null
     },
     {
-      "value": "Sistema Nacional de Salud de Espa\u00f1a",
+      "value": "Sistema Nacional de Salud de España",
       "types": [
         "alias"
       ],
@@ -64,7 +64,18 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Instituto Nacional de la Salud",
+      "type": "predecessor",
+      "id": "https://ror.org/04t4b6y41"
+    },
+    {
+      "label": "Ministry of Health",
+      "type": "parent",
+      "id": "https://ror.org/00y6q9n79"
+    }
+  ],
   "status": "active",
   "types": [
     "government",

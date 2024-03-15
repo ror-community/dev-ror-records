@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "Fundaci\u00f3n para la Investigaci\u00f3n M\u00e9dica Aplicada",
+      "value": "Fundación para la Investigación Médica Aplicada",
       "types": [
         "ror_display",
         "label"
@@ -46,7 +46,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Universidad de Navarra",
+      "type": "related",
+      "id": "https://ror.org/02rxc7m23"
+    }
+  ],
   "status": "active",
   "types": [
     "other"

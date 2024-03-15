@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Mod\u00e8les Insectes de l'Immunit\u00e9 Inn\u00e9e",
+      "value": "Modèles Insectes de l'Immunité Innée",
       "types": [
         "ror_display",
         "label"
@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "R\u00e9ponse Immunitaire et D\u00e9veloppement chez les Insectes",
+      "value": "Réponse Immunitaire et Développement chez les Insectes",
       "types": [
         "alias"
       ],
@@ -86,6 +86,21 @@
       "label": "University of Strasbourg",
       "type": "parent",
       "id": "https://ror.org/00pg6eq24"
+    },
+    {
+      "label": "Institute for Molecular and Cellular Biology",
+      "type": "parent",
+      "id": "https://ror.org/05qpmg879"
+    },
+    {
+      "label": "Inserm",
+      "type": "parent",
+      "id": "https://ror.org/02vjkv261"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

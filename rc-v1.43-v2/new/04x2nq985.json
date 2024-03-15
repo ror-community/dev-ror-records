@@ -52,21 +52,27 @@
       "lang": null
     },
     {
-      "value": "\u987a\u5fb7\u7b2c\u4e8c\u4eba\u6c11\u533b\u9662",
+      "value": "顺德第二人民医院",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "\u66a8\u5357\u5927\u5b66\u9644\u5c5e\u987a\u5fb7\u533b\u9662",
+      "value": "暨南大学附属顺德医院",
       "types": [
         "label"
       ],
       "lang": "zh"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Jinan University",
+      "type": "parent",
+      "id": "https://ror.org/02xe5ns62"
+    }
+  ],
   "status": "active",
   "types": [
     "healthcare"

@@ -33,7 +33,7 @@
       "lang": null
     },
     {
-      "value": "\u7a7a\u6c14\u52a8\u529b\u5b66\u56fd\u5bb6\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
+      "value": "空气动力学国家重点实验室",
       "types": [
         "alias"
       ],
@@ -54,14 +54,20 @@
       "lang": null
     },
     {
-      "value": "\u7a7a\u5929\u98de\u884c\u7a7a\u6c14\u52a8\u529b\u79d1\u5b66\u4e0e\u6280\u672f\u5168\u56fd\u91cd\u70b9\u5b9e\u9a8c\u5ba4",
+      "value": "空天飞行空气动力科学与技术全国重点实验室",
       "types": [
         "label"
       ],
       "lang": "zh"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "China Aerodynamics Research and Development Center",
+      "type": "parent",
+      "id": "https://ror.org/00jma8s40"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

@@ -52,7 +52,18 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Istituto Nazionale di Fisica Nucleare",
+      "type": "parent",
+      "id": "https://ror.org/005ta0471"
+    },
+    {
+      "label": "University of Calabria",
+      "type": "related",
+      "id": "https://ror.org/02rc97e94"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

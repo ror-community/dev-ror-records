@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Laboratoire Aim\u00e9 Cotton",
+      "value": "Laboratoire Aimé Cotton",
       "types": [
         "ror_display",
         "label"
@@ -46,7 +46,7 @@
       "lang": null
     },
     {
-      "value": "Aim\u00e9 Cotton Laboratory",
+      "value": "Aimé Cotton Laboratory",
       "types": [
         "alias"
       ],
@@ -60,7 +60,18 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

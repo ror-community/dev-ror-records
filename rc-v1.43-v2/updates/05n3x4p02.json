@@ -78,7 +78,7 @@
       "lang": null
     },
     {
-      "value": "Medizinische Universit\u00e4t Wien",
+      "value": "Medizinische Universität Wien",
       "types": [
         "label"
       ],
@@ -92,12 +92,12 @@
       "id": "https://ror.org/023dz9m50"
     },
     {
-      "label": "Universit\u00e4tsklinik f\u00fcr Neurologie",
+      "label": "Universitätsklinik für Neurologie",
       "type": "related",
       "id": "https://ror.org/00adn8q67"
     },
     {
-      "label": "Universit\u00e4tszahnklinik Wien",
+      "label": "Universitätszahnklinik Wien",
       "type": "related",
       "id": "https://ror.org/04zvdfd56"
     },
@@ -112,9 +112,14 @@
       "id": "https://ror.org/00df3z122"
     },
     {
-      "label": "Universit\u00e4tsklinik f\u00fcr Hals-, Nasen- und Ohrenkrankheiten",
+      "label": "Universitätsklinik für Hals-, Nasen- und Ohrenkrankheiten",
       "type": "child",
       "id": "https://ror.org/0045a4523"
+    },
+    {
+      "label": "Austrian BioImaging/CMI",
+      "type": "related",
+      "id": "https://ror.org/028696h48"
     }
   ],
   "status": "active",

@@ -74,7 +74,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Kansas State University",
+      "type": "parent",
+      "id": "https://ror.org/05p1j8758"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

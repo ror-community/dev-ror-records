@@ -7,7 +7,7 @@
         "country_name": "France",
         "lat": 48.76507,
         "lng": 2.26655,
-        "name": "Ch\u00e2tenay-Malabry"
+        "name": "Châtenay-Malabry"
       }
     }
   ],
@@ -79,6 +79,16 @@
       "label": "Institut de Chimie",
       "type": "parent",
       "id": "https://ror.org/02cte4b68"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

@@ -35,7 +35,7 @@
   ],
   "names": [
     {
-      "value": "Instituto de Medicina Molecular Jo\u00e3o Lobo Antunes",
+      "value": "Instituto de Medicina Molecular João Lobo Antunes",
       "types": [
         "ror_display",
         "label"
@@ -57,7 +57,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Lisbon",
+      "type": "parent",
+      "id": "https://ror.org/01c27hj86"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

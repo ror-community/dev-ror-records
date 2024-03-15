@@ -57,7 +57,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Hospital Virgen de la Salud",
+      "type": "predecessor",
+      "id": "https://ror.org/0289cxp23"
+    }
+  ],
   "status": "active",
   "types": [
     "healthcare"

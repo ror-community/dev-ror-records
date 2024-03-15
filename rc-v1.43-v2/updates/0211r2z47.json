@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Institut des Sciences Mol\u00e9culaires d'Orsay",
+      "value": "Institut des Sciences Moléculaires d'Orsay",
       "types": [
         "ror_display",
         "label"
@@ -60,7 +60,18 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

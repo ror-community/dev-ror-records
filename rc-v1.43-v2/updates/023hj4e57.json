@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "Barcelona\u03b2eta Brain Research Center",
+      "value": "Barcelonaβeta Brain Research Center",
       "types": [
         "ror_display",
         "label"
@@ -53,7 +53,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Barcelonaβeta Brain Research Center",
+      "type": "successor",
+      "id": "https://ror.org/03k4wdb90"
+    }
+  ],
   "status": "withdrawn",
   "types": [
     "facility"

@@ -55,7 +55,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "London International Development Centre",
+      "type": "parent",
+      "id": "https://ror.org/053xt2a19"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

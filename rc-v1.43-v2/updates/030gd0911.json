@@ -46,14 +46,20 @@
       "lang": null
     },
     {
-      "value": "AIDIMA - Instituto Tecnol\u00f3gico del Mueble",
+      "value": "AIDIMA - Instituto Tecnológico del Mueble",
       "types": [
         "label"
       ],
       "lang": "es"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Instituto Tecnológico Metalmecánico, Mueble, Madera, Embalaje y Afines",
+      "type": "successor",
+      "id": "https://ror.org/057f9wg13"
+    }
+  ],
   "status": "inactive",
   "types": [
     "nonprofit"
