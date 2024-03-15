@@ -57,13 +57,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Corewell Health",
-      "type": "successor",
-      "id": "https://ror.org/02hb5yj49"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "healthcare"

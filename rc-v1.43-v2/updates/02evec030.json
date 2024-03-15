@@ -61,21 +61,21 @@
       "lang": null
     },
     {
-      "value": "JUNIA - Grande \u00e9cole d'ing\u00e9nieurs",
+      "value": "JUNIA - Grande école d'ingénieurs",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Groupe Institut Sup\u00e9rieur d'Agriculture de Lille",
+      "value": "Groupe Institut Supérieur d'Agriculture de Lille",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Yncr\u00e9a Hauts-de-France",
+      "value": "Yncréa Hauts-de-France",
       "types": [
         "alias"
       ],
@@ -89,7 +89,7 @@
       "id": "https://ror.org/0018c4h73"
     },
     {
-      "label": "F\u00e9d\u00e9ration de Recherche Spectroscopies de Photo\u00e9mission",
+      "label": "Fédération de Recherche Spectroscopies de Photoémission",
       "type": "child",
       "id": "https://ror.org/01x6z5t49"
     }

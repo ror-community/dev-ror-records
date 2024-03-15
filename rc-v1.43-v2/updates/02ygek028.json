@@ -106,13 +106,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "UCLouvain",
-      "type": "parent",
-      "id": "https://ror.org/02495e989"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"

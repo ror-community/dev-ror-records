@@ -7,7 +7,7 @@
         "country_name": "Germany",
         "lat": 48.52266,
         "lng": 9.05222,
-        "name": "T\u00fcbingen"
+        "name": "Tübingen"
       }
     }
   ],
@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Leibniz-Institut f\u00fcr Wissensmedien",
+      "value": "Leibniz-Institut für Wissensmedien",
       "types": [
         "ror_display",
         "label"
@@ -53,7 +53,7 @@
       "lang": null
     },
     {
-      "value": "Stiftung \u201eMedien in der Bildung\u201c",
+      "value": "Stiftung „Medien in der Bildung“",
       "types": [
         "label"
       ],

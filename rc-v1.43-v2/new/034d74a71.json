@@ -31,7 +31,7 @@
   ],
   "names": [
     {
-      "value": "FCi\u00eancias.ID - Associa\u00e7\u00e3o para a Investiga\u00e7\u00e3o e Desenvolvimento de Ci\u00eancias",
+      "value": "FCiências.ID - Associação para a Investigação e Desenvolvimento de Ciências",
       "types": [
         "ror_display",
         "label"
@@ -39,7 +39,7 @@
       "lang": null
     },
     {
-      "value": "FCi\u00eancias.ID",
+      "value": "FCiências.ID",
       "types": [
         "alias"
       ],

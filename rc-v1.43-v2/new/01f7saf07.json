@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Medtronic (United States)",
-      "type": "parent",
-      "id": "https://ror.org/00grd1h17"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"

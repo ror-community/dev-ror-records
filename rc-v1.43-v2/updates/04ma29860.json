@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Inland Fisheries Ireland",
-      "type": "successor",
-      "id": "https://ror.org/022rydv31"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "government"

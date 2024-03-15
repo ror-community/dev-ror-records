@@ -4,7 +4,7 @@
       "geonames_id": 745044,
       "geonames_details": {
         "country_code": "TR",
-        "country_name": "T\u00fcrkiye",
+        "country_name": "Türkiye",
         "lat": 41.01384,
         "lng": 28.94966,
         "name": "Istanbul"
@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "Alt\u0131nba\u015f University",
+      "value": "Altınbaş University",
       "types": [
         "ror_display",
         "label"
@@ -64,7 +64,7 @@
       "lang": null
     },
     {
-      "value": "Alt\u0131nba\u015f \u00dcniversitesi",
+      "value": "Altınbaş Üniversitesi",
       "types": [
         "label"
       ],

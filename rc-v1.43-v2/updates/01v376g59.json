@@ -104,11 +104,6 @@
       "label": "Fresenius Medical Care (United States)",
       "type": "child",
       "id": "https://ror.org/02avws951"
-    },
-    {
-      "label": "Fresenius Medical Care (Germany)",
-      "type": "related",
-      "id": "https://ror.org/04sk0bj73"
     }
   ],
   "status": "active",

@@ -60,13 +60,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Stanford University",
-      "type": "parent",
-      "id": "https://ror.org/00f54p054"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

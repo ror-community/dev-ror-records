@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Barcelonaβeta Brain Research Center",
-      "type": "successor",
-      "id": "https://ror.org/03k4wdb90"
-    }
-  ],
+  "relationships": [],
   "status": "withdrawn",
   "types": [
     "facility"

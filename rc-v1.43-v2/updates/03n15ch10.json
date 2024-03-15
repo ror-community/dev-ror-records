@@ -41,7 +41,7 @@
   ],
   "relationships": [
     {
-      "label": "Direction des \u00e9nergies",
+      "label": "Direction des énergies",
       "type": "parent",
       "id": "https://ror.org/03cwzta72"
     },

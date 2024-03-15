@@ -7,7 +7,7 @@
         "country_name": "Cameroon",
         "lat": 3.86667,
         "lng": 11.51667,
-        "name": "Yaound\u00e9"
+        "name": "Yaoundé"
       }
     }
   ],
@@ -45,7 +45,7 @@
   ],
   "names": [
     {
-      "value": "Institut de Recherches M\u00e9dicales et d\u2019Etudes des Plantes M\u00e9dicinales",
+      "value": "Institut de Recherches Médicales et d’Etudes des Plantes Médicinales",
       "types": [
         "ror_display",
         "label"

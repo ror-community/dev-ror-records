@@ -39,13 +39,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Brigham and Women's Hospital",
-      "type": "parent",
-      "id": "https://ror.org/04b6nzv94"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "healthcare"

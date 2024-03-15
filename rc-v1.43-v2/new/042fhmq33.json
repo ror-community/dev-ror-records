@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Johns Hopkins University",
-      "type": "parent",
-      "id": "https://ror.org/00za53h95"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

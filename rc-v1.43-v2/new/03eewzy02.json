@@ -50,13 +50,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Meta4 (Spain)",
-      "type": "predecessor",
-      "id": "https://ror.org/03kevw840"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "company"

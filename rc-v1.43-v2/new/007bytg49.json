@@ -52,13 +52,7 @@
       "lang": "en"
     }
   ],
-  "relationships": [
-    {
-      "label": "Romanian Academy",
-      "type": "parent",
-      "id": "https://ror.org/0561n6946"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

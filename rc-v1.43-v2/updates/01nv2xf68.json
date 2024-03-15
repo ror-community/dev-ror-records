@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "Ajuntament de L\u2019Hospitalet",
+      "value": "Ajuntament de L’Hospitalet",
       "types": [
         "ror_display",
         "label"
@@ -66,7 +66,7 @@
   ],
   "relationships": [
     {
-      "label": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+      "label": "Institut d'Investigació Biomédica de Bellvitge",
       "type": "child",
       "id": "https://ror.org/0008xqs48"
     }

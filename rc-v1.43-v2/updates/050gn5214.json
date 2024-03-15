@@ -60,7 +60,7 @@
       "lang": "en"
     },
     {
-      "value": "Institut du Cerveau et de la Moelle \u00e9pini\u00e8re",
+      "value": "Institut du Cerveau et de la Moelle épinière",
       "types": [
         "label"
       ],
@@ -86,7 +86,7 @@
       "id": "https://ror.org/00rydyx93"
     },
     {
-      "label": "Sorbonne Universit\u00e9",
+      "label": "Sorbonne Université",
       "type": "parent",
       "id": "https://ror.org/02en5vm52"
     }

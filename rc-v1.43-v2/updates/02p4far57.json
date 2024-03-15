@@ -90,11 +90,6 @@
       "label": "Northwestern Medicine",
       "type": "parent",
       "id": "https://ror.org/04fzwnh64"
-    },
-    {
-      "label": "Northwestern University",
-      "type": "related",
-      "id": "https://ror.org/000e0be47"
     }
   ],
   "status": "active",

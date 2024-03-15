@@ -60,13 +60,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Cardiff University",
-      "type": "parent",
-      "id": "https://ror.org/03kk7td41"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

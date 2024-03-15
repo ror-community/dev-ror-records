@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "D\u00e9l\u00e9gation Paris 11",
+      "value": "Délégation Paris 11",
       "types": [
         "ror_display",
         "label"
@@ -60,12 +60,12 @@
       "id": "https://ror.org/02vjkv261"
     },
     {
-      "label": "Centre d'\u00c9pid\u00e9miologie sur les Causes M\u00e9dicales de D\u00e9c\u00e8s",
+      "label": "Centre d'Épidémiologie sur les Causes Médicales de Décès",
       "type": "child",
       "id": "https://ror.org/02bn1dj67"
     },
     {
-      "label": "H\u00e9mostase et Dynamique Cellulaire Vasculaire",
+      "label": "Hémostase et Dynamique Cellulaire Vasculaire",
       "type": "child",
       "id": "https://ror.org/05dsek450"
     },

@@ -50,21 +50,21 @@
       "lang": null
     },
     {
-      "value": "Instituci\u00f3n CERCA",
+      "value": "Institución CERCA",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Instituci\u00f3 CERCA - Centres de Recerca de Catalunya",
+      "value": "Institució CERCA - Centres de Recerca de Catalunya",
       "types": [
         "label"
       ],
       "lang": "ca"
     },
     {
-      "value": "Fundaci\u00f3 Instituci\u00f3 dels Centres de Recerca de Catalunya",
+      "value": "Fundació Institució dels Centres de Recerca de Catalunya",
       "types": [
         "label"
       ],
@@ -117,12 +117,12 @@
       "id": "https://ror.org/03wyzt892"
     },
     {
-      "label": "Centre de Recerca Matem\u00e0tica",
+      "label": "Centre de Recerca Matemàtica",
       "type": "child",
       "id": "https://ror.org/020s51w82"
     },
     {
-      "label": "Centre Tecnol\u00f2gic Forestal de Catalunya",
+      "label": "Centre Tecnològic Forestal de Catalunya",
       "type": "child",
       "id": "https://ror.org/02tt2zf29"
     },
@@ -152,7 +152,7 @@
       "id": "https://ror.org/05rke5d69"
     },
     {
-      "label": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica",
+      "label": "Institut Català d'Arqueologia Clàssica",
       "type": "child",
       "id": "https://ror.org/04nwrc387"
     },
@@ -162,17 +162,17 @@
       "id": "https://ror.org/03g5ew477"
     },
     {
-      "label": "Institut Catal\u00e0 d'Investigaci\u00f3 Qu\u00edmica",
+      "label": "Institut Català d'Investigació Química",
       "type": "child",
       "id": "https://ror.org/013j2zh96"
     },
     {
-      "label": "Institut Catal\u00e0 de Nanoci\u00e8ncia i Nanotecnologia",
+      "label": "Institut Català de Nanociència i Nanotecnologia",
       "type": "child",
       "id": "https://ror.org/00k1qja49"
     },
     {
-      "label": "Institut Catal\u00e0 de Paleontologia Miquel Crusafont",
+      "label": "Institut Català de Paleontologia Miquel Crusafont",
       "type": "child",
       "id": "https://ror.org/04qeh2h86"
     },
@@ -187,12 +187,12 @@
       "id": "https://ror.org/054vayn55"
     },
     {
-      "label": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+      "label": "Institut d'Investigació Biomédica de Bellvitge",
       "type": "child",
       "id": "https://ror.org/0008xqs48"
     },
     {
-      "label": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Girona",
+      "label": "Institut d'Investigació Biomèdica de Girona",
       "type": "child",
       "id": "https://ror.org/020yb3m85"
     },
@@ -207,12 +207,12 @@
       "id": "https://ror.org/01sdrjx85"
     },
     {
-      "label": "Institut d'Investigaci\u00f3 en Ci\u00e8ncies de la Salut Germans Trias i Pujol",
+      "label": "Institut d'Investigació en Ciències de la Salut Germans Trias i Pujol",
       "type": "child",
       "id": "https://ror.org/03bzdww12"
     },
     {
-      "label": "Institut d'Investigaci\u00f3 Sanit\u00e0ria Pere Virgili",
+      "label": "Institut d'Investigació Sanitària Pere Virgili",
       "type": "child",
       "id": "https://ror.org/01av3a615"
     },
@@ -222,7 +222,7 @@
       "id": "https://ror.org/042nkmz09"
     },
     {
-      "label": "Institut Catal\u00e0 de Paleoecologia Humana i Evoluci\u00f3 Social",
+      "label": "Institut Català de Paleoecologia Humana i Evolució Social",
       "type": "child",
       "id": "https://ror.org/02zbs8663"
     },
@@ -252,7 +252,7 @@
       "id": "https://ror.org/001synm23"
     },
     {
-      "label": "Sant Joan de D\u00e9u Research Foundation",
+      "label": "Sant Joan de Déu Research Foundation",
       "type": "child",
       "id": "https://ror.org/03g7nb016"
     },
@@ -272,12 +272,12 @@
       "id": "https://ror.org/012zh9h13"
     },
     {
-      "label": "Fundaci\u00f3 Cl\u00ednic per a la Recerca Biom\u00e8dica",
+      "label": "Fundació Clínic per a la Recerca Biomèdica",
       "type": "child",
       "id": "https://ror.org/03mw46n78"
     },
     {
-      "label": "Fundaci\u00f3 Privada Cl\u00ednic per a La Recerca Biom\u00e8dica",
+      "label": "Fundació Privada Clínic per a La Recerca Biomèdica",
       "type": "child",
       "id": "https://ror.org/018ndmv91"
     },
@@ -307,7 +307,7 @@
       "id": "https://ror.org/054xx3904"
     },
     {
-      "label": "Institut de Recerca Sant Joan de D\u00e9u",
+      "label": "Institut de Recerca Sant Joan de Déu",
       "type": "child",
       "id": "https://ror.org/00gy2ar74"
     }

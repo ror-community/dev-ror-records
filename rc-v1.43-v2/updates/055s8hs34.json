@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Stabilit\u00e9 g\u00e9n\u00e9tique et oncogen\u00e8se",
+      "value": "Stabilité génétique et oncogenèse",
       "types": [
         "ror_display",
         "label"
@@ -55,12 +55,12 @@
   ],
   "relationships": [
     {
-      "label": "D\u00e9l\u00e9gation Ile-de-France Villejuif",
+      "label": "Délégation Ile-de-France Villejuif",
       "type": "parent",
       "id": "https://ror.org/008kn4z11"
     },
     {
-      "label": "D\u00e9l\u00e9gation Paris-Villejuif-03",
+      "label": "Délégation Paris-Villejuif-03",
       "type": "parent",
       "id": "https://ror.org/007x3c094"
     },

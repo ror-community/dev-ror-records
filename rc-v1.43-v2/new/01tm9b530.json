@@ -71,13 +71,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Broad Institute",
-      "type": "parent",
-      "id": "https://ror.org/05a0ya142"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

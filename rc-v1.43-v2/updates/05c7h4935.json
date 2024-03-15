@@ -78,13 +78,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Ghana Health Service",
-      "type": "child",
-      "id": "https://ror.org/052ss8w32"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"

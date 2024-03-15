@@ -7,7 +7,7 @@
         "country_name": "Canada",
         "lat": 46.81228,
         "lng": -71.21454,
-        "name": "Qu\u00e9bec"
+        "name": "Québec"
       }
     }
   ],
@@ -35,7 +35,7 @@
   ],
   "names": [
     {
-      "value": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de la Capitale-Nationale",
+      "value": "Centre intégré universitaire de santé et de services sociaux de la Capitale-Nationale",
       "types": [
         "ror_display",
         "label"

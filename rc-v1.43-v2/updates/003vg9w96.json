@@ -742,11 +742,6 @@
       "label": "Etude et Compréhension de la biodiversité",
       "type": "child",
       "id": "https://ror.org/042w6m452"
-    },
-    {
-      "label": "Centre d'Études Spatiales de la Biosphère",
-      "type": "child",
-      "id": "https://ror.org/01225hq90"
     }
   ],
   "status": "active",

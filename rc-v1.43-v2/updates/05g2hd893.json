@@ -93,17 +93,17 @@
       "id": "https://ror.org/01070mq45"
     },
     {
-      "label": "Corewell Health Children's",
+      "label": "Beaumont Children's Hospital",
       "type": "child",
       "id": "https://ror.org/03nr10290"
     },
     {
-      "label": "Beaumont Hospital, Dearborn",
+      "label": "Oakwood Hospital",
       "type": "child",
       "id": "https://ror.org/03x4pp342"
     },
     {
-      "label": "Corewell Health William Beaumont University Hospital",
+      "label": "Oakwood Southshore Medical Center",
       "type": "child",
       "id": "https://ror.org/058sakv40"
     },
@@ -116,11 +116,6 @@
       "label": "Beaumont Hospital, Troy",
       "type": "child",
       "id": "https://ror.org/05x9ffc66"
-    },
-    {
-      "label": "Corewell Health",
-      "type": "successor",
-      "id": "https://ror.org/02hb5yj49"
     }
   ],
   "status": "inactive",

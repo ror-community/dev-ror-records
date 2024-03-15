@@ -66,13 +66,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Oregon Health & Science University",
-      "type": "parent",
-      "id": "https://ror.org/009avj582"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

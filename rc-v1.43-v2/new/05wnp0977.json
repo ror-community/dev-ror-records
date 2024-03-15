@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Ministry of Defence",
-      "type": "parent",
-      "id": "https://ror.org/01bvxzn29"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"

@@ -57,13 +57,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Government of Northwest Territories",
-      "type": "parent",
-      "id": "https://ror.org/05hqvvq43"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"

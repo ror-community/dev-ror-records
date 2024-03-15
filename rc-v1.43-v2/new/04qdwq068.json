@@ -67,13 +67,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of Glasgow",
-      "type": "parent",
-      "id": "https://ror.org/00vtgdb53"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

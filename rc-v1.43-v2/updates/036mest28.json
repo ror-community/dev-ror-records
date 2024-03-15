@@ -39,7 +39,7 @@
       "lang": null
     },
     {
-      "value": "Laboratoire de Biologie Moleculaire du G\u00e8ne chez les Extremophiles",
+      "value": "Laboratoire de Biologie Moleculaire du Gène chez les Extremophiles",
       "types": [
         "label"
       ],
@@ -55,7 +55,7 @@
   ],
   "relationships": [
     {
-      "label": "D\u00e9l\u00e9gation Ile-de-France Sud",
+      "label": "Délégation Ile-de-France Sud",
       "type": "parent",
       "id": "https://ror.org/01y8j9r24"
     },

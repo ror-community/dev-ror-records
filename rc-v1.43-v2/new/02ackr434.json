@@ -64,13 +64,7 @@
       "lang": "en"
     }
   ],
-  "relationships": [
-    {
-      "label": "Roche (Switzerland)",
-      "type": "parent",
-      "id": "https://ror.org/00by1q217"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "company"

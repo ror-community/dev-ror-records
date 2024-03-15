@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "Laboratoire atmosph\u00e8res, milieux, observations spatiales",
+      "value": "Laboratoire atmosphères, milieux, observations spatiales",
       "types": [
         "ror_display",
         "label"
@@ -73,12 +73,12 @@
   ],
   "relationships": [
     {
-      "label": "Sorbonne Universit\u00e9",
+      "label": "Sorbonne Université",
       "type": "parent",
       "id": "https://ror.org/02en5vm52"
     },
     {
-      "label": "Universit\u00e9 de Versailles Saint-Quentin-en-Yvelines",
+      "label": "Université de Versailles Saint-Quentin-en-Yvelines",
       "type": "parent",
       "id": "https://ror.org/03mkjjy25"
     }

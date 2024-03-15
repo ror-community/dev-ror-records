@@ -50,7 +50,7 @@
   ],
   "names": [
     {
-      "value": "HUN-REN Szegedi Biol\u00f3giai Kutat\u00f3k\u00f6zpont",
+      "value": "HUN-REN Szegedi Biológiai Kutatóközpont",
       "types": [
         "ror_display",
         "label"
@@ -58,7 +58,7 @@
       "lang": null
     },
     {
-      "value": "MTA Szegedi Biol\u00f3giai K\u00f6zpont",
+      "value": "MTA Szegedi Biológiai Központ",
       "types": [
         "alias"
       ],
@@ -72,7 +72,7 @@
       "lang": null
     },
     {
-      "value": "Szegedi Biol\u00f3giai Kutat\u00f3k\u00f6zpont",
+      "value": "Szegedi Biológiai Kutatóközpont",
       "types": [
         "alias"
       ],
@@ -86,7 +86,7 @@
       "lang": null
     },
     {
-      "value": "Magyar Tudom\u00e1nyos Akad\u00e9mia Szegedi Biol\u00f3giai Kutat\u00f3k\u00f6zpontj\u00e1nak",
+      "value": "Magyar Tudományos Akadémia Szegedi Biológiai Kutatóközpontjának",
       "types": [
         "label"
       ],

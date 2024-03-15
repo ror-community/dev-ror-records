@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "Misi\u00f3n Biol\u00f3gica de Galicia",
+      "value": "Misión Biológica de Galicia",
       "types": [
         "ror_display",
         "label"
@@ -80,7 +80,7 @@
   ],
   "relationships": [
     {
-      "label": "Consejo Superior de Investigaciones Cient\u00edficas",
+      "label": "Consejo Superior de Investigaciones Científicas",
       "type": "parent",
       "id": "https://ror.org/02gfc7t72"
     }

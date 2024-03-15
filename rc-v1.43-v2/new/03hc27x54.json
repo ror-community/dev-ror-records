@@ -52,13 +52,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Ministry of Higher Education and Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/05v1m8q81"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"

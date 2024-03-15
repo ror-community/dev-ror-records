@@ -64,18 +64,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Instituto Nacional de la Salud",
-      "type": "predecessor",
-      "id": "https://ror.org/04t4b6y41"
-    },
-    {
-      "label": "Ministry of Health",
-      "type": "parent",
-      "id": "https://ror.org/00y6q9n79"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government",

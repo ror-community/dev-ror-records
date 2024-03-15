@@ -60,13 +60,7 @@
       "lang": "en"
     }
   ],
-  "relationships": [
-    {
-      "label": "Nestlé (Switzerland)",
-      "type": "parent",
-      "id": "https://ror.org/01v5xwf23"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "company"

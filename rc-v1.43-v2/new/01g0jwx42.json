@@ -73,13 +73,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Rio de Janeiro State University",
-      "type": "parent",
-      "id": "https://ror.org/0198v2949"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"

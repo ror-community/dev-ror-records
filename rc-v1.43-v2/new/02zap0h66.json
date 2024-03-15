@@ -35,7 +35,7 @@
   ],
   "names": [
     {
-      "value": "Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de Lanaudi\u00e8re",
+      "value": "Centre intégré de santé et de services sociaux de Lanaudière",
       "types": [
         "ror_display",
         "label"
@@ -43,7 +43,7 @@
       "lang": null
     },
     {
-      "value": "CISSS de Lanaudi\u00e8re",
+      "value": "CISSS de Lanaudière",
       "types": [
         "alias"
       ],

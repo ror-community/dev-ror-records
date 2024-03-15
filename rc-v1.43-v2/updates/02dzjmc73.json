@@ -4,7 +4,7 @@
       "geonames_id": 738329,
       "geonames_details": {
         "country_code": "TR",
-        "country_name": "T\u00fcrkiye",
+        "country_name": "Türkiye",
         "lat": 41.02274,
         "lng": 29.01366,
         "name": "Scutari"
@@ -49,7 +49,7 @@
   ],
   "names": [
     {
-      "value": "\u00dcsk\u00fcdar University",
+      "value": "Üsküdar University",
       "types": [
         "ror_display",
         "label"
@@ -57,7 +57,7 @@
       "lang": null
     },
     {
-      "value": "\u00dcsk\u00fcdar \u00dcniversitesi",
+      "value": "Üsküdar Üniversitesi",
       "types": [
         "label"
       ],

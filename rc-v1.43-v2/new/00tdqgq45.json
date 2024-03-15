@@ -7,7 +7,7 @@
         "country_name": "Canada",
         "lat": 48.65007,
         "lng": -72.44906,
-        "name": "Saint-F\u00e9licien"
+        "name": "Saint-Félicien"
       }
     }
   ],
@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "C\u00e9gep de Saint-F\u00e9licien",
+      "value": "Cégep de Saint-Félicien",
       "types": [
         "ror_display",
         "label"

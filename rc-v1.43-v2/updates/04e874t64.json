@@ -78,13 +78,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Bank of Italy",
-      "type": "related",
-      "id": "https://ror.org/03v2nbx43"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

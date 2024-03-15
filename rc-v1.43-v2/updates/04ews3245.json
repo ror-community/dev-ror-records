@@ -7,7 +7,7 @@
         "country_name": "Germany",
         "lat": 51.22172,
         "lng": 6.77616,
-        "name": "D\u00fcsseldorf"
+        "name": "Düsseldorf"
       }
     }
   ],
@@ -53,14 +53,14 @@
       "lang": null
     },
     {
-      "value": "Leibniz-Zentrum f\u00fcr Diabetes-Forschung an der Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf",
+      "value": "Leibniz-Zentrum für Diabetes-Forschung an der Heinrich-Heine-Universität Düsseldorf",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Leibniz Center for Diabetes Research at the Heinrich Heine University D\u00fcsseldorf",
+      "value": "Leibniz Center for Diabetes Research at the Heinrich Heine University Düsseldorf",
       "types": [
         "alias"
       ],
@@ -104,7 +104,7 @@
   ],
   "relationships": [
     {
-      "label": "Heinrich Heine University D\u00fcsseldorf",
+      "label": "Heinrich Heine University Düsseldorf",
       "type": "parent",
       "id": "https://ror.org/024z2rq82"
     },

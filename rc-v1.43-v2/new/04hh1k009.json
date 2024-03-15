@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Multiple Sclerosis International Federation",
-      "type": "parent",
-      "id": "https://ror.org/052gp0981"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"

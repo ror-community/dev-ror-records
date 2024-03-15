@@ -66,7 +66,7 @@
       "lang": null
     },
     {
-      "value": "Generalidad de Catalu\u00f1a",
+      "value": "Generalidad de Cataluña",
       "types": [
         "label"
       ],
@@ -94,12 +94,12 @@
       "id": "https://ror.org/01xhc9d78"
     },
     {
-      "label": "Ag\u00e8ncia de Gesti\u00f3 d'Ajuts Universitaris i de Recerca",
+      "label": "Agència de Gestió d'Ajuts Universitaris i de Recerca",
       "type": "child",
       "id": "https://ror.org/01n4pqe45"
     },
     {
-      "label": "Departament d'Educaci\u00f3",
+      "label": "Departament d'Educació",
       "type": "child",
       "id": "https://ror.org/02dkz1149"
     },
@@ -114,17 +114,17 @@
       "id": "https://ror.org/00nyrjc53"
     },
     {
-      "label": "Institut Catal\u00e0 de la Salut",
+      "label": "Institut Català de la Salut",
       "type": "child",
       "id": "https://ror.org/04wkdwp52"
     },
     {
-      "label": "Institut Catal\u00e0 de les Dones",
+      "label": "Institut Català de les Dones",
       "type": "child",
       "id": "https://ror.org/03g0h0k24"
     },
     {
-      "label": "Institut de Seguretat P\u00fablica de Catalunya",
+      "label": "Institut de Seguretat Pública de Catalunya",
       "type": "child",
       "id": "https://ror.org/01k6ah132"
     },
@@ -144,7 +144,7 @@
       "id": "https://ror.org/04xrm3t06"
     },
     {
-      "label": "Institut de Pol\u00edtica Econ\u00f2mica i Governan\u00e7a",
+      "label": "Institut de Política Econòmica i Governança",
       "type": "child",
       "id": "https://ror.org/03wbt1f24"
     },

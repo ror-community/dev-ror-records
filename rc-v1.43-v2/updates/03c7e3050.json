@@ -38,7 +38,7 @@
   ],
   "names": [
     {
-      "value": "Fundaci\u00f3 Salut i Envelliment UAB",
+      "value": "Fundació Salut i Envelliment UAB",
       "types": [
         "ror_display",
         "label"
@@ -48,7 +48,7 @@
   ],
   "relationships": [
     {
-      "label": "Universitat Aut\u00f2noma de Barcelona",
+      "label": "Universitat Autònoma de Barcelona",
       "type": "related",
       "id": "https://ror.org/052g8jq94"
     }

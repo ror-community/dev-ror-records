@@ -7,7 +7,7 @@
         "country_name": "Germany",
         "lat": 51.22172,
         "lng": 6.77616,
-        "name": "D\u00fcsseldorf"
+        "name": "Düsseldorf"
       }
     }
   ],
@@ -23,7 +23,7 @@
   ],
   "names": [
     {
-      "value": "Ministerium f\u00fcr Landwirtschaft und Verbraucherschutz des Landes Nordrhein-Westfalen",
+      "value": "Ministerium für Landwirtschaft und Verbraucherschutz des Landes Nordrhein-Westfalen",
       "types": [
         "ror_display",
         "label"

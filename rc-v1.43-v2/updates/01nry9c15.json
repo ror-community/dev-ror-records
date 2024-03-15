@@ -57,13 +57,7 @@
       "lang": "ca"
     }
   ],
-  "relationships": [
-    {
-      "label": "Barcelonaβeta Brain Research Center",
-      "type": "child",
-      "id": "https://ror.org/03k4wdb90"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"

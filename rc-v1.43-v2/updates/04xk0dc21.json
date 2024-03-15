@@ -4,7 +4,7 @@
       "geonames_id": 320392,
       "geonames_details": {
         "country_code": "TR",
-        "country_name": "T\u00fcrkiye",
+        "country_name": "Türkiye",
         "lat": 37.72028,
         "lng": 30.29083,
         "name": "Burdur"
@@ -56,7 +56,7 @@
   ],
   "names": [
     {
-      "value": "Burdur Mehmet Akif Ersoy \u00dcniversitesi",
+      "value": "Burdur Mehmet Akif Ersoy Üniversitesi",
       "types": [
         "ror_display",
         "label"
@@ -64,7 +64,7 @@
       "lang": null
     },
     {
-      "value": "Mehmet Akif Ersoy \u00dcniversitesi",
+      "value": "Mehmet Akif Ersoy Üniversitesi",
       "types": [
         "alias"
       ],

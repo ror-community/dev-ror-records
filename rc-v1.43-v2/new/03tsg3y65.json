@@ -78,18 +78,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of Leeds",
-      "type": "parent",
-      "id": "https://ror.org/024mrxd33"
-    },
-    {
-      "label": "London School of Economics and Political Science",
-      "type": "parent",
-      "id": "https://ror.org/0090zs177"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

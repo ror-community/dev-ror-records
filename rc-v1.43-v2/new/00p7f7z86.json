@@ -57,13 +57,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Mars (United States)",
-      "type": "parent",
-      "id": "https://ror.org/028vrr082"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

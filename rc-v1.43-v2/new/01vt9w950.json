@@ -67,13 +67,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Universidade Federal do Rio Grande do Sul",
-      "type": "parent",
-      "id": "https://ror.org/041yk2d64"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

@@ -7,7 +7,7 @@
         "country_name": "Brazil",
         "lat": -22.42556,
         "lng": -45.45278,
-        "name": "Itajub\u00e1"
+        "name": "Itajubá"
       }
     }
   ],
@@ -57,7 +57,7 @@
   ],
   "names": [
     {
-      "value": "Universidade Federal de Itajub\u00e1",
+      "value": "Universidade Federal de Itajubá",
       "types": [
         "ror_display",
         "label"
@@ -65,14 +65,14 @@
       "lang": null
     },
     {
-      "value": "Escola Federal de Engenharia de Itajub\u00e1",
+      "value": "Escola Federal de Engenharia de Itajubá",
       "types": [
         "alias"
       ],
       "lang": null
     },
     {
-      "value": "Federal University of Itajub\u00e1",
+      "value": "Federal University of Itajubá",
       "types": [
         "label"
       ],

@@ -42,7 +42,7 @@
   ],
   "names": [
     {
-      "value": "Centre int\u00e9gr\u00e9 universitaire de sant\u00e9 et de services sociaux de l'Ouest-de-l\u2019\u00cele-de-Montr\u00e9al",
+      "value": "Centre intégré universitaire de santé et de services sociaux de l'Ouest-de-l’Île-de-Montréal",
       "types": [
         "ror_display",
         "label"
@@ -50,7 +50,7 @@
       "lang": null
     },
     {
-      "value": "CIUSSS de l'Ouest-de-l'Ile-de-Montr\u00e9al",
+      "value": "CIUSSS de l'Ouest-de-l'Ile-de-Montréal",
       "types": [
         "alias"
       ],

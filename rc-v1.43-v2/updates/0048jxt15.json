@@ -74,13 +74,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Fondazione Ricerca Biomedica Avanzata Onlus - VIMM",
-      "type": "related",
-      "id": "https://ror.org/03q5e6q66"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

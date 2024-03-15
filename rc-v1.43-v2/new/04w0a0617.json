@@ -64,13 +64,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "National Technological Institute of Mexico",
-      "type": "parent",
-      "id": "https://ror.org/00davry38"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"
