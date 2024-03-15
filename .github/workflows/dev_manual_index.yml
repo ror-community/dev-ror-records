@@ -22,7 +22,7 @@ env:
 jobs:
   check_permission:
     runs-on: ubuntu-latest
-    if: github.event.ref == 'refs/heads/dev'
+    #if: github.event.ref == 'refs/heads/dev'
     steps:
       - name: Get Permission
         uses: octokit/request-action@v2.x
@@ -41,7 +41,7 @@ jobs:
           fi
   check_validation:
     runs-on: ubuntu-latest
-    if: github.event.ref == 'refs/heads/dev'
+    #if: github.event.ref == 'refs/heads/dev'
     needs: check_permission
     steps:
       - name: checkout
