@@ -109,7 +109,7 @@ jobs:
           cd ./${{ github.event.inputs.directory-name }}
           zip files.zip *.json
           aws s3 cp files.zip s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.directory-name }}-${{ github.event.inputs.schema-version }}/files.zip
-          aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.directory-name }}/files.zip
+          aws s3 ls s3://${{ secrets.ROR_DATA_S3_BUCKET_DEV }}/${{ github.event.inputs.directory-name }}-${{ github.event.inputs.schema-version }}/files.zip
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
