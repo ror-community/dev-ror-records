@@ -60,7 +60,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Administration for Children and Families",
+      "type": "parent",
+      "id": "https://ror.org/00g8hms52"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

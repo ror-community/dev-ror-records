@@ -162,6 +162,11 @@
       "label": "TecnoCampus",
       "type": "child",
       "id": "https://ror.org/05193xx52"
+    },
+    {
+      "label": "Barcelonaβeta Brain Research Center",
+      "type": "child",
+      "id": "https://ror.org/03k4wdb90"
     }
   ],
   "status": "active",

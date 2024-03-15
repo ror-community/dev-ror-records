@@ -60,7 +60,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Coimbra",
+      "type": "parent",
+      "id": "https://ror.org/04z8k9a98"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

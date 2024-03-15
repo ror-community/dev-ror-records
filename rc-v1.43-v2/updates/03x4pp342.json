@@ -62,9 +62,9 @@
   ],
   "relationships": [
     {
-      "label": "Beaumont Health",
+      "label": "Corewell Health",
       "type": "parent",
-      "id": "https://ror.org/05g2hd893"
+      "id": "https://ror.org/02hb5yj49"
     }
   ],
   "status": "active",

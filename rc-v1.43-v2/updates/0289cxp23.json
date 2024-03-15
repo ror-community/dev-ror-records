@@ -55,9 +55,14 @@
   ],
   "relationships": [
     {
-      "label": "Complejo Hospitalario de Toledo",
+      "label": "Complejo Hospitalario Universitario de Toledo",
       "type": "parent",
       "id": "https://ror.org/04q4ppz72"
+    },
+    {
+      "label": "Hospital Universitario de Toledo",
+      "type": "successor",
+      "id": "https://ror.org/00wxgxz56"
     }
   ],
   "status": "inactive",

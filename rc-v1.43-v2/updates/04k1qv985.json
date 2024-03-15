@@ -46,7 +46,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Lubrizol Life Science Health (United States)",
+      "type": "successor",
+      "id": "https://ror.org/03kp1tb17"
+    }
+  ],
   "status": "inactive",
   "types": [
     "company"

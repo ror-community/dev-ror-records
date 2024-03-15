@@ -1,0 +1,83 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2023-05-25",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2013,
+  "external_ids": [
+    {
+      "all": [
+        "501100002288",
+        "501100014110"
+      ],
+      "preferred": "501100014110",
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "grid.468100.b"
+      ],
+      "preferred": "grid.468100.b",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/0508kew31",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.der.wa.gov.au"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "AU",
+        "country_name": "Australia",
+        "lat": -31.95224,
+        "lng": 115.8614,
+        "name": "Perth"
+      },
+      "geonames_id": 2063523
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Department of Water and Environmental Regulation"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Department of Environment Regulation"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Government of Western Australia",
+      "type": "parent",
+      "id": "https://ror.org/00wqdbc63"
+    },
+    {
+      "label": "Department of Water",
+      "type": "predecessor",
+      "id": "https://ror.org/017wrhq72"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ]
+}

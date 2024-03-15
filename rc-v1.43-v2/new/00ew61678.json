@@ -60,7 +60,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "United States Department of Defense",
+      "type": "parent",
+      "id": "https://ror.org/0447fe631"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

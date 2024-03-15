@@ -71,7 +71,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Ministerio de Asuntos Económicos y Transformación Digital",
+      "type": "predecessor",
+      "id": "https://ror.org/03sv46s19"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

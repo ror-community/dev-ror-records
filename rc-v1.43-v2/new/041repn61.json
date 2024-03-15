@@ -57,7 +57,13 @@
       "lang": "en"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Astellas Pharma (Japan)",
+      "type": "parent",
+      "id": "https://ror.org/01cjash87"
+    }
+  ],
   "status": "active",
   "types": [
     "company"

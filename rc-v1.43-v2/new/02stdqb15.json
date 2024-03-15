@@ -53,7 +53,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Ontario Veterinary College",
+      "type": "parent",
+      "id": "https://ror.org/04frvgs13"
+    }
+  ],
   "status": "active",
   "types": [
     "nonprofit"

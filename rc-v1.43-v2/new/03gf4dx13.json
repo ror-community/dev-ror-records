@@ -45,7 +45,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Geocisa (Spain)",
+      "type": "predecessor",
+      "id": "https://ror.org/0040z4m89"
+    }
+  ],
   "status": "active",
   "types": [
     "company"
