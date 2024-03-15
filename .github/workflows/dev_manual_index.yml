@@ -93,7 +93,7 @@ jobs:
           text: 'Validation status during DEV manual index:  ${{ steps.validatefiles.outcome }}. In directory: ${{ github.event.inputs.directory-name }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
   copy-files:
     runs-on: ubuntu-latest
-    if: github.event.ref == 'refs/heads/dev'
+    #if: github.event.ref == 'refs/heads/dev'
     needs: check_validation
     steps:
       - name: checkout
