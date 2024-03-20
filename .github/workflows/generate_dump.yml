@@ -2,7 +2,7 @@ name: Create data dump
 on:
   workflow_dispatch:
     inputs:
-      release-schema-version:
+      schema-version:
             required: true
             description: Release schema version
             type: choice
