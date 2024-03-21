@@ -81,7 +81,13 @@
       "value": "University Hospital of the Nuestra Señora de Candelaria"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Universidad de La Laguna",
+      "type": "related",
+      "id": "https://ror.org/01r9z8p25"
+    }
+  ],
   "status": "active",
   "types": [
     "healthcare"

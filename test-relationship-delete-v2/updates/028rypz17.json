@@ -110,6 +110,11 @@
       "label": "Laboratory Signaling and Cardiovascular Pathophysiology",
       "type": "child",
       "id": "https://ror.org/04bkzce69"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "successor",
+      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "inactive",

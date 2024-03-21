@@ -405,6 +405,61 @@
       "label": "Laboratoire Charles Fabry",
       "type": "child",
       "id": "https://ror.org/046hjmc37"
+    },
+    {
+      "label": "Centre de recherche en Epidémiologie et Santé des Populations",
+      "type": "child",
+      "id": "https://ror.org/01ed4t417"
+    },
+    {
+      "label": "Laboratoire de Mathématiques d'Orsay",
+      "type": "child",
+      "id": "https://ror.org/03ab0zs98"
+    },
+    {
+      "label": "Fluides, Automatique et Systèmes Thermiques",
+      "type": "child",
+      "id": "https://ror.org/02byv2846"
+    },
+    {
+      "label": "Genome Integrity, RNA and Cancer",
+      "type": "child",
+      "id": "https://ror.org/01b5rtm37"
+    },
+    {
+      "label": "Génétique Quantitative et Évolution Le Moulon",
+      "type": "child",
+      "id": "https://ror.org/012fqzm33"
+    },
+    {
+      "label": "Inflammation, Microbiome and Immunosurveillance",
+      "type": "child",
+      "id": "https://ror.org/05dy6wv04"
+    },
+    {
+      "label": "Institut Galien Paris-Saclay",
+      "type": "child",
+      "id": "https://ror.org/02mnw9q71"
+    },
+    {
+      "label": "Institut d'Astrophysique Spatiale",
+      "type": "child",
+      "id": "https://ror.org/014p8mr66"
+    },
+    {
+      "label": "Institut de Chimie Moléculaire et des Matériaux d'Orsay",
+      "type": "child",
+      "id": "https://ror.org/05wzh1m37"
+    },
+    {
+      "label": "Institut de Chimie des Substances Naturelles",
+      "type": "child",
+      "id": "https://ror.org/02st4q439"
+    },
+    {
+      "label": "Institut des Sciences Moléculaires d'Orsay",
+      "type": "child",
+      "id": "https://ror.org/0211r2z47"
     }
   ],
   "status": "active",

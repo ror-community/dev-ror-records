@@ -1280,6 +1280,16 @@
       "label": "Neuroendocrine, Endocrine and Germinal Differentiation Communication",
       "type": "child",
       "id": "https://ror.org/02yvdat18"
+    },
+    {
+      "label": "Centre de recherche en Epidémiologie et Santé des Populations",
+      "type": "child",
+      "id": "https://ror.org/01ed4t417"
+    },
+    {
+      "label": "Inflammation, Microbiome and Immunosurveillance",
+      "type": "child",
+      "id": "https://ror.org/05dy6wv04"
     }
   ],
   "status": "active",

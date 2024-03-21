@@ -82,6 +82,16 @@
       "label": "Assistance Publique – Hôpitaux de Paris",
       "type": "parent",
       "id": "https://ror.org/00pg5jh14"
+    },
+    {
+      "label": "Inserm",
+      "type": "parent",
+      "id": "https://ror.org/02vjkv261"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "active",

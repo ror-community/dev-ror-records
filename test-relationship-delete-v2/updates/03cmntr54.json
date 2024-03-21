@@ -94,6 +94,11 @@
       "label": "Red Española de Supercomputación",
       "type": "related",
       "id": "https://ror.org/02x2fbb57"
+    },
+    {
+      "label": "Universidad de La Laguna",
+      "type": "parent",
+      "id": "https://ror.org/01r9z8p25"
     }
   ],
   "status": "active",
