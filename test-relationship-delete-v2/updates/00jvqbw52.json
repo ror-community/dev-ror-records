@@ -69,6 +69,11 @@
   ],
   "relationships": [
     {
+      "label": "Inserm",
+      "type": "parent",
+      "id": "https://ror.org/02vjkv261"
+    },
+    {
       "label": "University of Strasbourg",
       "type": "parent",
       "id": "https://ror.org/00pg6eq24"
