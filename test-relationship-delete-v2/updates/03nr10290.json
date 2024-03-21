@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Beaumont Health",
-      "type": "parent",
-      "id": "https://ror.org/05g2hd893"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "healthcare"

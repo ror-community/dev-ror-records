@@ -48,11 +48,6 @@
   ],
   "relationships": [
     {
-      "label": "Biology of Extremophiles Laboratory",
-      "type": "child",
-      "id": "https://ror.org/036mest28"
-    },
-    {
       "label": "Centre de Génétique Moléculaire",
       "type": "child",
       "id": "https://ror.org/052ahj806"

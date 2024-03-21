@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Spectrum Health",
-      "type": "parent",
-      "id": "https://ror.org/02ahxdd04"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "healthcare"
