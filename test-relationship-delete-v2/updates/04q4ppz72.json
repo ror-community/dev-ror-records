@@ -1,0 +1,101 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2510409,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 39.8581,
+        "lng": -4.02263,
+        "name": "Toledo"
+      }
+    }
+  ],
+  "established": 1966,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 1766 1075"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.418888.5"
+      ],
+      "preferred": "grid.418888.5"
+    }
+  ],
+  "id": "https://ror.org/04q4ppz72",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://toledo.sanidad.castillalamancha.es"
+    }
+  ],
+  "names": [
+    {
+      "value": "Complejo Hospitalario Universitario de Toledo",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Complejo Hospitalario de Toledo",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CHT",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CHUT",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Servicio de Salud de Castilla La Mancha",
+      "type": "parent",
+      "id": "https://ror.org/03k8zj440"
+    },
+    {
+      "label": "Hospital Virgen de la Salud",
+      "type": "child",
+      "id": "https://ror.org/0289cxp23"
+    },
+    {
+      "label": "Hospital Virgen del Valle",
+      "type": "child",
+      "id": "https://ror.org/00kxqbw45"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

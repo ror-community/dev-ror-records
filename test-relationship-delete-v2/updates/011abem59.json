@@ -1,0 +1,98 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2988507,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.85341,
+        "lng": 2.3488,
+        "name": "Paris"
+      }
+    }
+  ],
+  "established": 2015,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0614 7687"
+      ],
+      "preferred": "0000 0004 0614 7687"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q30262344"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.463972.d"
+      ],
+      "preferred": "grid.463972.d"
+    }
+  ],
+  "id": "https://ror.org/011abem59",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.egce.universite-paris-saclay.fr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Évolution, Génomes, Comportement, Écologie",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "LEGS",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Laboratoire  Évolution, Génomes, Comportement, Écologie",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "EGCE",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Institut de Recherche pour le Développement",
+      "type": "parent",
+      "id": "https://ror.org/05q3vnk25"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

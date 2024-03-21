@@ -1,0 +1,85 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2800866,
+      "geonames_details": {
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "lat": 50.85045,
+        "lng": 4.34878,
+        "name": "Brussels"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 6819 7604"
+      ],
+      "preferred": "0000 0004 6819 7604"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100011068"
+      ],
+      "preferred": "501100011068"
+    }
+  ],
+  "id": "https://ror.org/021354321",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.fondationsaintluc.be"
+    }
+  ],
+  "names": [
+    {
+      "value": "Fondation Saint-Luc",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Fondation Saint Luc",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Saint Luc Foundation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Saint-Luc Foundation",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

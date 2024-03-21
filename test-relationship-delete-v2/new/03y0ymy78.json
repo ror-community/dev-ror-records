@@ -1,0 +1,82 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2653822,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.48,
+        "lng": -3.18,
+        "name": "Cardiff"
+      }
+    }
+  ],
+  "established": 2017,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 9503 2776"
+      ],
+      "preferred": "0000 0004 9503 2776"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q65060598"
+      ],
+      "preferred": "Q65060598"
+    }
+  ],
+  "id": "https://ror.org/03y0ymy78",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.wcpp.org.uk"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Wales_Centre_for_Public_Policy"
+    }
+  ],
+  "names": [
+    {
+      "value": "Wales Centre for Public Policy",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Canolfan Polisi Cyhoeddus Cymru",
+      "types": [
+        "label"
+      ],
+      "lang": "cy"
+    },
+    {
+      "value": "WCPP",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

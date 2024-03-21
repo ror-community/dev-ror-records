@@ -1,0 +1,72 @@
+{
+  "locations": [
+    {
+      "geonames_id": 993800,
+      "geonames_details": {
+        "country_code": "ZA",
+        "country_name": "South Africa",
+        "lat": -26.20227,
+        "lng": 28.04363,
+        "name": "Johannesburg"
+      }
+    }
+  ],
+  "established": 2013,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "100016961"
+      ],
+      "preferred": "100016961"
+    }
+  ],
+  "id": "https://ror.org/04gz5mr64",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.nihss.ac.za"
+    }
+  ],
+  "names": [
+    {
+      "value": "National Institute for the Humanities and Social Sciences",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "National Institute for the Humanities and Social Sciences, South Africa",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NIHSS",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility",
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "locations": [
+    {
+      "geonames_id": 3128760,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 41.38879,
+        "lng": 2.15899,
+        "name": "Barcelona"
+      }
+    }
+  ],
+  "established": 1999,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.424716.2"
+      ],
+      "preferred": "grid.424716.2"
+    }
+  ],
+  "id": "https://ror.org/011jtr847",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.irta.cat/ca/centre/irta-cresa/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Centre de Recerca en Sanitat Animal",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "IRTA Centre de Recerca en Sanitat Animal",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Institut de Recerca i Tecnologia Agroalimentàries Centre de Recerca en Sanitat Animal",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "IRTA-CReSA",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CReSA",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Universitat Autònoma de Barcelona",
+      "type": "related",
+      "id": "https://ror.org/052g8jq94"
+    },
+    {
+      "label": "Institute for Research and Technology in Food and Agriculture",
+      "type": "parent",
+      "id": "https://ror.org/012zh9h13"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

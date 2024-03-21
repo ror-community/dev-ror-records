@@ -1,0 +1,71 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2989204,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "name": "Orsay"
+      }
+    }
+  ],
+  "established": 2006,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0382 4005"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.462047.3"
+      ],
+      "preferred": "grid.462047.3"
+    }
+  ],
+  "id": "https://ror.org/05wzh1m37",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.icmmo.universite-paris-saclay.fr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Institut de Chimie Moléculaire et des Matériaux d'Orsay",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "ICMMO",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

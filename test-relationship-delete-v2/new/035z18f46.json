@@ -1,0 +1,63 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1793511,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 37.86944,
+        "lng": 112.56028,
+        "name": "Taiyuan"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/035z18f46",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://sklqo.sxu.edu.cn"
+    }
+  ],
+  "names": [
+    {
+      "value": "State Key Laboratory of Quantum Optics and Quantum Optics Devices",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Lab of Quantum Optics and Quantum Optics Devices",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "量子光学与光量子器件国家重点实验室",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

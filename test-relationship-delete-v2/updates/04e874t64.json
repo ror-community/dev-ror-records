@@ -1,0 +1,96 @@
+{
+  "locations": [
+    {
+      "geonames_id": 3169070,
+      "geonames_details": {
+        "country_code": "IT",
+        "country_name": "Italy",
+        "lat": 41.89193,
+        "lng": 12.51133,
+        "name": "Rome"
+      }
+    }
+  ],
+  "established": 2008,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 1758 1809"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100004808"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q16249630"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.467365.5"
+      ],
+      "preferred": "grid.467365.5"
+    }
+  ],
+  "id": "https://ror.org/04e874t64",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.eief.it/eief/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Einaudi_Institute_for_Economics_and_Finance"
+    }
+  ],
+  "names": [
+    {
+      "value": "Einaudi Institute for Economics and Finance",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Istituto Einaudi per l'Economia e la Finanza",
+      "types": [
+        "label"
+      ],
+      "lang": "it"
+    },
+    {
+      "value": "EIEF",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

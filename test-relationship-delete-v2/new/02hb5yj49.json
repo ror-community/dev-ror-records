@@ -1,0 +1,61 @@
+{
+  "locations": [
+    {
+      "geonames_id": 4994358,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.96336,
+        "lng": -85.66809,
+        "name": "Grand Rapids"
+      }
+    }
+  ],
+  "established": 2022,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q123561060"
+      ],
+      "preferred": "Q123561060"
+    }
+  ],
+  "id": "https://ror.org/02hb5yj49",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://corewellhealth.org"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Corewell_Health"
+    }
+  ],
+  "names": [
+    {
+      "value": "Corewell Health",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

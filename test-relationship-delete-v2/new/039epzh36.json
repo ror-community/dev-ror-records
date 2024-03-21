@@ -1,0 +1,70 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2524907,
+      "geonames_details": {
+        "country_code": "IT",
+        "country_name": "Italy",
+        "lat": 39.2989,
+        "lng": 16.25307,
+        "name": "Cosenza"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/039epzh36",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.cs.infn.it"
+    }
+  ],
+  "names": [
+    {
+      "value": "INFN Gruppo Collegato di Cosenza",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Istituto Nazionale di Fisica Nucleare Gruppo Collegato di Cosenza",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "National Institute of Nuclear Physics - Cosenza Unit",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "GCC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

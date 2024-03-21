@@ -1,0 +1,70 @@
+{
+  "locations": [
+    {
+      "geonames_id": 5007804,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.48948,
+        "lng": -83.14465,
+        "name": "Royal Oak"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.459348.7"
+      ],
+      "preferred": "grid.459348.7"
+    }
+  ],
+  "id": "https://ror.org/03nr10290",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.beaumont.org/services/childrens"
+    }
+  ],
+  "names": [
+    {
+      "value": "Corewell Health Children's",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Beaumont Children's",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Beaumont Health",
+      "type": "parent",
+      "id": "https://ror.org/05g2hd893"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}
