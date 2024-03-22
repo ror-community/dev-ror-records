@@ -67,7 +67,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Atomic Energy Organization of Iran",
+      "type": "parent",
+      "id": "https://ror.org/04feqxb79"
+    }
+  ],
   "status": "active",
   "types": [
     "facility",

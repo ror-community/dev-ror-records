@@ -41,7 +41,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Dekra (Germany)",
+      "type": "successor",
+      "id": "https://ror.org/02b3ny291"
+    }
+  ],
   "status": "inactive",
   "types": [
     "company"

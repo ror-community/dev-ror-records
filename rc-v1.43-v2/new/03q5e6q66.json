@@ -38,7 +38,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Veneto Institute of Molecular Medicine Home",
+      "type": "related",
+      "id": "https://ror.org/0048jxt15"
+    }
+  ],
   "status": "active",
   "types": [
     "other"

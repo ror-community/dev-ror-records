@@ -52,7 +52,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Vrije Universiteit Brussel",
+      "type": "related",
+      "id": "https://ror.org/006e5kg04"
+    }
+  ],
   "status": "active",
   "types": [
     "nonprofit"

@@ -60,7 +60,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Wayne State University",
+      "type": "parent",
+      "id": "https://ror.org/01070mq45"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

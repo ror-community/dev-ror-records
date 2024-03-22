@@ -67,7 +67,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "California State University System",
+      "type": "parent",
+      "id": "https://ror.org/020qm1538"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

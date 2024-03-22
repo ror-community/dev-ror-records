@@ -87,6 +87,16 @@
       "label": "École Normale Supérieure Paris-Saclay",
       "type": "parent",
       "id": "https://ror.org/00hx6zz33"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

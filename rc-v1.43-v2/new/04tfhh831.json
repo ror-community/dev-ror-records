@@ -38,7 +38,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Dartmouth College",
+      "type": "related",
+      "id": "https://ror.org/049s0rh22"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

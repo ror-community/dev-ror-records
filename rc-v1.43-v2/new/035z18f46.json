@@ -45,7 +45,13 @@
       "lang": "zh"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Shanxi University",
+      "type": "parent",
+      "id": "https://ror.org/03y3e3s17"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

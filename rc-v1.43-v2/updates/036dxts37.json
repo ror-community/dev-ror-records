@@ -1,0 +1,108 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-09-23",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2008,
+  "external_ids": [
+    {
+      "all": [
+        "501100000811",
+        "100010686"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "grid.453486.8"
+      ],
+      "preferred": "grid.453486.8",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0001 2195 4661"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q993120"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/036dxts37",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://eit.europa.eu/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/European_Institute_of_Innovation_and_Technology"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "HU",
+        "country_name": "Hungary",
+        "lat": 47.479304,
+        "lng": 18.999926,
+        "name": "Budapest"
+      },
+      "geonames_id": 3054643
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "EIT"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "European Institute of Innovation and Technology"
+    },
+    {
+      "lang": "hu",
+      "types": [
+        "label"
+      ],
+      "value": "Európai Innovációs és Technológiai Intézet"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "European Union",
+      "type": "parent",
+      "id": "https://ror.org/019w4f821"
+    },
+    {
+      "label": "EIT Food",
+      "type": "child",
+      "id": "https://ror.org/01kde4v59"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ]
+}

@@ -48,7 +48,23 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "Atomic Energy and Alternative Energies Commission",
+      "type": "parent",
+      "id": "https://ror.org/00jjx8s55"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

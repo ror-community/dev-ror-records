@@ -88,7 +88,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+      "type": "parent",
+      "id": "https://ror.org/02drdmm93"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

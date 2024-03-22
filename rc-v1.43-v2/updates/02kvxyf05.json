@@ -296,6 +296,11 @@
       "label": "Microscopie Fonctionnelle du Vivant",
       "type": "child",
       "id": "https://ror.org/01sgwka45"
+    },
+    {
+      "label": "Communauté Université Grenoble Alpes",
+      "type": "related",
+      "id": "https://ror.org/05v727m31"
     }
   ],
   "status": "active",

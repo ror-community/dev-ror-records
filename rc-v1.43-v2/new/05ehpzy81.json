@@ -81,7 +81,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "State Grid Corporation of China (China)",
+      "type": "parent",
+      "id": "https://ror.org/05twwhs70"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

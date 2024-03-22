@@ -65,6 +65,11 @@
       "label": "Université d'Orléans",
       "type": "parent",
       "id": "https://ror.org/014zrew76"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "parent",
+      "id": "https://ror.org/03xjwb503"
     }
   ],
   "status": "active",

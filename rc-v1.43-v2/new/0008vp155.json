@@ -74,7 +74,13 @@
       "lang": "en"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Grundfos (Denmark)",
+      "type": "child",
+      "id": "https://ror.org/05rdv5n40"
+    }
+  ],
   "status": "active",
   "types": [
     "other"

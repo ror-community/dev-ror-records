@@ -46,7 +46,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Washington University in St. Louis",
+      "type": "parent",
+      "id": "https://ror.org/01yc7t268"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

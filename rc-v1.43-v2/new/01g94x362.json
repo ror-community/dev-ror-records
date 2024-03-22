@@ -81,7 +81,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Flemish Government",
+      "type": "parent",
+      "id": "https://ror.org/04qxsrb28"
+    }
+  ],
   "status": "active",
   "types": [
     "government"
