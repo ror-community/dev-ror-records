@@ -1,0 +1,77 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "grid.464070.1"
+      ],
+      "preferred": "grid.464070.1",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/04bkzce69",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://inserm-u769.cep.u-psud.fr/index.php?lang=en"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.760907,
+        "lng": 2.270853,
+        "name": "Châtenay-Malabry"
+      },
+      "geonames_id": 3026108
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Laboratory Signaling and Cardiovascular Pathophysiology"
+    },
+    {
+      "lang": "fr",
+      "types": [
+        "label"
+      ],
+      "value": "Singnalisation et physiopathologie cardiaque"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "SCP"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Délégation Paris 11",
+      "type": "parent",
+      "id": "https://ror.org/0589k3111"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

@@ -79,11 +79,6 @@
   ],
   "relationships": [
     {
-      "label": "Beaumont Health",
-      "type": "parent",
-      "id": "https://ror.org/05g2hd893"
-    },
-    {
       "label": "Oakland University",
       "type": "related",
       "id": "https://ror.org/01ythxj32"
