@@ -1,0 +1,101 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2989204,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "name": "Orsay"
+      }
+    }
+  ],
+  "established": 2015,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q51784779"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.503243.3"
+      ],
+      "preferred": "grid.503243.3"
+    }
+  ],
+  "id": "https://ror.org/00ajjta07",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://ips2.u-psud.fr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Institut des Sciences des Plantes de Paris Saclay",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Paris Saclay Institute of Plant Sciences",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Institute of Plant Sciences of Paris Saclay",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "IPS2",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "National Research Institute for Agriculture, Food and Environment",
+      "type": "parent",
+      "id": "https://ror.org/003vg9w96"
+    },
+    {
+      "label": "Université Paris Cité",
+      "type": "parent",
+      "id": "https://ror.org/05f82e368"
+    },
+    {
+      "label": "University of Évry Val d'Essonne",
+      "type": "parent",
+      "id": "https://ror.org/00e96v939"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

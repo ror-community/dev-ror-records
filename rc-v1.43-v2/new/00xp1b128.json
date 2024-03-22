@@ -1,0 +1,78 @@
+{
+  "locations": [
+    {
+      "geonames_id": 5911606,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 49.26636,
+        "lng": -122.95263,
+        "name": "Burnaby"
+      }
+    }
+  ],
+  "established": 2010,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 9224 2604"
+      ],
+      "preferred": "0000 0004 9224 2604"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100015741"
+      ],
+      "preferred": "501100015741"
+    }
+  ],
+  "id": "https://ror.org/00xp1b128",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://kidsbrainhealth.ca"
+    }
+  ],
+  "names": [
+    {
+      "value": "Kids Brain Health Network",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Réseau pour la Santé du Cerveau des Enfants",
+      "types": [
+        "label"
+      ],
+      "lang": "fr"
+    },
+    {
+      "value": "KBHN",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

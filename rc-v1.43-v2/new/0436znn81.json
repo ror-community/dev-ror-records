@@ -1,0 +1,99 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2648108,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 53.45,
+        "lng": -2.23333,
+        "name": "Greater Manchester"
+      }
+    }
+  ],
+  "established": 2023,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 7871 7132"
+      ],
+      "preferred": "0000 0004 7871 7132"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100013235"
+      ],
+      "preferred": "501100013235"
+    }
+  ],
+  "id": "https://ror.org/0436znn81",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.psrc-gm.nihr.ac.uk"
+    }
+  ],
+  "names": [
+    {
+      "value": "NIHR Greater Manchester Patient Safety Translational Research Centre",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "National Institute for Health Research Greater Manchester Patient Safety Translational Research Centre",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Greater Manchester Patient Safety Translational Research Centre",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Manchester Patient Safety Translational Research Centre",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NIHR GM PSTRC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "GM PSTRC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

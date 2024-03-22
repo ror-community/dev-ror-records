@@ -1,0 +1,85 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2648579,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 55.86515,
+        "lng": -4.25763,
+        "name": "Glasgow"
+      }
+    }
+  ],
+  "established": 2014,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "100012927"
+      ],
+      "preferred": "100012927"
+    }
+  ],
+  "id": "https://ror.org/04qdwq068",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.quantic.ac.uk"
+    }
+  ],
+  "names": [
+    {
+      "value": "QuantIC",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "QuantIC – UK Quantum Technology Hub in Quantum Enhanced Imaging",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "QuantIC – UK QT Hub in Quantum Enhanced Imaging",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "QuantIC Advanced Research Centre",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "QuantIC ARC",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}
