@@ -1,0 +1,76 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/01wpc8d74",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://iode.org"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "lat": 51.21551,
+        "lng": 2.927,
+        "name": "Ostend"
+      },
+      "geonames_id": 2789786
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "IODE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "UNESCO IODE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "UNESCO IOC IODE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "International Oceanographic Data and Information Exchange"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "International Oceanographic Data and Information Exchange (IODE)"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ]
+}

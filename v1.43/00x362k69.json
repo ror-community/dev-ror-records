@@ -1,0 +1,88 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1954,
+  "external_ids": [
+    {
+      "all": [
+        "grid.278859.9"
+      ],
+      "preferred": "grid.278859.9",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0004 0486 659X"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q7270336"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/00x362k69",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+services/hospitals+and+health+services+metropolitan+adelaide/the+queen+elizabeth+hospital/the+queen+elizabeth+hospital"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hospital,_Adelaide"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "AU",
+        "country_name": "Australia",
+        "lat": -34.92866,
+        "lng": 138.59863,
+        "name": "Adelaide"
+      },
+      "geonames_id": 2078025
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Queen Elizabeth Hospital"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "TQEH"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Central Adelaide Local Health Network",
+      "type": "parent",
+      "id": "https://ror.org/02r40rn49"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}

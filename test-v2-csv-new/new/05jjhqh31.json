@@ -1,0 +1,62 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2013,
+  "external_ids": [],
+  "id": "https://ror.org/05jjhqh31",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://tplondon.com"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 53.42519,
+        "lng": -2.32443,
+        "name": "Sale"
+      },
+      "geonames_id": 2638678
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "TPL"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "TP London"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Transnational Press London"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2719111,
+      "geonames_details": {
+        "country_code": "SE",
+        "country_name": "Sweden",
+        "lat": 59.34,
+        "lng": 17.94,
+        "name": "Bromma"
+      }
+    }
+  ],
+  "established": 1997,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0618 2159"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q3652398"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.462882.2"
+      ],
+      "preferred": "grid.462882.2"
+    }
+  ],
+  "id": "https://ror.org/01kdbb633",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://ehs.se"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Stockholm_School_of_Theology"
+    }
+  ],
+  "names": [
+    {
+      "value": "University College Stockholm",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Stockholm School of Theology",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Teologiska högskolan Stockholm",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Enskilda Högskolan Stockholm",
+      "types": [
+        "label"
+      ],
+      "lang": "sv"
+    },
+    {
+      "value": "THS",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "EHS",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

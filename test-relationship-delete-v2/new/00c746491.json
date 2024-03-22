@@ -1,0 +1,92 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1684308,
+      "geonames_details": {
+        "country_code": "PH",
+        "country_name": "Philippines",
+        "lat": 14.5243,
+        "lng": 121.0792,
+        "name": "Taguig"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 7777 4717"
+      ],
+      "preferred": "0000 0004 7777 4717"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q114556703"
+      ],
+      "preferred": "Q114556703"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100010217"
+      ],
+      "preferred": "501100010217"
+    }
+  ],
+  "id": "https://ror.org/00c746491",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://nrcp.dost.gov.ph"
+    }
+  ],
+  "names": [
+    {
+      "value": "National Research Council of the Philippines",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Philippines National Research Council",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "DOST-NRCP",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NRCP",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

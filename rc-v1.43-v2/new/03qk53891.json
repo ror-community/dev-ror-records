@@ -1,0 +1,117 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1805518,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 35.405,
+        "lng": 116.58139,
+        "name": "Jining"
+      }
+    }
+  ],
+  "established": 1976,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 7245 6824"
+      ],
+      "preferred": "0000 0004 7245 6824"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q884019"
+      ],
+      "preferred": "Q884019"
+    }
+  ],
+  "id": "https://ror.org/03qk53891",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.yanzhoucoal.com.cn"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Yankuang_Group"
+    }
+  ],
+  "names": [
+    {
+      "value": "Yankuang Energy Group Company Limited (China)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Yankuang Energy Group Company Limited",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Yankuang Energy Group Company",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Yankuang Energy Group Company, Ltd.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Yankuang Energy Group",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Yankuang Group",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "兗礦集團有限公司",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "兖矿能源集团股份有限公司",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

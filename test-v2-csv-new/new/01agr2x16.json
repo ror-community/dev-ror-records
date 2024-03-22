@@ -1,0 +1,70 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/01agr2x16",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/john-wesley-powell-center-for-analysis-and-synthesis"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 40.58526,
+        "lng": -105.08442,
+        "name": "Fort Collins"
+      },
+      "geonames_id": 5577147
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS John Wesley Powell Center for Analysis and Synthesis"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey John Wesley Powell Center for Analysis and Synthesis"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey John Wesley Powell Center for Analysis and Synthesis"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "John Wesley Powell Center for Analysis and Synthesis"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

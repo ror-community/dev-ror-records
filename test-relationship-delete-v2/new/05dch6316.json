@@ -1,0 +1,85 @@
+{
+  "locations": [
+    {
+      "geonames_id": 4259418,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 39.76838,
+        "lng": -86.15804,
+        "name": "Indianapolis"
+      }
+    }
+  ],
+  "established": 1992,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0431 6096"
+      ],
+      "preferred": "0000 0004 0431 6096"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q73495380"
+      ],
+      "preferred": "Q73495380"
+    }
+  ],
+  "id": "https://ror.org/05dch6316",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://palni.org"
+    }
+  ],
+  "names": [
+    {
+      "value": "Private Academic Library Network of Indiana, Inc. (PALNI)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Private Academic Library Network of Indiana, Inc.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Private Academic Library Network of Indiana",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "PALNI",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

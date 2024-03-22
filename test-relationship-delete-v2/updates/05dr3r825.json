@@ -1,0 +1,93 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2759794,
+      "geonames_details": {
+        "country_code": "NL",
+        "country_name": "The Netherlands",
+        "lat": 52.37403,
+        "lng": 4.88969,
+        "name": "Amsterdam"
+      }
+    }
+  ],
+  "established": 1926,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0501 3257"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100006315",
+        "501100022115"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.454756.1"
+      ],
+      "preferred": "grid.454756.1"
+    }
+  ],
+  "id": "https://ror.org/05dr3r825",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.reumafonds.nl/"
+    }
+  ],
+  "names": [
+    {
+      "value": "ReumaNederland",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Reumafonds",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Dutch Arthritis Foundation",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "DAF",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

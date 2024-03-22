@@ -1,0 +1,70 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/00pzwvf23",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/florence-bascom-geoscience-center"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 38.96872,
+        "lng": -77.3411,
+        "name": "Reston"
+      },
+      "geonames_id": 4781530
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS Florence Bascom Geoscience Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey Florence Bascom Geoscience Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey Florence Bascom Geoscience Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Florence Bascom Geoscience Center"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

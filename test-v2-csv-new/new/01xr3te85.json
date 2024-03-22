@@ -1,0 +1,69 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1999,
+  "external_ids": [],
+  "id": "https://ror.org/01xr3te85",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.sinder.cn"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 36.06488,
+        "lng": 120.38042,
+        "name": "Qingdao"
+      },
+      "geonames_id": 1797929
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Shandong Sinder Technology Co."
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Shandong Sinder Technology"
+    },
+    {
+      "lang": "zh",
+      "types": [
+        "label"
+      ],
+      "value": "山东信得科技股份有限公司"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Shandong Sinder Technology Co., Ltd."
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ]
+}

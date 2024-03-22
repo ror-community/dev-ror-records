@@ -1,0 +1,110 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2023-10-26",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1926,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0001 2284 9388"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "501100008017"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "Q266227"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.14925.3b"
+      ],
+      "preferred": "grid.14925.3b",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/0321g0743",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.gustaveroussy.fr/en"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Institut_Gustave_Roussy"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.7939,
+        "lng": 2.35992,
+        "name": "Villejuif"
+      },
+      "geonames_id": 2968705
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Institut Gustave Roussy"
+    },
+    {
+      "lang": "fr",
+      "types": [
+        "label"
+      ],
+      "value": "Institut Gustave-Roussy"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Immunologie intégrative des tumeurs et immunothérapie du cancer",
+      "type": "child",
+      "id": "https://ror.org/0266c5p67"
+    },
+    {
+      "label": "Prédicteurs moléculaires et nouvelles cibles en oncologie",
+      "type": "child",
+      "id": "https://ror.org/01earvv39"
+    },
+    {
+      "label": "Radiothérapie Moléculaire et Innovation Thérapeutique",
+      "type": "child",
+      "id": "https://ror.org/00jp5dw81"
+    },
+    {
+      "label": "Contrôle transcriptionnel et épigénétique de l’hématopoïèse maligne",
+      "type": "child",
+      "id": "https://ror.org/00p73bw06"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2008,
+  "external_ids": [],
+  "id": "https://ror.org/019nppa26",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://sphere-inserm.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 47.21725,
+        "lng": -1.55336,
+        "name": "Nantes"
+      },
+      "geonames_id": 2990969
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "SPHERE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "methodS in Patient-centered outcomes & HEalth ResEarch"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Laboratoire SPHERE"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "methodS in Patient-centered outcomes and HEalth ResEarch"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

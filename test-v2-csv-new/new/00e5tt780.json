@@ -1,0 +1,85 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 9534 4542"
+      ],
+      "preferred": "0000 0004 9534 4542",
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q97102989"
+      ],
+      "preferred": "Q97102989",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/00e5tt780",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/earthquake-science-center"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 37.41352,
+        "lng": -122.05404,
+        "name": "Moffett Federal Airfield"
+      },
+      "geonames_id": 8096494
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS Earthquake Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey Earthquake Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey Earthquake Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Earthquake Science Center"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

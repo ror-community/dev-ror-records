@@ -1,0 +1,70 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 0373 099X"
+      ],
+      "preferred": "0000 0004 0373 099X",
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q51784119"
+      ],
+      "preferred": "Q51784119",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/03ed6pb68",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://cermn.unicaen.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.18585,
+        "lng": -0.35912,
+        "name": "Caen"
+      },
+      "geonames_id": 3029241
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "CERMN"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Centre d'Etudes et de Recherche sur le Médicament de Normandie"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0001 2170 7783"
+      ],
+      "preferred": "0000 0001 2170 7783",
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q51780404"
+      ],
+      "preferred": "Q51780404",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/04hmhwb77",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://erlis.unicaen.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.18585,
+        "lng": -0.35912,
+        "name": "Caen"
+      },
+      "geonames_id": 3029241
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "ERLIS"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Equipe de recherche sur les littératures, les imaginaires et les sociétés"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

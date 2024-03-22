@@ -1,0 +1,63 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "Q51783581"
+      ],
+      "preferred": "Q51783581",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/027m9ss41",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://lmi.insa-rouen.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.37794,
+        "lng": 1.10467,
+        "name": "Saint-Étienne-du-Rouvray"
+      },
+      "geonames_id": 2980236
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "LMI"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Laboratoire de Mathématiques de l'INSA de Rouen"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

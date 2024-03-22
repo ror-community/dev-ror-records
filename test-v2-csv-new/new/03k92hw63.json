@@ -1,0 +1,78 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "Q116212763"
+      ],
+      "preferred": "Q116212763",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/03k92hw63",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/pcmsc"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 36.97412,
+        "lng": -122.0308,
+        "name": "Santa Cruz"
+      },
+      "geonames_id": 5393052
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS Pacific Coastal and Marine Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey Pacific Coastal and Marine Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey Pacific Coastal and Marine Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Pacific Coastal and Marine Science Center"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1816670,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 39.9075,
+        "lng": 116.39723,
+        "name": "Beijing"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/02525b202",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.rechsand.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "Beijing Renchuang Technology Group Co., Ltd. (China)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Beijing Renchuang Technology Group Co., Ltd.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Beijing Renchuang Technology Group Co.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Beijing Renchuang Technology Group",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Beijing Renchuang Technology Group Company Limited",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "北京仁创科技集团有限公司",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

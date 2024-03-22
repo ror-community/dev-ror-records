@@ -1,0 +1,134 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2989204,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "name": "Orsay"
+      }
+    }
+  ],
+  "established": 1971,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 2171 2558"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100007486"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q1480643"
+      ],
+      "preferred": "Q1480643"
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.5842.b"
+      ],
+      "preferred": "grid.5842.b"
+    }
+  ],
+  "id": "https://ror.org/028rypz17",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.u-psud.fr/en/index.html"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/University_of_Paris-Sud"
+    }
+  ],
+  "names": [
+    {
+      "value": "University of Paris-Sud",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University of Paris XI",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Université Paris-Sud",
+      "types": [
+        "label"
+      ],
+      "lang": "fr"
+    },
+    {
+      "value": "Universitat de París Sud",
+      "types": [
+        "label"
+      ],
+      "lang": "ca"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Hôpital Marie Lannelongue",
+      "type": "related",
+      "id": "https://ror.org/02ndr3r66"
+    },
+    {
+      "label": "Biology of Extremophiles Laboratory",
+      "type": "child",
+      "id": "https://ror.org/036mest28"
+    },
+    {
+      "label": "Genetic Stability and Oncogenesis",
+      "type": "child",
+      "id": "https://ror.org/055s8hs34"
+    },
+    {
+      "label": "Geosciences Paris Sud",
+      "type": "child",
+      "id": "https://ror.org/03s92mv58"
+    },
+    {
+      "label": "Laboratory Signaling and Cardiovascular Pathophysiology",
+      "type": "child",
+      "id": "https://ror.org/04bkzce69"
+    },
+    {
+      "label": "University of Paris-Saclay",
+      "type": "successor",
+      "id": "https://ror.org/03xjwb503"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/02c1ffz59",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://scme.edu.ps"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "PS",
+        "country_name": "Palestine",
+        "lat": 31.52935,
+        "lng": 35.0938,
+        "name": "Hebron"
+      },
+      "geonames_id": 285066
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "SCME"
+    },
+    {
+      "lang": "ar",
+      "types": [
+        "label"
+      ],
+      "value": "الكلية الذكية للتعليم الحديث"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Smart College for Modern Education"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ]
+}

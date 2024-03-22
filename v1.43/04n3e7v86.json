@@ -1,0 +1,91 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1886760,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 31.30408,
+        "lng": 120.59538,
+        "name": "Suzhou"
+      }
+    }
+  ],
+  "established": 2020,
+  "external_ids": [],
+  "id": "https://ror.org/04n3e7v86",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.sdhmdp.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "The Fourth Affiliated Hospital of Soochow University (Suzhou Dushu Lake Hospital)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "The Fourth Affiliated Hospital of Soochow University",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Suzhou Dushu Lake Hospital",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "苏州大学附属第四医院",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "苏州市独墅湖医院",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "苏州大学附属第四医院 (苏州市独墅湖医院)",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    },
+    {
+      "value": "SDH",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

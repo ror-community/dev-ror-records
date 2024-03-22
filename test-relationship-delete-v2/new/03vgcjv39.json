@@ -1,0 +1,56 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2267057,
+      "geonames_details": {
+        "country_code": "PT",
+        "country_name": "Portugal",
+        "lat": 38.71667,
+        "lng": -9.13333,
+        "name": "Lisbon"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/03vgcjv39",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://conhecimentoinovacao.iscte-iul.pt"
+    }
+  ],
+  "names": [
+    {
+      "value": "Iscte-Conhecimento e Inovação é um Centro de Valorização e Transferência de Tecnologias",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Iscte Conhecimento E Inovacao - Centro De Valorizacao E Transferencia De Tecnologias",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

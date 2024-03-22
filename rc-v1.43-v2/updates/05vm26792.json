@@ -1,0 +1,89 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1691444,
+      "geonames_details": {
+        "country_code": "PH",
+        "country_name": "Philippines",
+        "lat": 11.58528,
+        "lng": 122.75111,
+        "name": "Roxas City"
+      }
+    }
+  ],
+  "established": 1981,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0480 6802"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q5036027"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.443135.4"
+      ],
+      "preferred": "grid.443135.4"
+    }
+  ],
+  "id": "https://ror.org/05vm26792",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.capsu.edu.ph"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Capiz_State_University"
+    }
+  ],
+  "names": [
+    {
+      "value": "Capiz State University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Panay State Polytechnic College",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "CAPSU",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

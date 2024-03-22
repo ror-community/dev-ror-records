@@ -1,0 +1,72 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "5.011E+11"
+      ],
+      "preferred": "5.011E+11",
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "0000 0004 7885 9130"
+      ],
+      "preferred": "0000 0004 7885 9130",
+      "type": "isni"
+    }
+  ],
+  "id": "https://ror.org/03wfp7m06",
+  "links": [],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 31.86389,
+        "lng": 117.28083,
+        "name": "Hefei"
+      },
+      "geonames_id": 1808722
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "State Key Lab of Pulsed Power Laser Technology"
+    },
+    {
+      "lang": "zh",
+      "types": [
+        "label"
+      ],
+      "value": "脉冲功率激光技术国家重点实验室"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "State Key Laboratory of Pulsed Power Laser Technology"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

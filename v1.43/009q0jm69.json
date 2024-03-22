@@ -1,0 +1,102 @@
+{
+  "locations": [
+    {
+      "geonames_id": 5475352,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 32.31232,
+        "lng": -106.77834,
+        "name": "Las Cruces"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q45133446"
+      ],
+      "preferred": "Q45133446"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100011499"
+      ],
+      "preferred": "100011499"
+    }
+  ],
+  "id": "https://ror.org/009q0jm69",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://aes.nmsu.edu"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/New_Mexico_State_University_Agricultural_Experiment_Station"
+    }
+  ],
+  "names": [
+    {
+      "value": "Agricultural Experiment Station",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Agricultural Experiment Station, New Mexico State University",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "New Mexico State University Agricultural Experiment Station",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "AES NMSU",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NMSU AES",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "New Mexico State University",
+      "type": "parent",
+      "id": "https://ror.org/00hpz7z43"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

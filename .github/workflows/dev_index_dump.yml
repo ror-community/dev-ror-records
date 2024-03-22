@@ -8,7 +8,6 @@ on:
       schema-version:
         required: true
         description: Schema version to index
-        default: 'test'
         type: choice
         options:
         - v1
@@ -53,18 +52,19 @@ jobs:
     if: github.event.ref == 'refs/heads/dev'
     needs: check_permission
     steps:
+      - name: checkout
+        uses: actions/checkout@v2
       - name: Index dump file
         id: indexdatadump
         run: |
           cd .github/workflows
           python -m pip install --upgrade pip
           pip install requests==2.23.0
-          if [[ ${{ github.event.inputs.data-env }} == "v1" ]]; then
+          if [[ ${{ github.event.inputs.schema-version }} == "v1" ]]; then
             python index_dump.py -u ${{ secrets.INDEX_DUMP_DEV_API_URL }} -f ${{ github.event.inputs.release-dump }} -e  ${{ github.event.inputs.data-env }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
           else
             python index_dump.py -u ${{ secrets.INDEX_DUMP_DEV_API_URL_V2 }} -f ${{ github.event.inputs.release-dump }} -e  ${{ github.event.inputs.data-env }} -he ${{ secrets.INDEX_DEV_API_HEADERS }}
           fi
-
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -73,5 +73,5 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'DEV full index from dump status: ${{ steps.indexdata.outcome }}. From file: ${{ github.event.inputs.release-dump }}. Schema version: ${{ github.event.inputs.data-env }}. Data env: ${{ github.event.inputs.release-dump }}Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV full index from dump status: ${{ steps.indexdatadump.outcome }}. From file: ${{ github.event.inputs.release-dump }}. Schema version: ${{ github.event.inputs.schema-version }}. Data env: ${{ github.event.inputs.data-env }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
 

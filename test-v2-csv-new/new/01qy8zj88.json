@@ -1,0 +1,70 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/01qy8zj88",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/geologic-hazards-science-center"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 39.75554,
+        "lng": -105.2211,
+        "name": "Golden"
+      },
+      "geonames_id": 5423294
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS Geologic Hazards Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey Geologic Hazards Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey Geologic Hazards Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Geologic Hazards Science Center"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

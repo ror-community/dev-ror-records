@@ -1,0 +1,78 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "100013042"
+      ],
+      "preferred": "100013042",
+      "type": "fundref"
+    }
+  ],
+  "id": "https://ror.org/00qj2fj02",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/wyoming-montana-water-science-center"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 45.78329,
+        "lng": -108.50069,
+        "name": "Billings"
+      },
+      "geonames_id": 5640350
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS Wyoming-Montana Water Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey Wyoming-Montana Water Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey Wyoming-Montana Water Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Wyoming-Montana Water Science Center"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

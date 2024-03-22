@@ -1,0 +1,63 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "Q52604627"
+      ],
+      "preferred": "Q52604627",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/02vs0kg72",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://cirnef.normandie-univ.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.18585,
+        "lng": -0.35912,
+        "name": "Caen"
+      },
+      "geonames_id": 3029241
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "CIRNEF"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Centre Interdisciplinaire de Recherche Normand en Education et Formation"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

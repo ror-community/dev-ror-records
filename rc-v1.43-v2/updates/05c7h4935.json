@@ -1,0 +1,102 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2306104,
+      "geonames_details": {
+        "country_code": "GH",
+        "country_name": "Ghana",
+        "lat": 5.55602,
+        "lng": -0.1969,
+        "name": "Accra"
+      }
+    }
+  ],
+  "established": 1957,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q6867086"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.415765.4"
+      ],
+      "preferred": "grid.415765.4"
+    },
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0721 5002"
+      ],
+      "preferred": "0000 0001 0721 5002"
+    }
+  ],
+  "id": "https://ror.org/05c7h4935",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.moh.gov.gh"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Ministry_of_Health_(Ghana)"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministry of Health",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Health of Ghana",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ghanaian Ministry of Health",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MoH",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Ghana Health Service",
+      "type": "child",
+      "id": "https://ror.org/052ss8w32"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "locations": [
+    {
+      "geonames_id": 4180439,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 33.749,
+        "lng": -84.38798,
+        "name": "Atlanta"
+      }
+    }
+  ],
+  "established": 1930,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0000 8741 8346"
+      ],
+      "preferred": "0000 0000 8741 8346"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q2600140"
+      ],
+      "preferred": "Q2600140"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100012692"
+      ],
+      "preferred": "100012692"
+    }
+  ],
+  "id": "https://ror.org/038kr2d80",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.enprc.emory.edu"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Emory_National_Primate_Research_Center"
+    }
+  ],
+  "names": [
+    {
+      "value": "Emory National Primate Research Center",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Yerkes National Primate Research Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Emory University Yerkes National Primate Research Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Emory University National Primate Research Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "YNPRC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Emory University",
+      "type": "parent",
+      "id": "https://ror.org/03czfpz43"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

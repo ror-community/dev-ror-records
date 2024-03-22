@@ -1,0 +1,99 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2619856,
+      "geonames_details": {
+        "country_code": "DK",
+        "country_name": "Denmark",
+        "lat": 55.88098,
+        "lng": 12.50111,
+        "name": "Hørsholm"
+      }
+    }
+  ],
+  "established": 1964,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0670 5261"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.423937.8"
+      ],
+      "preferred": "grid.423937.8"
+    }
+  ],
+  "id": "https://ror.org/05jmnvy38",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.dhigroup.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "DHI",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "DHI Water & Environment",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Dansk Hydraulisk Institut",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "DHI Water and Environment",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Danish Hydraulic Institute",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "DHI A/S",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

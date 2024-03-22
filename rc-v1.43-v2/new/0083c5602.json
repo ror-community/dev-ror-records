@@ -1,0 +1,78 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2891122,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 54.32133,
+        "lng": 10.13489,
+        "name": "Kiel"
+      }
+    }
+  ],
+  "established": 2012,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 8308 2557"
+      ],
+      "preferred": "0000 0004 8308 2557"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100013859"
+      ],
+      "preferred": "501100013859"
+    }
+  ],
+  "id": "https://ror.org/0083c5602",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.damp-stiftung.de"
+    }
+  ],
+  "names": [
+    {
+      "value": "Damp Stiftung",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Damp Foundation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Damp-Stiftung",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

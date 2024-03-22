@@ -1,0 +1,99 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0000 9155 2759"
+      ],
+      "preferred": "0000 0000 9155 2759",
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q116040261"
+      ],
+      "preferred": "Q116040261",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/0419ntr52",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usgs.gov/centers/great-lakes-science-center"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.27756,
+        "lng": -83.74088,
+        "name": "Ann Arbor"
+      },
+      "geonames_id": 4984247
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "GLSC"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "USGS GLSC"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "USGS Great Lakes Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "U.S. Geological Survey Great Lakes Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "United States Geological Survey Great Lakes Science Center"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Great Lakes Science Center"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government",
+    "facility"
+  ]
+}

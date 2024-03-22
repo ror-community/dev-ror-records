@@ -1,0 +1,81 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 4902 6842"
+      ],
+      "preferred": "0000 0004 4902 6842",
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q105615808"
+      ],
+      "preferred": "Q105615808",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/04z1gnc18",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://labsms.univ-rouen.fr"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://fr.wikipedia.org/wiki/Laboratoire_Sciences_et_M%C3%A9thodes_S%C3%A9paratives"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.44313,
+        "lng": 1.09932,
+        "name": "Rouen"
+      },
+      "geonames_id": 2982652
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "SMS"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Laboratoire SMS"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Laboratoire Sciences et Méthodes Séparatives"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}

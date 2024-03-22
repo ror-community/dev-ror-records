@@ -1,0 +1,55 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/04j7rnh41",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://jozacpublishers.com"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "ZA",
+        "country_name": "South Africa",
+        "lat": -25.86522,
+        "lng": 25.64421,
+        "name": "Mafikeng"
+      },
+      "geonames_id": 980595
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "JP"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Jozac Publishers"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "other"
+  ]
+}

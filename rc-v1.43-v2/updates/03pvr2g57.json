@@ -1,0 +1,120 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2805615,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 49.79391,
+        "lng": 9.95121,
+        "name": "Würzburg"
+      }
+    }
+  ],
+  "established": 1402,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 1378 7891"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q1784848"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.411760.5"
+      ],
+      "preferred": "grid.411760.5"
+    }
+  ],
+  "id": "https://ror.org/03pvr2g57",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.ukw.de"
+    }
+  ],
+  "names": [
+    {
+      "value": "Universitätsklinikum Würzburg",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University Hospital Würzburg",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University Hospital of Wuerzburg",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Universitaetsklinikum Wuerzburg - Klinikum Der Bayerischen Julius-Maximilians-Universitat",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "UKW",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "University of Würzburg",
+      "type": "related",
+      "id": "https://ror.org/00fbnyb24"
+    },
+    {
+      "label": "Augenklinik Universitätsklinikum Würzburg",
+      "type": "child",
+      "id": "https://ror.org/00rwpbm87"
+    },
+    {
+      "label": "Comprehensive Cancer Center Mainfranken",
+      "type": "child",
+      "id": "https://ror.org/013tmk464"
+    },
+    {
+      "label": "Universitäts-Kinderklinik Würzburg",
+      "type": "child",
+      "id": "https://ror.org/000ph9k36"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

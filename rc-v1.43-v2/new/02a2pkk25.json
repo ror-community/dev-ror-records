@@ -1,0 +1,63 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2950159,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 52.52437,
+        "lng": 13.41053,
+        "name": "Berlin"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/02a2pkk25",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.forum-transregionale-studien.de"
+    }
+  ],
+  "names": [
+    {
+      "value": "Forum transregionale Studien e.V.",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Forum transregionale Studien",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Forum for Transregional Studies",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

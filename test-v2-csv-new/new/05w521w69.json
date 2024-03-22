@@ -1,0 +1,91 @@
+{
+  "admin": {
+    "created": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    },
+    "last_modified": {
+      "date": "2024-03-06",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": null,
+  "external_ids": [
+    {
+      "all": [
+        "Q51781830"
+      ],
+      "preferred": "Q51781830",
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/05w521w69",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://lmah.univ-lehavre.fr"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 49.49346,
+        "lng": 0.10785,
+        "name": "Le Havre"
+      },
+      "geonames_id": 3003796
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "LMAH"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Applied Mathematics Laboratory of Le Havre"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Laboratory of Applied Mathematics of Le Havre"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "LMAH Le Havre"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Laboratoire LMAH"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display"
+      ],
+      "value": "Laboratoire de Mathématiques Appliquées du Havre"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ]
+}
