@@ -1,0 +1,70 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1987,
+  "external_ids": [
+    {
+      "all": [
+        "Q29576408"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.411754.2"
+      ],
+      "preferred": "grid.411754.2",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/00ntbvq76",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.chdinant.be/default.asp"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "BE",
+        "country_name": "Belgium",
+        "lat": 50.35835,
+        "lng": 4.88118,
+        "name": "Namur"
+      },
+      "geonames_id": 2790471
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "CHU Dinant Godinne UCL Namur"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "UCLouvain",
+      "type": "related",
+      "id": "https://ror.org/02495e989"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}
