@@ -116,6 +116,11 @@
       "label": "Beaumont Hospital, Troy",
       "type": "child",
       "id": "https://ror.org/05x9ffc66"
+    },
+    {
+      "label": "Corewell Health",
+      "type": "successor",
+      "id": "https://ror.org/02hb5yj49"
     }
   ],
   "status": "inactive",

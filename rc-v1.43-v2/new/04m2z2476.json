@@ -45,7 +45,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Aga Khan University",
+      "type": "parent",
+      "id": "https://ror.org/03gd0dm95"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

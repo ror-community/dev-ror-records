@@ -78,7 +78,23 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Cancer Research UK",
+      "type": "parent",
+      "id": "https://ror.org/054225q67"
+    },
+    {
+      "label": "University of Manchester",
+      "type": "parent",
+      "id": "https://ror.org/027m9bs27"
+    },
+    {
+      "label": "The Christie NHS Foundation Trust",
+      "type": "parent",
+      "id": "https://ror.org/03v9efr22"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

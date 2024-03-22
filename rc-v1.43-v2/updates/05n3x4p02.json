@@ -115,6 +115,11 @@
       "label": "Universitätsklinik für Hals-, Nasen- und Ohrenkrankheiten",
       "type": "child",
       "id": "https://ror.org/0045a4523"
+    },
+    {
+      "label": "Austrian BioImaging/CMI",
+      "type": "related",
+      "id": "https://ror.org/028696h48"
     }
   ],
   "status": "active",

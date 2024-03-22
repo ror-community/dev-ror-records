@@ -67,7 +67,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University College London",
+      "type": "parent",
+      "id": "https://ror.org/02jx3x895"
+    }
+  ],
   "status": "active",
   "types": [
     "nonprofit"

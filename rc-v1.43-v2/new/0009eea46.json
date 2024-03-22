@@ -60,7 +60,13 @@
       "lang": "zh"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Beihang University",
+      "type": "parent",
+      "id": "https://ror.org/00wk2mp56"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

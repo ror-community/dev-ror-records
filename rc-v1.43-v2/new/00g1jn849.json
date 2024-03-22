@@ -53,7 +53,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Sussex",
+      "type": "parent",
+      "id": "https://ror.org/00ayhx656"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

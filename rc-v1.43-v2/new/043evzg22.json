@@ -67,7 +67,13 @@
       "lang": "zh"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Tsinghua University",
+      "type": "parent",
+      "id": "https://ror.org/03cve4549"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

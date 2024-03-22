@@ -85,7 +85,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Emory University",
+      "type": "parent",
+      "id": "https://ror.org/03czfpz43"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

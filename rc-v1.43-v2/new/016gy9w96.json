@@ -71,7 +71,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Government of Ontario",
+      "type": "parent",
+      "id": "https://ror.org/015pzp858"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

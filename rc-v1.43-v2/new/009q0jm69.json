@@ -78,7 +78,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "New Mexico State University",
+      "type": "parent",
+      "id": "https://ror.org/00hpz7z43"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

@@ -74,7 +74,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "European Institute of Innovation and Technology",
+      "type": "parent",
+      "id": "https://ror.org/036dxts37"
+    }
+  ],
   "status": "active",
   "types": [
     "other"

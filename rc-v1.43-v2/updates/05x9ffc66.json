@@ -1,0 +1,94 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2023-10-26",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1908,
+  "external_ids": [
+    {
+      "all": [
+        "grid.417120.1"
+      ],
+      "preferred": "grid.417120.1",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0004 0435 2409"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q50376756"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/05x9ffc66",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.beaumont.org/locations/beaumont-hospital-troy"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.60559,
+        "lng": -83.14993,
+        "name": "Troy"
+      },
+      "geonames_id": 5012639
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Beaumont Hospital, Troy"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "William Beaumont Hospital, Troy"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Beaumont Health",
+      "type": "parent",
+      "id": "https://ror.org/05g2hd893"
+    },
+    {
+      "label": "Oakland University",
+      "type": "related",
+      "id": "https://ror.org/01ythxj32"
+    },
+    {
+      "label": "Corewell Health",
+      "type": "parent",
+      "id": "https://ror.org/02hb5yj49"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}

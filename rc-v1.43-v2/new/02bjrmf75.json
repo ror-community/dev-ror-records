@@ -52,7 +52,13 @@
       "lang": null
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Catholic University of Applied Sciences of North Rhine – Westphalia",
+      "type": "related",
+      "id": "https://ror.org/024nr0776"
+    }
+  ],
   "status": "active",
   "types": [
     "education"
