@@ -1,0 +1,103 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1787458,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 34.27173,
+        "lng": 108.07891,
+        "name": "Yangling"
+      }
+    }
+  ],
+  "established": 1934,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 1760 4150"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100007548"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q985808"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.144022.1"
+      ],
+      "preferred": "grid.144022.1"
+    }
+  ],
+  "id": "https://ror.org/0051rme32",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.nwsuaf.edu.cn"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/Northwest_A%26F_University"
+    }
+  ],
+  "names": [
+    {
+      "value": "Northwest A&F University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Xīběi Nónglín Kējì Dàxué",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "西北农林科技大学",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    },
+    {
+      "value": "NWAFU",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

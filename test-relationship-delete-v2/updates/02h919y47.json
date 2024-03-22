@@ -1,0 +1,96 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2938913,
+      "geonames_details": {
+        "country_code": "DE",
+        "country_name": "Germany",
+        "lat": 49.87167,
+        "lng": 8.65027,
+        "name": "Darmstadt"
+      }
+    }
+  ],
+  "established": 1986,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0621 7921"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q692163"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.426436.1"
+      ],
+      "preferred": "grid.426436.1"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100010560"
+      ],
+      "preferred": "501100010560"
+    }
+  ],
+  "id": "https://ror.org/02h919y47",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.eumetsat.int"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/EUMETSAT"
+    }
+  ],
+  "names": [
+    {
+      "value": "European Organisation for the Exploitation of Meteorological Satellites",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Europäische Organisation für die Nutzung meteorologischer Satelliten",
+      "types": [
+        "label"
+      ],
+      "lang": "de"
+    },
+    {
+      "value": "EUMETSAT",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

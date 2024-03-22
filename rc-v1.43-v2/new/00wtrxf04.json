@@ -1,0 +1,63 @@
+{
+  "locations": [
+    {
+      "geonames_id": 4930956,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.35843,
+        "lng": -71.05977,
+        "name": "Boston"
+      }
+    }
+  ],
+  "established": 1998,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "100014872"
+      ],
+      "preferred": "100014872"
+    }
+  ],
+  "id": "https://ror.org/00wtrxf04",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://oshercenter.org"
+    }
+  ],
+  "names": [
+    {
+      "value": "Osher Center for Integrative Medicine",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Brigham and Women's Hospital",
+      "type": "parent",
+      "id": "https://ror.org/04b6nzv94"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "locations": [
+    {
+      "geonames_id": 6077243,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 45.50884,
+        "lng": -73.58781,
+        "name": "Montreal"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0005 1088 8602"
+      ],
+      "preferred": "0000 0005 1088 8602"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100015427"
+      ],
+      "preferred": "100015427"
+    }
+  ],
+  "id": "https://ror.org/057apef51",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://cqmf-qcam.ca"
+    }
+  ],
+  "names": [
+    {
+      "value": "Centre québécois sur les matériaux fonctionnels",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Quebec Centre for Advanced Materials",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "CQMF",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    },
+    {
+      "value": "QCAM",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1816670,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 39.9075,
+        "lng": 116.39723,
+        "name": "Beijing"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "fundref",
+      "all": [
+        "501100011284"
+      ],
+      "preferred": "501100011284"
+    }
+  ],
+  "id": "https://ror.org/043evzg22",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://eesklab.tsinghua.edu.cn"
+    }
+  ],
+  "names": [
+    {
+      "value": "State Key Laboratory of Power System and Generation Equipment",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Lab of Power System and Generation Equipment",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "State Key Laboratory of Safety Control and Simulation of Power System and Large-scale Power Generation Equipment",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "电力系统及发电设备控制和仿真国家重点实验室",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "电力系统及大型发电设备安全控制和仿真国家重点实验室",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Tsinghua University",
+      "type": "parent",
+      "id": "https://ror.org/03cve4549"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

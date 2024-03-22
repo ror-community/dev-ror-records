@@ -1,0 +1,75 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1970,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 0450 6121"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q14716129"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.413656.3"
+      ],
+      "preferred": "grid.413656.3",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/03bk8p931",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.helendevoschildrens.org/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Helen_DeVos_Children%27s_Hospital"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.97017,
+        "lng": -85.665668,
+        "name": "Grand Rapids"
+      },
+      "geonames_id": 4994358
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Helen DeVos Children's Hospital"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}

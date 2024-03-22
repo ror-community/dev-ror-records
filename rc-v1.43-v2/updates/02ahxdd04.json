@@ -1,0 +1,120 @@
+{
+  "locations": [
+    {
+      "geonames_id": 4994358,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 42.96336,
+        "lng": -85.66809,
+        "name": "Grand Rapids"
+      }
+    }
+  ],
+  "established": 1997,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0406 3236"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100001347"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q7575297"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.416230.2"
+      ],
+      "preferred": "grid.416230.2"
+    }
+  ],
+  "id": "https://ror.org/02ahxdd04",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.spectrumhealth.org/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Spectrum_Health"
+    }
+  ],
+  "names": [
+    {
+      "value": "Spectrum Health",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Spectrum Health System",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Corewell Health Butterworth Hospital",
+      "type": "child",
+      "id": "https://ror.org/05x643e19"
+    },
+    {
+      "label": "Helen DeVos Children's Hospital",
+      "type": "child",
+      "id": "https://ror.org/03bk8p931"
+    },
+    {
+      "label": "Corewell Health Blodgett Hospital",
+      "type": "child",
+      "id": "https://ror.org/00qy68j92"
+    },
+    {
+      "label": "Corewell Health Reed City Hospital",
+      "type": "child",
+      "id": "https://ror.org/04xcq9q51"
+    },
+    {
+      "label": "Corewell Health Zeeland Hospital",
+      "type": "child",
+      "id": "https://ror.org/053jm8142"
+    },
+    {
+      "label": "Corewell Health",
+      "type": "successor",
+      "id": "https://ror.org/02hb5yj49"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "locations": [
+    {
+      "geonames_id": 146268,
+      "geonames_details": {
+        "country_code": "CY",
+        "country_name": "Cyprus",
+        "lat": 35.17531,
+        "lng": 33.3642,
+        "name": "Nicosia"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/01hx2yw16",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://medicover-genetics.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "Medicover Genetics (Cyprus)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NIPD Genetics",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "NIPD Genetics Public Company Limited",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Medicover Genetics",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

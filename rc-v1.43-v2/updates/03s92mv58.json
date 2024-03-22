@@ -1,0 +1,75 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2989204,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.69572,
+        "lng": 2.18727,
+        "name": "Orsay"
+      }
+    }
+  ],
+  "established": 2004,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.464121.4"
+      ],
+      "preferred": "grid.464121.4"
+    }
+  ],
+  "id": "https://ror.org/03s92mv58",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://geops.geol.u-psud.fr/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Geosciences Paris Sud",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "GEOPS",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Institut National des Sciences de l'Univers",
+      "type": "parent",
+      "id": "https://ror.org/04kdfz702"
+    },
+    {
+      "label": "University of Paris-Sud",
+      "type": "parent",
+      "id": "https://ror.org/028rypz17"
+    }
+  ],
+  "status": "inactive",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

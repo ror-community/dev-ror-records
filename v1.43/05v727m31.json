@@ -1,0 +1,127 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2978317,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 45.1787,
+        "lng": 5.76281,
+        "name": "Saint-Martin-d'Hères"
+      }
+    }
+  ],
+  "established": 2013,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q3551589"
+      ],
+      "preferred": "Q3551589"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100012953"
+      ],
+      "preferred": "100012953"
+    }
+  ],
+  "id": "https://ror.org/05v727m31",
+  "domains": [],
+  "links": [
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Community_Universit%C3%A9_Grenoble_Alpes"
+    }
+  ],
+  "names": [
+    {
+      "value": "Communauté Université Grenoble Alpes",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University of Grenoble Alpes ComUE",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Communauté Université Grenoble-Alpes",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University of Grenoble Alpes Community",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "ComUE Université Grenoble Alpes",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Community University Grenoble Alps",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "COMUE",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Université Grenoble Alpes",
+      "type": "related",
+      "id": "https://ror.org/02rx3b187"
+    },
+    {
+      "label": "Grenoble Institute of Technology",
+      "type": "related",
+      "id": "https://ror.org/05sbt2524"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "related",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "French Institute for Research in Computer Science and Automation",
+      "type": "related",
+      "id": "https://ror.org/02kvxyf05"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

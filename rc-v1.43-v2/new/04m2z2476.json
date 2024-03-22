@@ -1,0 +1,69 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2643743,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.50853,
+        "lng": -0.12574,
+        "name": "London"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/04m2z2476",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.aku.edu"
+    }
+  ],
+  "names": [
+    {
+      "value": "The Aga Khan University (International) in the United Kingdom",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "The Aga Khan University in the United Kingdom",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Aga Khan University in the United Kingdom",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Aga Khan University",
+      "type": "parent",
+      "id": "https://ror.org/03gd0dm95"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

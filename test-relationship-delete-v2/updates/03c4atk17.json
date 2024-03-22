@@ -1,0 +1,117 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2659836,
+      "geonames_details": {
+        "country_code": "CH",
+        "country_name": "Switzerland",
+        "lat": 46.01008,
+        "lng": 8.96004,
+        "name": "Lugano"
+      }
+    }
+  ],
+  "established": 1996,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 2203 2861"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q689617",
+        "Q27484979"
+      ],
+      "preferred": "Q689617"
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.29078.34"
+      ],
+      "preferred": "grid.29078.34"
+    }
+  ],
+  "id": "https://ror.org/03c4atk17",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.usi.ch"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Universit%C3%A0_della_Svizzera_italiana"
+    }
+  ],
+  "names": [
+    {
+      "value": "Università della Svizzera italiana",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University of Lugano",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University of Italian Switzerland",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Université de la Suisse italienne",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "University of Southern Switzerland",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "USI",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Dalle Molle Institute for Artificial Intelligence Research",
+      "type": "child",
+      "id": "https://ror.org/013355g38"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

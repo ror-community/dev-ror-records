@@ -1,0 +1,78 @@
+{
+  "locations": [
+    {
+      "geonames_id": 3435910,
+      "geonames_details": {
+        "country_code": "AR",
+        "country_name": "Argentina",
+        "lat": -34.61315,
+        "lng": -58.37723,
+        "name": "Buenos Aires"
+      }
+    }
+  ],
+  "established": 2004,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.502315.0"
+      ],
+      "preferred": "grid.502315.0"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q61931966"
+      ],
+      "preferred": "Q61931966"
+    }
+  ],
+  "id": "https://ror.org/02by8jy67",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.typa.org.ar"
+    }
+  ],
+  "names": [
+    {
+      "value": "Fundación TyPA",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Teoría y Práctica de las Artes",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "TyPA Foundation",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

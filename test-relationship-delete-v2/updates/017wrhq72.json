@@ -1,0 +1,71 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2063523,
+      "geonames_details": {
+        "country_code": "AU",
+        "country_name": "Australia",
+        "lat": -31.95224,
+        "lng": 115.8614,
+        "name": "Perth"
+      }
+    }
+  ],
+  "established": 2017,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q5260531"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.1310.3"
+      ],
+      "preferred": "grid.1310.3"
+    }
+  ],
+  "id": "https://ror.org/017wrhq72",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.water.wa.gov.au/"
+    }
+  ],
+  "names": [
+    {
+      "value": "Department of Water",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Department of Water and Environmental Regulation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "inactive",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

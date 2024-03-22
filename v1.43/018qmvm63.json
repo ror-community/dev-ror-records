@@ -1,0 +1,63 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2267057,
+      "geonames_details": {
+        "country_code": "PT",
+        "country_name": "Portugal",
+        "lat": 38.71667,
+        "lng": -9.13333,
+        "name": "Lisbon"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [],
+  "id": "https://ror.org/018qmvm63",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://ist-id.pt"
+    }
+  ],
+  "names": [
+    {
+      "value": "IST-ID - Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "IST-ID",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

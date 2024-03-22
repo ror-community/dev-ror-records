@@ -1,0 +1,64 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1649378,
+      "geonames_details": {
+        "country_code": "ID",
+        "country_name": "Indonesia",
+        "lat": -6.2349,
+        "lng": 106.9896,
+        "name": "Bekasi"
+      }
+    }
+  ],
+  "established": 2019,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q109919472"
+      ],
+      "preferred": "Q109919472"
+    }
+  ],
+  "id": "https://ror.org/00deq0f50",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.pelitabangsa.ac.id"
+    }
+  ],
+  "names": [
+    {
+      "value": "Universitas Pelita Bangsa",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Pelita Bangsa University",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

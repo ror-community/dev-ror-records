@@ -1,0 +1,100 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1944,
+  "external_ids": [
+    {
+      "all": [
+        "100004421"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "grid.431778.e"
+      ],
+      "preferred": "grid.431778.e",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0004 0482 9086"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q7164"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/00ae7jd04",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.worldbank.org/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/World_Bank"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 38.89511,
+        "lng": -77.03637,
+        "name": "Washington"
+      },
+      "geonames_id": 4140963
+    }
+  ],
+  "names": [
+    {
+      "lang": "fr",
+      "types": [
+        "label"
+      ],
+      "value": "Banque Mondiale"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "World Bank"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "World Bank Group",
+      "type": "parent",
+      "id": "https://ror.org/02md09461"
+    },
+    {
+      "label": "Special Programme for Research and Training in Tropical Diseases",
+      "type": "child",
+      "id": "https://ror.org/046j7pv84"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "other"
+  ]
+}
