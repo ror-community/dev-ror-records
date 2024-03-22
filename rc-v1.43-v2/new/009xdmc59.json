@@ -67,13 +67,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Universidad de Deusto",
-      "type": "related",
-      "id": "https://ror.org/00ne6sr39"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"

@@ -69,11 +69,6 @@
       "label": "Ministry of Economy, Industry and Competitiveness",
       "type": "predecessor",
       "id": "https://ror.org/034900433"
-    },
-    {
-      "label": "Ministerio para la Transformación Digital y de la Función Pública",
-      "type": "successor",
-      "id": "https://ror.org/01qh08519"
     }
   ],
   "status": "inactive",

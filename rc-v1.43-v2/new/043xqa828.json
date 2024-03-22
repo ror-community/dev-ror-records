@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Parliament of United Kingdom",
-      "type": "parent",
-      "id": "https://ror.org/03t61s708"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"

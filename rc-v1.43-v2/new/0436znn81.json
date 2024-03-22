@@ -81,13 +81,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "National Institute for Health Research",
-      "type": "parent",
-      "id": "https://ror.org/0187kwz08"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

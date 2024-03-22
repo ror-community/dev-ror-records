@@ -67,13 +67,7 @@
       "lang": "en"
     }
   ],
-  "relationships": [
-    {
-      "label": "Cliniques Universitaires Saint-Luc",
-      "type": "parent",
-      "id": "https://ror.org/03s4khd80"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"

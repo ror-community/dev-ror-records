@@ -50,18 +50,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Hôpital d'Youville de Sherbrooke",
-      "type": "parent",
-      "id": "https://ror.org/02805zw73"
-    },
-    {
-      "label": "Hôpital d'Youville de Sherbrooke",
-      "type": "child",
-      "id": "https://ror.org/02805zw73"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"

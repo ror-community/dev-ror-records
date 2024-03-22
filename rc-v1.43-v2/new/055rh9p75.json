@@ -61,13 +61,7 @@
       "lang": "zh"
     }
   ],
-  "relationships": [
-    {
-      "label": "China Aerodynamics Research and Development Center",
-      "type": "parent",
-      "id": "https://ror.org/00jma8s40"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

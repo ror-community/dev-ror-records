@@ -60,13 +60,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "North Carolina State University",
-      "type": "parent",
-      "id": "https://ror.org/04tj63d06"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

@@ -67,18 +67,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Pompeu Fabra University",
-      "type": "parent",
-      "id": "https://ror.org/04n0g0b29"
-    },
-    {
-      "label": "Pasqual Maragall Foundation",
-      "type": "parent",
-      "id": "https://ror.org/01nry9c15"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

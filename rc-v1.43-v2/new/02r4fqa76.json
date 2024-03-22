@@ -67,13 +67,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Newcastle University",
-      "type": "parent",
-      "id": "https://ror.org/01kj2bm70"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

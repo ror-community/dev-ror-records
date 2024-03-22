@@ -85,23 +85,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University Hospitals Bristol NHS Foundation Trust",
-      "type": "predecessor",
-      "id": "https://ror.org/04nm1cv11"
-    },
-    {
-      "label": "Weston Area Health NHS Trust",
-      "type": "predecessor",
-      "id": "https://ror.org/03fpf5m04"
-    },
-    {
-      "label": "Weston General Hospital",
-      "type": "child",
-      "id": "https://ror.org/03mc19e15"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "healthcare"

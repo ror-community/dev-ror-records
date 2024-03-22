@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Ateknea Solutions (Spain)",
-      "type": "successor",
-      "id": "https://ror.org/01m260238"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "other"

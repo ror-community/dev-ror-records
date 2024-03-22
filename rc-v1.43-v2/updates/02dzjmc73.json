@@ -1,1 +1,88 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 738329,
+      "geonames_details": {
+        "country_code": "TR",
+        "country_name": "Türkiye",
+        "lat": 41.02274,
+        "lng": 29.01366,
+        "name": "Scutari"
+      }
+    }
+  ],
+  "established": 2011,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0495 1268"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q6063394"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.464712.2"
+      ],
+      "preferred": "grid.464712.2"
+    }
+  ],
+  "id": "https://ror.org/02dzjmc73",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://uskudar.edu.tr"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/%C3%9Csk%C3%BCdar_University"
+    }
+  ],
+  "names": [
+    {
+      "value": "Üsküdar University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Üsküdar Üniversitesi",
+      "types": [
+        "label"
+      ],
+      "lang": "tr"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Npistanbul Brain Hospital",
+      "type": "related",
+      "id": "https://ror.org/00hhtwx28"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

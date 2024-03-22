@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "United Kingdom Clinical Research Collaboration",
-      "type": "related",
-      "id": "https://ror.org/025ecp212"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

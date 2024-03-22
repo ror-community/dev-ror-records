@@ -1,1 +1,78 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 2509402,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 38.61365,
+        "lng": -1.11468,
+        "name": "Yecla"
+      }
+    }
+  ],
+  "established": 1995,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 8337 666X"
+      ],
+      "preferred": "0000 0004 8337 666X"
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.432405.4"
+      ],
+      "preferred": "grid.432405.4"
+    }
+  ],
+  "id": "https://ror.org/02ag0aq56",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://cetem.es"
+    }
+  ],
+  "names": [
+    {
+      "value": "Centro Tecnológico del Mueble y la Madera de la Región de Murcia",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Technological Centre of Furniture and Wood of the Region of Murcia",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "CETEM",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

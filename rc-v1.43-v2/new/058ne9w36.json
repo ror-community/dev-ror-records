@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Royal Marsden Hospital",
-      "type": "parent",
-      "id": "https://ror.org/034vb5t35"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"

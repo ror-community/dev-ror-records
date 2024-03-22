@@ -73,7 +73,7 @@
   ],
   "relationships": [
     {
-      "label": "Corewell Health Butterworth Hospital",
+      "label": "Butterworth Hospital",
       "type": "child",
       "id": "https://ror.org/05x643e19"
     },
@@ -83,24 +83,19 @@
       "id": "https://ror.org/03bk8p931"
     },
     {
-      "label": "Corewell Health Blodgett Hospital",
+      "label": "Spectrum Health Blodgett Hospital",
       "type": "child",
       "id": "https://ror.org/00qy68j92"
     },
     {
-      "label": "Corewell Health Reed City Hospital",
+      "label": "Spectrum Health Reed City Hospital",
       "type": "child",
       "id": "https://ror.org/04xcq9q51"
     },
     {
-      "label": "Corewell Health Zeeland Hospital",
+      "label": "Zeeland Community Hospital",
       "type": "child",
       "id": "https://ror.org/053jm8142"
-    },
-    {
-      "label": "Corewell Health",
-      "type": "successor",
-      "id": "https://ror.org/02hb5yj49"
     }
   ],
   "status": "inactive",

@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "European Association of National Metrology Institutes",
-      "type": "parent",
-      "id": "https://ror.org/03csrq586"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"

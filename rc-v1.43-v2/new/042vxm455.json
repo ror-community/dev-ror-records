@@ -46,13 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Bloomsbury Publishing (United Kingdom)",
-      "type": "parent",
-      "id": "https://ror.org/04yyy0y35"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "company"

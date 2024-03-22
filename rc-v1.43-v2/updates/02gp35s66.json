@@ -1,1 +1,89 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 3463030,
+      "geonames_details": {
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "lat": -25.54778,
+        "lng": -54.58806,
+        "name": "Foz do Iguaçu"
+      }
+    }
+  ],
+  "established": 2010,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0509 0033"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q5574032"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.449851.5"
+      ],
+      "preferred": "grid.449851.5"
+    }
+  ],
+  "id": "https://ror.org/02gp35s66",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://portal.unila.edu.br"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Federal_University_for_Latin_American_Integration"
+    }
+  ],
+  "names": [
+    {
+      "value": "Universidade Federal da Integração Latino-Americana",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Federal University for Latin American Integration",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "UNILA",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

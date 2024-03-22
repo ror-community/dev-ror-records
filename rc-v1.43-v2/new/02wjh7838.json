@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Morgan State University",
-      "type": "parent",
-      "id": "https://ror.org/017d8gk22"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

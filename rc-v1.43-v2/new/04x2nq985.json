@@ -1,1 +1,84 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 1811103,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 23.02677,
+        "lng": 113.13148,
+        "name": "Foshan"
+      }
+    }
+  ],
+  "established": 1958,
+  "external_ids": [],
+  "id": "https://ror.org/04x2nq985",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.sddermyy.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "The Affiliated Shunde Hospital of Jinan University",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "The Second People's Hospital of Shunde",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Affiliated Shunde Hospital of Jinan University",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Second People's Hospital of Shunde",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "顺德第二人民医院",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "暨南大学附属顺德医院",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

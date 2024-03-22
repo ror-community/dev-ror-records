@@ -39,13 +39,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Arquimea (Spain)",
-      "type": "successor",
-      "id": "https://ror.org/04mnaqe33"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "company"

@@ -85,13 +85,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Microsoft (United States)",
-      "type": "parent",
-      "id": "https://ror.org/00d0nc645"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "company"

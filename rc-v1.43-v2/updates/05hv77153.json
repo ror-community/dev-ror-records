@@ -1,1 +1,113 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 6174041,
+      "geonames_details": {
+        "country_code": "CA",
+        "country_name": "Canada",
+        "lat": 48.4359,
+        "lng": -123.35155,
+        "name": "Victoria"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0707 3462"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100002759"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.468004.e"
+      ],
+      "preferred": "grid.468004.e"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q30264305"
+      ],
+      "preferred": "Q30264305"
+    }
+  ],
+  "id": "https://ror.org/05hv77153",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/education"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministry of Education and Child Care",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "British Columbia Ministry of Education and Child Care",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "BC Ministry of Education and Child Care",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Education",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "British Columbia Ministry of Education",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "BC Ministry of Education",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

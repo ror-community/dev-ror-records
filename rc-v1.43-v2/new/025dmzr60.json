@@ -1,1 +1,75 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 4177887,
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 26.71534,
+        "lng": -80.05337,
+        "name": "West Palm Beach"
+      }
+    }
+  ],
+  "established": 1903,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0508 0660"
+      ],
+      "preferred": "0000 0004 0508 0660"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q4743883"
+      ],
+      "preferred": "Q4743883"
+    }
+  ],
+  "id": "https://ror.org/025dmzr60",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.theaga.org"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/American_Genetic_Association"
+    }
+  ],
+  "names": [
+    {
+      "value": "American Genetic Association",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "AGA",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "nonprofit"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

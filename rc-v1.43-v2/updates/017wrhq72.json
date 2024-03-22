@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Department of Water and Environmental Regulation",
-      "type": "successor",
-      "id": "https://ror.org/0508kew31"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "government"

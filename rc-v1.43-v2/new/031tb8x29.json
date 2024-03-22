@@ -53,13 +53,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Emerald Group Publishing (United Kingdom)",
-      "type": "parent",
-      "id": "https://ror.org/02avhnb77"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "other"

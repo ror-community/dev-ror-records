@@ -79,21 +79,6 @@
       "label": "Sorbonne Université",
       "type": "parent",
       "id": "https://ror.org/02en5vm52"
-    },
-    {
-      "label": "CentraleSupélec",
-      "type": "parent",
-      "id": "https://ror.org/019tcpt25"
-    },
-    {
-      "label": "University of Paris-Saclay",
-      "type": "parent",
-      "id": "https://ror.org/03xjwb503"
-    },
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "parent",
-      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

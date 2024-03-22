@@ -74,13 +74,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of California, Berkeley",
-      "type": "parent",
-      "id": "https://ror.org/01an7q238"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

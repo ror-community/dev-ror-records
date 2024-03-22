@@ -1,1 +1,101 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 3012834,
+      "geonames_details": {
+        "country_code": "FR",
+        "country_name": "France",
+        "lat": 48.52894,
+        "lng": 7.71523,
+        "name": "Illkirch-Graffenstaden"
+      }
+    }
+  ],
+  "established": 1994,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0638 2716"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.420255.4"
+      ],
+      "preferred": "grid.420255.4"
+    }
+  ],
+  "id": "https://ror.org/0015ws592",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.igbmc.fr"
+    }
+  ],
+  "names": [
+    {
+      "value": "Institute of Genetics and Molecular and Cellular Biology",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "institut de génétique et de biologie moléculaire et cellulaire",
+      "types": [
+        "label"
+      ],
+      "lang": "fr"
+    },
+    {
+      "value": "Centre Européen de Recherche en Biologie et en Médecine",
+      "types": [
+        "label"
+      ],
+      "lang": "fr"
+    },
+    {
+      "value": "IGBMC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Inserm",
+      "type": "parent",
+      "id": "https://ror.org/02vjkv261"
+    },
+    {
+      "label": "Institut des Sciences Biologiques",
+      "type": "parent",
+      "id": "https://ror.org/00rydyx93"
+    },
+    {
+      "label": "University of Strasbourg",
+      "type": "parent",
+      "id": "https://ror.org/00pg6eq24"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

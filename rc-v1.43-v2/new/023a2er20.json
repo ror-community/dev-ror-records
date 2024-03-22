@@ -46,18 +46,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "University of Cambridge",
-      "type": "parent",
-      "id": "https://ror.org/013meh722"
-    },
-    {
-      "label": "University of Manchester",
-      "type": "parent",
-      "id": "https://ror.org/027m9bs27"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility"

@@ -92,13 +92,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Government of Pakistan",
-      "type": "parent",
-      "id": "https://ror.org/00pnp4y96"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "government"

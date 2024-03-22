@@ -57,13 +57,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "Wales Centre for Public Policy",
-      "type": "successor",
-      "id": "https://ror.org/03y0ymy78"
-    }
-  ],
+  "relationships": [],
   "status": "inactive",
   "types": [
     "facility"

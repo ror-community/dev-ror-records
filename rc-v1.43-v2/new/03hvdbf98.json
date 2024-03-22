@@ -67,13 +67,7 @@
       "lang": null
     }
   ],
-  "relationships": [
-    {
-      "label": "British Medical Association",
-      "type": "parent",
-      "id": "https://ror.org/02caz1f24"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "nonprofit"

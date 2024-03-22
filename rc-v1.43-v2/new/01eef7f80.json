@@ -1,1 +1,78 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 2656915,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 53.48876,
+        "lng": -2.0989,
+        "name": "Ashton-under-Lyne"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 7473 3848"
+      ],
+      "preferred": "0000 0004 7473 3848"
+    }
+  ],
+  "id": "https://ror.org/01eef7f80",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.scapa.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "Scapa Group (United Kingdom)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Scapa Group",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Scapa Group Ltd.",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Scapa Group Limited",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

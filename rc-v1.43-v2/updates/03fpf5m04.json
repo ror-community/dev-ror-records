@@ -51,11 +51,6 @@
       "label": "Weston General Hospital",
       "type": "child",
       "id": "https://ror.org/03mc19e15"
-    },
-    {
-      "label": "University Hospitals Bristol and Weston NHS Foundation Trust",
-      "type": "successor",
-      "id": "https://ror.org/03jzzxg14"
     }
   ],
   "status": "inactive",

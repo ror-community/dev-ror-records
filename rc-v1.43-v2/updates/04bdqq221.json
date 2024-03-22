@@ -1,1 +1,68 @@
-null
+{
+  "locations": [
+    {
+      "geonames_id": 3125287,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 43.67019,
+        "lng": -7.41013,
+        "name": "Cervo"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.466596.e"
+      ],
+      "preferred": "grid.466596.e"
+    }
+  ],
+  "id": "https://ror.org/04bdqq221",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.concellodecervo.com/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Cervo,_Lugo"
+    }
+  ],
+  "names": [
+    {
+      "value": "Concello de Cervo",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ayuntamiento de Cervo",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}
