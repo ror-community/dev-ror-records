@@ -1,0 +1,78 @@
+{
+  "locations": [
+    {
+      "geonames_id": 3390760,
+      "geonames_details": {
+        "country_code": "BR",
+        "country_name": "Brazil",
+        "lat": -8.05389,
+        "lng": -34.88111,
+        "name": "Recife"
+      }
+    }
+  ],
+  "established": 1980,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 0417 9458"
+      ],
+      "preferred": "0000 0004 0417 9458"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q56841516"
+      ],
+      "preferred": "Q56841516"
+    }
+  ],
+  "id": "https://ror.org/04e7rcy65",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.for.edu.br"
+    }
+  ],
+  "names": [
+    {
+      "value": "Faculdade de Odontologia do Recife",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Faculty of Dentistry of Recife",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "FOR",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "education"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

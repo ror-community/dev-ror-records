@@ -1,0 +1,75 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2012,
+  "external_ids": [
+    {
+      "all": [
+        "0000 0004 4691 0296"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q7566412"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    },
+    {
+      "all": [
+        "grid.439439.0"
+      ],
+      "preferred": "grid.439439.0",
+      "type": "grid"
+    }
+  ],
+  "id": "https://ror.org/00pa9y269",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.uhbristol.nhs.uk/patients-and-visitors/your-hospitals/south-bristol-community-hospital/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/South_Bristol_Community_Hospital"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 51.45523,
+        "lng": -2.59665,
+        "name": "Bristol"
+      },
+      "geonames_id": 2654675
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "South Bristol Community Hospital"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}

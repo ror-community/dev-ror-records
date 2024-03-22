@@ -1,0 +1,57 @@
+{
+  "locations": [
+    {
+      "geonames_id": 3117735,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 40.4165,
+        "lng": -3.70256,
+        "name": "Madrid"
+      }
+    }
+  ],
+  "established": 1985,
+  "external_ids": [
+    {
+      "type": "grid",
+      "all": [
+        "grid.434658.8"
+      ],
+      "preferred": "grid.434658.8"
+    }
+  ],
+  "id": "https://ror.org/02xkjwb21",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://fundacionconfemetal.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "Fundación Confemetal",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

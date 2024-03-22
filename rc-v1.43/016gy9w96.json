@@ -1,0 +1,95 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2179537,
+      "geonames_details": {
+        "country_code": "NZ",
+        "country_name": "New Zealand",
+        "lat": -41.28664,
+        "lng": 174.77557,
+        "name": "Wellington"
+      }
+    }
+  ],
+  "established": 1989,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 0727 3536"
+      ],
+      "preferred": "0000 0001 0727 3536"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q1937182"
+      ],
+      "preferred": "Q1937182"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "501100009648"
+      ],
+      "preferred": "501100009648"
+    }
+  ],
+  "id": "https://ror.org/016gy9w96",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.education.govt.nz"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Ministry_of_Education_%28New_Zealand%29"
+    }
+  ],
+  "names": [
+    {
+      "value": "Ministry of Education",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Ministry of Education of New Zealand",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "New Zealand Ministry of Education",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Government of Ontario",
+      "type": "parent",
+      "id": "https://ror.org/015pzp858"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "government"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

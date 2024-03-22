@@ -1,0 +1,144 @@
+{
+  "locations": [
+    {
+      "geonames_id": 715429,
+      "geonames_details": {
+        "country_code": "HU",
+        "country_name": "Hungary",
+        "lat": 46.253,
+        "lng": 20.14824,
+        "name": "Szeged"
+      }
+    }
+  ],
+  "established": 1971,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0001 2195 9606",
+        "0000 0004 0620 9788"
+      ],
+      "preferred": "0000 0001 2195 9606"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q4914963"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.418331.c"
+      ],
+      "preferred": "grid.418331.c"
+    }
+  ],
+  "id": "https://ror.org/016gb1631",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.brc.hu"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Biological_Research_Centre_(Hungarian_Academy_of_Sciences)"
+    }
+  ],
+  "names": [
+    {
+      "value": "HUN-REN Szegedi Biológiai Kutatóközpont",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "MTA Szegedi Biológiai Központ",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Biological Research Centre",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Szegedi Biológiai Kutatóközpont",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "HUN-REN Biological Research Center",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Magyar Tudományos Akadémia Szegedi Biológiai Kutatóközpontjának",
+      "types": [
+        "label"
+      ],
+      "lang": "hu"
+    },
+    {
+      "value": "BRC",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Hungarian Academy of Sciences",
+      "type": "parent",
+      "id": "https://ror.org/02ks8qq67"
+    },
+    {
+      "label": "Institute of Biochemistry",
+      "type": "child",
+      "id": "https://ror.org/022dvs210"
+    },
+    {
+      "label": "Institute of Biophysics",
+      "type": "child",
+      "id": "https://ror.org/038synb39"
+    },
+    {
+      "label": "Institute of Genetics",
+      "type": "child",
+      "id": "https://ror.org/04tjemt46"
+    },
+    {
+      "label": "Institute of Plant Biology",
+      "type": "child",
+      "id": "https://ror.org/039h1gd08"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

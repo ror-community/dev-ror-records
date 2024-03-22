@@ -1,0 +1,59 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1049261,
+      "geonames_details": {
+        "country_code": "MZ",
+        "country_name": "Mozambique",
+        "lat": -19.11639,
+        "lng": 33.48333,
+        "name": "Chimoio"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0000 8751 5410"
+      ],
+      "preferred": "0000 0000 8751 5410"
+    },
+    {
+      "type": "wikidata",
+      "all": [
+        "Q21485207"
+      ],
+      "preferred": "Q21485207"
+    }
+  ],
+  "id": "https://ror.org/008jep717",
+  "domains": [],
+  "links": [],
+  "names": [
+    {
+      "value": "Instituto Agrário de Chimoio",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "facility"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

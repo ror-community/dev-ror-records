@@ -1,0 +1,64 @@
+{
+  "locations": [
+    {
+      "geonames_id": 1793511,
+      "geonames_details": {
+        "country_code": "CN",
+        "country_name": "China",
+        "lat": 37.86944,
+        "lng": 112.56028,
+        "name": "Taiyuan"
+      }
+    }
+  ],
+  "established": null,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 8342 6380"
+      ],
+      "preferred": "0000 0004 8342 6380"
+    }
+  ],
+  "id": "https://ror.org/02mb2dn67",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.sx.sgcc.com.cn"
+    }
+  ],
+  "names": [
+    {
+      "value": "State Grid Shanxi Electric Power Company (China)",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "国网山西省电力公司",
+      "types": [
+        "label"
+      ],
+      "lang": "zh"
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "company"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

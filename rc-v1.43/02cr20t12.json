@@ -1,0 +1,110 @@
+{
+  "locations": [
+    {
+      "geonames_id": 3117735,
+      "geonames_details": {
+        "country_code": "ES",
+        "country_name": "Spain",
+        "lat": 40.4165,
+        "lng": -3.70256,
+        "name": "Madrid"
+      }
+    }
+  ],
+  "established": 1712,
+  "external_ids": [
+    {
+      "type": "wikidata",
+      "all": [
+        "Q750403"
+      ],
+      "preferred": null
+    },
+    {
+      "type": "grid",
+      "all": [
+        "grid.432858.0"
+      ],
+      "preferred": "grid.432858.0"
+    }
+  ],
+  "id": "https://ror.org/02cr20t12",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.bne.es"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Biblioteca_Nacional_de_Espa%C3%B1a"
+    }
+  ],
+  "names": [
+    {
+      "value": "Biblioteca Nacional de España",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Palace Public Library",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Biblioteca Pública de Palacio",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Biblioteca Nacional d'Espanya",
+      "types": [
+        "label"
+      ],
+      "lang": "ca"
+    },
+    {
+      "value": "Espainiako Liburutegi Nazionala",
+      "types": [
+        "label"
+      ],
+      "lang": "eu"
+    },
+    {
+      "value": "National Library of Spain",
+      "types": [
+        "label"
+      ],
+      "lang": "en"
+    },
+    {
+      "value": "BNE",
+      "types": [
+        "acronym"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [],
+  "status": "active",
+  "types": [
+    "archive"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}

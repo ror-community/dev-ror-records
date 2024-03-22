@@ -1,0 +1,77 @@
+{
+  "locations": [
+    {
+      "geonames_id": 2655642,
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 53.84861,
+        "lng": -1.83857,
+        "name": "Bingley"
+      }
+    }
+  ],
+  "established": 2008,
+  "external_ids": [
+    {
+      "type": "isni",
+      "all": [
+        "0000 0004 8307 2092"
+      ],
+      "preferred": "0000 0004 8307 2092"
+    },
+    {
+      "type": "fundref",
+      "all": [
+        "100014894"
+      ],
+      "preferred": "100014894"
+    }
+  ],
+  "id": "https://ror.org/031tb8x29",
+  "domains": [],
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.emeraldgrouppublishing.com"
+    }
+  ],
+  "names": [
+    {
+      "value": "The Emerald Foundation",
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "lang": null
+    },
+    {
+      "value": "Emerald Foundation",
+      "types": [
+        "alias"
+      ],
+      "lang": null
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Emerald Group Publishing (United Kingdom)",
+      "type": "parent",
+      "id": "https://ror.org/02avhnb77"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "other"
+  ],
+  "admin": {
+    "created": {
+      "date": "2024-03-15",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2024-03-15",
+      "schema_version": "2.0"
+    }
+  }
+}
