@@ -1,0 +1,110 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-09-23",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1815,
+  "external_ids": [
+    {
+      "all": [
+        "501100004902"
+      ],
+      "preferred": null,
+      "type": "fundref"
+    },
+    {
+      "all": [
+        "grid.468402.c"
+      ],
+      "preferred": "grid.468402.c",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0001 0719 8070"
+      ],
+      "preferred": null,
+      "type": "isni"
+    }
+  ],
+  "id": "https://ror.org/05tensj89",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.naturalsciences.ch/?_ga=1.43343781.1874359181.1462174030"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "CH",
+        "country_name": "Switzerland",
+        "lat": 46.947098,
+        "lng": 7.436615,
+        "name": "Bern"
+      },
+      "geonames_id": 2661552
+    }
+  ],
+  "names": [
+    {
+      "lang": "fr",
+      "types": [
+        "label"
+      ],
+      "value": "Académie Suisse des Sciences Naturelles"
+    },
+    {
+      "lang": "it",
+      "types": [
+        "label"
+      ],
+      "value": "Accademia Svizzera di Scienze Naturali"
+    },
+    {
+      "lang": "de",
+      "types": [
+        "label"
+      ],
+      "value": "Akademie der Naturwissenschaften Schweiz"
+    },
+    {
+      "lang": null,
+      "types": [
+        "acronym"
+      ],
+      "value": "SCNAT"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Swiss Academy of Sciences"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Stiftung für Technologiefolgen-Abschätzung",
+      "type": "related",
+      "id": "https://ror.org/02shtak05"
+    },
+    {
+      "label": "Swiss Academies of Arts and Sciences",
+      "type": "parent",
+      "id": "https://ror.org/05b2r4b98"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "other"
+  ]
+}

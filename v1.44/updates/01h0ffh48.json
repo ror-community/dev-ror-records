@@ -90,6 +90,11 @@
       "label": "GDR NBODY : Problème quantique à N corps en chimie et physique",
       "type": "child",
       "id": "https://ror.org/01nrtdp55"
+    },
+    {
+      "label": "University of Rennes",
+      "type": "parent",
+      "id": "https://ror.org/015m7wh34"
     }
   ],
   "status": "active",

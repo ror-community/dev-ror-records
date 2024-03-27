@@ -63,7 +63,13 @@
       "value": "Higher Education Careers Services Unit"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Jisc",
+      "type": "successor",
+      "id": "https://ror.org/01rv9gx86"
+    }
+  ],
   "status": "inactive",
   "types": [
     "nonprofit"

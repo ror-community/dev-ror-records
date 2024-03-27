@@ -63,7 +63,18 @@
       "value": "University of New South Wales Canberra"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "UNSW Sydney",
+      "type": "parent",
+      "id": "https://ror.org/03r8z3t63"
+    },
+    {
+      "label": "Australian Defence Force Academy",
+      "type": "child",
+      "id": "https://ror.org/02j5s7g39"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

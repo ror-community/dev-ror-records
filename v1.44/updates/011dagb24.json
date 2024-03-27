@@ -89,6 +89,11 @@
       "label": "University of Copenhagen",
       "type": "related",
       "id": "https://ror.org/035b05819"
+    },
+    {
+      "label": "Region Zealand",
+      "type": "parent",
+      "id": "https://ror.org/01dtyv127"
     }
   ],
   "status": "active",

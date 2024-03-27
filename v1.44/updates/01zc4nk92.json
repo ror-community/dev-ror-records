@@ -58,6 +58,11 @@
       "label": "University of Montpellier",
       "type": "parent",
       "id": "https://ror.org/051escj72"
+    },
+    {
+      "label": "Diversité, adaptation, développement des plantes",
+      "type": "successor",
+      "id": "https://ror.org/02banhz78"
     }
   ],
   "status": "withdrawn",

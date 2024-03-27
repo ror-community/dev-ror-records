@@ -41,7 +41,13 @@
       "value": "AIM at Melanoma"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "AIM at Melanoma Foundation",
+      "type": "successor",
+      "id": "https://ror.org/02t5mzr26"
+    }
+  ],
   "status": "withdrawn",
   "types": [
     "nonprofit"

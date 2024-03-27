@@ -63,7 +63,13 @@
       "value": "The Bryden Centre"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Queen's University Belfast",
+      "type": "parent",
+      "id": "https://ror.org/00hswnk62"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

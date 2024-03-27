@@ -62,7 +62,13 @@
       "value": "Pamantasang Mindanao sa Maguindanao"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Mindanao State University",
+      "type": "parent",
+      "id": "https://ror.org/026441d17"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

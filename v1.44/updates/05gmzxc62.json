@@ -1,0 +1,81 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2016,
+  "external_ids": [
+    {
+      "all": [
+        "grid.497084.6"
+      ],
+      "preferred": "grid.497084.6",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "Q25104597"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/05gmzxc62",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.arconic.com/global/en/home.asp"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Arconic"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 41.927528,
+        "lng": -73.998998,
+        "name": "Kingston"
+      },
+      "geonames_id": 5123477
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Alcoa Inc"
+    },
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Arconic (United States)"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Alcoa (United States)",
+      "type": "related",
+      "id": "https://ror.org/003yb7p17"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "company"
+  ]
+}

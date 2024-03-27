@@ -222,11 +222,6 @@
       "id": "https://ror.org/04r17kf39"
     },
     {
-      "label": "New York State Museum",
-      "type": "child",
-      "id": "https://ror.org/01nyadv46"
-    },
-    {
       "label": "New York State School of Industrial and Labor Relations",
       "type": "child",
       "id": "https://ror.org/00zg6dt46"
@@ -357,11 +352,6 @@
       "id": "https://ror.org/02r2qbj91"
     },
     {
-      "label": "Columbia-Greene Community College",
-      "type": "related",
-      "id": "https://ror.org/00z0vcr53"
-    },
-    {
       "label": "Kings County Hospital Center",
       "type": "related",
       "id": "https://ror.org/02emy8e21"
@@ -372,14 +362,84 @@
       "id": "https://ror.org/01sfc5174"
     },
     {
-      "label": "SUNY Downstate Medical Center",
-      "type": "related",
-      "id": "https://ror.org/0041qmd21"
-    },
-    {
       "label": "Hubbard Brook Long Term Ecological Research",
       "type": "related",
       "id": "https://ror.org/00mkh7345"
+    },
+    {
+      "label": "Columbia-Greene Community College",
+      "type": "child",
+      "id": "https://ror.org/00z0vcr53"
+    },
+    {
+      "label": "SUNY Downstate Medical Center",
+      "type": "child",
+      "id": "https://ror.org/0041qmd21"
+    },
+    {
+      "label": "SUNY Canton",
+      "type": "child",
+      "id": "https://ror.org/00tdmgj61"
+    },
+    {
+      "label": "State University of New York at Delhi",
+      "type": "child",
+      "id": "https://ror.org/017a2yz34"
+    },
+    {
+      "label": "SUNY Adirondack",
+      "type": "child",
+      "id": "https://ror.org/01fw8ag12"
+    },
+    {
+      "label": "SUNY Broome Community College",
+      "type": "child",
+      "id": "https://ror.org/0001a2m26"
+    },
+    {
+      "label": "Fulton–Montgomery Community College",
+      "type": "child",
+      "id": "https://ror.org/01cmkbc96"
+    },
+    {
+      "label": "Hudson Valley Community College",
+      "type": "child",
+      "id": "https://ror.org/036wt8y39"
+    },
+    {
+      "label": "Niagara County Community College",
+      "type": "child",
+      "id": "https://ror.org/00637yt37"
+    },
+    {
+      "label": "SUNY Orange",
+      "type": "child",
+      "id": "https://ror.org/00g7a7c91"
+    },
+    {
+      "label": "Rockland Community College",
+      "type": "child",
+      "id": "https://ror.org/03w9e3r89"
+    },
+    {
+      "label": "Suffolk County Community College",
+      "type": "child",
+      "id": "https://ror.org/004hyqr12"
+    },
+    {
+      "label": "SUNY Sullivan",
+      "type": "child",
+      "id": "https://ror.org/025320p83"
+    },
+    {
+      "label": "Tompkins Cortland Community College",
+      "type": "child",
+      "id": "https://ror.org/051awsb83"
+    },
+    {
+      "label": "SUNY Ulster",
+      "type": "child",
+      "id": "https://ror.org/02r0wp596"
     }
   ],
   "status": "active",

@@ -65,11 +65,6 @@
   ],
   "relationships": [
     {
-      "label": "Délégation Ile-de-France Villejuif",
-      "type": "parent",
-      "id": "https://ror.org/008kn4z11"
-    },
-    {
       "label": "University of Paris-Est",
       "type": "parent",
       "id": "https://ror.org/0268ecp52"

@@ -65,6 +65,11 @@
       "label": "University of Paris-Saclay",
       "type": "parent",
       "id": "https://ror.org/03xjwb503"
+    },
+    {
+      "label": "Inflammation, Microbiome and Immunosurveillance",
+      "type": "successor",
+      "id": "https://ror.org/05dy6wv04"
     }
   ],
   "status": "withdrawn",

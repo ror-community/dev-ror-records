@@ -91,7 +91,13 @@
       "value": "United States Department of Energy Infrastructure Security & Energy Restoration"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Office of Cybersecurity, Energy Security, and Emergency Response",
+      "type": "parent",
+      "id": "https://ror.org/041g4v832"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

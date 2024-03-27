@@ -63,7 +63,13 @@
       "value": "Bristol University Press"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Bristol",
+      "type": "parent",
+      "id": "https://ror.org/0524sp257"
+    }
+  ],
   "status": "active",
   "types": [
     "other"

@@ -48,7 +48,13 @@
       "value": "Universidad Nacional Abierta y a Distancia Florida"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Universidad Nacional Abierta y a Distancia",
+      "type": "parent",
+      "id": "https://ror.org/047179s14"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

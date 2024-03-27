@@ -56,7 +56,18 @@
       "value": "South-East Scotland School of Anaesthesia"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "NHS Lothian",
+      "type": "parent",
+      "id": "https://ror.org/03q82t418"
+    },
+    {
+      "label": "University of Edinburgh",
+      "type": "parent",
+      "id": "https://ror.org/01nrxwf90"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

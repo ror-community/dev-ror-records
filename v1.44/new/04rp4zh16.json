@@ -69,7 +69,13 @@
       "value": "United States Department of Energy Office of Clean Energy Demonstrations"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "United States Department of Energy",
+      "type": "parent",
+      "id": "https://ror.org/01bj3aw27"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

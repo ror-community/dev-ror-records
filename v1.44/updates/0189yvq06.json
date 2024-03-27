@@ -84,19 +84,14 @@
       "id": "https://ror.org/02vjkv261"
     },
     {
-      "label": "Institut des Sciences Biologiques",
-      "type": "parent",
-      "id": "https://ror.org/00rydyx93"
-    },
-    {
-      "label": "National Research Institute for Agriculture, Food and Environment",
-      "type": "parent",
-      "id": "https://ror.org/003vg9w96"
-    },
-    {
       "label": "University of Montpellier",
       "type": "parent",
       "id": "https://ror.org/051escj72"
+    },
+    {
+      "label": "French National Centre for Scientific Research",
+      "type": "parent",
+      "id": "https://ror.org/02feahw73"
     }
   ],
   "status": "active",

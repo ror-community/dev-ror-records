@@ -69,7 +69,13 @@
       "value": "University College Dublin Centre for Veterinary Epidemiology and Risk Analysis"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University College Dublin",
+      "type": "parent",
+      "id": "https://ror.org/05m7pjf47"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

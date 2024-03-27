@@ -89,8 +89,13 @@
     },
     {
       "label": "University of Iowa",
-      "type": "related",
+      "type": "parent",
       "id": "https://ror.org/036jqmy94"
+    },
+    {
+      "label": "University of Iowa Stead Family Children’s Hospital",
+      "type": "child",
+      "id": "https://ror.org/0184n5y84"
     }
   ],
   "status": "active",

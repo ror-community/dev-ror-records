@@ -84,7 +84,13 @@
       "value": "United States Department of Energy Office of Energy Analysis"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "U.S. Energy Information Administration",
+      "type": "parent",
+      "id": "https://ror.org/01h04ms65"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

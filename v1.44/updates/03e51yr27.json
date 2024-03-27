@@ -103,7 +103,7 @@
     },
     {
       "label": "Brazilian Center for Research in Energy and Materials",
-      "type": "related",
+      "type": "parent",
       "id": "https://ror.org/05m235j20"
     }
   ],

@@ -62,7 +62,13 @@
       "value": "United States Department of Energy Office of Environmental Management Acquisition and Project Management"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Office of Environmental Management",
+      "type": "parent",
+      "id": "https://ror.org/00km40770"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

@@ -56,7 +56,7 @@
       "types": [
         "label"
       ],
-      "value": "Acad\u00e9mies suisses des sciences"
+      "value": "Académies suisses des sciences"
     },
     {
       "lang": "de",
@@ -74,7 +74,28 @@
       "value": "Swiss Academies of Arts and Sciences"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Swiss Academy of Medical Sciences",
+      "type": "child",
+      "id": "https://ror.org/011cav305"
+    },
+    {
+      "label": "Swiss Academy of Humanities and Social Sciences",
+      "type": "child",
+      "id": "https://ror.org/005381c03"
+    },
+    {
+      "label": "Swiss Academy of Sciences",
+      "type": "child",
+      "id": "https://ror.org/05tensj89"
+    },
+    {
+      "label": "Stiftung für Technologiefolgen-Abschätzung",
+      "type": "child",
+      "id": "https://ror.org/02shtak05"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

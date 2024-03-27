@@ -63,7 +63,13 @@
       "value": "Bell Canada Enterprises (Canada)"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Bell (Canada)",
+      "type": "successor",
+      "id": "https://ror.org/00xdg8m59"
+    }
+  ],
   "status": "withdrawn",
   "types": [
     "company"

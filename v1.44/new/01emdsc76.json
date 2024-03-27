@@ -44,7 +44,13 @@
       "value": "Prostate Action"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Prostate Cancer UK",
+      "type": "successor",
+      "id": "https://ror.org/04dkv6329"
+    }
+  ],
   "status": "inactive",
   "types": [
     "nonprofit"

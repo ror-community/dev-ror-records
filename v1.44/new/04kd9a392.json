@@ -56,7 +56,13 @@
       "value": "Weir Advanced Research Centre"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Strathclyde",
+      "type": "parent",
+      "id": "https://ror.org/00n3w3b69"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

@@ -70,7 +70,13 @@
       "value": "United States Department of Energy Safety, Security, and Quality Assurance"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Office of Environmental Management",
+      "type": "parent",
+      "id": "https://ror.org/00km40770"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

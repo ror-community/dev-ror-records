@@ -81,7 +81,13 @@
       "value": "Johns Hopkins University Press"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Johns Hopkins University",
+      "type": "parent",
+      "id": "https://ror.org/00za53h95"
+    }
+  ],
   "status": "active",
   "types": [
     "other"

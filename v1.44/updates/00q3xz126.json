@@ -52,7 +52,13 @@
       "value": "Roswell Park Comprehensive Cancer Center"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Roswell Park Comprehensive Cancer Center",
+      "type": "successor",
+      "id": "https://ror.org/0499dwk57"
+    }
+  ],
   "status": "withdrawn",
   "types": [
     "healthcare"

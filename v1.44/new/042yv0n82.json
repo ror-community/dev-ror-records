@@ -34,7 +34,7 @@
         "country_name": "France",
         "lat": 48.79266,
         "lng": 2.46569,
-        "name": "Cr\u00e9teil"
+        "name": "Créteil"
       },
       "geonames_id": 3022530
     }
@@ -53,10 +53,16 @@
         "label",
         "ror_display"
       ],
-      "value": "Excitabilit\u00e9 Nerveuse et Th\u00e9rapeutique"
+      "value": "Excitabilité Nerveuse et Thérapeutique"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Université Paris-Est Créteil",
+      "type": "parent",
+      "id": "https://ror.org/05ggc9x40"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

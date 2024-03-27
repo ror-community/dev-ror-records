@@ -49,7 +49,7 @@
       "types": [
         "label"
       ],
-      "value": "Fondation pour l'\u00e9valuation des choix technologiques"
+      "value": "Fondation pour l'évaluation des choix technologiques"
     },
     {
       "lang": "it",
@@ -71,7 +71,7 @@
         "label",
         "ror_display"
       ],
-      "value": "Stiftung f\u00fcr Technologiefolgen-Absch\u00e4tzung"
+      "value": "Stiftung für Technologiefolgen-Abschätzung"
     },
     {
       "lang": null,
@@ -81,7 +81,28 @@
       "value": "TA-SWISS"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Swiss Academy of Medical Sciences",
+      "type": "related",
+      "id": "https://ror.org/011cav305"
+    },
+    {
+      "label": "Swiss Academy of Humanities and Social Sciences",
+      "type": "related",
+      "id": "https://ror.org/005381c03"
+    },
+    {
+      "label": "Swiss Academy of Sciences",
+      "type": "related",
+      "id": "https://ror.org/05tensj89"
+    },
+    {
+      "label": "Swiss Academies of Arts and Sciences",
+      "type": "parent",
+      "id": "https://ror.org/05b2r4b98"
+    }
+  ],
   "status": "active",
   "types": [
     "nonprofit"

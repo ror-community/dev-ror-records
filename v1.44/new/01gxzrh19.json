@@ -41,7 +41,7 @@
         "country_name": "Brazil",
         "lat": -27.61455,
         "lng": -48.50116,
-        "name": "Florian\u00f3polis"
+        "name": "Florianópolis"
       },
       "geonames_id": 6323121
     }
@@ -63,7 +63,13 @@
       "value": "Governo de Santa Catarina"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Fundação Catarinense de Educação Especial",
+      "type": "child",
+      "id": "https://ror.org/00q283y58"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

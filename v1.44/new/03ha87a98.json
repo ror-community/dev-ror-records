@@ -34,7 +34,7 @@
         "country_name": "France",
         "lat": 48.79266,
         "lng": 2.46569,
-        "name": "Cr\u00e9teil"
+        "name": "Créteil"
       },
       "geonames_id": 3022530
     }
@@ -60,10 +60,21 @@
         "label",
         "ror_display"
       ],
-      "value": "Laboratoire interdisciplinaire de recherche sur les transformations des pratiques \u00e9ducatives et des pratiques sociales"
+      "value": "Laboratoire interdisciplinaire de recherche sur les transformations des pratiques éducatives et des pratiques sociales"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Université Paris-Est Créteil",
+      "type": "parent",
+      "id": "https://ror.org/05ggc9x40"
+    },
+    {
+      "label": "University of Paris-Est",
+      "type": "parent",
+      "id": "https://ror.org/0268ecp52"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

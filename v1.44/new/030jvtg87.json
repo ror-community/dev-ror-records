@@ -70,7 +70,13 @@
       "value": "Mike and Josie Harper Cancer Research Institute"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Notre Dame",
+      "type": "parent",
+      "id": "https://ror.org/00mkhxb43"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

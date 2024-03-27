@@ -333,6 +333,11 @@
       "label": "Government of the United States of America",
       "type": "parent",
       "id": "https://ror.org/02rcrvv70"
+    },
+    {
+      "label": "Office of Clean Energy Demonstrations",
+      "type": "child",
+      "id": "https://ror.org/04rp4zh16"
     }
   ],
   "status": "active",

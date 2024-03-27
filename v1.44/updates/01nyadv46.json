@@ -81,13 +81,7 @@
       "value": "New York State Museum of Natural History"
     }
   ],
-  "relationships": [
-    {
-      "label": "State University of New York",
-      "type": "parent",
-      "id": "https://ror.org/01q1z8k08"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "archive"

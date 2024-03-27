@@ -75,7 +75,7 @@
     },
     {
       "label": "Universidade de São Paulo",
-      "type": "related",
+      "type": "parent",
       "id": "https://ror.org/036rp1748"
     }
   ],

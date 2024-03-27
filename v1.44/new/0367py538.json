@@ -81,7 +81,13 @@
       "value": "White Rose College of the Arts and Humanities"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "White Rose University Consortium",
+      "type": "parent",
+      "id": "https://ror.org/0251f2x81"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

@@ -1,0 +1,81 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-09-23",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1997,
+  "external_ids": [
+    {
+      "all": [
+        "grid.434308.8"
+      ],
+      "preferred": "grid.434308.8",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0004 4670 9955"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q7995353"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/0251f2x81",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.whiterose.ac.uk/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/White_Rose_University_Consortium"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 53.94911,
+        "lng": -1.0474,
+        "name": "York"
+      },
+      "geonames_id": 2633352
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "White Rose University Consortium"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "White Rose College of the Arts and Humanities",
+      "type": "child",
+      "id": "https://ror.org/0367py538"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "other"
+  ]
+}

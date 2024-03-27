@@ -80,10 +80,16 @@
       "types": [
         "label"
       ],
-      "value": "\u9632\u707d\u8207\u6c34\u74b0\u5883\u7814\u7a76\u4e2d\u5fc3"
+      "value": "防災與水環境研究中心"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "National Yang Ming Chiao Tung University",
+      "type": "parent",
+      "id": "https://ror.org/00se2k293"
+    }
+  ],
   "status": "active",
   "types": [
     "education"

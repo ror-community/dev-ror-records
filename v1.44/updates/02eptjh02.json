@@ -79,11 +79,6 @@
   ],
   "relationships": [
     {
-      "label": "Centre National d'Études Spatiales",
-      "type": "parent",
-      "id": "https://ror.org/04h1h0y33"
-    },
-    {
       "label": "Institut National des Sciences de l'Univers",
       "type": "parent",
       "id": "https://ror.org/04kdfz702"
@@ -102,11 +97,6 @@
       "label": "Université Paris Cité",
       "type": "parent",
       "id": "https://ror.org/05f82e368"
-    },
-    {
-      "label": "Université de Versailles Saint-Quentin-en-Yvelines",
-      "type": "parent",
-      "id": "https://ror.org/03mkjjy25"
     }
   ],
   "status": "active",

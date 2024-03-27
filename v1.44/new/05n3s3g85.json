@@ -62,7 +62,13 @@
       "value": "United States Department of Energy Office of the General Counsel Civilian Nuclear Programs"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Office of the General Counsel",
+      "type": "parent",
+      "id": "https://ror.org/0054t4769"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

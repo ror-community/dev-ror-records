@@ -89,6 +89,11 @@
       "label": "Institut de recherche mathématique de Rennes",
       "type": "child",
       "id": "https://ror.org/05y76vp22"
+    },
+    {
+      "label": "University of Rennes",
+      "type": "parent",
+      "id": "https://ror.org/015m7wh34"
     }
   ],
   "status": "active",

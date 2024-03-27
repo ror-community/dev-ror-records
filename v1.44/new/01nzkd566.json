@@ -64,10 +64,16 @@
         "label",
         "ror_display"
       ],
-      "value": "Centro de Neuroci\u00eancias e Biologia Celular"
+      "value": "Centro de Neurociências e Biologia Celular"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "University of Coimbra",
+      "type": "parent",
+      "id": "https://ror.org/04z8k9a98"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

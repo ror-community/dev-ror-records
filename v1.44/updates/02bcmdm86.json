@@ -56,7 +56,13 @@
       "value": "UFN"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Universidade Franciscana",
+      "type": "successor",
+      "id": "https://ror.org/00wbge811"
+    }
+  ],
   "status": "withdrawn",
   "types": [
     "education"

@@ -61,9 +61,9 @@
   ],
   "relationships": [
     {
-      "label": "Government of Ontario",
-      "type": "parent",
-      "id": "https://ror.org/015pzp858"
+      "label": "Ministry of Education",
+      "type": "successor",
+      "id": "https://ror.org/05p70jq59"
     }
   ],
   "status": "withdrawn",

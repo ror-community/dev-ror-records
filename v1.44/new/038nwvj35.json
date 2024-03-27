@@ -102,7 +102,13 @@
       "value": "United States Department of Energy Office of Small Business Innovation Research and Small Business Technology Transfer Programs"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Office of Science",
+      "type": "parent",
+      "id": "https://ror.org/00mmn6b08"
+    }
+  ],
   "status": "active",
   "types": [
     "government"

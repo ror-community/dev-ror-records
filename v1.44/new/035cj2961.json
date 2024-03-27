@@ -95,7 +95,13 @@
       "value": "United States Department of Energy National Nuclear Security Administration National Ignition Facility"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Lawrence Livermore National Laboratory",
+      "type": "parent",
+      "id": "https://ror.org/041nk4h53"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

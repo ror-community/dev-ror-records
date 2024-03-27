@@ -53,7 +53,7 @@
         "label",
         "ror_display"
       ],
-      "value": "Laboratoire Images, signaux et syst\u00e8mes intelligents"
+      "value": "Laboratoire Images, signaux et systèmes intelligents"
     },
     {
       "lang": "en",
@@ -63,7 +63,13 @@
       "value": "Laboratory of Images, Signals and Intelligent Systems"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Université Paris-Est Créteil",
+      "type": "parent",
+      "id": "https://ror.org/05ggc9x40"
+    }
+  ],
   "status": "active",
   "types": [
     "facility"

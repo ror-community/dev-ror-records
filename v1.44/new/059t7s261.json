@@ -71,10 +71,16 @@
         "label",
         "ror_display"
       ],
-      "value": "Centro de Documentaci\u00f3n Musical de Andaluc\u00eda"
+      "value": "Centro de Documentación Musical de Andalucía"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Junta de Andalucía",
+      "type": "parent",
+      "id": "https://ror.org/01jem9c82"
+    }
+  ],
   "status": "active",
   "types": [
     "archive",

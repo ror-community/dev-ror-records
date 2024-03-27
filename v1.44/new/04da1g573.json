@@ -62,7 +62,13 @@
       "value": "United States Department of Energy Office of Fissile Materials Disposition"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Office of Defense Nuclear Nonproliferation",
+      "type": "parent",
+      "id": "https://ror.org/01edzc976"
+    }
+  ],
   "status": "active",
   "types": [
     "government"
