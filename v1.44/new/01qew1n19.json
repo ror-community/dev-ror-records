@@ -49,7 +49,7 @@
       "types": [
         "alias"
       ],
-      "value": "Antoine de Saint Exup\u00e9ry Institute of Technological Research"
+      "value": "Antoine de Saint Exupéry Institute of Technological Research"
     },
     {
       "lang": null,
@@ -57,7 +57,7 @@
         "label",
         "ror_display"
       ],
-      "value": "IRT Saint Exup\u00e9ry"
+      "value": "IRT Saint Exupéry"
     },
     {
       "lang": "fr",
@@ -71,21 +71,21 @@
       "types": [
         "alias"
       ],
-      "value": "Institut de Recherche Technologique Antoine de Saint-Exup\u00e9ry"
+      "value": "Institut de Recherche Technologique Antoine de Saint-Exupéry"
     },
     {
       "lang": "fr",
       "types": [
         "alias"
       ],
-      "value": "Institut de Recherche Technologique Saint Exup\u00e9ry"
+      "value": "Institut de Recherche Technologique Saint Exupéry"
     },
     {
       "lang": "en",
       "types": [
         "alias"
       ],
-      "value": "Saint Exup\u00e9ry Institute of Technological Research"
+      "value": "Saint Exupéry Institute of Technological Research"
     }
   ],
   "relationships": [],

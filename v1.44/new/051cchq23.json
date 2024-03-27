@@ -26,7 +26,7 @@
         "country_name": "Mexico",
         "lat": 19.40531,
         "lng": -96.3609,
-        "name": "\u00darsulo Galv\u00e1n"
+        "name": "Úrsulo Galván"
       },
       "geonames_id": 3514906
     }
@@ -45,14 +45,14 @@
         "label",
         "ror_display"
       ],
-      "value": "Instituto Tecnol\u00f3gico de \u00darsulo Galv\u00e1n"
+      "value": "Instituto Tecnológico de Úrsulo Galván"
     },
     {
       "lang": "es",
       "types": [
         "alias"
       ],
-      "value": "TecNM Campus \u00darsulo Galv\u00e1n"
+      "value": "TecNM Campus Úrsulo Galván"
     },
     {
       "lang": "es",
@@ -66,21 +66,21 @@
       "types": [
         "alias"
       ],
-      "value": "TecNM Instituto Tecnol\u00f3gico de \u00darsulo Galv\u00e1n"
+      "value": "TecNM Instituto Tecnológico de Úrsulo Galván"
     },
     {
       "lang": "es",
       "types": [
         "alias"
       ],
-      "value": "Tecnol\u00f3gico Nacional de M\u00e9xico Campus \u00darsulo Galv\u00e1n"
+      "value": "Tecnológico Nacional de México Campus Úrsulo Galván"
     },
     {
       "lang": "es",
       "types": [
         "alias"
       ],
-      "value": "Tecnol\u00f3gico Nacional de M\u00e9xico Instituto Tecnol\u00f3gico de \u00darsulo Galv\u00e1n"
+      "value": "Tecnológico Nacional de México Instituto Tecnológico de Úrsulo Galván"
     }
   ],
   "relationships": [],
