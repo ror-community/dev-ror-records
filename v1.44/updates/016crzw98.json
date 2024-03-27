@@ -5,33 +5,40 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-27",
+      "date": "2021-03-17",
       "schema_version": "2.0"
     }
   },
   "domains": [],
-  "established": 2010,
+  "established": 1986,
   "external_ids": [
     {
       "all": [
-        "grid.462588.5"
+        "grid.433153.3"
       ],
-      "preferred": "grid.462588.5",
+      "preferred": "grid.433153.3",
       "type": "grid"
     },
     {
       "all": [
-        "0000 0004 7775 6973"
+        "0000 0004 1791 1118"
       ],
-      "preferred": "0000 0004 7775 6973",
+      "preferred": null,
       "type": "isni"
+    },
+    {
+      "all": [
+        "Q30255705"
+      ],
+      "preferred": null,
+      "type": "wikidata"
     }
   ],
-  "id": "https://ror.org/04rrzfd14",
+  "id": "https://ror.org/016crzw98",
   "links": [
     {
       "type": "website",
-      "value": "https://msme.univ-gustave-eiffel.fr"
+      "value": "http://www.crittbois.com/"
     }
   ],
   "locations": [
@@ -39,28 +46,35 @@
       "geonames_details": {
         "country_code": "FR",
         "country_name": "France",
-        "lat": 48.85,
-        "lng": 2.6,
-        "name": "Champs-sur-Marne"
+        "lat": 48.173034,
+        "lng": 6.444451,
+        "name": "Épinal"
       },
-      "geonames_id": 3027014
+      "geonames_id": 3020035
     }
   ],
   "names": [
     {
       "lang": null,
       "types": [
-        "ror_display",
-        "label"
+        "acronym"
       ],
-      "value": "Laboratoire Modélisation et Simulation Multi-Echelle"
+      "value": "CRITT"
     },
     {
       "lang": null,
       "types": [
-        "acronym"
+        "ror_display",
+        "label"
       ],
-      "value": "MSME"
+      "value": "Centre Régional d’Innovation et de Transferts Technologiques des Industries du Bois"
+    },
+    {
+      "lang": null,
+      "types": [
+        "alias"
+      ],
+      "value": "Sciences du Bois"
     }
   ],
   "relationships": [
@@ -70,14 +84,9 @@
       "id": "https://ror.org/00s19x989"
     },
     {
-      "label": "Université Paris-Est Créteil",
+      "label": "National Research Institute for Agriculture, Food and Environment",
       "type": "parent",
-      "id": "https://ror.org/05ggc9x40"
-    },
-    {
-      "label": "Université Gustave Eiffel",
-      "type": "parent",
-      "id": "https://ror.org/03x42jk29"
+      "id": "https://ror.org/003vg9w96"
     }
   ],
   "status": "active",

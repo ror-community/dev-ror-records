@@ -5,33 +5,26 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-27",
+      "date": "2021-03-17",
       "schema_version": "2.0"
     }
   },
   "domains": [],
-  "established": 2010,
+  "established": 1996,
   "external_ids": [
     {
       "all": [
-        "grid.462588.5"
+        "grid.463955.8"
       ],
-      "preferred": "grid.462588.5",
+      "preferred": "grid.463955.8",
       "type": "grid"
-    },
-    {
-      "all": [
-        "0000 0004 7775 6973"
-      ],
-      "preferred": "0000 0004 7775 6973",
-      "type": "isni"
     }
   ],
-  "id": "https://ror.org/04rrzfd14",
+  "id": "https://ror.org/057axh226",
   "links": [
     {
       "type": "website",
-      "value": "https://msme.univ-gustave-eiffel.fr"
+      "value": "https://lheea.ec-nantes.fr/"
     }
   ],
   "locations": [
@@ -39,28 +32,28 @@
       "geonames_details": {
         "country_code": "FR",
         "country_name": "France",
-        "lat": 48.85,
-        "lng": 2.6,
-        "name": "Champs-sur-Marne"
+        "lat": 47.248849,
+        "lng": -1.547894,
+        "name": "Nantes"
       },
-      "geonames_id": 3027014
+      "geonames_id": 2990969
     }
   ],
   "names": [
     {
       "lang": null,
       "types": [
-        "ror_display",
-        "label"
+        "acronym"
       ],
-      "value": "Laboratoire Modélisation et Simulation Multi-Echelle"
+      "value": "LHEEA"
     },
     {
       "lang": null,
       "types": [
-        "acronym"
+        "ror_display",
+        "label"
       ],
-      "value": "MSME"
+      "value": "Laboratoire de Recherche Hydrodynamique, Energétique et Environnement Atmosphérique"
     }
   ],
   "relationships": [
@@ -70,14 +63,9 @@
       "id": "https://ror.org/00s19x989"
     },
     {
-      "label": "Université Paris-Est Créteil",
+      "label": "École Centrale de Nantes",
       "type": "parent",
-      "id": "https://ror.org/05ggc9x40"
-    },
-    {
-      "label": "Université Gustave Eiffel",
-      "type": "parent",
-      "id": "https://ror.org/03x42jk29"
+      "id": "https://ror.org/03nh7d505"
     }
   ],
   "status": "active",

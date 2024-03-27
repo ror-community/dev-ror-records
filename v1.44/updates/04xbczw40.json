@@ -5,33 +5,33 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-27",
+      "date": "2021-03-17",
       "schema_version": "2.0"
     }
   },
   "domains": [],
-  "established": 2010,
+  "established": 1999,
   "external_ids": [
     {
       "all": [
-        "grid.462588.5"
+        "grid.498477.1"
       ],
-      "preferred": "grid.462588.5",
+      "preferred": "grid.498477.1",
       "type": "grid"
     },
     {
       "all": [
-        "0000 0004 7775 6973"
+        "0000 0001 2305 2936"
       ],
-      "preferred": "0000 0004 7775 6973",
+      "preferred": null,
       "type": "isni"
     }
   ],
-  "id": "https://ror.org/04rrzfd14",
+  "id": "https://ror.org/04xbczw40",
   "links": [
     {
       "type": "website",
-      "value": "https://msme.univ-gustave-eiffel.fr"
+      "value": "http://www.ampere-lab.fr/?lang=en"
     }
   ],
   "locations": [
@@ -39,11 +39,11 @@
       "geonames_details": {
         "country_code": "FR",
         "country_name": "France",
-        "lat": 48.85,
-        "lng": 2.6,
-        "name": "Champs-sur-Marne"
+        "lat": 45.783901,
+        "lng": 4.769185,
+        "name": "Écully"
       },
-      "geonames_id": 3027014
+      "geonames_id": 3020392
     }
   ],
   "names": [
@@ -53,31 +53,29 @@
         "ror_display",
         "label"
       ],
-      "value": "Laboratoire Modélisation et Simulation Multi-Echelle"
-    },
-    {
-      "lang": null,
-      "types": [
-        "acronym"
-      ],
-      "value": "MSME"
+      "value": "Laboratoire Ampère"
     }
   ],
   "relationships": [
+    {
+      "label": "Claude Bernard University Lyon 1",
+      "type": "parent",
+      "id": "https://ror.org/029brtt94"
+    },
+    {
+      "label": "Institut National des Sciences Appliquées de Lyon",
+      "type": "parent",
+      "id": "https://ror.org/050jn9y42"
+    },
     {
       "label": "CNRS Ingénierie",
       "type": "parent",
       "id": "https://ror.org/00s19x989"
     },
     {
-      "label": "Université Paris-Est Créteil",
+      "label": "École Centrale de Lyon",
       "type": "parent",
-      "id": "https://ror.org/05ggc9x40"
-    },
-    {
-      "label": "Université Gustave Eiffel",
-      "type": "parent",
-      "id": "https://ror.org/03x42jk29"
+      "id": "https://ror.org/05s6rge65"
     }
   ],
   "status": "active",

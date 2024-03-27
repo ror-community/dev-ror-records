@@ -5,33 +5,33 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-27",
+      "date": "2021-03-17",
       "schema_version": "2.0"
     }
   },
   "domains": [],
-  "established": 2010,
+  "established": 1995,
   "external_ids": [
     {
       "all": [
-        "grid.462588.5"
+        "grid.462749.a"
       ],
-      "preferred": "grid.462588.5",
+      "preferred": "grid.462749.a",
       "type": "grid"
     },
     {
       "all": [
-        "0000 0004 7775 6973"
+        "0000 0001 2173 3017"
       ],
-      "preferred": "0000 0004 7775 6973",
+      "preferred": null,
       "type": "isni"
     }
   ],
-  "id": "https://ror.org/04rrzfd14",
+  "id": "https://ror.org/015vtcw98",
   "links": [
     {
       "type": "website",
-      "value": "https://msme.univ-gustave-eiffel.fr"
+      "value": "http://ltds.ec-lyon.fr/spip/?lang=fr"
     }
   ],
   "locations": [
@@ -39,28 +39,28 @@
       "geonames_details": {
         "country_code": "FR",
         "country_name": "France",
-        "lat": 48.85,
-        "lng": 2.6,
-        "name": "Champs-sur-Marne"
+        "lat": 45.785598,
+        "lng": 4.768471,
+        "name": "Écully"
       },
-      "geonames_id": 3027014
+      "geonames_id": 3020392
     }
   ],
   "names": [
     {
       "lang": null,
       "types": [
-        "ror_display",
-        "label"
+        "acronym"
       ],
-      "value": "Laboratoire Modélisation et Simulation Multi-Echelle"
+      "value": "LTDS"
     },
     {
       "lang": null,
       "types": [
-        "acronym"
+        "ror_display",
+        "label"
       ],
-      "value": "MSME"
+      "value": "Laboratoire de Tribologie et Dynamique des Systèmes"
     }
   ],
   "relationships": [
@@ -70,14 +70,19 @@
       "id": "https://ror.org/00s19x989"
     },
     {
-      "label": "Université Paris-Est Créteil",
+      "label": "École Centrale de Lyon",
       "type": "parent",
-      "id": "https://ror.org/05ggc9x40"
+      "id": "https://ror.org/05s6rge65"
     },
     {
-      "label": "Université Gustave Eiffel",
+      "label": "École Nationale d'Ingénieurs de Saint-Étienne",
       "type": "parent",
-      "id": "https://ror.org/03x42jk29"
+      "id": "https://ror.org/017cfeh02"
+    },
+    {
+      "label": "École Nationale des Travaux Publics de l'État",
+      "type": "parent",
+      "id": "https://ror.org/05r0ccb59"
     }
   ],
   "status": "active",

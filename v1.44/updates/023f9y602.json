@@ -5,33 +5,40 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-27",
+      "date": "2021-03-17",
       "schema_version": "2.0"
     }
   },
   "domains": [],
-  "established": 2010,
+  "established": 1986,
   "external_ids": [
     {
       "all": [
-        "grid.462588.5"
+        "grid.463891.1"
       ],
-      "preferred": "grid.462588.5",
+      "preferred": "grid.463891.1",
       "type": "grid"
     },
     {
       "all": [
-        "0000 0004 7775 6973"
+        "0000 0004 0370 2315"
       ],
-      "preferred": "0000 0004 7775 6973",
+      "preferred": null,
       "type": "isni"
+    },
+    {
+      "all": [
+        "Q30262273"
+      ],
+      "preferred": null,
+      "type": "wikidata"
     }
   ],
-  "id": "https://ror.org/04rrzfd14",
+  "id": "https://ror.org/023f9y602",
   "links": [
     {
       "type": "website",
-      "value": "https://msme.univ-gustave-eiffel.fr"
+      "value": "https://portail.polytechnique.edu/lpicm/en"
     }
   ],
   "locations": [
@@ -39,28 +46,35 @@
       "geonames_details": {
         "country_code": "FR",
         "country_name": "France",
-        "lat": 48.85,
-        "lng": 2.6,
-        "name": "Champs-sur-Marne"
+        "lat": 48.714896,
+        "lng": 2.245012,
+        "name": "Palaiseau"
       },
-      "geonames_id": 3027014
+      "geonames_id": 2988758
     }
   ],
   "names": [
     {
       "lang": null,
       "types": [
-        "ror_display",
+        "acronym"
+      ],
+      "value": "LPICM"
+    },
+    {
+      "lang": "fr",
+      "types": [
         "label"
       ],
-      "value": "Laboratoire Modélisation et Simulation Multi-Echelle"
+      "value": "Laboratoire de Physique des Interfaces et des Couches Minces"
     },
     {
       "lang": null,
       "types": [
-        "acronym"
+        "ror_display",
+        "label"
       ],
-      "value": "MSME"
+      "value": "Laboratory of Physics of Interfaces and Thin Films"
     }
   ],
   "relationships": [
@@ -70,14 +84,9 @@
       "id": "https://ror.org/00s19x989"
     },
     {
-      "label": "Université Paris-Est Créteil",
+      "label": "École Polytechnique",
       "type": "parent",
-      "id": "https://ror.org/05ggc9x40"
-    },
-    {
-      "label": "Université Gustave Eiffel",
-      "type": "parent",
-      "id": "https://ror.org/03x42jk29"
+      "id": "https://ror.org/05hy3tk52"
     }
   ],
   "status": "active",

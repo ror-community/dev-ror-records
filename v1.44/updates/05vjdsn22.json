@@ -5,7 +5,7 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-03-27",
+      "date": "2021-03-17",
       "schema_version": "2.0"
     }
   },
@@ -14,24 +14,35 @@
   "external_ids": [
     {
       "all": [
-        "grid.462588.5"
+        "grid.462224.4"
       ],
-      "preferred": "grid.462588.5",
+      "preferred": "grid.462224.4",
       "type": "grid"
     },
     {
       "all": [
-        "0000 0004 7775 6973"
+        "0000 0001 2164 3230"
       ],
-      "preferred": "0000 0004 7775 6973",
+      "preferred": null,
       "type": "isni"
+    },
+    {
+      "all": [
+        "Q3151798"
+      ],
+      "preferred": null,
+      "type": "wikidata"
     }
   ],
-  "id": "https://ror.org/04rrzfd14",
+  "id": "https://ror.org/05vjdsn22",
   "links": [
     {
       "type": "website",
-      "value": "https://msme.univ-gustave-eiffel.fr"
+      "value": "http://www.pprime.fr/?q=en"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Institut_Pprime"
     }
   ],
   "locations": [
@@ -39,28 +50,28 @@
       "geonames_details": {
         "country_code": "FR",
         "country_name": "France",
-        "lat": 48.85,
-        "lng": 2.6,
-        "name": "Champs-sur-Marne"
+        "lat": 46.661322,
+        "lng": 0.361366,
+        "name": "Poitiers"
       },
-      "geonames_id": 3027014
+      "geonames_id": 2986495
     }
   ],
   "names": [
     {
       "lang": null,
       "types": [
-        "ror_display",
-        "label"
+        "alias"
       ],
-      "value": "Laboratoire Modélisation et Simulation Multi-Echelle"
+      "value": "Institut P'"
     },
     {
       "lang": null,
       "types": [
-        "acronym"
+        "ror_display",
+        "label"
       ],
-      "value": "MSME"
+      "value": "Institut Pprime"
     }
   ],
   "relationships": [
@@ -70,14 +81,14 @@
       "id": "https://ror.org/00s19x989"
     },
     {
-      "label": "Université Paris-Est Créteil",
+      "label": "University of Poitiers",
       "type": "parent",
-      "id": "https://ror.org/05ggc9x40"
+      "id": "https://ror.org/04xhy8q59"
     },
     {
-      "label": "Université Gustave Eiffel",
+      "label": "École Nationale Supérieure de Mécanique et d'Aérotechnique",
       "type": "parent",
-      "id": "https://ror.org/03x42jk29"
+      "id": "https://ror.org/04jx68594"
     }
   ],
   "status": "active",
