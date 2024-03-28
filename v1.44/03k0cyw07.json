@@ -1,0 +1,74 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 1926,
+  "external_ids": [
+    {
+      "all": [
+        "grid.481781.3"
+      ],
+      "preferred": "grid.481781.3",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0004 0389 699X"
+      ],
+      "preferred": null,
+      "type": "isni"
+    }
+  ],
+  "id": "https://ror.org/03k0cyw07",
+  "links": [
+    {
+      "type": "website",
+      "value": "https://www.toraytpa.com/"
+    },
+    {
+      "type": "wikipedia",
+      "value": "https://en.wikipedia.org/wiki/Toray_Industries"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "US",
+        "country_name": "United States",
+        "lat": 41.5501,
+        "lng": -71.46617,
+        "name": "North Kingstown"
+      },
+      "geonames_id": 5223672
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "Toray (United States)"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Toray Industries, Inc. (Japan)",
+      "type": "parent",
+      "id": "https://ror.org/029xh1r47"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "company"
+  ]
+}
