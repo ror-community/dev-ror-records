@@ -1,0 +1,116 @@
+{
+  "admin": {
+    "created": {
+      "date": "2018-11-14",
+      "schema_version": "1.0"
+    },
+    "last_modified": {
+      "date": "2021-03-17",
+      "schema_version": "2.0"
+    }
+  },
+  "domains": [],
+  "established": 2001,
+  "external_ids": [
+    {
+      "all": [
+        "grid.39489.3f"
+      ],
+      "preferred": "grid.39489.3f",
+      "type": "grid"
+    },
+    {
+      "all": [
+        "0000 0001 0388 0742"
+      ],
+      "preferred": null,
+      "type": "isni"
+    },
+    {
+      "all": [
+        "Q6954149"
+      ],
+      "preferred": null,
+      "type": "wikidata"
+    }
+  ],
+  "id": "https://ror.org/03q82t418",
+  "links": [
+    {
+      "type": "website",
+      "value": "http://www.nhslothian.scot.nhs.uk/Pages/default.aspx"
+    },
+    {
+      "type": "wikipedia",
+      "value": "http://en.wikipedia.org/wiki/NHS_Lothian"
+    }
+  ],
+  "locations": [
+    {
+      "geonames_details": {
+        "country_code": "GB",
+        "country_name": "United Kingdom",
+        "lat": 55.95206,
+        "lng": -3.19648,
+        "name": "Edinburgh"
+      },
+      "geonames_id": 2650225
+    }
+  ],
+  "names": [
+    {
+      "lang": null,
+      "types": [
+        "ror_display",
+        "label"
+      ],
+      "value": "NHS Lothian"
+    }
+  ],
+  "relationships": [
+    {
+      "label": "Astley Ainslie Hospital",
+      "type": "child",
+      "id": "https://ror.org/01wx86652"
+    },
+    {
+      "label": "Midlothian Community Hospital",
+      "type": "child",
+      "id": "https://ror.org/05sqvht74"
+    },
+    {
+      "label": "Princess Alexandra Eye Pavilion",
+      "type": "child",
+      "id": "https://ror.org/00jz7d133"
+    },
+    {
+      "label": "Royal Edinburgh Hospital",
+      "type": "child",
+      "id": "https://ror.org/04jxcef68"
+    },
+    {
+      "label": "Royal Hospital for Sick Children",
+      "type": "child",
+      "id": "https://ror.org/01w7h4t60"
+    },
+    {
+      "label": "St John's Hospital",
+      "type": "child",
+      "id": "https://ror.org/01hssm416"
+    },
+    {
+      "label": "Western General Hospital",
+      "type": "child",
+      "id": "https://ror.org/009kr6r15"
+    },
+    {
+      "label": "South-East Scotland School of Anaesthesia",
+      "type": "child",
+      "id": "https://ror.org/0545we460"
+    }
+  ],
+  "status": "active",
+  "types": [
+    "healthcare"
+  ]
+}
