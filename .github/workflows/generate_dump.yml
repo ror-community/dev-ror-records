@@ -81,7 +81,7 @@ jobs:
         if: ${{ steps.commitdumpfile.outcome == 'success'}}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: ./ror-records-test/v1/
+          file_pattern: ./ror-records-test/v1.44/v1/
           commit_message: Add generated v1 files
       - name: Notify Slack
         if: always()
