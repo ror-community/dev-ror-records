@@ -79,10 +79,14 @@ jobs:
           git push origin main
       - name: commit changed files
         if: ${{ steps.commitdumpfile.outcome == 'success'}}
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          file_pattern: ./ror-records-test/v1.44/v1/
-          commit_message: Add generated v1 files
+        run: |
+          pwd
+          cd ./ror-records-test
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ${{github.event.inputs.new-release}}/v1/
+          git commit -m "add generated v1 files"
+          git push origin main
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
