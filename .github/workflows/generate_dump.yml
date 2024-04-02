@@ -72,8 +72,8 @@ jobs:
         if: ${{ steps.copynewdump.outcome == 'success'}}
         run: |
           cd ./ror-data-test
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "ror-bot@ror.org"
+          git config --local user.name "ror-bot"
           git add *.zip
           git commit -m "add new data dump file"
           git push origin main
@@ -82,11 +82,11 @@ jobs:
         run: |
           pwd
           cd ./ror-records-test
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "ror-bot@ror.org"
+          git config --local user.name "ror-bot"
           git add ${{github.event.inputs.new-release}}/v1/
           git commit -m "add generated v1 files"
-          git push origin main
+          git push origin ${{github.event.inputs.new-release}}
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
