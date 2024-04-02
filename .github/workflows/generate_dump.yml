@@ -78,7 +78,7 @@ jobs:
           git commit -m "add new data dump file"
           git push origin main
       - name: commit changed files
-        if: ${{ steps.genrelshp.outcome == 'success'}}
+        if: ${{ steps.commitdumpfile.outcome == 'success'}}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           file_pattern:  ${{ env.WORKING_DIR }}/v1/
