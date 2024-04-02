@@ -86,7 +86,7 @@ jobs:
           git config --local user.name "ror-bot"
           git add ${{github.event.inputs.new-release}}/v1/
           git commit -m "add generated v1 files"
-          git push origin ${{github.event.inputs.new-release}}
+          git push origin main
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
