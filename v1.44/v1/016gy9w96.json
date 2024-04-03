@@ -1,0 +1,78 @@
+{
+  "id": "https://ror.org/016gy9w96",
+  "name": "Ministry of Education",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1989,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Ministry of Education",
+      "type": "Successor",
+      "id": "https://ror.org/05p70jq59"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": -41.28664,
+      "lng": 174.77557,
+      "state": null,
+      "state_code": null,
+      "city": "Wellington",
+      "geonames_city": {
+        "id": 2179537,
+        "city": "Wellington",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.education.govt.nz"
+  ],
+  "aliases": [
+    "Ministry of Education of New Zealand",
+    "New Zealand Ministry of Education"
+  ],
+  "acronyms": [],
+  "status": "withdrawn",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ministry_of_Education_%28New_Zealand%29",
+  "labels": [],
+  "country": {
+    "country_name": "New Zealand",
+    "country_code": "NZ"
+  },
+  "external_ids": {}
+}

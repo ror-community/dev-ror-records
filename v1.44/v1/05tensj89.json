@@ -1,0 +1,112 @@
+{
+  "id": "https://ror.org/05tensj89",
+  "name": "Swiss Academy of Sciences",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1815,
+  "types": [
+    "Other"
+  ],
+  "relationships": [
+    {
+      "label": "Stiftung für Technologiefolgen-Abschätzung",
+      "type": "Related",
+      "id": "https://ror.org/02shtak05"
+    },
+    {
+      "label": "Swiss Academies of Arts and Sciences",
+      "type": "Parent",
+      "id": "https://ror.org/05b2r4b98"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 46.94809,
+      "lng": 7.44744,
+      "state": null,
+      "state_code": null,
+      "city": "Bern",
+      "geonames_city": {
+        "id": 2661552,
+        "city": "Bern",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.naturalsciences.ch/?_ga=1.43343781.1874359181.1462174030"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "SCNAT"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Académie Suisse des Sciences Naturelles",
+      "iso639": "fr"
+    },
+    {
+      "label": "Accademia Svizzera di Scienze Naturali",
+      "iso639": "it"
+    },
+    {
+      "label": "Akademie der Naturwissenschaften Schweiz",
+      "iso639": "de"
+    }
+  ],
+  "country": {
+    "country_name": "Switzerland",
+    "country_code": "CH"
+  },
+  "external_ids": {
+    "FUNDREF": {
+      "all": [
+        "501100004902"
+      ],
+      "preferred": null
+    },
+    "GRID": {
+      "all": "grid.468402.c",
+      "preferred": "grid.468402.c"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 0719 8070"
+      ],
+      "preferred": null
+    }
+  }
+}
