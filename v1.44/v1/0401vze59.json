@@ -1,0 +1,82 @@
+{
+  "id": "https://ror.org/0401vze59",
+  "name": "Astrophysics Science Division",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Goddard Space Flight Center",
+      "type": "Parent",
+      "id": "https://ror.org/0171mag52"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 39.00455,
+      "lng": -76.87553,
+      "state": null,
+      "state_code": null,
+      "city": "Greenbelt",
+      "geonames_city": {
+        "id": 4356847,
+        "city": "Greenbelt",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://science.gsfc.nasa.gov/sed/index.cfm?fuseAction=home.main&navOrgCode=660"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "ASD"
+  ],
+  "status": "withdrawn",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.468494.3",
+      "preferred": "grid.468494.3"
+    }
+  }
+}

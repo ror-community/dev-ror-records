@@ -1,0 +1,100 @@
+{
+  "id": "https://ror.org/01yj5ad85",
+  "name": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1986,
+  "types": [
+    "Government"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 52.52437,
+      "lng": 13.41053,
+      "state": null,
+      "state_code": null,
+      "city": "Berlin",
+      "geonames_city": {
+        "id": 2950159,
+        "city": "Berlin",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.bmuv.de"
+  ],
+  "aliases": [
+    "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+    "Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety"
+  ],
+  "acronyms": [
+    "BMUB",
+    "BMUV"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Federal_Ministry_for_the_Environment,_Nature_Conservation,_Building_and_Nuclear_Safety",
+  "labels": [],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  },
+  "external_ids": {
+    "FUNDREF": {
+      "all": [
+        "501100005910",
+        "501100006549",
+        "501100013549"
+      ],
+      "preferred": "501100005910"
+    },
+    "GRID": {
+      "all": "grid.436097.f",
+      "preferred": "grid.436097.f"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 1090 2524"
+      ],
+      "preferred": null
+    },
+    "WIKIDATA": {
+      "all": [
+        "Q493344"
+      ],
+      "preferred": null
+    }
+  }
+}
