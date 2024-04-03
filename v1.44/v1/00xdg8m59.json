@@ -1,0 +1,101 @@
+{
+  "id": "https://ror.org/00xdg8m59",
+  "name": "Bell (Canada)",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1880,
+  "types": [
+    "Company"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 45.50884,
+      "lng": -73.58781,
+      "state": null,
+      "state_code": null,
+      "city": "Montreal",
+      "geonames_city": {
+        "id": 6077243,
+        "city": "Montreal",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.bce.ca"
+  ],
+  "aliases": [
+    "Bell Canada Enterprises"
+  ],
+  "acronyms": [
+    "BCE"
+  ],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/Bell_Canada",
+  "labels": [
+    {
+      "label": "Bell",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Canada",
+    "country_code": "CA"
+  },
+  "external_ids": {
+    "FUNDREF": {
+      "all": [
+        "501100003288"
+      ],
+      "preferred": null
+    },
+    "GRID": {
+      "all": "grid.410432.0",
+      "preferred": "grid.410432.0"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 0692 5432"
+      ],
+      "preferred": null
+    },
+    "WIKIDATA": {
+      "all": [
+        "Q815694"
+      ],
+      "preferred": "Q815694"
+    }
+  }
+}
