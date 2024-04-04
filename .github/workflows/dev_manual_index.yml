@@ -67,7 +67,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           if [[ ${{ github.event.inputs.schema-version }} == 'v1' ]]; then
-            curl https://raw.githubusercontent.com/ror-community/ror-schema/schema-v2/ror_schema.json -o ror_schema.json
+            curl https://raw.githubusercontent.com/ror-community/ror-schema/master/ror_schema.json -o ror_schema.json
             if [[ -f "../${{github.event.pull_request.head.ref}}/relationships.csv" ]]; then
                 python run_validations.py -i ../files -v 1 -s ror_schema.json -f ../${{github.event.pull_request.head.ref}}/relationships.csv -p ../files/ --no-geonames
               else
@@ -75,7 +75,7 @@ jobs:
               fi
           fi
           if [[ ${{ github.event.inputs.schema-version }} == 'v2' ]]; then
-            curl https://raw.githubusercontent.com/ror-community/ror-schema/schema-v2/ror_schema_v2_0.json -o ror_schema_v2_0.json
+            curl https://raw.githubusercontent.com/ror-community/ror-schema/master/ror_schema_v2_0.json -o ror_schema_v2_0.json
             if [[ -f "../${{github.event.pull_request.head.ref}}/relationships.csv" ]]; then
                 python run_validations.py -i ../files -v 2 -s ror_schema_v2_0.json -f ../${{github.event.pull_request.head.ref}}/relationships.csv -p ../files/ --no-geonames
               else
