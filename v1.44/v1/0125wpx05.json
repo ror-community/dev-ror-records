@@ -1,0 +1,95 @@
+{
+  "id": "https://ror.org/0125wpx05",
+  "name": "UNSW Canberra",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "UNSW Sydney",
+      "type": "Parent",
+      "id": "https://ror.org/03r8z3t63"
+    },
+    {
+      "label": "Australian Defence Force Academy",
+      "type": "Child",
+      "id": "https://ror.org/02j5s7g39"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": -35.28346,
+      "lng": 149.12807,
+      "state": null,
+      "state_code": null,
+      "city": "Canberra",
+      "geonames_city": {
+        "id": 2172517,
+        "city": "Canberra",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.unsw.edu.au/canberra"
+  ],
+  "aliases": [
+    "University of New South Wales Canberra"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "Australia",
+    "country_code": "AU"
+  },
+  "external_ids": {
+    "FUNDREF": {
+      "all": [
+        "100012481"
+      ],
+      "preferred": "100012481"
+    },
+    "WIKIDATA": {
+      "all": [
+        "Q45133425"
+      ],
+      "preferred": "Q45133425"
+    }
+  }
+}
