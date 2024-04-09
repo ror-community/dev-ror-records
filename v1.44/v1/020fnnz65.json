@@ -1,0 +1,78 @@
+{
+  "id": "https://ror.org/020fnnz65",
+  "name": "Royal College of Chiropractors",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1998,
+  "types": [
+    "Other"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 51.53333,
+      "lng": -0.9,
+      "state": null,
+      "state_code": null,
+      "city": "Henley on Thames",
+      "geonames_city": {
+        "id": 2647101,
+        "city": "Henley on Thames",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://rcc-uk.org"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "RCC"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "United Kingdom",
+    "country_code": "GB"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 6473 2956"
+      ],
+      "preferred": "0000 0004 6473 2956"
+    }
+  }
+}

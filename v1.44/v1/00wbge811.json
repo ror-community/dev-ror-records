@@ -1,0 +1,96 @@
+{
+  "id": "https://ror.org/00wbge811",
+  "name": "Universidade Franciscana",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1951,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": -29.68417,
+      "lng": -53.80694,
+      "state": null,
+      "state_code": null,
+      "city": "Santa Maria",
+      "geonames_city": {
+        "id": 3450083,
+        "city": "Santa Maria",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://site.ufn.edu.br"
+  ],
+  "aliases": [
+    "Centro Universitário Franciscano",
+    "Franciscan University"
+  ],
+  "acronyms": [
+    "UNIFRA"
+  ],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/Centro_Universit%C3%A1rio_Franciscano",
+  "labels": [
+    {
+      "label": "Centro Universitario Franciscano",
+      "iso639": "es"
+    }
+  ],
+  "country": {
+    "country_name": "Brazil",
+    "country_code": "BR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.411132.4",
+      "preferred": "grid.411132.4"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0603 0788"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q5062888"
+      ],
+      "preferred": null
+    }
+  }
+}

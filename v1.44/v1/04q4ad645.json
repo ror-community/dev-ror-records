@@ -1,0 +1,97 @@
+{
+  "id": "https://ror.org/04q4ad645",
+  "name": "Sheki Regional Scientific Center",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1972,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Azerbaijan National Academy of Sciences",
+      "type": "Parent",
+      "id": "https://ror.org/006m4q736"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 41.19194,
+      "lng": 47.17056,
+      "state": null,
+      "state_code": null,
+      "city": "Şǝki",
+      "geonames_city": {
+        "id": 585170,
+        "city": "Şǝki",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.shrem.az"
+  ],
+  "aliases": [
+    "AMEA-nın Səki REM-i",
+    "Azerbaijan National Academy of Science's Sheki Regional Scientific Center",
+    "Azerbaijan National Academy of Sciences Sheki Regional Scientific Center",
+    "Sheki RSC of ANAS",
+    "Sheki Regional Scientific Center of the Azerbaijan National Academy of Sciences"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Azərbaycan Mi̇lli̇ Elmlər Akademi̇yasi Şəki̇ Regi̇onal Elmi̇ Mərkəzi̇",
+      "iso639": "az"
+    },
+    {
+      "label": "Национальная Академия Наук Азербайджана Шекинский Региональный Научный Центр",
+      "iso639": "ru"
+    }
+  ],
+  "country": {
+    "country_name": "Azerbaijan",
+    "country_code": "AZ"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0005 1226 0472"
+      ],
+      "preferred": "0000 0005 1226 0472"
+    }
+  }
+}

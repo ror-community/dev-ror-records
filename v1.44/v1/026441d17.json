@@ -1,0 +1,111 @@
+{
+  "id": "https://ror.org/026441d17",
+  "name": "Mindanao State University",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1961,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Mindanao State University Naawan",
+      "type": "Child",
+      "id": "https://ror.org/01f51gm92"
+    },
+    {
+      "label": "Mindanao State University-Sulu",
+      "type": "Related",
+      "id": "https://ror.org/005wnzn26"
+    },
+    {
+      "label": "Mindanao State University - Maguindanao",
+      "type": "Child",
+      "id": "https://ror.org/00krsne85"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 8.0034,
+      "lng": 124.28395,
+      "state": null,
+      "state_code": null,
+      "city": "Marawi City",
+      "geonames_city": {
+        "id": 1701053,
+        "city": "Marawi City",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.msumain.edu.ph/"
+  ],
+  "aliases": [
+    "MSU Main"
+  ],
+  "acronyms": [
+    "MSU"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mindanao_State_University",
+  "labels": [
+    {
+      "label": "Pamantasang Mindanao",
+      "iso639": "tl"
+    }
+  ],
+  "country": {
+    "country_name": "Philippines",
+    "country_code": "PH"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.443203.2",
+      "preferred": "grid.443203.2"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2227 7068"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q1641536"
+      ],
+      "preferred": null
+    }
+  }
+}

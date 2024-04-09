@@ -1,0 +1,84 @@
+{
+  "id": "https://ror.org/017z1j344",
+  "name": "Kentucky Academy of Science",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1914,
+  "types": [
+    "Other"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 38.25424,
+      "lng": -85.75941,
+      "state": null,
+      "state_code": null,
+      "city": "Louisville",
+      "geonames_city": {
+        "id": 4299276,
+        "city": "Louisville",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://kyscience.org"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "KAS"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 6085 5764"
+      ],
+      "preferred": "0000 0004 6085 5764"
+    },
+    "Wikidata": {
+      "all": [
+        "Q6392165"
+      ],
+      "preferred": "Q6392165"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "https://ror.org/02shtak05",
+  "name": "Stiftung für Technologiefolgen-Abschätzung",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1992,
+  "types": [
+    "Nonprofit"
+  ],
+  "relationships": [
+    {
+      "label": "Swiss Academy of Medical Sciences",
+      "type": "Related",
+      "id": "https://ror.org/011cav305"
+    },
+    {
+      "label": "Swiss Academy of Humanities and Social Sciences",
+      "type": "Related",
+      "id": "https://ror.org/005381c03"
+    },
+    {
+      "label": "Swiss Academy of Sciences",
+      "type": "Related",
+      "id": "https://ror.org/05tensj89"
+    },
+    {
+      "label": "Swiss Academies of Arts and Sciences",
+      "type": "Parent",
+      "id": "https://ror.org/05b2r4b98"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 46.94809,
+      "lng": 7.44744,
+      "state": null,
+      "state_code": null,
+      "city": "Bern",
+      "geonames_city": {
+        "id": 2661552,
+        "city": "Bern",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.ta-swiss.ch"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "TA-SWISS"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://de.wikipedia.org/wiki/TA-Swiss",
+  "labels": [
+    {
+      "label": "Fondation pour l'évaluation des choix technologiques",
+      "iso639": "fr"
+    },
+    {
+      "label": "Fondazione per la valutazione delle scelte tecnologiche",
+      "iso639": "it"
+    },
+    {
+      "label": "Foundation for Technology Assessment",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Switzerland",
+    "country_code": "CH"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q191259"
+      ],
+      "preferred": "Q191259"
+    }
+  }
+}
