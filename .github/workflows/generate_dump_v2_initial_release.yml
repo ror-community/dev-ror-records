@@ -1,5 +1,4 @@
 name: Create data dump v2 first release
-description: Generates a data dump based on an input file from ror-data-test and uploades the result to ror-data. For use during the first v1 release only.
 on:
   workflow_dispatch:
     inputs:
