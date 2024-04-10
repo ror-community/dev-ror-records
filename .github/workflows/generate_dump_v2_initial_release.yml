@@ -63,7 +63,7 @@ jobs:
             python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}} -i '../../ror-records-test' -o '../../ror-records-prod' -v 1
           fi
           if [[ ${{ github.event.inputs.schema-version }} == 'v2' ]]; then
-            python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}} -i '../../ror-records-test' -o '../../ror-records-prod' -v 2
+            python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}} -i '../../ror-records-test' -o '../../ror-records-test' -v 2
           fi
       - name: cat error file
         if: ${{ steps.gendumpscript.outcome != 'success'}}
