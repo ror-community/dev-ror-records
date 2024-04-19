@@ -5,6 +5,9 @@ on:
       date-value:
         type: string
         description: Date value to populate last_modified field with (YYYY-MM-DD)
+      directory-name:
+        type: string
+        description: Name of parent directory containing new/updated records. Needed only if different from branch name.
 jobs:
   update-last-mod:
     runs-on: ubuntu-latest
