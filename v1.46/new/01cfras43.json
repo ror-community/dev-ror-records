@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-07",
+      "date": "2024-04-30",
       "schema_version": "2.0"
     }
   },
@@ -40,7 +40,7 @@
         "country_code": "BR",
         "country_name": "Brazil",
         "lat": -20.5,
-        "lng": -55,
+        "lng": -55.0,
         "name": "Mato Grosso do Sul"
       },
       "geonames_id": 3457415
