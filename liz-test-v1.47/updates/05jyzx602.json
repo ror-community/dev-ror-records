@@ -86,11 +86,6 @@
       "label": "Provincial Health Services Authority",
       "type": "parent",
       "id": "https://ror.org/01jvd8304"
-    },
-    {
-      "label": "University of British Columbia",
-      "type": "parent",
-      "id": "https://ror.org/03rmrcq20"
     }
   ],
   "status": "active",
