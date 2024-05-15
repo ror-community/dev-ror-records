@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-09",
+      "date": "2024-05-15",
       "schema_version": "2.0"
     }
   },
@@ -74,7 +74,13 @@
       "value": "Vysočina Regional Library"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "label": "Vysočina Region",
+      "type": "parent",
+      "id": "https://ror.org/01cbd4k69"
+    }
+  ],
   "status": "active",
   "types": [
     "archive"
