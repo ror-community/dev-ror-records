@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -74,13 +74,7 @@
       "value": "Krajská knihovna Františka Bartoše ve Zlíně"
     }
   ],
-  "relationships": [
-    {
-      "label": "Zlín Region",
-      "type": "parent",
-      "id": "https://ror.org/039fjjj43"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "archive"

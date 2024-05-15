@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -48,13 +48,7 @@
       "value": "Instituto de Investigaciones Geográficas de la Patagonia"
     }
   ],
-  "relationships": [
-    {
-      "label": "National University of Patagonia San Juan Bosco",
-      "type": "parent",
-      "id": "https://ror.org/022g6pv04"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"

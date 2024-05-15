@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -74,13 +74,7 @@
       "value": "Abetifi Training College"
     }
   ],
-  "relationships": [
-    {
-      "label": "University of Cape Coast",
-      "type": "related",
-      "id": "https://ror.org/0492nfe34"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "education"

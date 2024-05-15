@@ -5,7 +5,7 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -100,9 +100,9 @@
   ],
   "relationships": [
     {
-      "label": "Naval Facilities Engineering and Expeditionary Warfare Center",
+      "label": "Naval Facilities Engineering Command",
       "type": "successor",
-      "id": "https://ror.org/0103y3647"
+      "id": "https://ror.org/0539h2w52"
     }
   ],
   "status": "inactive",

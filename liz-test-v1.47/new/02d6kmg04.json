@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -84,13 +84,7 @@
       "value": "京都大学化学研究所"
     }
   ],
-  "relationships": [
-    {
-      "label": "Kyoto University",
-      "type": "parent",
-      "id": "https://ror.org/02kpeqv85"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "facility",
