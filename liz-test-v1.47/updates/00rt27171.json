@@ -5,7 +5,7 @@
       "schema_version": "1.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -77,9 +77,9 @@
       "id": "https://ror.org/00rydyx93"
     },
     {
-      "label": "French National Centre for Scientific Research",
+      "label": "Université Paul-Valéry Montpellier",
       "type": "parent",
-      "id": "https://ror.org/02feahw73"
+      "id": "https://ror.org/00qhdy563"
     }
   ],
   "status": "active",

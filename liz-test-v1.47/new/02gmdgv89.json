@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -74,13 +74,7 @@
       "value": "Regional Research Library in Liberec"
     }
   ],
-  "relationships": [
-    {
-      "label": "Liberec Region",
-      "type": "parent",
-      "id": "https://ror.org/0192yc246"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "archive"

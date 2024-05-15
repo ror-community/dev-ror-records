@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -74,13 +74,7 @@
       "value": "Pardubice Regional Library"
     }
   ],
-  "relationships": [
-    {
-      "label": "Pardubice Region",
-      "type": "parent",
-      "id": "https://ror.org/04jycch17"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "archive"

@@ -5,7 +5,7 @@
       "schema_version": "2.0"
     },
     "last_modified": {
-      "date": "2024-05-15",
+      "date": "2024-05-09",
       "schema_version": "2.0"
     }
   },
@@ -48,13 +48,7 @@
       "value": "Swedish Infrastructure for Ecosystem Science"
     }
   ],
-  "relationships": [
-    {
-      "label": "Swedish University of Agricultural Sciences",
-      "type": "parent",
-      "id": "https://ror.org/02yy8x990"
-    }
-  ],
+  "relationships": [],
   "status": "active",
   "types": [
     "other"
