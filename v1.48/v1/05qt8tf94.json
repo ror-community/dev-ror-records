@@ -1,0 +1,101 @@
+{
+  "id": "https://ror.org/05qt8tf94",
+  "name": "Cyprus University of Technology",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2004,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 34.68406,
+      "lng": 33.03794,
+      "state": null,
+      "state_code": null,
+      "city": "Limassol",
+      "geonames_city": {
+        "id": 146384,
+        "city": "Limassol",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.cut.ac.cy"
+  ],
+  "aliases": [
+    "Kıbrıs Teknoloji Üniversitesi"
+  ],
+  "acronyms": [
+    "CUT"
+  ],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/Cyprus_University_of_Technology",
+  "labels": [
+    {
+      "label": "Τεχνολογικό Πανεπιστήμιο Κύπρου",
+      "iso639": "el"
+    }
+  ],
+  "country": {
+    "country_name": "Cyprus",
+    "country_code": "CY"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "100008543"
+      ],
+      "preferred": null
+    },
+    "GRID": {
+      "all": "grid.15810.3d",
+      "preferred": "grid.15810.3d"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0000 9995 3899"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q1518320"
+      ],
+      "preferred": null
+    }
+  }
+}

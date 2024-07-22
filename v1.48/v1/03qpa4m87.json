@@ -1,0 +1,84 @@
+{
+  "id": "https://ror.org/03qpa4m87",
+  "name": "Enchi College of Education",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1965,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "University of Ghana",
+      "type": "Related",
+      "id": "https://ror.org/01r22mr83"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 5.82238,
+      "lng": -2.82227,
+      "state": null,
+      "state_code": null,
+      "city": "Enkye",
+      "geonames_city": {
+        "id": 2301174,
+        "city": "Enkye",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.enchicoe.edu.gh"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "ENCHICOE"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Enchi_College_of_Education",
+  "labels": [],
+  "country": {
+    "country_name": "Ghana",
+    "country_code": "GH"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q46996964"
+      ],
+      "preferred": "Q46996964"
+    }
+  }
+}

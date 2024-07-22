@@ -1,0 +1,145 @@
+{
+  "id": "https://ror.org/02gdcg342",
+  "name": "Université du littoral côte d'opale",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1991,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Institut Charles Viollette",
+      "type": "Child",
+      "id": "https://ror.org/0018c4h73"
+    },
+    {
+      "label": "Laboratoire de Physico-Chimie de l'Atmosphère",
+      "type": "Child",
+      "id": "https://ror.org/014net767"
+    },
+    {
+      "label": "Laboratoire d’Océanologie et de Géosciences",
+      "type": "Child",
+      "id": "https://ror.org/05m14rs93"
+    },
+    {
+      "label": "Maison Européenne des Sciences de l'Homme et de la Société",
+      "type": "Child",
+      "id": "https://ror.org/00m090414"
+    },
+    {
+      "label": "Territoires, Villes, Environnement & Société",
+      "type": "Child",
+      "id": "https://ror.org/04kwqat20"
+    },
+    {
+      "label": "Unité de Recherche Pluridisciplinaire Sport, Santé, Société",
+      "type": "Child",
+      "id": "https://ror.org/03eq8fa86"
+    },
+    {
+      "label": "Laboratoire d’Informatique Signal et Image de la Côte d’Opale",
+      "type": "Child",
+      "id": "https://ror.org/00tm1qp20"
+    },
+    {
+      "label": "Adiposité Médullaire et Os",
+      "type": "Child",
+      "id": "https://ror.org/00hz02a80"
+    },
+    {
+      "label": "UMR Transfrontalière BioEcoAgro",
+      "type": "Related",
+      "id": "https://ror.org/032v67m28"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 51.0344,
+      "lng": 2.37681,
+      "state": null,
+      "state_code": null,
+      "city": "Dunkirk",
+      "geonames_city": {
+        "id": 3020686,
+        "city": "Dunkirk",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.univ-littoral.fr/english/english_home.htm"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "ULCO"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_the_Littoral_Opal_Coast",
+  "labels": [
+    {
+      "label": "University of the Littoral Opal Coast",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "100016592"
+      ],
+      "preferred": "100016592"
+    },
+    "GRID": {
+      "all": "grid.440918.0",
+      "preferred": "grid.440918.0"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2113 4241"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q3551755"
+      ],
+      "preferred": null
+    }
+  }
+}

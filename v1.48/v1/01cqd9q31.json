@@ -1,0 +1,94 @@
+{
+  "id": "https://ror.org/01cqd9q31",
+  "name": "Cibles et Médicaments des Infections et de l'Immunité",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1992,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Nantes Université",
+      "type": "Parent",
+      "id": "https://ror.org/03gnr7b55"
+    },
+    {
+      "label": "Centre Hospitalier Universitaire de Nantes",
+      "type": "Parent",
+      "id": "https://ror.org/05c1qsg97"
+    },
+    {
+      "label": "Structure Fédérative de Recherche Bonamy",
+      "type": "Related",
+      "id": "https://ror.org/03p6ach34"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 47.21725,
+      "lng": -1.55336,
+      "state": null,
+      "state_code": null,
+      "city": "Nantes",
+      "geonames_city": {
+        "id": 2990969,
+        "city": "Nantes",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://iicimed.univ-nantes.fr"
+  ],
+  "aliases": [
+    "IICiMed"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q51782298"
+      ],
+      "preferred": "Q51782298"
+    }
+  }
+}

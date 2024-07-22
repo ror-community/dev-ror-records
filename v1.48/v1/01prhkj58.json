@@ -1,0 +1,88 @@
+{
+  "id": "https://ror.org/01prhkj58",
+  "name": "Isesaki Municipal Hospital",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1948,
+  "types": [
+    "Healthcare"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 36.31667,
+      "lng": 139.2,
+      "state": null,
+      "state_code": null,
+      "city": "Isesaki",
+      "geonames_city": {
+        "id": 1861436,
+        "city": "Isesaki",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.hospital.isesaki.gunma.jp"
+  ],
+  "aliases": [
+    "Isezaki Shimin Byouin",
+    "Isezaki Shimin Byōin",
+    "いせさきしみんびょういん",
+    "イセサキシミンビョウイン",
+    "伊勢崎市民病院"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E6%B0%91%E7%97%85%E9%99%A2",
+  "labels": [],
+  "country": {
+    "country_name": "Japan",
+    "country_code": "JP"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 0569 1322"
+      ],
+      "preferred": "0000 0004 0569 1322"
+    },
+    "Wikidata": {
+      "all": [
+        "Q113015143"
+      ],
+      "preferred": "Q113015143"
+    }
+  }
+}

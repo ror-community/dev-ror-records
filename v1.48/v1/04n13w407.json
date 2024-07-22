@@ -1,0 +1,93 @@
+{
+  "id": "https://ror.org/04n13w407",
+  "name": "ESTA Ecole Supérieure des Technologies et des Affaires",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1986,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 47.64218,
+      "lng": 6.85385,
+      "state": null,
+      "state_code": null,
+      "city": "Belfort",
+      "geonames_city": {
+        "id": 3033791,
+        "city": "Belfort",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.esta-groupe.fr"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "ESTA"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "ESTA School of Business and Technology",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.498815.9",
+      "preferred": "grid.498815.9"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 4903 376X"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q3578507"
+      ],
+      "preferred": null
+    }
+  }
+}

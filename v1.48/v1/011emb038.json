@@ -1,0 +1,91 @@
+{
+  "id": "https://ror.org/011emb038",
+  "name": "Département Mathématiques et Informatique Appliquées",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Mathématiques, Informatique et Statistique pour l'Environnement et l'Agronomie",
+      "type": "Child",
+      "id": "https://ror.org/01pd2sz18"
+    },
+    {
+      "label": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "type": "Parent",
+      "id": "https://ror.org/003vg9w96"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.85341,
+      "lng": 2.3488,
+      "state": null,
+      "state_code": null,
+      "city": "Paris",
+      "geonames_city": {
+        "id": 2988507,
+        "city": "Paris",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.inrae.fr/actualites?inrae_prod%5bsortBy%5d=inrae_prod_created_date_desc&inrae_prod%5brefinementList%5d%5bname_department%5d%5b0%5d=NUMM"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.457985.2",
+      "preferred": "grid.457985.2"
+    },
+    "Wikidata": {
+      "all": [
+        "Q30259303"
+      ],
+      "preferred": null
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "https://ror.org/02c1tv516",
+  "name": "Centre de Physiopathologie de Toulouse-Purpan",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2002,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Inserm",
+      "type": "Parent",
+      "id": "https://ror.org/02vjkv261"
+    },
+    {
+      "label": "Institut des Sciences Biologiques",
+      "type": "Parent",
+      "id": "https://ror.org/00rydyx93"
+    },
+    {
+      "label": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "type": "Parent",
+      "id": "https://ror.org/003vg9w96"
+    },
+    {
+      "label": "Université Toulouse III - Paul Sabatier",
+      "type": "Parent",
+      "id": "https://ror.org/02v6kpv12"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 43.60426,
+      "lng": 1.44367,
+      "state": null,
+      "state_code": null,
+      "city": "Toulouse",
+      "geonames_city": {
+        "id": 2972315,
+        "city": "Toulouse",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.cptp.inserm.fr/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "CPTP"
+  ],
+  "status": "inactive",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Center for Physiopathology of Toulouse Purpan",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.462366.3",
+      "preferred": "grid.462366.3"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0443 5335"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q30261441"
+      ],
+      "preferred": null
+    }
+  }
+}

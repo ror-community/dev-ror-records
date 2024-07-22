@@ -1,0 +1,96 @@
+{
+  "id": "https://ror.org/03pef0w96",
+  "name": "Hôpital Raymond-Poincaré",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1932,
+  "types": [
+    "Healthcare"
+  ],
+  "relationships": [
+    {
+      "label": "Assistance Publique – Hôpitaux de Paris",
+      "type": "Parent",
+      "id": "https://ror.org/00pg5jh14"
+    },
+    {
+      "label": "Université de Versailles Saint-Quentin-en-Yvelines",
+      "type": "Related",
+      "id": "https://ror.org/03mkjjy25"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.84226,
+      "lng": 2.18232,
+      "state": null,
+      "state_code": null,
+      "city": "Garches",
+      "geonames_city": {
+        "id": 3016675,
+        "city": "Garches",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://raymondpoincare.aphp.fr/"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9_University_Hospital",
+  "labels": [
+    {
+      "label": "Raymond Poincaré University Hospital",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.414291.b",
+      "preferred": "grid.414291.b"
+    },
+    "Wikidata": {
+      "all": [
+        "Q3145201"
+      ],
+      "preferred": null
+    }
+  }
+}

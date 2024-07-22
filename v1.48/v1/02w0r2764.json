@@ -1,0 +1,109 @@
+{
+  "id": "https://ror.org/02w0r2764",
+  "name": "MAGIC Telescopes",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2003,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Max Planck Institute for Physics",
+      "type": "Related",
+      "id": "https://ror.org/0079jjr10"
+    },
+    {
+      "label": "Institute for High Energy Physics",
+      "type": "Related",
+      "id": "https://ror.org/01sdrjx85"
+    },
+    {
+      "label": "University of Bergen",
+      "type": "Related",
+      "id": "https://ror.org/03zga2b32"
+    },
+    {
+      "label": "Centro Brasileiro de Pesquisas Físicas",
+      "type": "Related",
+      "id": "https://ror.org/02wnmk332"
+    },
+    {
+      "label": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",
+      "type": "Related",
+      "id": "https://ror.org/05xx77y52"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 28.81667,
+      "lng": -17.93333,
+      "state": null,
+      "state_code": null,
+      "city": "Garafía",
+      "geonames_city": {
+        "id": 2517346,
+        "city": "Garafía",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://magic.mpp.mpg.de"
+  ],
+  "aliases": [
+    "MAGIC Collaboration",
+    "MAGIC Telescope",
+    "MAGIC Telescopes Collaboration",
+    "MAGIC Teleskope"
+  ],
+  "acronyms": [
+    "MAGIC"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/MAGIC_%28telescope%29",
+  "labels": [],
+  "country": {
+    "country_name": "Spain",
+    "country_code": "ES"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q117227123"
+      ],
+      "preferred": "Q117227123"
+    }
+  }
+}

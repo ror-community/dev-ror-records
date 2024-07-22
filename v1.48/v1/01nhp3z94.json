@@ -1,0 +1,101 @@
+{
+  "id": "https://ror.org/01nhp3z94",
+  "name": "Temps, Mondes, Sociétés",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2018,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Université d'Angers",
+      "type": "Parent",
+      "id": "https://ror.org/04yrqp957"
+    },
+    {
+      "label": "Université de Bretagne Sud",
+      "type": "Parent",
+      "id": "https://ror.org/04ed7fw48"
+    },
+    {
+      "label": "Le Mans Université",
+      "type": "Parent",
+      "id": "https://ror.org/01mtcc283"
+    },
+    {
+      "label": "Centre National de la Recherche Scientifique",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 47.47156,
+      "lng": -0.55202,
+      "state": null,
+      "state_code": null,
+      "city": "Angers",
+      "geonames_city": {
+        "id": 3037656,
+        "city": "Angers",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://temos.cnrs.fr"
+  ],
+  "aliases": [
+    "Laboratoire TEMOS"
+  ],
+  "acronyms": [
+    "TEMOS"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q52607341"
+      ],
+      "preferred": "Q52607341"
+    }
+  }
+}
