@@ -1,0 +1,142 @@
+{
+  "id": "https://ror.org/04wcn4e27",
+  "name": "LEAPS",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2017,
+  "types": [
+    "Other"
+  ],
+  "relationships": [
+    {
+      "label": "ALBA Synchrotron (Spain)",
+      "type": "Related",
+      "id": "https://ror.org/02j9n6e35"
+    },
+    {
+      "label": "Deutsches Elektronen-Synchrotron DESY",
+      "type": "Related",
+      "id": "https://ror.org/01js2sh04"
+    },
+    {
+      "label": "Diamond Light Source",
+      "type": "Related",
+      "id": "https://ror.org/05etxs293"
+    },
+    {
+      "label": "Elettra-Sincrotrone Trieste S.C.p.A.",
+      "type": "Related",
+      "id": "https://ror.org/01c3rrh15"
+    },
+    {
+      "label": "European X-Ray Free-Electron Laser",
+      "type": "Related",
+      "id": "https://ror.org/01wp2jz98"
+    },
+    {
+      "label": "FELIX Laboratory",
+      "type": "Related",
+      "id": "https://ror.org/03tkwyq76"
+    },
+    {
+      "label": "Helmholtz-Zentrum Berlin für Materialien und Energie",
+      "type": "Related",
+      "id": "https://ror.org/02aj13c28"
+    },
+    {
+      "label": "Helmholtz-Zentrum Dresden-Rossendorf",
+      "type": "Related",
+      "id": "https://ror.org/01zy2cs03"
+    },
+    {
+      "label": "Istituto Nazionale di Fisica Nucleare",
+      "type": "Related",
+      "id": "https://ror.org/005ta0471"
+    },
+    {
+      "label": "MAX IV Laboratory",
+      "type": "Related",
+      "id": "https://ror.org/03q28x580"
+    },
+    {
+      "label": "Paul Scherrer Institute",
+      "type": "Related",
+      "id": "https://ror.org/03eh3y714"
+    },
+    {
+      "label": "Physikalisch-Technische Bundesanstalt",
+      "type": "Related",
+      "id": "https://ror.org/05r3f7h03"
+    },
+    {
+      "label": "Soleil Synchrotron",
+      "type": "Related",
+      "id": "https://ror.org/01ydb3330"
+    },
+    {
+      "label": "Synchrotron-Light for Experimental Science and Applications in the Middle East",
+      "type": "Related",
+      "id": "https://ror.org/0567hb468"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 51.8425,
+      "lng": 5.85278,
+      "state": null,
+      "state_code": null,
+      "city": "Nijmegen",
+      "geonames_city": {
+        "id": 2750053,
+        "city": "Nijmegen",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://leaps-initiative.eu"
+  ],
+  "aliases": [
+    "League of European Accelerator-based Photon Sources"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "The Netherlands",
+    "country_code": "NL"
+  },
+  "external_ids": {}
+}

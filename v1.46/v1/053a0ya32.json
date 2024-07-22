@@ -1,0 +1,82 @@
+{
+  "id": "https://ror.org/053a0ya32",
+  "name": "Academie navale de Menzel Bourguiba",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Education",
+    "Government"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 37.15368,
+      "lng": 9.78594,
+      "state": null,
+      "state_code": null,
+      "city": "Menzel Bourguiba",
+      "geonames_city": {
+        "id": 2469264,
+        "city": "Menzel Bourguiba",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://defense.tn/formation/l-eneignement-superieur-militaire/academie-navale"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Menzel Bourguiba Naval Academy",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Tunisia",
+    "country_code": "TN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0005 1422 0888"
+      ],
+      "preferred": "0000 0005 1422 0888"
+    }
+  }
+}

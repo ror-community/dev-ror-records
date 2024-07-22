@@ -1,0 +1,99 @@
+{
+  "id": "https://ror.org/01g0b5g28",
+  "name": "Trinity Health Oakland Hospital",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1927,
+  "types": [
+    "Healthcare"
+  ],
+  "relationships": [
+    {
+      "label": "Trinity Health Michigan",
+      "type": "Parent",
+      "id": "https://ror.org/01w8eym62"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 42.63892,
+      "lng": -83.29105,
+      "state": null,
+      "state_code": null,
+      "city": "Pontiac",
+      "geonames_city": {
+        "id": 5006166,
+        "city": "Pontiac",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.trinityhealthmichigan.org/location/trinity-health-oakland-hospital"
+  ],
+  "aliases": [
+    "St. Joseph Mercy Hospital",
+    "St. Joseph Mercy Oakland",
+    "St. Joseph Mercy Oakland Hospital",
+    "Trinity Health St. Joseph Mercy Oakland"
+  ],
+  "acronyms": [
+    "SJMO"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.416708.c",
+      "preferred": "grid.416708.c"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0456 8226"
+      ],
+      "preferred": "0000 0004 0456 8226"
+    },
+    "Wikidata": {
+      "all": [
+        "Q30280975"
+      ],
+      "preferred": "Q30280975"
+    }
+  }
+}

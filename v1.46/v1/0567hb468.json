@@ -1,0 +1,92 @@
+{
+  "id": "https://ror.org/0567hb468",
+  "name": "Synchrotron-Light for Experimental Science and Applications in the Middle East",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2017,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "LEAPS",
+      "type": "Related",
+      "id": "https://ror.org/04wcn4e27"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 32.11815,
+      "lng": 35.74351,
+      "state": null,
+      "state_code": null,
+      "city": "‘Allān",
+      "geonames_city": {
+        "id": 250596,
+        "city": "‘Allān",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://sesame.org.jo"
+  ],
+  "aliases": [
+    "SESAME Synchrotron"
+  ],
+  "acronyms": [
+    "SESAME"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://de.wikipedia.org/wiki/SESAME_%28Synchrotron%29",
+  "labels": [],
+  "country": {
+    "country_name": "Jordan",
+    "country_code": "JO"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 0495 9614"
+      ],
+      "preferred": "0000 0004 0495 9614"
+    },
+    "Wikidata": {
+      "all": [
+        "Q749440"
+      ],
+      "preferred": "Q749440"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "https://ror.org/04hp1ky92",
+  "name": "NODES S.c.a.r.l",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2021,
+  "types": [
+    "Nonprofit"
+  ],
+  "relationships": [
+    {
+      "label": "Polytechnic University of Turin",
+      "type": "Related",
+      "id": "https://ror.org/00bgk9508"
+    },
+    {
+      "label": "University of Turin",
+      "type": "Related",
+      "id": "https://ror.org/048tbm396"
+    },
+    {
+      "label": "Università degli Studi del Piemonte Orientale “Amedeo Avogadro”",
+      "type": "Related",
+      "id": "https://ror.org/04387x656"
+    },
+    {
+      "label": "University of Insubria",
+      "type": "Related",
+      "id": "https://ror.org/00s409261"
+    },
+    {
+      "label": "University of Aosta Valley",
+      "type": "Related",
+      "id": "https://ror.org/03126ng80"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 45.07049,
+      "lng": 7.68682,
+      "state": null,
+      "state_code": null,
+      "city": "Turin",
+      "geonames_city": {
+        "id": 3165524,
+        "city": "Turin",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.ecs-nodes.eu"
+  ],
+  "aliases": [
+    "HUB NODES S.c.a.r.l",
+    "NODES - Nord Ovest Digitale E Sostenibile",
+    "Nord Ovest Digitale E Sostenibile"
+  ],
+  "acronyms": [
+    "NODES"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "Italy",
+    "country_code": "IT"
+  },
+  "external_ids": {}
+}

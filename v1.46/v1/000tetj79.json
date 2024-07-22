@@ -1,0 +1,77 @@
+{
+  "id": "https://ror.org/000tetj79",
+  "name": "52°North Spatial Information Research",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2004,
+  "types": [
+    "Company"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 51.96236,
+      "lng": 7.62571,
+      "state": null,
+      "state_code": null,
+      "city": "Münster",
+      "geonames_city": {
+        "id": 2867543,
+        "city": "Münster",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://52north.org"
+  ],
+  "aliases": [
+    "52°North - Initiative for Geospatial Open Source Software",
+    "52°North Spatial Information Research GmbH"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.431900.f",
+      "preferred": "grid.431900.f"
+    }
+  }
+}
