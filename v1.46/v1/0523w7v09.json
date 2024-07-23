@@ -1,0 +1,101 @@
+{
+  "id": "https://ror.org/0523w7v09",
+  "name": "Narxoz University",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1963,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 43.25,
+      "lng": 76.91667,
+      "state": null,
+      "state_code": null,
+      "city": "Almaty",
+      "geonames_city": {
+        "id": 1526384,
+        "city": "Almaty",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://narxoz.edu.kz"
+  ],
+  "aliases": [
+    "Almaty Institute of National Economy",
+    "Kazakh State Academy of Management",
+    "Turar Ryskulov New Economic University"
+  ],
+  "acronyms": [
+    "KSAM"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Turar_Ryskulov_New_Economic_University",
+  "labels": [
+    {
+      "label": "Казахский экономический университет имени Т. Рыскулова",
+      "iso639": "ru"
+    },
+    {
+      "label": "Қазақ экономикалық университеті",
+      "iso639": "kk"
+    }
+  ],
+  "country": {
+    "country_name": "Kazakhstan",
+    "country_code": "KZ"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.460953.d",
+      "preferred": "grid.460953.d"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0000 8809 8305"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q1046493"
+      ],
+      "preferred": null
+    }
+  }
+}

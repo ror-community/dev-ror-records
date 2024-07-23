@@ -1,0 +1,97 @@
+{
+  "id": "https://ror.org/01x8j4206",
+  "name": "Webster University",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1915,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 38.62727,
+      "lng": -90.19789,
+      "state": null,
+      "state_code": null,
+      "city": "St Louis",
+      "geonames_city": {
+        "id": 4407066,
+        "city": "St Louis",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.webster.edu/"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/Webster_University",
+  "labels": [
+    {
+      "label": "Université de webster",
+      "iso639": "fr"
+    }
+  ],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "100018139"
+      ],
+      "preferred": "100018139"
+    },
+    "GRID": {
+      "all": "grid.268073.8",
+      "preferred": "grid.268073.8"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 0632 678X"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q1465303"
+      ],
+      "preferred": null
+    }
+  }
+}

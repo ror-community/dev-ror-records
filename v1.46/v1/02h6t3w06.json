@@ -1,0 +1,85 @@
+{
+  "id": "https://ror.org/02h6t3w06",
+  "name": "Azienda Socio Sanitaria Territoriale di Cremona",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Government"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 45.13325,
+      "lng": 10.02129,
+      "state": null,
+      "state_code": null,
+      "city": "Cremona",
+      "geonames_city": {
+        "id": 3177838,
+        "city": "Cremona",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.asst-cremona.it"
+  ],
+  "aliases": [
+    "ASL Cremona",
+    "ASST Cremona",
+    "Azienda Sanitaria Locale 4 Provincia di Cremona"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Regional Health Care and Social Agency of Cremona",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Italy",
+    "country_code": "IT"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q97441342"
+      ],
+      "preferred": "Q97441342"
+    }
+  }
+}

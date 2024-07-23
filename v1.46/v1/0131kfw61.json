@@ -1,0 +1,93 @@
+{
+  "id": "https://ror.org/0131kfw61",
+  "name": "Khesar Gyalpo University of Medical Sciences of Bhutan",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2013,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 27.46609,
+      "lng": 89.64191,
+      "state": null,
+      "state_code": null,
+      "city": "Thimphu",
+      "geonames_city": {
+        "id": 1252416,
+        "city": "Thimphu",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.kgumsb.edu.bt"
+  ],
+  "aliases": [
+    "Khesar Gyalpo University of Medical Sciences",
+    "University of Medical Sciences of Bhutan"
+  ],
+  "acronyms": [
+    "KGUMSB",
+    "UMBS"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://de.wikipedia.org/wiki/Khesar_Gyalpo_University_of_Medical_Sciences",
+  "labels": [
+    {
+      "label": "གེ་སར་རྒྱལ་པོ་གསོ་རིག་གཙུག་ལག་སློབ་སྡེའི",
+      "iso639": "dz"
+    }
+  ],
+  "country": {
+    "country_name": "Bhutan",
+    "country_code": "BT"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0005 0852 0462"
+      ],
+      "preferred": "0000 0005 0852 0462"
+    },
+    "Wikidata": {
+      "all": [
+        "Q86663201"
+      ],
+      "preferred": "Q86663201"
+    }
+  }
+}

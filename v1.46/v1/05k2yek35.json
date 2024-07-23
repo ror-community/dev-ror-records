@@ -1,0 +1,95 @@
+{
+  "id": "https://ror.org/05k2yek35",
+  "name": "Universiteti Metropolitan Tirana",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2011,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 41.3275,
+      "lng": 19.81889,
+      "state": null,
+      "state_code": null,
+      "city": "Tirana",
+      "geonames_city": {
+        "id": 3183875,
+        "city": "Tirana",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://umt.edu.al"
+  ],
+  "aliases": [
+    "Metropolitan University of Tirana"
+  ],
+  "acronyms": [
+    "UMT"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolitan_University_of_Tirana",
+  "labels": [
+    {
+      "label": "University Metropolitan Tirana",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Albania",
+    "country_code": "AL"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.449042.f",
+      "preferred": "grid.449042.f"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0005 1438 5850"
+      ],
+      "preferred": "0000 0005 1438 5850"
+    },
+    "Wikidata": {
+      "all": [
+        "Q6825303"
+      ],
+      "preferred": null
+    }
+  }
+}

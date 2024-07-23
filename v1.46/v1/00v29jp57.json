@@ -1,0 +1,121 @@
+{
+  "id": "https://ror.org/00v29jp57",
+  "name": "National University of General San Martín",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1994,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Instituto Tecnológico de Chascomús",
+      "type": "Child",
+      "id": "https://ror.org/04qzr9r50"
+    },
+    {
+      "label": "International Center for Advanced Studies",
+      "type": "Child",
+      "id": "https://ror.org/05e6n8h53"
+    },
+    {
+      "label": "Escuela Interdisciplinaria de Altos Estudios Sociales",
+      "type": "Child",
+      "id": "https://ror.org/01etg5g76"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": -34.61315,
+      "lng": -58.37723,
+      "state": null,
+      "state_code": null,
+      "city": "Buenos Aires",
+      "geonames_city": {
+        "id": 3435910,
+        "city": "Buenos Aires",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.unsam.edu.ar/english/"
+  ],
+  "aliases": [
+    "Universidad Nacional de San Martín"
+  ],
+  "acronyms": [
+    "UNSAM"
+  ],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/National_University_of_General_San_Mart%C3%ADn",
+  "labels": [
+    {
+      "label": "Universidad Nacional de General San Martín",
+      "iso639": "es"
+    },
+    {
+      "label": "Université Nationale de San Martín",
+      "iso639": "fr"
+    }
+  ],
+  "country": {
+    "country_name": "Argentina",
+    "country_code": "AR"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "501100010695"
+      ],
+      "preferred": "501100010695"
+    },
+    "GRID": {
+      "all": "grid.108365.9",
+      "preferred": "grid.108365.9"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2105 0048"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q5733950"
+      ],
+      "preferred": null
+    }
+  }
+}

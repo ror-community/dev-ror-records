@@ -1,0 +1,79 @@
+{
+  "id": "https://ror.org/05fc0ah77",
+  "name": "Defence Science and Technology",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1957,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "New Zealand Defence Force",
+      "type": "Parent",
+      "id": "https://ror.org/00q0mwy68"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": -36.84853,
+      "lng": 174.76349,
+      "state": null,
+      "state_code": null,
+      "city": "Auckland",
+      "geonames_city": {
+        "id": 2193733,
+        "city": "Auckland",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://dst.mil.nz"
+  ],
+  "aliases": [
+    "Defence Science & Technology"
+  ],
+  "acronyms": [
+    "DST"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "New Zealand",
+    "country_code": "NZ"
+  },
+  "external_ids": {}
+}

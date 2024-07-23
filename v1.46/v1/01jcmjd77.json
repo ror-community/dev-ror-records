@@ -1,0 +1,89 @@
+{
+  "id": "https://ror.org/01jcmjd77",
+  "name": "Aziende Socio Sanitarie Territoriale di Crema",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Azienda Ospedaliera Ospedale Maggiore",
+      "type": "Related",
+      "id": "https://ror.org/04svedz43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 45.36264,
+      "lng": 9.68176,
+      "state": null,
+      "state_code": null,
+      "city": "Crema",
+      "geonames_city": {
+        "id": 3177841,
+        "city": "Crema",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.asst-crema.it"
+  ],
+  "aliases": [
+    "Azienda Ospedaliera di Crema"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Regional Health Care and Social Agency of Crema",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Italy",
+    "country_code": "IT"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 1759 8897"
+      ],
+      "preferred": "0000 0004 1759 8897"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "https://ror.org/03gxv7f86",
+  "name": "Centre National de la Cartographie et de la teledetection",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1988,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 36.81897,
+      "lng": 10.16579,
+      "state": null,
+      "state_code": null,
+      "city": "Tunis",
+      "geonames_city": {
+        "id": 2464470,
+        "city": "Tunis",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.iafastro.org/membership/all-members/centre-national-de-la-cartographie-et-de-la-teledetection-(cnct).html"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "CNCT"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A_%D9%84%D8%B1%D8%B3%D9%85_%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7_%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B9%D9%86_%D8%A8%D8%B9%D8%AF_(%D8%AA%D9%88%D9%86%D8%B3)",
+  "labels": [
+    {
+      "label": "National Mapping and Remote Sensing Center",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Tunisia",
+    "country_code": "TN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 0491 1143"
+      ],
+      "preferred": "0000 0004 0491 1143"
+    },
+    "Wikidata": {
+      "all": [
+        "Q2945920"
+      ],
+      "preferred": "Q2945920"
+    }
+  }
+}

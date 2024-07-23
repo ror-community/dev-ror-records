@@ -1,0 +1,108 @@
+{
+  "id": "https://ror.org/02aj13c28",
+  "name": "Helmholtz-Zentrum Berlin für Materialien und Energie",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2009,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Helmholtz Association of German Research Centres",
+      "type": "Parent",
+      "id": "https://ror.org/0281dp749"
+    },
+    {
+      "label": "LEAPS",
+      "type": "Related",
+      "id": "https://ror.org/04wcn4e27"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 52.52437,
+      "lng": 13.41053,
+      "state": null,
+      "state_code": null,
+      "city": "Berlin",
+      "geonames_city": {
+        "id": 2950159,
+        "city": "Berlin",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.helmholtz-berlin.de/"
+  ],
+  "aliases": [
+    "Helmholtz-Zentrum Berlin"
+  ],
+  "acronyms": [
+    "HZB"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Helmholtz-Zentrum_Berlin",
+  "labels": [],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "100013110"
+      ],
+      "preferred": "100013110"
+    },
+    "GRID": {
+      "all": "grid.424048.e",
+      "preferred": "grid.424048.e"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 1090 3682"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q314578",
+        "Q316122"
+      ],
+      "preferred": "Q314578"
+    }
+  }
+}
