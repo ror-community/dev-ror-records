@@ -1,0 +1,92 @@
+{
+  "id": "https://ror.org/05h5wna09",
+  "name": "Université Montesquieu Bordeaux IV",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1995,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Université de Bordeaux",
+      "type": "Successor",
+      "id": "https://ror.org/057qpr032"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 44.80565,
+      "lng": -0.6324,
+      "state": null,
+      "state_code": null,
+      "city": "Pessac",
+      "geonames_city": {
+        "id": 2987805,
+        "city": "Pessac",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [],
+  "aliases": [
+    "Montesquieu University",
+    "Université Bordeaux 4",
+    "Université Bordeaux-IV"
+  ],
+  "acronyms": [
+    "UB4"
+  ],
+  "status": "inactive",
+  "wikipedia_url": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Bordeaux-IV",
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0001 2293 665X"
+      ],
+      "preferred": "0000 0001 2293 665X"
+    },
+    "Wikidata": {
+      "all": [
+        "Q13335"
+      ],
+      "preferred": "Q13335"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "https://ror.org/02v87rg62",
+  "name": "Mycologie et Sécurité des Aliments",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Centre Nouvelle Aquitaine-Bordeaux",
+      "type": "Parent",
+      "id": "https://ror.org/00tebkv94"
+    },
+    {
+      "label": "Département Microbiologie et Chaîne Alimentaire",
+      "type": "Parent",
+      "id": "https://ror.org/03n4vkw74"
+    },
+    {
+      "label": "Département Santé des Plantes et Environnement",
+      "type": "Parent",
+      "id": "https://ror.org/0455v8x20"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 44.77935,
+      "lng": -0.56707,
+      "state": null,
+      "state_code": null,
+      "city": "Villenave-d'Ornon",
+      "geonames_city": {
+        "id": 2968620,
+        "city": "Villenave-d'Ornon",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www6.bordeaux-aquitaine.inra.fr/mycsa/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "MycSA"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Mycology and Food Safety",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.503412.1",
+      "preferred": "grid.503412.1"
+    },
+    "Wikidata": {
+      "all": [
+        "Q51784850"
+      ],
+      "preferred": null
+    }
+  }
+}

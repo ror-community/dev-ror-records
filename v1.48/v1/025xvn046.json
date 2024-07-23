@@ -1,0 +1,113 @@
+{
+  "id": "https://ror.org/025xvn046",
+  "name": "Sciences et Technologies de la Musique et du Son",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1983,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Centre National de la Recherche Scientifique",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "Ministère de la Culture",
+      "type": "Parent",
+      "id": "https://ror.org/017rnyz40"
+    },
+    {
+      "label": "Institut de Recherche et Coordination Acoustique Musique",
+      "type": "Parent",
+      "id": "https://ror.org/0121jnt59"
+    },
+    {
+      "label": "Sorbonne Université",
+      "type": "Parent",
+      "id": "https://ror.org/02en5vm52"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.85341,
+      "lng": 2.3488,
+      "state": null,
+      "state_code": null,
+      "city": "Paris",
+      "geonames_city": {
+        "id": 2988507,
+        "city": "Paris",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.stms-lab.fr"
+  ],
+  "aliases": [
+    "Lab Sciences et Technologies de la Musique et du Son",
+    "STMS Lab"
+  ],
+  "acronyms": [
+    "STMS"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Science and Technology of Music and Sound Laboratory",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 0369 0377"
+      ],
+      "preferred": "0000 0004 0369 0377"
+    },
+    "Wikidata": {
+      "all": [
+        "Q123694989"
+      ],
+      "preferred": "Q123694989"
+    }
+  }
+}

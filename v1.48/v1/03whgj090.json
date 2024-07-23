@@ -1,0 +1,98 @@
+{
+  "id": "https://ror.org/03whgj090",
+  "name": "Laboratoire Science & technologie du Lait & de l'œuf",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Institut Agro Rennes-Angers",
+      "type": "Parent",
+      "id": "https://ror.org/01s3fs709"
+    },
+    {
+      "label": "Centre Bretagne-Normandie",
+      "type": "Parent",
+      "id": "https://ror.org/01v6wmk25"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.11198,
+      "lng": -1.67429,
+      "state": null,
+      "state_code": null,
+      "city": "Rennes",
+      "geonames_city": {
+        "id": 2983990,
+        "city": "Rennes",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www6.rennes.inra.fr/stlo_eng/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "STLO"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Science and Technology of Milk and Eggs",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.470510.7",
+      "preferred": "grid.470510.7"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 4671 5167"
+      ],
+      "preferred": null
+    }
+  }
+}

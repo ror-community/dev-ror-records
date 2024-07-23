@@ -1,0 +1,114 @@
+{
+  "id": "https://ror.org/041rhpw39",
+  "name": "Centre Hospitalier Universitaire de Grenoble",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1974,
+  "types": [
+    "Healthcare"
+  ],
+  "relationships": [
+    {
+      "label": "Hôpital Albert Michallon",
+      "type": "Child",
+      "id": "https://ror.org/05kfvx519"
+    },
+    {
+      "label": "Hôpital Couple Enfant",
+      "type": "Child",
+      "id": "https://ror.org/00dxw4v18"
+    },
+    {
+      "label": "Institut pour l'avancée des biosciences",
+      "type": "Child",
+      "id": "https://ror.org/05kwbf598"
+    },
+    {
+      "label": "Université Grenoble Alpes",
+      "type": "Related",
+      "id": "https://ror.org/02rx3b187"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 45.17869,
+      "lng": 5.71479,
+      "state": null,
+      "state_code": null,
+      "city": "Grenoble",
+      "geonames_city": {
+        "id": 3014728,
+        "city": "Grenoble",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.chu-grenoble.fr/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "CHUG"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Centre_Hospitalier_Universitaire_de_Grenoble",
+  "labels": [
+    {
+      "label": "Grenoble University Hospital Centre",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.410529.b",
+      "preferred": "grid.410529.b"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 0792 4829"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q2945764"
+      ],
+      "preferred": null
+    }
+  }
+}

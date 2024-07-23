@@ -1,0 +1,131 @@
+{
+  "id": "https://ror.org/04f6hmf16",
+  "name": "COMUE Languedoc-Roussillon Universités",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2013,
+  "types": [
+    "Other"
+  ],
+  "relationships": [
+    {
+      "label": "Institut de Recherche pour le Développement",
+      "type": "Child",
+      "id": "https://ror.org/05q3vnk25"
+    },
+    {
+      "label": "Institut Agro Montpellier",
+      "type": "Child",
+      "id": "https://ror.org/03rnk6m14"
+    },
+    {
+      "label": "University of Montpellier",
+      "type": "Child",
+      "id": "https://ror.org/051escj72"
+    },
+    {
+      "label": "Université de Nîmes",
+      "type": "Child",
+      "id": "https://ror.org/044t4x544"
+    },
+    {
+      "label": "Université de Perpignan",
+      "type": "Child",
+      "id": "https://ror.org/03am2jy38"
+    },
+    {
+      "label": "Université Paul-Valéry Montpellier",
+      "type": "Child",
+      "id": "https://ror.org/00qhdy563"
+    },
+    {
+      "label": "École Nationale Supérieure de Chimie de Montpellier",
+      "type": "Child",
+      "id": "https://ror.org/03sgyqj04"
+    },
+    {
+      "label": "National School of Architecture of Montpellier",
+      "type": "Related",
+      "id": "https://ror.org/008axfh28"
+    },
+    {
+      "label": "IMT Mines Alès",
+      "type": "Related",
+      "id": "https://ror.org/03e8rf594"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 43.61093,
+      "lng": 3.87635,
+      "state": null,
+      "state_code": null,
+      "city": "Montpellier",
+      "geonames_city": {
+        "id": 2992166,
+        "city": "Montpellier",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.languedoc-roussillon-universites.fr/index.php"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "inactive",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Languedoc-Roussillon_Universities",
+  "labels": [
+    {
+      "label": "Languedoc-Roussillon Universities",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.468967.2",
+      "preferred": "grid.468967.2"
+    },
+    "Wikidata": {
+      "all": [
+        "Q2476558"
+      ],
+      "preferred": null
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "https://ror.org/059be4e97",
+  "name": "NXP (Netherlands)",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2006,
+  "types": [
+    "Company"
+  ],
+  "relationships": [
+    {
+      "label": "NXP (Belgium)",
+      "type": "Child",
+      "id": "https://ror.org/031v4g827"
+    },
+    {
+      "label": "NXP (Czechia)",
+      "type": "Child",
+      "id": "https://ror.org/05h1ve754"
+    },
+    {
+      "label": "NXP (Germany)",
+      "type": "Child",
+      "id": "https://ror.org/0268h4j55"
+    },
+    {
+      "label": "NXP (United Kingdom)",
+      "type": "Child",
+      "id": "https://ror.org/017m4b809"
+    },
+    {
+      "label": "NXP (United States)",
+      "type": "Child",
+      "id": "https://ror.org/054fc6480"
+    },
+    {
+      "label": "NXP (France)",
+      "type": "Child",
+      "id": "https://ror.org/02vas3094"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 51.44083,
+      "lng": 5.47778,
+      "state": null,
+      "state_code": null,
+      "city": "Eindhoven",
+      "geonames_city": {
+        "id": 2756253,
+        "city": "Eindhoven",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.nxp.com/"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/NXP_Semiconductors",
+  "labels": [],
+  "country": {
+    "country_name": "The Netherlands",
+    "country_code": "NL"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "100017850"
+      ],
+      "preferred": "100017850"
+    },
+    "GRID": {
+      "all": "grid.5887.2",
+      "preferred": "grid.5887.2"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0000 9562 545X"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q1155668"
+      ],
+      "preferred": null
+    }
+  }
+}

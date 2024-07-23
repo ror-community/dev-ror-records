@@ -1,0 +1,79 @@
+{
+  "id": "https://ror.org/00vgp1308",
+  "name": "Banner MD Anderson Cancer Center at Banner McKee Medical Center",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Healthcare"
+  ],
+  "relationships": [
+    {
+      "label": "Banner Health",
+      "type": "Parent",
+      "id": "https://ror.org/039wwwz66"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 40.39776,
+      "lng": -105.07498,
+      "state": null,
+      "state_code": null,
+      "city": "Loveland",
+      "geonames_city": {
+        "id": 5579368,
+        "city": "Loveland",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.bannerhealth.com/locations/banner-md-anderson-cancer-center-at-mckee-medical-center-loveland"
+  ],
+  "aliases": [
+    "Banner MD Anderson at McKee Medical Center",
+    "Banner MD Anderson, Loveland, CO",
+    "Banner MD Anderson, McKee Medical Center, Loveland, CO"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {}
+}

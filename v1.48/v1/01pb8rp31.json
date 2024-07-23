@@ -1,0 +1,98 @@
+{
+  "id": "https://ror.org/01pb8rp31",
+  "name": "Issyk-Kul State University",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1940,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 42.49068,
+      "lng": 78.39362,
+      "state": null,
+      "state_code": null,
+      "city": "Karakol",
+      "geonames_city": {
+        "id": 1528121,
+        "city": "Karakol",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://main.iksu.kg"
+  ],
+  "aliases": [
+    "Issyk-Kul State University after K. Tynystanov",
+    "Issyk-Kul State University named after Kasym Tynystanov",
+    "Иссык-Кульский государственный университет имени Касыма Тыныстанова",
+    "К. Тыныстанов ат. ЫМУ"
+  ],
+  "acronyms": [
+    "I-KSU"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Иссык-Кульский Государственный Университет",
+      "iso639": "ru"
+    }
+  ],
+  "country": {
+    "country_name": "Kyrgyzstan",
+    "country_code": "KG"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.444289.7",
+      "preferred": "grid.444289.7"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0382 868X"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q4204288"
+      ],
+      "preferred": null
+    }
+  }
+}

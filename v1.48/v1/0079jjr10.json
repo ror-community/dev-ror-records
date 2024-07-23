@@ -1,0 +1,106 @@
+{
+  "id": "https://ror.org/0079jjr10",
+  "name": "Max Planck Institute for Physics",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1917,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Max Planck Society",
+      "type": "Parent",
+      "id": "https://ror.org/01hhn8329"
+    },
+    {
+      "label": "MAGIC Telescopes",
+      "type": "Related",
+      "id": "https://ror.org/02w0r2764"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.13743,
+      "lng": 11.57549,
+      "state": null,
+      "state_code": null,
+      "city": "Munich",
+      "geonames_city": {
+        "id": 2867714,
+        "city": "Munich",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.mpp.mpg.de/english/index.html"
+  ],
+  "aliases": [
+    "Werner Heisenberg Institute"
+  ],
+  "acronyms": [
+    "MPP"
+  ],
+  "status": "active",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/Max_Planck_Institute_for_Physics",
+  "labels": [
+    {
+      "label": "Max-Planck-Institut für Physik",
+      "iso639": "de"
+    }
+  ],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.435824.c",
+      "preferred": "grid.435824.c"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2375 0603"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q463326"
+      ],
+      "preferred": null
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "https://ror.org/03jsbvj12",
+  "name": "NSWC Carderock Division",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility",
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Naval Surface Warfare Center",
+      "type": "Parent",
+      "id": "https://ror.org/03d4ecn10"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 38.98067,
+      "lng": -77.10026,
+      "state": null,
+      "state_code": null,
+      "city": "Bethesda",
+      "geonames_city": {
+        "id": 4348599,
+        "city": "Bethesda",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Carderock/"
+  ],
+  "aliases": [
+    "Carderock Division of the Naval Surface Warfare Center",
+    "David Taylor Research Center",
+    "David W. Taylor Naval Ship Research and Development Center",
+    "NSWC Carderock",
+    "Naval Surface Warfare Carderock Division"
+  ],
+  "acronyms": [
+    "NSWCCD"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carderock_Division_of_the_Naval_Surface_Warfare_Center",
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 0648 0885"
+      ],
+      "preferred": "0000 0004 0648 0885"
+    },
+    "Wikidata": {
+      "all": [
+        "Q5038292"
+      ],
+      "preferred": "Q5038292"
+    }
+  }
+}

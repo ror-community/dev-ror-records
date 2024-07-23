@@ -1,0 +1,114 @@
+{
+  "id": "https://ror.org/05exke706",
+  "name": "Laboratoire Biologie à Grande Échelle",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2011,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Délégation Régionale Auvergne-Rhône-Alpes",
+      "type": "Parent",
+      "id": "https://ror.org/0530j9m17"
+    },
+    {
+      "label": "Grenoble Alpes University",
+      "type": "Parent",
+      "id": "https://ror.org/02rx3b187"
+    },
+    {
+      "label": "Université Joseph Fourier",
+      "type": "Parent",
+      "id": "https://ror.org/02aj0kh94"
+    },
+    {
+      "label": "lnstitut de Recherche Interdisciplinaire de Grenoble",
+      "type": "Parent",
+      "id": "https://ror.org/00byxdz40"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 45.17869,
+      "lng": 5.71479,
+      "state": null,
+      "state_code": null,
+      "city": "Grenoble",
+      "geonames_city": {
+        "id": 3014728,
+        "city": "Grenoble",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://big.cea.fr/drf/big/english/BGE"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "BGE"
+  ],
+  "status": "inactive",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Large Scale Biology Laboratory",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.503265.7",
+      "preferred": "grid.503265.7"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 4686 789X"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q51780104"
+      ],
+      "preferred": null
+    }
+  }
+}

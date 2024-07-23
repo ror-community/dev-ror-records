@@ -1,0 +1,78 @@
+{
+  "id": "https://ror.org/00gngwf81",
+  "name": "Instituto de Investigaciones en Desarrollo Urbano, Tecnología y Vivienda",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "National University of Mar del Plata",
+      "type": "Parent",
+      "id": "https://ror.org/055eqsb67"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": -38.00042,
+      "lng": -57.5562,
+      "state": null,
+      "state_code": null,
+      "city": "Mar del Plata",
+      "geonames_city": {
+        "id": 3430863,
+        "city": "Mar del Plata",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://faud.mdp.edu.ar/instituto-de-investigaciones-en-desarrollo-urbano-tecnologia-y-vivienda-iidutyv/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "IIDUTYV",
+    "IIDUTYV/UNMdP"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "Argentina",
+    "country_code": "AR"
+  },
+  "external_ids": {}
+}
