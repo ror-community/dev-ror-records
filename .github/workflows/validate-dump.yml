@@ -51,7 +51,6 @@ jobs:
           pip install -r requirements.txt
           curl https://raw.githubusercontent.com/ror-community/ror-schema/refs/heads/schema-v2-1/ror_schema.json -o ror_schema.json
           curl https://raw.githubusercontent.com/ror-community/ror-schema/refs/heads/schema-v2-1/ror_schema_v2_1.json -o ror_schema_v2_1.json
-          ls ../files/
           if [[ ${{ github.event.inputs.schema-version }} == 'v1' ]]; then
             echo "validating v1"
             python run_validations.py -i ../${{ env.WORKING_DIR }}/${{ github.event.inputs.file-name}} -v 1 -s ror_schema.json
