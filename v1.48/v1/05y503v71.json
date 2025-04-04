@@ -1,0 +1,93 @@
+{
+  "id": "https://ror.org/05y503v71",
+  "name": "Institut National de la Recherche Agronomique",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1946,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Laboratoire Chrono-Environnement",
+      "type": "Child",
+      "id": "https://ror.org/028cef883"
+    },
+    {
+      "label": "GEVES",
+      "type": "Child",
+      "id": "https://ror.org/056ms9a36"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 34.01325,
+      "lng": -6.83255,
+      "state": null,
+      "state_code": null,
+      "city": "Rabat",
+      "geonames_city": {
+        "id": 2538475,
+        "city": "Rabat",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.inra.org.ma/accueil1.asp?codelangue=23&po=2"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "INRA"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Institut_national_de_la_recherche_agronomique",
+  "labels": [],
+  "country": {
+    "country_name": "Morocco",
+    "country_code": "MA"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.424661.3",
+      "preferred": "grid.424661.3"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2173 3068"
+      ],
+      "preferred": null
+    }
+  }
+}

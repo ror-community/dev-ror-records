@@ -1,0 +1,107 @@
+{
+  "id": "https://ror.org/01xqdxh54",
+  "name": "South China Botanical Garden",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1929,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Chinese Academy of Sciences",
+      "type": "Parent",
+      "id": "https://ror.org/034t30j35"
+    },
+    {
+      "label": "Dinghushan National Nature Reserve",
+      "type": "Child",
+      "id": "https://ror.org/012gnk944"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 23.11667,
+      "lng": 113.25,
+      "state": null,
+      "state_code": null,
+      "city": "Guangzhou",
+      "geonames_city": {
+        "id": 1809858,
+        "city": "Guangzhou",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.scbg.ac.cn"
+  ],
+  "aliases": [
+    "Institute of Agriculture and Forestry",
+    "South China Institute of Botany"
+  ],
+  "acronyms": [
+    "SCBG"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/South_China_Botanical_Garden",
+  "labels": [
+    {
+      "label": "中国科学院华南植物园",
+      "iso639": "zh"
+    }
+  ],
+  "country": {
+    "country_name": "China",
+    "country_code": "CN"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.458495.1",
+      "preferred": "grid.458495.1"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 1014 7864"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q5946290"
+      ],
+      "preferred": null
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "https://ror.org/02127h732",
+  "name": "Wolfspeed, Inc. (United States)",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1987,
+  "types": [
+    "Company"
+  ],
+  "relationships": [
+    {
+      "label": "Arkansas Power Electronics International",
+      "type": "Child",
+      "id": "https://ror.org/05qfbsy35"
+    },
+    {
+      "label": "Cree (China)",
+      "type": "Child",
+      "id": "https://ror.org/02fqepy07"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 35.99403,
+      "lng": -78.89862,
+      "state": null,
+      "state_code": null,
+      "city": "Durham",
+      "geonames_city": {
+        "id": 4464368,
+        "city": "Durham",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.wolfspeed.com"
+  ],
+  "aliases": [
+    "Cree"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cree_Inc.",
+  "labels": [
+    {
+      "label": "Wolfspeed, Inc.",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.450094.c",
+      "preferred": "grid.450094.c"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0634 7646"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q5183828"
+      ],
+      "preferred": null
+    }
+  }
+}

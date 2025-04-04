@@ -1,0 +1,99 @@
+{
+  "id": "https://ror.org/01m83bk32",
+  "name": "Laboratoire d'électronique, systèmes de communication et microsystèmes",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1998,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Conservatoire National des Arts et Métiers",
+      "type": "Parent",
+      "id": "https://ror.org/0175hh227"
+    },
+    {
+      "label": "Centre National de la Recherche Scientifique",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "Université Gustave Eiffel",
+      "type": "Parent",
+      "id": "https://ror.org/03x42jk29"
+    },
+    {
+      "label": "UniLaSalle",
+      "type": "Parent",
+      "id": "https://ror.org/05wy89733"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.85,
+      "lng": 2.6,
+      "state": null,
+      "state_code": null,
+      "city": "Champs-sur-Marne",
+      "geonames_city": {
+        "id": 3027014,
+        "city": "Champs-sur-Marne",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://esycom.cnrs.fr"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "ESYCOM"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q51781238"
+      ],
+      "preferred": "Q51781238"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "https://ror.org/04p5ggc03",
+  "name": "Max Delbrück Center",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1992,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Helmholtz Association of German Research Centres",
+      "type": "Parent",
+      "id": "https://ror.org/0281dp749"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 52.52437,
+      "lng": 13.41053,
+      "state": null,
+      "state_code": null,
+      "city": "Berlin",
+      "geonames_city": {
+        "id": 2950159,
+        "city": "Berlin",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.mdc-berlin.de/"
+  ],
+  "aliases": [
+    "Max Delbrück Center for Molecular Medicine",
+    "Max Delbrück Center for Molecular Medicine in the Helmholtz Association"
+  ],
+  "acronyms": [
+    "MDC"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Delbr%C3%BCck_Center_for_Molecular_Medicine_in_the_Helmholtz_Association",
+  "labels": [
+    {
+      "label": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
+      "iso639": "de"
+    }
+  ],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.419491.0",
+      "preferred": "grid.419491.0"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 1014 0849"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q1912019"
+      ],
+      "preferred": null
+    }
+  }
+}

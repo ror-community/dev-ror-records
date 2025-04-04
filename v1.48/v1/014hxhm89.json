@@ -1,0 +1,87 @@
+{
+  "id": "https://ror.org/014hxhm89",
+  "name": "Institut universitaire du cancer de Toulouse Oncopole",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Healthcare"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 43.60426,
+      "lng": 1.44367,
+      "state": null,
+      "state_code": null,
+      "city": "Toulouse",
+      "geonames_city": {
+        "id": 2972315,
+        "city": "Toulouse",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.iuct-oncopole.fr/en"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "IUCT"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "University Cancer Institute Toulouse Oncopole",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "501100019164"
+      ],
+      "preferred": "501100019164"
+    },
+    "GRID": {
+      "all": "grid.488470.7",
+      "preferred": "grid.488470.7"
+    }
+  }
+}

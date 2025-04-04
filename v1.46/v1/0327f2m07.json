@@ -1,0 +1,167 @@
+{
+  "id": "https://ror.org/0327f2m07",
+  "name": "Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1999,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Centro di Ricerca per la Patologia Vegetale",
+      "type": "Child",
+      "id": "https://ror.org/029p62z73"
+    },
+    {
+      "label": "Centro di Ricerca per l’Orticoltura",
+      "type": "Child",
+      "id": "https://ror.org/00z6kst31"
+    },
+    {
+      "label": "Cereal Research Centre",
+      "type": "Child",
+      "id": "https://ror.org/007bjx395"
+    },
+    {
+      "label": "Food Technology Research Unit",
+      "type": "Child",
+      "id": "https://ror.org/04athv462"
+    },
+    {
+      "label": "Foraggere e Lattiero Casearie",
+      "type": "Child",
+      "id": "https://ror.org/03wp9yy58"
+    },
+    {
+      "label": "Forest and Range Management Research Institute",
+      "type": "Child",
+      "id": "https://ror.org/02a2fqx66"
+    },
+    {
+      "label": "Forestry Research Centre",
+      "type": "Child",
+      "id": "https://ror.org/02a2x5r26"
+    },
+    {
+      "label": "Honey bee and Silkworm Research Unit",
+      "type": "Child",
+      "id": "https://ror.org/045380x72"
+    },
+    {
+      "label": "Istituto Sperimentale Agronomico",
+      "type": "Child",
+      "id": "https://ror.org/05dsxr353"
+    },
+    {
+      "label": "Istituto Sperimentale per la Frutticoltura",
+      "type": "Child",
+      "id": "https://ror.org/02hb07017"
+    },
+    {
+      "label": "Istituto Sperimentale per la Zoologia Agraria",
+      "type": "Child",
+      "id": "https://ror.org/04hmvwa12"
+    },
+    {
+      "label": "Istituto Sperimentale per la Zootecnia",
+      "type": "Child",
+      "id": "https://ror.org/01k1y4586"
+    },
+    {
+      "label": "Research Centre for Cereal and Industrial Crops",
+      "type": "Child",
+      "id": "https://ror.org/05sn5d694"
+    },
+    {
+      "label": "Research Centre for Olive Growing and Olive Oil Industry",
+      "type": "Child",
+      "id": "https://ror.org/05f8dke04"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 41.89193,
+      "lng": 12.51133,
+      "state": null,
+      "state_code": null,
+      "city": "Rome",
+      "geonames_city": {
+        "id": 3169070,
+        "city": "Rome",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.crea.gov.it"
+  ],
+  "aliases": [
+    "Agricultural Research Council of Italy",
+    "Italian Agricultural Research Council"
+  ],
+  "acronyms": [
+    "CREA"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Council for Agricultural Research and Economics",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Italy",
+    "country_code": "IT"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.423616.4",
+      "preferred": "grid.423616.4"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2293 6756"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q21486123"
+      ],
+      "preferred": "Q21486123"
+    }
+  }
+}

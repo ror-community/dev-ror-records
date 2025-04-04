@@ -1,0 +1,106 @@
+{
+  "id": "https://ror.org/01c0q4919",
+  "name": "Ministerio de Educación",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1946,
+  "types": [
+    "Government"
+  ],
+  "relationships": [
+    {
+      "label": "Ministerio de Trabajo, Empleo y Seguridad Social de la Nación",
+      "type": "Related",
+      "id": "https://ror.org/05051wa40"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": -34.61315,
+      "lng": -58.37723,
+      "state": null,
+      "state_code": null,
+      "city": "Buenos Aires",
+      "geonames_city": {
+        "id": 3435910,
+        "city": "Buenos Aires",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.argentina.gob.ar/educacion"
+  ],
+  "aliases": [
+    "Ministerio de Educación de la República Argentina",
+    "Ministerio de Educación y Deportes"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Ministerio de Educación y Deportes de la Nación Argentina",
+      "iso639": "es"
+    }
+  ],
+  "country": {
+    "country_name": "Argentina",
+    "country_code": "AR"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "501100006667"
+      ],
+      "preferred": null
+    },
+    "GRID": {
+      "all": "grid.467897.3",
+      "preferred": "grid.467897.3"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 0728 1288"
+      ],
+      "preferred": "0000 0001 0728 1288"
+    },
+    "Wikidata": {
+      "all": [
+        "Q6017262"
+      ],
+      "preferred": "Q6017262"
+    }
+  }
+}

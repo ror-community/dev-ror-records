@@ -1,0 +1,135 @@
+{
+  "id": "https://ror.org/03d4ecn10",
+  "name": "Naval Surface Warfare Center",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2004,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Naval Sea Systems Command",
+      "type": "Parent",
+      "id": "https://ror.org/03dm1p143"
+    },
+    {
+      "label": "NSWC Carderock Division",
+      "type": "Child",
+      "id": "https://ror.org/03jsbvj12"
+    },
+    {
+      "label": "NSWC Corona Division",
+      "type": "Child",
+      "id": "https://ror.org/04q54n515"
+    },
+    {
+      "label": "NSWC Crane Division",
+      "type": "Child",
+      "id": "https://ror.org/04mfmy854"
+    },
+    {
+      "label": "NSWC Dahlgren Division",
+      "type": "Child",
+      "id": "https://ror.org/04yrq0159"
+    },
+    {
+      "label": "NSWC Indian Head",
+      "type": "Child",
+      "id": "https://ror.org/012ba0982"
+    },
+    {
+      "label": "NSWC Panama City Division",
+      "type": "Child",
+      "id": "https://ror.org/03tbm7598"
+    },
+    {
+      "label": "NSWC Philadelphia Division",
+      "type": "Child",
+      "id": "https://ror.org/0502xk698"
+    },
+    {
+      "label": "NSWC Port Hueneme Division",
+      "type": "Child",
+      "id": "https://ror.org/00sxf8635"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 38.89511,
+      "lng": -77.03637,
+      "state": null,
+      "state_code": null,
+      "city": "Washington",
+      "geonames_city": {
+        "id": 4140963,
+        "city": "Washington",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.navsea.navy.mil/Home/Warfare-Centers/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "NSWC"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Naval_Surface_Warfare_Center",
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.474428.9",
+      "preferred": "grid.474428.9"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2176 6943"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q6981958",
+        "Q5038292"
+      ],
+      "preferred": "Q6981958"
+    }
+  }
+}

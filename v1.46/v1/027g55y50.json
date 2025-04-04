@@ -1,0 +1,80 @@
+{
+  "id": "https://ror.org/027g55y50",
+  "name": "Yunnan Engineering Research Center of Green Planting and Processing of Gastrodia Elata",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Zhaotong University",
+      "type": "Parent",
+      "id": "https://ror.org/00264zf15"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 27.31667,
+      "lng": 103.71667,
+      "state": null,
+      "state_code": null,
+      "city": "Zhaotong",
+      "geonames_city": {
+        "id": 1784841,
+        "city": "Zhaotong",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://nxy.ztu.edu.cn/sypt/tmlszzyjggcyjzx.htm"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "天麻绿色种植与加工工程研究中心",
+      "iso639": "zh"
+    }
+  ],
+  "country": {
+    "country_name": "China",
+    "country_code": "CN"
+  },
+  "external_ids": {}
+}

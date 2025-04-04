@@ -1,0 +1,102 @@
+{
+  "id": "https://ror.org/02spbd534",
+  "name": "Thales Alenia Space (Italy)",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Company"
+  ],
+  "relationships": [
+    {
+      "label": "TéSA",
+      "type": "Related",
+      "id": "https://ror.org/01zgcd031"
+    },
+    {
+      "label": "Alenia Aermacchi",
+      "type": "Parent",
+      "id": "https://ror.org/05mmh5r64"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 41.89193,
+      "lng": 12.51133,
+      "state": null,
+      "state_code": null,
+      "city": "Rome",
+      "geonames_city": {
+        "id": 3169070,
+        "city": "Rome",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.thalesaleniaspace.com"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thales_Alenia_Space",
+  "labels": [
+    {
+      "label": "Thales Alenia Space",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Italy",
+    "country_code": "IT"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.423954.d",
+      "preferred": "grid.423954.d"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 1766 5842"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q128356"
+      ],
+      "preferred": null
+    }
+  }
+}

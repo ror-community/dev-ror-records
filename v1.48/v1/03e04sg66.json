@@ -1,0 +1,89 @@
+{
+  "id": "https://ror.org/03e04sg66",
+  "name": "Épidémiologie des maladies Animales et zoonotiques",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2017,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "VetAgro Sup",
+      "type": "Parent",
+      "id": "https://ror.org/01c7wz417"
+    },
+    {
+      "label": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "type": "Parent",
+      "id": "https://ror.org/003vg9w96"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 45.72037,
+      "lng": 3.01883,
+      "state": null,
+      "state_code": null,
+      "city": "Saint-Genès-Champanelle",
+      "geonames_city": {
+        "id": 2980029,
+        "city": "Saint-Genès-Champanelle",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www6.ara.inra.fr/epidemiologie_animale"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "UMR EPIA"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q52607266"
+      ],
+      "preferred": "Q52607266"
+    }
+  }
+}

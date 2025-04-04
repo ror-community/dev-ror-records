@@ -1,0 +1,91 @@
+{
+  "id": "https://ror.org/000n0fx93",
+  "name": "Signalisation Fonctionnelle des Canaux Ioniques et Récepteurs",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Centre Pays de la Loire",
+      "type": "Parent",
+      "id": "https://ror.org/020jynt45"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 47.47156,
+      "lng": -0.55202,
+      "state": null,
+      "state_code": null,
+      "city": "Angers",
+      "geonames_city": {
+        "id": 3037656,
+        "city": "Angers",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://sifcir.angers-nantes.hub.inrae.fr"
+  ],
+  "aliases": [
+    "Laboratory Receptors and Membrane Ion Channels",
+    "Signalisation Fonctionnelle des Canaux Ioniques & Récepteurs"
+  ],
+  "acronyms": [
+    "RCIM"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.464019.e",
+      "preferred": "grid.464019.e"
+    },
+    "Wikidata": {
+      "all": [
+        "Q30262385"
+      ],
+      "preferred": null
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "https://ror.org/00j5kgp20",
+  "name": "Faculty of Mechanical Engineering and Naval Architecture in Zagreb",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "University of Zagreb",
+      "type": "Parent",
+      "id": "https://ror.org/00mv6sv71"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 45.81444,
+      "lng": 15.97798,
+      "state": null,
+      "state_code": null,
+      "city": "Zagreb",
+      "geonames_city": {
+        "id": 3186886,
+        "city": "Zagreb",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.fsb.unizg.hr"
+  ],
+  "aliases": [
+    "FSB Zagreb"
+  ],
+  "acronyms": [
+    "FAMENA",
+    "FSB"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Fakultet strojarstva i brodogradnje",
+      "iso639": "hr"
+    }
+  ],
+  "country": {
+    "country_name": "Croatia",
+    "country_code": "HR"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "all": [
+        "Q12630898"
+      ],
+      "preferred": "Q12630898"
+    }
+  }
+}

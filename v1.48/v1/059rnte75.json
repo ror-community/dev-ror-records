@@ -1,0 +1,89 @@
+{
+  "id": "https://ror.org/059rnte75",
+  "name": "Westminster University",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1875,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 40.76078,
+      "lng": -111.89105,
+      "state": null,
+      "state_code": null,
+      "city": "Salt Lake City",
+      "geonames_city": {
+        "id": 5780993,
+        "city": "Salt Lake City",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://westminsteru.edu"
+  ],
+  "aliases": [
+    "Salt Lake Collegiate Institute",
+    "Westminster College - Utah"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Westminster_College_(Utah)",
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.422650.7",
+      "preferred": "grid.422650.7"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0460 7360"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q11288507"
+      ],
+      "preferred": null
+    }
+  }
+}

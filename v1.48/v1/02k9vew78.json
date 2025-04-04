@@ -1,0 +1,103 @@
+{
+  "id": "https://ror.org/02k9vew78",
+  "name": "Université Nice Sophia Antipolis",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "Université Côte d'Azur",
+      "type": "Successor",
+      "id": "https://ror.org/019tgvf94"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 43.70313,
+      "lng": 7.26608,
+      "state": null,
+      "state_code": null,
+      "city": "Nice",
+      "geonames_city": {
+        "id": 2990440,
+        "city": "Nice",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://unice.fr/"
+  ],
+  "aliases": [],
+  "acronyms": [],
+  "status": "inactive",
+  "wikipedia_url": "http://en.wikipedia.org/wiki/University_of_Nice_Sophia_Antipolis",
+  "labels": [
+    {
+      "label": "Nice Sophia Antipolis University",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "501100008935"
+      ],
+      "preferred": "501100008935"
+    },
+    "GRID": {
+      "all": "grid.10737.32",
+      "preferred": "grid.10737.32"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0001 2337 2892"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q1198571"
+      ],
+      "preferred": null
+    }
+  }
+}

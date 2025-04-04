@@ -1,0 +1,94 @@
+{
+  "id": "https://ror.org/00sxj6k90",
+  "name": "TRANSFORM",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2004,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "type": "Parent",
+      "id": "https://ror.org/003vg9w96"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 47.21725,
+      "lng": -1.55336,
+      "state": null,
+      "state_code": null,
+      "city": "Nantes",
+      "geonames_city": {
+        "id": 2990969,
+        "city": "Nantes",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.inrae.fr/actualites?inrae_prod%5bsortBy%5d=inrae_prod_created_date_desc&inrae_prod%5brefinementList%5d%5bname_department%5d%5b0%5d=TRANSFORM"
+  ],
+  "aliases": [
+    "Département Caractérisation et Élaboration des Produits Issus de l’Agriculture"
+  ],
+  "acronyms": [],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "501100002944"
+      ],
+      "preferred": null
+    },
+    "GRID": {
+      "all": "grid.457961.8",
+      "preferred": "grid.457961.8"
+    },
+    "Wikidata": {
+      "all": [
+        "Q30259281"
+      ],
+      "preferred": null
+    }
+  }
+}

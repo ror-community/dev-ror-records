@@ -1,0 +1,105 @@
+{
+  "id": "https://ror.org/01wep6g48",
+  "name": "Institut National de Recherche en Sciences et Technologies pour l'Environnement et l'Agriculture",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "type": "Successor",
+      "id": "https://ror.org/003vg9w96"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.75329,
+      "lng": 2.29668,
+      "state": null,
+      "state_code": null,
+      "city": "Antony",
+      "geonames_city": {
+        "id": 3037423,
+        "city": "Antony",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.irstea.fr/en"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "IRSTEA"
+  ],
+  "status": "inactive",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Institut_national_de_recherche_en_sciences_et_technologies_pour_l%27environnement_et_l%27agriculture",
+  "labels": [
+    {
+      "label": "National Research Institute of Science and Technology for Environment and Agriculture",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "FundRef": {
+      "all": [
+        "501100007524"
+      ],
+      "preferred": null
+    },
+    "GRID": {
+      "all": "grid.48142.3b",
+      "preferred": "grid.48142.3b"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 1792 1930"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q3152425"
+      ],
+      "preferred": null
+    }
+  }
+}

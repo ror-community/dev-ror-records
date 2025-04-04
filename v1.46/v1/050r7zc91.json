@@ -1,0 +1,93 @@
+{
+  "id": "https://ror.org/050r7zc91",
+  "name": "Institut Polytechnique des Sciences Avancées",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1961,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "TéSA",
+      "type": "Related",
+      "id": "https://ror.org/01zgcd031"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.81568,
+      "lng": 2.38487,
+      "state": null,
+      "state_code": null,
+      "city": "Ivry-sur-Seine",
+      "geonames_city": {
+        "id": 3012621,
+        "city": "Ivry-sur-Seine",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://www.ipsa.fr/engineering-school/aeronautical-space"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "IPSA"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Institut_Polytechnique_des_Sciences_Avanc%C3%A9es",
+  "labels": [
+    {
+      "label": "Ecole d'Ingénieurs Aéronautique et Spatiale",
+      "iso639": "fr"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.466436.5",
+      "preferred": "grid.466436.5"
+    },
+    "Wikidata": {
+      "all": [
+        "Q183213"
+      ],
+      "preferred": null
+    }
+  }
+}

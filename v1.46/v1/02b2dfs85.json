@@ -1,0 +1,103 @@
+{
+  "id": "https://ror.org/02b2dfs85",
+  "name": "Ho Chi Minh City University of Industry and Trade",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1982,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 10.82302,
+      "lng": 106.62965,
+      "state": null,
+      "state_code": null,
+      "city": "Ho Chi Minh City",
+      "geonames_city": {
+        "id": 1566083,
+        "city": "Ho Chi Minh City",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://huit.edu.vn"
+  ],
+  "aliases": [
+    "HCMC University of Industry and Trade",
+    "Ho Chi Minh City College of Food Industry",
+    "Ho Chi Minh City Food Industry High School",
+    "Ho Chi Minh City University of Food Industry",
+    "Trường Cao đẳng Công nghiệp Thực phẩm TP. Hồ Chí Minh",
+    "Trường Cán bộ Kinh tế Kỹ thuật Công nghiệp Thực phẩm TP. Hồ Chí Minh",
+    "Trường Trung học Công nghiệp Thực phẩm TP. Hồ Chí Minh",
+    "Trường Đại học Công Thương TP. HCM"
+  ],
+  "acronyms": [
+    "HUFI",
+    "HUIT"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Trường Đại học Công Thương TP. Hồ Chí Minh",
+      "iso639": "vi"
+    }
+  ],
+  "country": {
+    "country_name": "Vietnam",
+    "country_code": "VN"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.491482.2",
+      "preferred": "grid.491482.2"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 6041 6067"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q50038190"
+      ],
+      "preferred": "Q50038190"
+    }
+  }
+}

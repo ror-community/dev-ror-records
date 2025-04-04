@@ -1,0 +1,108 @@
+{
+  "id": "https://ror.org/0026vdt21",
+  "name": "Biologie et Génétique des Interactions Plante-Parasite",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": null,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Centre de Coopération Internationale en Recherche Agronomique pour le Développement",
+      "type": "Parent",
+      "id": "https://ror.org/05kpkpg04"
+    },
+    {
+      "label": "Institut Agro Montpelier",
+      "type": "Parent",
+      "id": "https://ror.org/03rnk6m14"
+    },
+    {
+      "label": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "type": "Parent",
+      "id": "https://ror.org/003vg9w96"
+    },
+    {
+      "label": "Plant Health Institute de Montpellier",
+      "type": "Successor",
+      "id": "https://ror.org/05y5s3h28"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 43.61093,
+      "lng": 3.87635,
+      "state": null,
+      "state_code": null,
+      "city": "Montpellier",
+      "geonames_city": {
+        "id": 2992166,
+        "city": "Montpellier",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "http://umr-bgpi.cirad.fr/index-uk.htm"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "BGPI"
+  ],
+  "status": "inactive",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Biology and Genetics of Plant-Pathogen Interactions",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.465538.9",
+      "preferred": "grid.465538.9"
+    },
+    "Wikidata": {
+      "all": [
+        "Q30263345"
+      ],
+      "preferred": null
+    }
+  }
+}

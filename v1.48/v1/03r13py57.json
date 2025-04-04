@@ -1,0 +1,99 @@
+{
+  "id": "https://ror.org/03r13py57",
+  "name": "UniLaSalle Amiens (ESIEE-Amiens)",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1992,
+  "types": [
+    "Education"
+  ],
+  "relationships": [
+    {
+      "label": "UniLaSalle",
+      "type": "Successor",
+      "id": "https://ror.org/05wy89733"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 49.9,
+      "lng": 2.3,
+      "state": null,
+      "state_code": null,
+      "city": "Amiens",
+      "geonames_city": {
+        "id": 3037854,
+        "city": "Amiens",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.unilasalle-amiens.fr"
+  ],
+  "aliases": [
+    "ESIEE Amiens",
+    "ESIEE-Amiens",
+    "UniLaSalle Amiens",
+    "École Supérieure d'Ingénieurs en Électrotechnique et Électronique Amiens"
+  ],
+  "acronyms": [
+    "ESIEE"
+  ],
+  "status": "inactive",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/ESIEE_Amiens",
+  "labels": [],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.466408.8",
+      "preferred": "grid.466408.8"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0640 4890"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q3046116"
+      ],
+      "preferred": null
+    }
+  }
+}

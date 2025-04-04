@@ -1,0 +1,110 @@
+{
+  "id": "https://ror.org/00zmnkx60",
+  "name": "Instituto de investigación sanitaria y biomédica de Alicante",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2019,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Hospital General Universitario de Alicante Doctor Balmis",
+      "type": "Parent",
+      "id": "https://ror.org/02ybsz607"
+    },
+    {
+      "label": "University of Alicante",
+      "type": "Parent",
+      "id": "https://ror.org/05t8bcz72"
+    },
+    {
+      "label": "Universitat de Miguel Hernández d'Elx",
+      "type": "Parent",
+      "id": "https://ror.org/01azzms13"
+    },
+    {
+      "label": "Conselleria de Sanitat Universal i Salut Pública",
+      "type": "Parent",
+      "id": "https://ror.org/00pdx2849"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 38.34517,
+      "lng": -0.48149,
+      "state": null,
+      "state_code": null,
+      "city": "Alicante",
+      "geonames_city": {
+        "id": 2521978,
+        "city": "Alicante",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://isabial.es"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "ISABIAL"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Alicante Institute for Health and Biomedical Research",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "Spain",
+    "country_code": "ES"
+  },
+  "external_ids": {
+    "ISNI": {
+      "all": [
+        "0000 0004 8516 8274"
+      ],
+      "preferred": "0000 0004 8516 8274"
+    },
+    "Wikidata": {
+      "all": [
+        "Q114567420"
+      ],
+      "preferred": "Q114567420"
+    }
+  }
+}

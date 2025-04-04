@@ -1,0 +1,98 @@
+{
+  "id": "https://ror.org/05gscwg02",
+  "name": "Laboratoire Souterrain à Bas Bruit",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2010,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Centre National de la Recherche Scientifique",
+      "type": "Parent",
+      "id": "https://ror.org/02feahw73"
+    },
+    {
+      "label": "Université d'Avignon et des Pays de Vaucluse",
+      "type": "Parent",
+      "id": "https://ror.org/00mfpxb84"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.83545,
+      "lng": 2.24128,
+      "state": null,
+      "state_code": null,
+      "city": "Boulogne-Billancourt",
+      "geonames_city": {
+        "id": 3031137,
+        "city": "Boulogne-Billancourt",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://lsbb.cnrs.fr/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "LSBB"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Low Noise Inter-Disciplinary Underground Science & Technology",
+      "iso639": "en"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.510540.5",
+      "preferred": "grid.510540.5"
+    },
+    "Wikidata": {
+      "all": [
+        "Q51783995"
+      ],
+      "preferred": null
+    }
+  }
+}

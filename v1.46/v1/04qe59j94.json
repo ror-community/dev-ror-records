@@ -1,0 +1,109 @@
+{
+  "id": "https://ror.org/04qe59j94",
+  "name": "Mondor Institute of Biomedical Research",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2015,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Inserm",
+      "type": "Parent",
+      "id": "https://ror.org/02vjkv261"
+    },
+    {
+      "label": "Université Paris-Est Créteil",
+      "type": "Parent",
+      "id": "https://ror.org/05ggc9x40"
+    },
+    {
+      "label": "École Nationale Vétérinaire d'Alfort",
+      "type": "Parent",
+      "id": "https://ror.org/04k031t90"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 48.79266,
+      "lng": 2.46569,
+      "state": null,
+      "state_code": null,
+      "city": "Créteil",
+      "geonames_city": {
+        "id": 3022530,
+        "city": "Créteil",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://imrb.inserm.fr"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "IMRB"
+  ],
+  "status": "active",
+  "wikipedia_url": null,
+  "labels": [
+    {
+      "label": "Institut Mondor de Recherche Biomédicale",
+      "iso639": "fr"
+    }
+  ],
+  "country": {
+    "country_name": "France",
+    "country_code": "FR"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.462410.5",
+      "preferred": "grid.462410.5"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0386 3258"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q30261452"
+      ],
+      "preferred": "Q30261452"
+    }
+  }
+}

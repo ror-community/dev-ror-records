@@ -1,0 +1,90 @@
+{
+  "id": "https://ror.org/02tdf3n85",
+  "name": "Dordt University",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1955,
+  "types": [
+    "Education"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 43.07971,
+      "lng": -96.17558,
+      "state": null,
+      "state_code": null,
+      "city": "Sioux Center",
+      "geonames_city": {
+        "id": 4876510,
+        "city": "Sioux Center",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.dordt.edu/"
+  ],
+  "aliases": [
+    "Dordt College"
+  ],
+  "acronyms": [
+    "DC"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dordt_College",
+  "labels": [],
+  "country": {
+    "country_name": "United States",
+    "country_code": "US"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.420675.2",
+      "preferred": "grid.420675.2"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0000 9134 3498"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q3112939"
+      ],
+      "preferred": null
+    }
+  }
+}

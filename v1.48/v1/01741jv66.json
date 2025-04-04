@@ -1,0 +1,88 @@
+{
+  "id": "https://ror.org/01741jv66",
+  "name": "Institute of Physics, Bhubaneshwar",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1972,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [],
+  "addresses": [
+    {
+      "lat": 20.27241,
+      "lng": 85.83385,
+      "state": null,
+      "state_code": null,
+      "city": "Bhubaneswar",
+      "geonames_city": {
+        "id": 1275817,
+        "city": "Bhubaneswar",
+        "geonames_admin1": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "geonames_admin2": {
+          "ascii_name": null,
+          "code": null,
+          "id": null,
+          "name": null
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level2": {
+          "code": null,
+          "name": null
+        },
+        "nuts_level3": {
+          "code": null,
+          "name": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": null
+    }
+  ],
+  "links": [
+    "https://www.iopb.res.in"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "IOP"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Institute_of_Physics,_Bhubaneswar",
+  "labels": [],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "GRID": {
+      "all": "grid.418915.0",
+      "preferred": "grid.418915.0"
+    },
+    "ISNI": {
+      "all": [
+        "0000 0004 0504 1311"
+      ],
+      "preferred": null
+    },
+    "Wikidata": {
+      "all": [
+        "Q15228723"
+      ],
+      "preferred": null
+    }
+  }
+}
