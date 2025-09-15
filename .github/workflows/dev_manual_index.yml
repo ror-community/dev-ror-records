@@ -123,7 +123,7 @@ jobs:
         run: |
           cd .github/workflows
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests==2.23.0
           if [[ ${{ github.event.inputs.schema-version }} == 'v1' ]]; then
             python index_files.py -u ${{ secrets.INDEX_DEV_API_URL_V1 }} -d ${{ github.event.inputs.directory-name }}-v1 -he ${{ secrets.INDEX_DEV_API_HEADERS }}
           fi
