@@ -36,7 +36,7 @@ jobs:
         working-directory: ${{ env.WORKING_DIR }}
         run: |
           python -m pip install --upgrade pip
-          pip install requests==2.23.0
+          pip install requests
 <<<<<<< HEAD
           curl https://raw.githubusercontent.com/ror-community/curation_ops/main/remove_relationships/remove_relationships.py -o remove_relationships.py
 =======
