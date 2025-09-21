@@ -48,7 +48,7 @@ jobs:
         run: |
           echo ${{ github.event.inputs.schema-version}}
           mkdir files
-          cp ./${{ env.WORKING_DIR }}/*/*.json files/
+          cp ./${{ env.WORKING_DIR }}/*.json files/
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
