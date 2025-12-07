@@ -2,13 +2,6 @@ name: Create data dump
 on:
   workflow_dispatch:
     inputs:
-      schema-version:
-            required: true
-            description: Release schema version
-            type: choice
-            options:
-            - v1
-            - v2
       new-release:
         type: string
         description: Name of the directory that the new release is located in
@@ -42,6 +35,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: ror-community/curation_ops
+          ref: 20251207-v2-only-generate-dump  # TEMPORARY: remove after merging to main
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           path: ./curation_ops
       - name: Set up Python environment
@@ -52,12 +46,7 @@ jobs:
         id: gendumpscript
         run: |
           cd ./curation_ops/generate_dump/
-          if [[ ${{ github.event.inputs.schema-version }} == 'v1' ]]; then
-            python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}} -i '../../ror-records-test' -o '../../ror-records-test' -v 1
-          fi
-          if [[ ${{ github.event.inputs.schema-version }} == 'v2' ]]; then
-            python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}} -i '../../ror-records-test' -o '../../ror-records-test' -v 2
-          fi
+          python generate_dump.py -r ${{github.event.inputs.new-release}} -e ${{github.event.inputs.prev-release}} -i '../../ror-records-test' -o '../../ror-records-test'
       - name: cat error file
         if: ${{ steps.gendumpscript.outcome != 'success'}}
         run: |
@@ -77,16 +66,6 @@ jobs:
           git add *.zip
           git commit -m "add new data dump file"
           git push origin main
-      - name: commit changed files
-        if: ${{ steps.commitdumpfile.outcome == 'success'}}
-        run: |
-          pwd
-          cd ./ror-records-test
-          git config --local user.email "ror-bot@ror.org"
-          git config --local user.name "ror-bot"
-          git add ${{github.event.inputs.new-release}}/v1/
-          git commit -m "add generated v1 files"
-          git push origin main
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -95,4 +74,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'DEV Data dump ${{github.event.inputs.new-release}} generation status:  ${{ steps.commitdumpfile.outcome }}. Using base version ${{ github.event.inputs.schema-version }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'DEV Data dump ${{github.event.inputs.new-release}} generation status: ${{ steps.commitdumpfile.outcome }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
