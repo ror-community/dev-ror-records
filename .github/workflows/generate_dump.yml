@@ -17,12 +17,12 @@ jobs:
         id: echo_message
         run: echo "Github action triggered with inputs new release ${{github.event.inputs.new-release}} and previous release ${{github.event.inputs.prev-release}}"
       - name: checkout ror records repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           path: ./ror-records-test
       - name: checkout ror data repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: ror-community/ror-data-test
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -32,16 +32,16 @@ jobs:
         run: |
           cp -R ./ror-data-test/${{github.event.inputs.prev-release}}.zip ./ror-records-test
       - name: checkout ror curation ops repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: ror-community/curation_ops
           ref: 20251207-v2-only-generate-dump  # TEMPORARY: remove after merging to main
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           path: ./curation_ops
       - name: Set up Python environment
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.8"
+          python-version: "3.11"
       - name: execute script
         id: gendumpscript
         run: |
