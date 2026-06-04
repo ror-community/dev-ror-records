@@ -67,5 +67,5 @@ jobs:
           webhook-type: incoming-webhook
           payload: |
             attachments:
-              - color: good
+              - color: ${{ steps.indexdatadump.outcome == 'success' && 'good' || (steps.indexdatadump.outcome == 'cancelled' && 'warning' || 'danger') }}
                 text: "DEV full index from dump status: ${{ steps.indexdatadump.outcome }}. From file: ${{ github.event.inputs.release-dump }}. Schema version: ${{ github.event.inputs.schema-version }}. Data env: ${{ github.event.inputs.data-env }}. Please check: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
